@@ -1,0 +1,82 @@
+Starting Speech-to-Text conversion...
+Audio file size (8.9MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 8.89 MB, duration: 1553.4 seconds
+Splitting into 2 chunks (each ~776.7 seconds, max 5 MB)...
+Successfully split into 2 chunks
+Audio file split into 2 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-01-40-21.mp3, file size: 8.89 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 2 chunks...
+
+Transcribing chunk 1/2: mp3/.ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-01-40-21_chunks_20260705_194358/chunk_000.mp3
+Chunk 1 completed (duration: 776.6s)
+
+Transcribing chunk 2/2: mp3/.ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-01-40-21_chunks_20260705_194358/chunk_001.mp3
+Chunk 2 completed (duration: 776.4s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 1553.0 seconds
+Language: eng
+Total Chunks: 2
+Timestamped segments:
+[16:37.9 - 16:41.1] It's pissing me the fuck off.
+[16:41.1 - 17:54.5] Okay.
+[17:54.5 - 17:59.7] That.
+[17:59.7 - 19:23.4] Holy
+[19:23.4 - 19:24.2] fuck!
+[19:24.2 - 19:29.7] Fuck a chick.
+[19:29.7 - 19:39.8] See you to fuck
+[19:39.8 - 19:43.3] off.
+[19:43.3 - 20:02.6] No
+[20:02.6 - 20:03.1] worries.
+[20:03.1 - 20:11.5] Parrot?
+[20:11.5 - 20:42.6] Hi,
+[20:42.6 - 20:43.0] baby.
+[20:43.0 - 20:46.1] Hi.
+[20:46.1 - 21:43.4] Ready
+[21:43.4 - 21:50.9] for bed?
+[21:50.9 - 21:52.9] I know.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-01-40-21_transcription_20260705_194407.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-01-40-21_transcription_20260705_194407.txt
+[2J[H[3Jmanus-speech-to-text "mp3/ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-01-40-21.mp3"
+Starting Speech-to-Text conversion...
+Audio file size (8.9MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 8.89 MB, duration: 1553.4 seconds
+Splitting into 2 chunks (each ~776.7 seconds, max 5 MB)...
+Successfully split into 2 chunks
+Audio file split into 2 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-01-40-21.mp3, file size: 8.89 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 2 chunks...
+Transcribing chunk 1/2: mp3/.ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-01-40-21_chunks_20260705_194358/chunk_000.mp3
+Chunk 1 completed (duration: 776.6s)
+Transcribing chunk 2/2: mp3/.ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-01-40-21_chunks_20260705_194358/chunk_001.mp3
+Chunk 2 completed (duration: 776.4s)
+
+Snippet of transcribed content:
+[16:37.9 - 16:41.1] It's pissing me the fuck off.
+[16:41.1 - 17:54.5] Okay.
+[17:54.5 - 17:59.7] That.
+[17:59.7 - 19:23.4] Holy
+[19:23.4 - 19:24.2] fuck!
+[19:24.2 - 19:29.7] Fuck a chick.
+[19:29.7 - 19:39.8] See you to fuck
+[19:39.8 - 19:43.3] off.
+[19:43.3 - 20:02.6] No
+[20:02.6 - 20:03.1] worries.
+[20:03.1 - 20:11.5] Parrot?
+[20:11.5 - 20:42.6] Hi,
+[20:42.6 - 20:43.0] baby.
+[20:43.0 - 20:46.1] Hi.
+[20:46.1 - 21:43.4] Ready
+[21:43.4 - 21:50.9] for bed?
+[21:50.9 - 21:52.9] I know.
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-01-40-21_transcription_20260705_194407.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-01-40-21_transcription_20260705_194407.txt

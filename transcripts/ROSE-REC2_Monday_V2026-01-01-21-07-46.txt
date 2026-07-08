@@ -1,0 +1,350 @@
+Starting Speech-to-Text conversion...
+Audio file size (11.5MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 11.50 MB, duration: 2009.7 seconds
+Splitting into 3 chunks (each ~669.9 seconds, max 5 MB)...
+Successfully split into 3 chunks
+Audio file split into 3 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_Monday_V2026-01-01-21-07-46.mp3, file size: 11.50 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 3 chunks...
+
+Transcribing chunk 1/3: mp3/.ROSE-REC2_Monday_V2026-01-01-21-07-46_chunks_20260705_192613/chunk_000.mp3
+Chunk 1 completed (duration: 669.9s)
+
+Transcribing chunk 2/3: mp3/.ROSE-REC2_Monday_V2026-01-01-21-07-46_chunks_20260705_192613/chunk_001.mp3
+Chunk 2 completed (duration: 669.9s)
+
+Transcribing chunk 3/3: mp3/.ROSE-REC2_Monday_V2026-01-01-21-07-46_chunks_20260705_192613/chunk_002.mp3
+Chunk 3 completed (duration: 669.6s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 2009.3 seconds
+Language: eng
+Total Chunks: 3
+Timestamped segments:
+[00:06.1 - 00:19.6] What up?
+[00:19.6 - 04:16.6] Did
+[04:16.6 - 04:16.9] you find it?
+[04:16.9 - 05:15.4] It's probably in this house or fell out somewhere.
+[11:09.9 - 11:11.4] The flight info all the time.
+[11:11.4 - 11:11.7] Okay.
+[11:11.7 - 11:13.3] So it's in your email.
+[11:13.3 - 11:13.7] Okay.
+[11:13.7 - 11:14.6] Just FYI.
+[11:14.6 - 11:15.9] I can do whatever, you know.
+[11:15.9 - 11:16.0] All right.
+[11:16.0 - 11:19.0] If you let me know you prefer something else too, I can do that.
+[11:19.0 - 11:20.2] All right.
+[11:20.2 - 13:06.4] Fuck.
+[13:06.4 - 13:10.1] Brandon.
+[13:10.1 - 13:10.4] Coming.
+[13:10.4 - 13:11.5] Coming.
+[13:11.5 - 13:25.9] See
+[13:25.9 - 13:29.3] all these people in here that owe me money for an eviction?
+[13:29.3 - 13:30.1] Yes.
+[13:30.1 - 13:31.7] And they didn't put in the amount owed.
+[13:31.7 - 13:37.0] You need to send them an email saying, "Put in the amount owed or the eviction goes forward." Okay.
+[13:37.0 - 14:10.1] I'll,
+[14:10.1 - 14:12.7] I'll, I'll make sure it gets in.
+[14:12.7 - 14:13.7] Right.
+[14:13.7 - 16:34.3] Half
+[16:34.3 - 16:34.7] a day.
+[16:34.7 - 16:35.6] Yeah.
+[16:35.6 - 18:49.5] Are
+[18:49.5 - 18:49.9] you on the phone?
+[18:49.9 - 18:53.7] Uh, you know what, um, Heather's extension is?
+[18:53.7 - 18:56.4] Uh, yeah, I can get it for you.
+[18:56.4 - 19:06.7] Go into my contacts
+[19:06.7 - 19:08.2] right here.
+[19:08.2 - 19:10.4] Open contacts.
+[19:10.4 - 19:12.4] What is it?
+[19:12.4 - 19:14.3] Um, I'm looking.
+[19:14.3 - 19:20.3] Uh, two...
+[19:20.3 - 19:24.1] Heather, Heather Meyer or Heather Hine?
+[19:24.1 - 19:25.1] No.
+[19:25.1 - 19:26.9] H-H-H-Heather...
+[19:26.9 - 19:28.2] Grace?
+[19:28.2 - 19:29.1] No.
+[19:29.1 - 19:29.9] Oh, okay.
+[19:29.9 - 19:32.2] Oh, Heather Snyder.
+[19:32.2 - 19:32.7] Yeah.
+[19:32.7 - 19:34.0] Uh, 252.
+[19:34.0 - 20:06.0] Yeah,
+[20:06.0 - 20:06.6] it's 6:00.
+[20:06.6 - 20:07.3] She's probably not there.
+[20:07.3 - 20:09.0] Or 6:00 here.
+[20:09.0 - 20:10.8] It's probably, what, 8:00 there?
+[20:10.8 - 20:14.1] Thank you for calling River Garden.
+[20:14.1 - 20:16.5] No one is available to take your call.
+[20:16.5 - 20:21.0] Please leave a message with your name and phone number, and someone will get back to you shortly.
+[20:21.0 - 20:23.1] Thank you again for calling.
+[20:23.1 - 20:26.2] Please leave a message after the tone.
+[20:26.2 - 20:35.7] Heather, you show you showed Shalena Castle a four-bedroom unit.
+[20:35.7 - 20:38.8] Why don't you just offer a free upgrade to the five-bedroom unit?
+[20:38.8 - 20:40.8] Call me back.
+[20:40.8 - 20:42.5] You want her cell phone?
+[20:42.5 - 20:44.8] No, go ahead and call her on your phone.
+[20:44.8 - 20:45.5] It's in her cell phone.
+[20:45.5 - 20:46.1] I'll talk to her.
+[20:46.1 - 20:52.2] I sent an email draft of the evictions thing to your email so you can approve it.
+[20:52.2 - 20:53.8] Your call may be recorded.
+[20:53.8 - 20:57.3] Is this her cell phone?
+[20:57.3 - 20:59.6] An email, yes, for you to look at.
+[20:59.6 - 21:02.4] Here?
+[21:02.4 - 21:03.8] Yeah.
+[21:03.8 - 21:04.7] Mm-hmm.
+[21:04.7 - 21:05.5] Yeah.
+[21:05.5 - 21:06.6] It's a new one.
+[21:06.6 - 21:10.6] We never got it.
+[21:10.6 - 21:11.6] She didn't come from Manas.
+[21:11.6 - 21:17.2] Maybe that's her drunk or something.
+[21:17.2 - 21:23.6] Hmm.
+[21:23.6 - 21:24.8] I get it.
+[21:24.8 - 21:30.1] See where it went.
+[21:30.1 - 21:34.5] Thank you for calling River Garden.
+[21:34.5 - 21:36.8] No one is available to take your call.
+[21:36.8 - 21:42.0] Please leave a message with your name and phone number, and someone will get back to you shortly.
+[21:42.0 - 21:43.4] Thank you again for calling.
+[21:43.4 - 21:46.6] Please leave a message after the tone.
+[21:46.6 - 21:49.7] Uh, it's Mark.
+[21:49.7 - 21:50.5] Give me a call.
+[21:50.5 - 21:58.1] Um, Heather, you had a person that had a four-bedroom certificate, and we have five-bedroom units, and you said the unit was too small.
+[21:58.1 - 21:59.5] Maybe she wants a five-bedroom.
+[21:59.5 - 22:00.9] We'll give it to her free upgrade.
+[22:00.9 - 22:02.4] Let me know if that works.
+[22:02.4 - 22:10.6] Let me see what was up with that email.
+[22:10.6 - 22:19.6] So, um, no, no big update.
+[22:19.8 - 22:20.1] Okay.
+[22:20.1 - 22:23.4] He's still working on it.
+[22:23.4 - 22:23.4] He's still in Kalamazoo, so...
+[22:23.4 - 22:23.8] What happened?
+[22:23.8 - 22:27.0] Um, Matt's still in Kalamazoo with his mom in the hospital.
+[22:27.0 - 22:29.7] He's been working on it a little bit, but- What happened?
+[22:29.7 - 22:30.5] Oh, okay.
+[22:30.5 - 22:31.3] So he's still...
+[22:31.3 - 22:36.9] Oh, very difficult to pay the guy if he wants to sit there and not finish it.
+[22:36.9 - 22:37.6] Yeah.
+[22:37.6 - 22:39.0] I know.
+[22:39.0 - 22:39.3] Man.
+[22:39.3 - 22:46.0] And then, uh, tomorrow morning, I have, like, a mock physical thing with the Air Force, uh- Well, when will you be back?
+[22:46.0 - 22:48.7] Hopefully before lunch, but worst case, after lunch.
+[22:48.7 - 22:49.6] Hopefully you'll be back when?
+[22:49.6 - 22:51.5] It'll probably be after lunch.
+[22:51.5 - 22:52.2] Maybe.
+[22:52.2 - 22:52.8] Maybe right before.
+[22:52.8 - 22:53.1] I'm not sure.
+[22:53.1 - 22:55.5] It shouldn't take super long, but it's a lot.
+[22:55.5 - 22:58.1] It's a much larger group this time than last time, so...
+[22:58.1 - 22:59.4] Before lunch?
+[22:59.4 - 23:00.1] Okay, good.
+[23:00.1 - 23:00.8] All right.
+[23:00.8 - 23:01.0] All right.
+[23:01.0 - 23:04.9] See you guys.
+[23:04.9 - 23:04.9] See you.
+[23:04.9 - 23:19.4] Anyhow,
+[23:19.4 - 23:21.2] this is what it was supposed to look like.
+[23:21.2 - 23:22.4] I don't know if you ever got it.
+[23:22.4 - 23:24.5] Mm-hmm.
+[23:24.5 - 23:25.4] I'm sorry.
+[23:25.4 - 23:25.7] Say again?
+[23:25.7 - 23:27.4] This is what it looks like.
+[23:27.4 - 23:29.5] I don't know if you ever got it, but that's what the email looks like.
+[23:29.5 - 23:38.2] But you should do it one per manager.
+[23:38.2 - 23:39.3] Okay.
+[23:39.3 - 23:40.4] So you just send the manager this.
+[23:40.4 - 23:43.6] So you haven't, you haven't entered in your, um...
+[23:43.6 - 23:45.9] And then the unit number.
+[23:45.9 - 23:47.0] Okay.
+[23:47.0 - 23:49.7] So yeah, it'll say their, their- Yeah.
+[23:49.7 - 23:50.9] Do it one per manager.
+[23:50.9 - 23:51.3] Okay.
+[23:51.3 - 23:51.9] That's easy.
+[23:51.9 - 24:01.7] What time is it now?
+[24:01.7 - 24:02.5] Six oh four?
+[24:02.5 - 24:03.0] Yes.
+[24:03.0 - 24:21.1] Mark,
+[24:21.1 - 24:22.1] you still here?
+[24:22.1 - 24:22.9] Hello?
+[24:22.9 - 24:23.1] What?
+[24:23.1 - 24:25.3] I was just seeing if you're still here.
+[24:25.3 - 24:32.1] You had asked me to ask you again about this.
+[24:32.1 - 24:46.0] Would
+[24:46.0 - 24:47.1] you me ask her a favor?
+[24:47.1 - 24:49.1] Ask why this, uh, uh...
+[24:49.1 - 24:50.7] What's his name?
+[24:50.7 - 24:54.0] Um, ask Leon why this was not covered under warranty.
+[24:54.0 - 24:58.4] It was 100% uncovered under warranty.
+[24:58.4 - 24:59.5] Why am I not getting it?
+[24:59.5 - 25:04.7] Okay.
+[25:04.7 - 25:11.6] Will do.
+[25:11.6 - 25:26.0] I
+[25:26.0 - 25:26.9] wanna go home now.
+[25:26.9 - 25:30.0] Okay.
+[25:30.0 - 25:40.1] Gotta
+[25:40.1 - 25:42.2] finish that on my computer.
+[25:42.2 - 25:46.1] Let's go quickly.
+[25:46.1 - 27:43.3] Hmm?
+[27:43.3 - 27:46.6] Fuck.
+[27:46.6 - 28:41.4] Uh,
+[28:41.4 - 28:56.2] are we available to
+[28:56.2 - 29:22.0] do the whole,
+[29:22.0 - 29:30.0] uh, hour?
+[29:30.0 - 29:38.4] We're gonna do an hour or I can just do about thirty minutes.
+[29:38.4 - 29:51.9] So that's four AS rocks because that thing is
+[29:51.9 - 29:51.9] really weird.
+[29:51.9 - 29:51.9] Yeah.
+[29:51.9 - 30:28.3] What
+[30:28.3 - 30:33.2] the fuck?
+[30:33.2 - 30:57.6] Packages.
+[30:57.6 - 30:58.0] Oh, yeah.
+[30:58.0 - 30:59.9] Probably for Robert.
+[30:59.9 - 31:02.0] You can drive me back.
+[31:02.0 - 31:02.7] Yeah.
+[31:02.7 - 31:04.7] Uh, they just dropped some packages off.
+[31:04.7 - 31:06.1] What happened?
+[31:06.1 - 31:07.6] They dropped some packages off.
+[31:07.6 - 31:09.2] What packages?
+[31:09.2 - 31:12.4] Uh, Amazon, looks like.
+[31:12.4 - 31:14.6] What do you want me to do?
+[31:14.6 - 31:16.3] What is that?
+[31:16.3 - 31:18.7] Who's it for?
+[31:18.7 - 31:23.9] All right, well...
+[31:23.9 - 31:26.6] Give it to one of us, though, 'cause I'm outta here.
+[31:26.6 - 31:26.6] You can, you can put them out there.
+[31:26.6 - 31:26.6] I'll take them down there.
+[31:26.6 - 31:29.7] Go for it.
+[31:29.7 - 31:30.2] Yeah.
+[31:30.2 - 31:38.9] See you tomorrow.
+[31:38.9 - 31:40.5] Later, Matt.
+[31:40.5 - 31:55.6] Oh,
+[31:55.6 - 31:55.6] there's something here.
+[31:55.6 - 31:56.2] Oh, these are for you.
+[31:56.2 - 31:57.3] I was about to bring them down.
+[31:57.3 - 31:59.2] Can you put them on your desk?
+[31:59.2 - 32:00.9] Yeah.
+[32:00.9 - 32:04.2] No, this is not stuff for me.
+[32:04.2 - 32:08.1] It's for my daughter's desk.
+[32:08.1 - 32:12.4] For now?
+[32:12.4 - 32:13.0] Yeah.
+[32:13.0 - 32:13.6] Steve's wife.
+[32:13.6 - 32:16.2] It has my name on the- Yeah.
+[32:16.2 - 32:18.4] Though I am expecting something large.
+[32:18.4 - 32:20.4] Oh, merry Christmas.
+[32:20.4 - 32:22.2] See you tomorrow.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Monday_V2026-01-01-21-07-46_transcription_20260705_192644.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Monday_V2026-01-01-21-07-46_transcription_20260705_192644.txt
+[2J[H[3Jmanus-speech-to-text mp3/ROSE-REC2_Monday_V2026-01-01-21-07-46.mp3
+Starting Speech-to-Text conversion...
+Audio file size (11.5MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 11.50 MB, duration: 2009.7 seconds
+Splitting into 3 chunks (each ~669.9 seconds, max 5 MB)...
+Successfully split into 3 chunks
+Audio file split into 3 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_Monday_V2026-01-01-21-07-46.mp3, file size: 11.50 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 3 chunks...
+Transcribing chunk 1/3: mp3/.ROSE-REC2_Monday_V2026-01-01-21-07-46_chunks_20260705_192613/chunk_000.mp3
+Chunk 1 completed (duration: 669.9s)
+Transcribing chunk 2/3: mp3/.ROSE-REC2_Monday_V2026-01-01-21-07-46_chunks_20260705_192613/chunk_001.mp3
+Chunk 2 completed (duration: 669.9s)
+Transcribing chunk 3/3: mp3/.ROSE-REC2_Monday_V2026-01-01-21-07-46_chunks_20260705_192613/chunk_002.mp3
+Chunk 3 completed (duration: 669.6s)
+
+Snippet of transcribed content:
+[23:22.4 - 23:24.5] Mm-hmm.
+[23:24.5 - 23:25.4] I'm sorry.
+[23:25.4 - 23:25.7] Say again?
+[23:25.7 - 23:27.4] This is what it looks like.
+[23:27.4 - 23:29.5] I don't know if you ever got it, but that's what the email looks like.
+[23:29.5 - 23:38.2] But you should do it one per manager.
+[23:38.2 - 23:39.3] Okay.
+[23:39.3 - 23:40.4] So you just send the manager this.
+[23:40.4 - 23:43.6] So you haven't, you haven't entered in your, um...
+[23:43.6 - 23:45.9] And then the unit number.
+[23:45.9 - 23:47.0] Okay.
+[23:47.0 - 23:49.7] So yeah, it'll say their, their- Yeah.
+[23:49.7 - 23:50.9] Do it one per manager.
+[23:50.9 - 23:51.3] Okay.
+[23:51.3 - 23:51.9] That's easy.
+[23:51.9 - 24:01.7] What time is it now?
+[24:01.7 - 24:02.5] Six oh four?
+[24:02.5 - 24:03.0] Yes.
+[24:03.0 - 24:21.1] Mark,
+[24:21.1 - 24:22.1] you still here?
+[24:22.1 - 24:22.9] Hello?
+[24:22.9 - 24:23.1] What?
+[24:23.1 - 24:25.3] I was just seeing if you're still here.
+[24:25.3 - 24:32.1] You had asked me to ask you again about this.
+[24:32.1 - 24:46.0] Would
+[24:46.0 - 24:47.1] you me ask her a favor?
+[24:47.1 - 24:49.1] Ask why this, uh, uh...
+[24:49.1 - 24:50.7] What's his name?
+[24:50.7 - 24:54.0] Um, ask Leon why this was not covered under warranty.
+[24:54.0 - 24:58.4] It was 100% uncovered under warranty.
+[24:58.4 - 24:59.5] Why am I not getting it?
+[24:59.5 - 25:04.7] Okay.
+[25:04.7 - 25:11.6] Will do.
+[25:11.6 - 25:26.0] I
+[25:26.0 - 25:26.9] wanna go home now.
+[25:26.9 - 25:30.0] Okay.
+[25:30.0 - 25:40.1] Gotta
+[25:40.1 - 25:42.2] finish that on my computer.
+[25:42.2 - 25:46.1] Let's go quickly.
+[25:46.1 - 27:43.3] Hmm?
+[27:43.3 - 27:46.6] Fuck.
+[27:46.6 - 28:41.4] Uh,
+[28:41.4 - 28:56.2] are we available to
+[28:56.2 - 29:22.0] do the whole,
+[29:22.0 - 29:30.0] uh, hour?
+[29:30.0 - 29:38.4] We're gonna do an hour or I can just do about thirty minutes.
+[29:38.4 - 29:51.9] So that's four AS rocks because that thing is
+[29:51.9 - 29:51.9] really weird.
+[29:51.9 - 29:51.9] Yeah.
+[29:51.9 - 30:28.3] What
+[30:28.3 - 30:33.2] the fuck?
+[30:33.2 - 30:57.6] Packages.
+[30:57.6 - 30:58.0] Oh, yeah.
+[30:58.0 - 30:59.9] Probably for Robert.
+[30:59.9 - 31:02.0] You can drive me back.
+[31:02.0 - 31:02.7] Yeah.
+[31:02.7 - 31:04.7] Uh, they just dropped some packages off.
+[31:04.7 - 31:06.1] What happened?
+[31:06.1 - 31:07.6] They dropped some packages off.
+[31:07.6 - 31:09.2] What packages?
+[31:09.2 - 31:12.4] Uh, Amazon, looks like.
+[31:12.4 - 31:14.6] What do you want me to do?
+[31:14.6 - 31:16.3] What is that?
+[31:16.3 - 31:18.7] Who's it for?
+[31:18.7 - 31:23.9] All right, well...
+[31:23.9 - 31:26.6] Give it to one of us, though, 'cause I'm outta here.
+[31:26.6 - 31:26.6] You can, you can put them out there.
+[31:26.6 - 31:26.6] I'll take them down there.
+[31:26.6 - 31:29.7] Go for it.
+[31:29.7 - 31:30.2] Yeah.
+[31:30.2 - 31:38.9] See you tomorrow.
+[31:38.9 - 31:40.5] Later, Matt.
+[31:40.5 - 31:55.6] Oh,
+[31:55.6 - 31:55.6] there's something here.
+[31:55.6 - 31:56.2] Oh, these are for you.
+[31:56.2 - 31:57.3] I was about to bring them down.
+[31:57.3 - 31:59.2] Can you put them on your desk?
+[31:59.2 - 32:00.9] Yeah.
+[32:00.9 - 32:04.2] No, this is not stuff for me.
+[32:04.2 - 32:08.1] It's for my daughter's desk.
+[32:08.1 - 32:12.4] For now?
+[32:12.4 - 32:13.0] Yeah.
+[32:13.0 - 32:13.6] Steve's wife.
+[32:13.6 - 32:16.2] It has my name on the- Yeah.
+[32:16.2 - 32:18.4] Though I am expecting something large.
+[32:18.4 - 32:20.4] Oh, merry Christmas.
+[32:20.4 - 32:22.2] See you tomorrow.
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Monday_V2026-01-01-21-07-46_transcription_20260705_192644.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Monday_V2026-01-01-21-07-46_transcription_20260705_192644.txt

@@ -1,0 +1,874 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_Tuesday_V2026-06-30-15-11-13.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-15-11-13_chunks_20260705_194038/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-15-11-13_chunks_20260705_194038/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-15-11-13_chunks_20260705_194038/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-15-11-13_chunks_20260705_194038/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-15-11-13_chunks_20260705_194038/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.7 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[00:02.5 - 00:03.8] All right.
+[00:03.8 - 00:05.1] Mm-hmm.
+[00:05.1 - 00:08.9] Mm-hmm.
+[00:08.9 - 00:12.1] Okay.
+[00:12.1 - 00:14.9] Uh-huh.
+[00:14.9 - 00:17.9] Okay.
+[00:17.9 - 00:21.3] Mm-hmm.
+[00:21.3 - 00:27.5] Yeah.
+[00:27.5 - 00:28.3] Okay.
+[00:28.3 - 00:34.1] So tax credit.
+[00:34.1 - 00:38.2] Okay.
+[00:38.2 - 00:43.6] I just was clarifying because when you said regular, in my head, that sometimes means, uh, what do you call it?
+[00:43.6 - 00:46.2] Um, market rate, if you will.
+[00:46.2 - 00:48.2] So, um, okay.
+[00:48.2 - 00:50.0] Yeah, yeah, no worries.
+[00:50.0 - 00:50.3] Hold on.
+[00:50.3 - 00:55.2] Let me just delete that zero just to clean it up because I have a weird OCD about that.
+[00:55.2 - 01:00.4] Um, so yeah, I mean, when it highlights like this, and then you see how the save button now isn't grayed out.
+[01:00.4 - 01:09.5] So I think it was just that your numbers weren't totaling up, uh, because like, uh, yeah, what you had in before was like not totaling up correctly.
+[01:09.5 - 01:20.7] I kind of think that might have been the issue, but let's, if you want, uh, I can just hang out if you, uh, go through the deal and, and do your thing and, um, uh,
+[01:20.7 - 01:28.8] and then when you go to submit it, I'll just stay on the phone with you to make sure it sub- uh, it submits correctly and then, and then we should be good.
+[01:28.8 - 01:34.3] And if you encounter the problem with any of the other ones, uh, you know, just give me a call back.
+[01:34.3 - 01:42.3] Um, but yeah, I think it was just, you wanna, uh, match it to those numbers in the left column here.
+[01:42.3 - 01:48.3] It's just clarifying if there's no evictions because I didn't write anything in there.
+[01:48.3 - 01:56.2] Um, but yeah, you just, you wanna match it, that left column where it says studio, one bedroom, two bedroom, three, four, five bedroom.
+[01:56.2 - 02:02.3] You just wanna, whatever the number is in there, uh, needs to be matched with the total like we were doing.
+[02:02.3 - 02:12.6] And if any of those numbers in the left column for you are wrong, like hypothetically if this one bedroom, if you don't have fifty-two, you can just always let me know
+[02:12.6 - 02:16.0] and I can change that stuff around for you and be like, "Oh, we miscounted.
+[02:16.0 - 02:21.3] It's actually fifty-one bedrooms and nine two bedrooms," or whatever it might be.
+[02:21.3 - 02:25.2] And then I can go in there and change it for you so it accurately counts it.
+[02:25.2 - 02:35.3] Because there's been a couple times when it's been off for exactly the reason you were saying, where it's like, "Oh, technically you have eighty units," and that's what I put in, and then
+[02:35.3 - 02:39.0] I wasn't aware of it being, um, uh, what do you call it?
+[02:39.0 - 02:41.5] Uh, the exempt units and stuff.
+[02:41.5 - 02:48.0] So yeah, if you ever see anything like that, please just reach out and we'll get it settled or I'll get it settled for you.
+[02:48.0 - 02:49.8] Yeah.
+[02:49.8 - 02:50.9] Uh, you're welcome.
+[02:50.9 - 02:55.9] And then if you wanna, um, I know you called the other day a while ago.
+[02:55.9 - 02:58.6] I-- It was like a crazy day for me, so I didn't have a chance to get back to you.
+[02:58.6 - 03:01.9] I think you probably got that, uh, smart plug thing.
+[03:01.9 - 03:03.4] I don't know if you ended up...
+[03:03.4 - 03:04.2] You did?
+[03:04.2 - 03:05.0] Okay, great.
+[03:05.0 - 03:05.5] Awesome.
+[03:05.5 - 03:07.0] Thank you so much.
+[03:07.0 - 03:09.6] And it came up with, uh, it has like a little blue light.
+[03:09.6 - 03:11.4] Perfect.
+[03:11.4 - 03:13.6] Yeah, that means it's connected to the internet.
+[03:13.6 - 03:19.1] I just hadn't had time to check on it and I, I knew you called and it was a day I couldn't get back to you, so sorry about that.
+[03:19.1 - 03:21.8] Um, and thank you for setting it up.
+[03:21.8 - 03:27.1] Now I shouldn't have to bother you as much about the, the gateway, because I know that was always your favorite.
+[03:27.1 - 03:30.7] Yeah, I hear you.
+[03:30.7 - 03:31.4] All right.
+[03:31.4 - 03:32.4] Take care, Tammy.
+[03:32.4 - 03:33.5] You're welcome.
+[03:33.5 - 03:34.4] Bye.
+[03:34.4 - 10:12.3] Goddamn.
+[10:12.3 - 10:14.5] A million seconds is 11 days.
+[10:14.5 - 10:16.9] A billion seconds is 32 years.
+[10:16.9 - 10:19.4] Yeah, you always see that.
+[10:19.4 - 10:23.4] A tri- a trillion seconds is 31,000 years.
+[10:23.4 - 10:24.9] Yeah, you always see that.
+[10:24.9 - 10:29.5] Like, uh, I always see the million versus billion all the time.
+[10:29.5 - 10:31.0] And it's like, that is crazy.
+[10:31.0 - 10:38.5] It usually is, it's, it's in reference to like, think about this when, when you're thinking in terms of money.
+[10:38.5 - 10:39.2] Like- Yeah ...
+[10:39.2 - 10:45.0] a million seconds is, you know, 12 days, a billion is whatever, you said 31 years.
+[10:45.0 - 10:51.4] It's like, think about that, and then think about how Elon Musk is the richest man in the world and has like- 31,000 ...
+[10:51.4 - 10:52.8] 981 billion or whatever.
+[10:52.8 - 10:54.1] 31,000 years.
+[10:54.1 - 10:55.2] Yeah.
+[10:55.2 - 10:56.1] That's like- For a trillion.
+[10:56.1 - 10:57.1] Yeah, for a trillion.
+[10:57.1 - 10:57.8] Trillion seconds.
+[10:57.8 - 10:58.1] It's that, yeah.
+[10:58.1 - 10:59.6] But he lost.
+[10:59.6 - 11:04.7] I saw the thing was SpaceX hit the, hit the stock market, whatever, right?
+[11:04.7 - 11:11.1] And so his net worth in fact skyrocketed to the trillion, but then like the next day- Yeah, true, yeah ...
+[11:11.1 - 11:16.2] the, the stock value plummeted a, a good amount, and so he dropped below.
+[11:16.2 - 11:20.1] It's still like, I think he's still nearly like doubled his net worth.
+[11:20.1 - 11:23.0] You know, I think it's probably like 900 billion.
+[11:23.0 - 11:26.6] It is insane.
+[11:26.6 - 11:35.0] That shit is insane to me, where it's like, oh dude, you could literally like solve all the world's problems.
+[11:35.0 - 11:45.2] Like, you have so much money, you literally could solve, all the problems in the entire world, and instead he just wants to like
+[11:45.2 - 11:49.0] get mediocre looking bitches pregnant.
+[11:49.0 - 11:51.1] He's the richest dude.
+[11:51.1 - 11:54.0] Have you seen the chicks that he's always getting pregnant?
+[11:54.0 - 11:56.7] Like fucking- Oh, bills, yeah.
+[11:56.7 - 11:59.9] Make a trillion $1 bills, you could-
+[12:00.1 - 12:03.8] The end of the line runs ninety-six million miles.
+[12:03.8 - 12:06.5] Yeah, like goes- Reaches past the sun and keeps going.
+[12:06.5 - 12:12.2] I was gonna say, like, goes around the world like four thousand times or some crazy shit, right?
+[12:12.2 - 12:19.7] Like every bill flat side by side- Yeah, dude, I don't get why Elon Musk, um...
+[12:19.7 - 12:24.5] I don't get why all the chicks he's go-- he's getting with are ugly.
+[12:24.5 - 12:27.8] In hundred dollar bills, a trillion dollars means ten billion notes.
+[12:27.8 - 12:31.1] Together they weigh ten thousand metric tons.
+[12:31.1 - 12:34.2] About the same as the Eiffel Tower.
+[12:34.2 - 12:35.0] Ugh.
+[12:35.0 - 12:36.2] At hundred dollar bills.
+[12:36.2 - 12:41.3] Imagine spending a million dollars every day with no breaks.
+[12:41.3 - 12:47.3] You would still need two thousand seven hundred forty years to burn through a single trillion dollars.
+[12:47.3 - 12:52.5] At a million dollars a day, it would take you two thousand years.
+[12:52.5 - 12:54.9] Okay, that's a lot of money now.
+[12:54.9 - 12:56.4] Yeah, dude.
+[12:56.4 - 13:01.8] A million dollars a day would still take you two thousand seven hundred years to spend it all.
+[13:01.8 - 13:04.3] If you spent a million dollars a day.
+[13:04.3 - 13:07.1] Yeah, dude.
+[13:07.1 - 13:08.1] Oh my God.
+[13:08.1 - 13:08.9] Like, I don't get...
+[13:08.9 - 13:11.2] Like, he does shit where he...
+[13:11.2 - 13:12.8] You, you know what?
+[13:12.8 - 13:13.2] Dude.
+[13:13.2 - 13:14.2] Wow.
+[13:14.2 - 13:15.4] Here's a perfect example.
+[13:15.4 - 13:17.3] Think about you having that money.
+[13:17.3 - 13:23.0] Wouldn't you do, like, would you wanna buy Twitter and worry about running Twitter?
+[13:23.0 - 13:26.0] Not-- Uh, this isn't even like a...
+[13:26.0 - 13:29.7] I know shit with that ended up getting, like, all political and whatever, right?
+[13:29.7 - 13:32.0] No, no politics involved or anything.
+[13:32.0 - 13:37.3] If you had all that money, do you wanna buy a company and make yourself run it?
+[13:37.3 - 13:48.1] When you already from owning Tesla had four hundred and fifty billion dollars or something for-- of net worth, wouldn't you wanna like, dude, wouldn't you buy the forty-niners?
+[13:48.1 - 13:48.5] Yeah.
+[13:48.5 - 13:52.9] And be like, "What, what's your price?" Oh, they, the, they value the franchise.
+[13:52.9 - 13:58.5] Like, I don't know what the number is, but I've seen, like, sports franchises, and they're not, like, the top, top NFL one.
+[13:58.5 - 14:02.2] So it's like, say it's valued at four billion probably, right?
+[14:02.2 - 14:02.4] Yeah.
+[14:02.4 - 14:08.0] And you're like, "All right, here's four billion, I'll buy it from you." And they're like, "Oh, well, no, dude, 'cause we make money off of it." Yeah.
+[14:08.0 - 14:09.6] You're like, "All right, five." No.
+[14:09.6 - 14:12.0] "Okay, what's your price?" And they say some stupid shit.
+[14:12.0 - 14:14.3] "Well, ten." And you're like, "Fine, eight?
+[14:14.3 - 14:16.0] No, nine?
+[14:16.0 - 14:16.2] Ten.
+[14:16.2 - 14:16.7] You know what?
+[14:16.7 - 14:17.1] Whatever.
+[14:17.1 - 14:17.9] Here's ten.
+[14:17.9 - 14:19.6] Now I own that." You know what?
+[14:19.6 - 14:21.9] I've been kinda getting into baseball lately.
+[14:21.9 - 14:24.7] Let me, uh, like I liked it more and more.
+[14:24.7 - 14:26.1] I'll buy the Dodgers too.
+[14:26.1 - 14:32.8] And you just get to do all the fun shit because then you can hire someone to run all of that for you and not ever have to touch it.
+[14:32.8 - 14:33.1] Yeah.
+[14:33.1 - 14:35.7] Just be the money man, but then guess what your ass gets to do?
+[14:35.7 - 14:45.4] Go to every game whenever the fuck you want and do whatever the fuck you want, and you get to own the team, and you like, "Oh, you guys need to revamp the whole squad?
+[14:45.4 - 14:46.8] How much money do you need?
+[14:46.8 - 14:50.0] Here you go." He doesn't do any fun shit with it.
+[14:50.0 - 14:54.1] Like, I'm sure he does behind the scenes, but it's like, no, dude, why are you buying Twitter?
+[14:54.1 - 14:55.7] Why are you buying Twitter?
+[14:55.7 - 14:57.3] Who fucking cares about that shit?
+[14:57.3 - 14:57.5] Yeah.
+[14:57.5 - 14:59.2] Do some cool, fun shit.
+[14:59.2 - 14:59.9] Yeah.
+[14:59.9 - 15:01.0] Like, what are you doing?
+[15:01.0 - 15:05.1] Like, why are you hanging out with ugly chicks if that's the ones you wanna bone?
+[15:05.1 - 15:06.8] Like, what are you doing, dude?
+[15:06.8 - 15:08.5] You're the richest dude in the world.
+[15:08.5 - 15:09.1] Yeah.
+[15:09.1 - 15:10.6] Like, so much now.
+[15:10.6 - 15:11.9] Like, have fun.
+[15:11.9 - 15:14.7] Don't fucking create more work for yourself.
+[15:14.7 - 15:21.6] And then also personally, just like, do the thing that every other rich person does in politics, right?
+[15:21.6 - 15:31.8] Like, stay behind the scenes and influence it, because then public opinion of you is like, they-- People don't have such strong
+[15:31.8 - 15:36.9] public opinions about, like, the behind-the-scene figures in politics, you know?
+[15:36.9 - 15:37.6] Yeah.
+[15:37.6 - 15:44.9] So it's just like you can still influence it, but, like, don't, like, jump on board of Trump's cabinet stuff and whatnot, right?
+[15:44.9 - 15:49.2] 'Cause, like, then you're just in the public eye, and you're gonna get scrutinized.
+[15:49.2 - 15:51.7] Just fucking sit back and collect money.
+[15:51.7 - 15:54.6] Like, shit, you know?
+[15:54.6 - 16:01.6] But for whatever reason, he didn't wanna do that.
+[16:01.6 - 16:05.2] I don't get it, but...
+[24:00.6 - 24:01.7] I will look at it.
+[24:01.7 - 24:03.3] I think she only got one now.
+[24:03.3 - 24:06.9] Because did you let him know that Friday's a holiday?
+[24:06.9 - 24:08.6] Yes, I can text him.
+[24:08.6 - 24:08.9] Yes.
+[24:08.9 - 24:09.8] Will do.
+[24:09.8 - 24:10.9] Two times.
+[24:10.9 - 24:12.1] Yeah, yeah, I get you.
+[24:12.1 - 24:15.0] I'm gonna put, uh, her, her time in right now, too.
+[24:15.0 - 24:31.6] How
+[24:31.6 - 24:32.3] do I...
+[24:32.3 - 24:35.0] Okay, hold on.
+[24:35.0 - 24:37.3] What do I have?
+[24:37.3 - 24:47.4] Um, that's
+[24:47.4 - 24:47.4] it.
+[24:47.4 - 24:49.8] Yeah, um...
+[24:49.8 - 25:09.8] Or
+[25:09.8 - 25:23.7] maybe,
+[25:23.7 - 25:25.5] um...
+[25:25.5 - 25:27.4] Hello?
+[25:27.4 - 25:32.8] Well, it would be cool if you picked up your calls every now and then.
+[25:32.8 - 25:35.5] First off.
+[25:35.5 - 25:37.1] Second...
+[25:37.1 - 25:40.1] Um, I'm just kidding.
+[25:40.1 - 25:42.5] I ne- I'm gonna need your help next week.
+[25:42.5 - 25:47.7] Yeah, I can hear what you're saying.
+[25:47.7 - 25:51.3] I said it would be cool if you picked up my calls, but I was just kidding.
+[25:51.3 - 25:55.2] Um, I'm gonna need your help next week.
+[25:55.2 - 26:05.3] Well, because Nicole's leaving, and I have like fucking thirty interviews to do, and I don't wanna be interviewing people if you and Ginger are just gonna veto them because
+[26:05.3 - 26:11.8] they don't fit the, the, the culture or your guys', you know, thing.
+[26:11.8 - 26:17.5] So I'd rather like you guys maybe do 'em with me or something, or so I don't have to waste my time.
+[26:17.5 - 26:21.2] Does that make sense?
+[26:21.2 - 26:24.0] What?
+[26:24.0 - 26:29.2] You keep, you keep cutting in and out when you're, when you're in...
+[26:29.2 - 26:34.8] Where are you at?
+[26:34.8 - 26:39.4] Are the extenders not working or something?
+[26:39.4 - 26:50.8] Mm,
+[26:50.8 - 26:51.6] fuck.
+[26:51.6 - 27:11.7] Well,
+[27:11.7 - 27:14.9] I'll put it back, but once these go up, I'm gonna be the one interviewing.
+[27:14.9 - 27:16.2] Nicole's gone for two weeks.
+[27:16.2 - 27:26.7] Well,
+[27:26.7 - 27:35.4] that's a, that's a shame.
+[27:35.4 - 27:43.8] Yeah.
+[27:43.8 - 27:51.2] Well, I've been sitting with her interviews, so now I just, I just, I, I don't wanna like, "Oh, they're perfect," and then, and then you see 'em and you're like...
+[27:51.2 - 27:55.3] We'll talk, we'll talk about it when you have a better signal.
+[27:55.3 - 27:57.5] When you get back to the hotel or something later on or tomorrow.
+[27:57.5 - 28:27.4] Hello?
+[28:27.4 - 28:31.8] I said we could talk about it later on, like when you get back to the hotel or something.
+[28:31.8 - 28:34.3] Oh, fuck.
+[28:34.3 - 28:35.6] Oh, okay.
+[28:35.6 - 28:42.3] Oh, you, you need to go to Arbor Crest, don't you?
+[28:42.3 - 29:07.9] Oh,
+[29:07.9 - 29:10.7] well, I'm just, I'm just considering what you're telling me, so...
+[29:10.7 - 29:12.5] But...
+[29:12.5 - 29:16.0] Well, well, okay.
+[29:16.0 - 29:17.4] I'm just telling you, I'm gonna need help.
+[29:17.4 - 29:20.5] If you want people hired, then- Hi, Eric?
+[29:20.5 - 29:22.6] -I'm gonna shoot you what I think their resume is, and you can interview them.
+[29:22.6 - 29:25.4] Hey, this is Ethan with the, uh, corporate office.
+[29:25.4 - 29:26.1] How are you, sir?
+[29:26.1 - 29:27.0] Also, I don't even know if you're gonna like 'em and stuff.
+[29:27.0 - 29:27.9] We'll be wasting time.
+[29:27.9 - 29:28.8] Good.
+[29:28.8 - 29:29.3] Thanks.
+[29:29.3 - 29:32.7] Uh, sorry, I'm sure little bit of nerves when you hear that.
+[29:32.7 - 29:34.4] I'm only calling with good news.
+[29:34.4 - 29:36.1] So nothing...
+[29:36.1 - 29:37.0] Yeah, yeah.
+[29:37.0 - 29:39.2] Cool.
+[29:39.2 - 29:44.5] I just to clarify, 'cause I, I felt like I heard it a little in your voice, but I promise it's good news.
+[29:44.5 - 29:47.3] I just It's Ethan.
+[29:47.3 - 29:47.4] I don't know.
+[29:47.4 - 29:48.4] You're all good.
+[29:48.4 - 29:49.9] Yeah, no, no, no.
+[29:49.9 - 29:50.7] You're all good.
+[29:50.7 - 29:55.3] I just, yeah, I, I work in the corporate office for, you know, we manage River Garden stuff.
+[29:55.3 - 30:02.2] I know Heather is out, and so I don't think you or, uh, your coworker, Alonzo, are gonna get this news.
+[30:02.2 - 30:05.4] I'm gonna call Alonzo right after you, but, um- Bro, I can't hear you.
+[30:05.4 - 30:06.3] You keep cutting in and out.
+[30:06.3 - 30:06.4] Are we talking later?
+[30:06.4 - 30:07.1] -we are observing...
+[30:07.1 - 30:10.3] Because July fourth falls on, uh, Saturday- You literally keep cutting out.
+[30:10.3 - 30:10.4] I can't hear what you're saying ...
+[30:10.4 - 30:13.5] we're observing it on Friday, so you guys have Friday off.
+[30:13.5 - 30:15.9] So I just wanted to relay that info to you.
+[30:15.9 - 30:18.7] No, you're paying it out.
+[30:18.7 - 30:20.5] Just call me back and let me know.
+[30:20.5 - 30:20.9] Mm-hmm.
+[30:20.9 - 30:23.5] And we- I said we're fine.
+[30:23.5 - 30:23.9] Yeah.
+[30:23.9 - 30:28.7] We sent out an email, but then it was brought to my attention by my supervisor- You have a very long one ...
+[30:28.7 - 30:31.3] Heather is out, and I hadn't been able to get ahold of her.
+[30:31.3 - 30:32.5] She would usually, you know- Oh, yeah ...
+[30:32.5 - 30:34.9] she'd get the email and relay that to you guys.
+[30:34.9 - 30:36.6] But, so I just wanted to give you a call.
+[30:36.6 - 30:40.9] But- Uh, if you see, uh, Alonso, you could just mention it to him, too.
+[30:40.9 - 30:44.9] But like I said, I'm gonna call him right after, and if he doesn't answer, send him a text.
+[30:44.9 - 30:53.4] But, uh, sometimes with our phone system, it's like, uh, T-Mobile users, the number gets, like, blocked as spam or something weird like that.
+[30:53.4 - 30:58.3] So, uh, so just, yeah, mention it to him if, if you see him, too.
+[30:58.3 - 31:01.1] Okay.
+[31:01.1 - 31:02.2] I'm still gonna call...
+[31:02.2 - 31:04.0] Yeah, I'll still call him just to make sure.
+[31:04.0 - 31:05.9] But yeah, just mention it when you see him, too.
+[31:05.9 - 31:07.9] But, uh, but yeah, that was it, man.
+[31:07.9 - 31:09.9] Noth- nothing, no getting in trouble or anything.
+[31:09.9 - 31:14.5] You're, you're one of the people, I love it, 'cause I never have to reach out to you about using Connect Team or anything.
+[31:14.5 - 31:15.1] You're always...
+[31:15.1 - 31:20.7] Like, I don't even think I have your number saved for texting, 'cause I always have people who don't do that.
+[31:20.7 - 31:23.4] So I appreciate you, and yeah, you're doing every...
+[31:23.4 - 31:24.7] Yeah.
+[31:24.7 - 31:28.3] Yeah, of course.
+[31:28.3 - 31:30.5] Yeah, yeah.
+[31:30.5 - 31:31.5] You too, my man.
+[31:31.5 - 31:33.8] Uh, well, take care and enjoy the long weekend, okay?
+[31:33.8 - 31:35.4] All right.
+[31:35.4 - 31:36.3] Thanks.
+[31:36.3 - 31:37.5] Bye.
+[31:37.5 - 32:03.3] Hi,
+[32:03.3 - 32:03.9] Alonso.
+[32:03.9 - 32:06.7] This is Ethan with the corporate office.
+[32:06.7 - 32:16.7] Um, I was just giving you a call because I know Heather is out, and so I wanted to relay to you that, uh, for Fourth of July, 'cause it falls on
+[32:16.7 - 32:19.4] Saturday, we're observing it on Friday.
+[32:19.4 - 32:25.9] So you and Alonso, uh, I, I knew Heather wouldn't be able to relay the info to you guys, so I gave you both a call.
+[32:25.9 - 32:36.0] Uh, you, you get Friday off, 'cause that's the day we're observing Fourth of
+[32:36.0 - 32:37.6] July 'cause it falls on the weekend.
+[32:37.6 - 32:42.4] So you two are all set to take Friday off.
+[32:42.4 - 32:48.3] Everybody is, and I just wanted to relay that to you 'cause I know she wouldn't, 'cause she's not in the office.
+[32:48.3 - 32:52.7] Yeah.
+[32:52.7 - 32:53.6] Yes, sir.
+[32:53.6 - 32:54.7] That is the plan.
+[32:54.7 - 33:00.6] Well, I mean, you're welcome if you wanna go and, like, do whatever around the property, but I wouldn't if I were you.
+[33:00.6 - 33:02.6] I'm taking the day off.
+[33:02.6 - 33:06.3] Perfect.
+[33:06.3 - 33:09.0] Nice.
+[33:09.0 - 33:10.9] Yeah.
+[33:10.9 - 33:12.5] Yep.
+[33:12.5 - 33:14.6] Enjoy, dude.
+[33:14.6 - 33:16.6] Yeah, yeah, yeah, of course.
+[33:16.6 - 33:23.5] Like I said, my supervisor was actually the one who pointed out that she wasn't gonna be there to relay the info, 'cause I, I didn't know she was out.
+[33:23.5 - 33:33.5] So, uh, yeah, and then just, just like I told, um, um, Eric, I just wanna say the one other thing, 'cause I know we don't talk much, is thank you 'cause the both of you guys are, are really good
+[33:33.5 - 33:39.3] about always, uh, being on top of clocking in on Connect Teams and everything, and it makes my life easier.
+[33:39.3 - 33:45.6] Like, I, I have all the people who, like, I always have to text, and your twos' names, like, never come up.
+[33:45.6 - 33:46.3] They never...
+[33:46.3 - 33:47.4] They don't even ring a bell.
+[33:47.4 - 33:56.0] Like, I had to look up who the maintenance guys were at the property, which I always appreciate, 'cause, like, I don't wanna have to hound you guys, and it's just, like, company policy.
+[33:56.0 - 33:57.3] We all gotta do it, even me.
+[33:57.3 - 33:58.4] So I just...
+[33:58.4 - 34:02.5] I wanna say I appreciate that, 'cause you guys are always really on top of it, so thank you.
+[34:02.5 - 34:06.5] Yeah, yeah.
+[34:06.5 - 34:07.1] That, that...
+[34:07.1 - 34:08.6] I, I appreciate it, man.
+[34:08.6 - 34:09.2] I do.
+[34:09.2 - 34:11.5] Um, but yeah, enjoy the long weekend.
+[34:11.5 - 34:12.3] Have a barbecue.
+[34:12.3 - 34:13.4] Do whatever you do.
+[34:13.4 - 34:15.5] But, uh, yeah, hopefully you enjoy.
+[34:15.5 - 34:17.8] Yeah.
+[34:17.8 - 34:18.9] You're welcome.
+[34:18.9 - 34:20.2] Thank you.
+[34:20.2 - 34:20.8] Same to you.
+[34:20.8 - 34:21.4] Take care.
+[34:21.4 - 34:23.1] You too.
+[34:23.1 - 34:23.6] Bye.
+[34:23.6 - 35:18.3] Hey,
+[35:18.3 - 35:18.5] yo.
+[35:18.5 - 35:19.2] How are you?
+[35:19.2 - 35:21.9] That's good.
+[35:21.9 - 35:23.4] Uh, sorry, let me call you back.
+[35:23.4 - 35:24.0] Mark's calling me.
+[35:24.0 - 35:25.5] Sorry.
+[35:25.5 - 35:27.1] Oh, I...
+[35:27.1 - 35:29.4] Hi, Mark.
+[35:29.4 - 35:39.4] Oh, yeah, it hasn't come in yet, but what do you need me to do with it?
+[35:39.4 - 35:51.8] Okay.
+[36:02.9 - 36:03.8] Uh, yeah, sure.
+[36:03.8 - 36:25.9] Yeah.
+[36:25.9 - 36:27.5] I-I'll, I'll do it.
+[36:27.5 - 36:31.1] I'll call around, I'll look it up and, and I'll see what the timeframe is.
+[36:31.1 - 36:32.4] Do you want me to...
+[36:32.4 - 36:42.1] If I get in touch with a couple spots and they say that it's like, uh, a little bit of a process and that isn't-- it doesn't get, like, made that quickly?
+[36:42.1 - 36:46.9] Oh, okay.
+[36:46.9 - 36:50.0] Oh, okay.
+[36:50.0 - 36:53.4] Sure.
+[36:53.4 - 36:56.3] Yeah.
+[36:56.3 - 36:56.5] Yeah.
+[36:56.5 - 37:01.4] Mm-hmm.
+[37:01.4 - 37:02.5] Yeah, no problem.
+[37:02.5 - 37:03.1] Okay.
+[37:03.1 - 37:03.3] Yeah.
+[37:03.3 - 37:13.4] Uh, no, I was just-- I was doing one quick other thing, uh, forwarding someone's email, so I'm gonna look in the spam
+[37:13.4 - 37:16.0] filter now and see what the deal is.
+[37:16.0 - 37:18.1] Okay.
+[37:18.1 - 37:19.6] Okay.
+[37:19.6 - 37:19.8] Bye.
+[37:19.8 - 40:11.1] Yeah.
+[40:11.1 - 40:11.6] Hi.
+[40:11.6 - 40:14.9] Uh, my doctor recommended you guys.
+[40:14.9 - 40:25.0] I need to get a, uh, a prescription filled for, uh, betahistine, and you were on the list of compounding pharmacies,
+[40:25.0 - 40:29.1] so I'm reaching out to you.
+[40:29.1 - 40:37.7] Uh, I believe...
+[40:37.7 - 40:44.8] Yes, I have it in a, in a PDF form, uh, that I can, like, email over.
+[40:44.8 - 40:49.2] It says, uh, betahistine sixteen milligram tablets.
+[40:49.2 - 40:55.5] Oh, I'm, I'm sure.
+[40:55.5 - 40:57.4] Yeah, I'm, I'm sure that's what they meant.
+[40:57.4 - 40:58.4] Uh, yeah.
+[40:58.4 - 41:00.0] Yeah, it shouldn't be an issue.
+[41:00.0 - 41:08.2] Okay.
+[41:08.2 - 41:12.5] Okay.
+[41:12.5 - 41:15.0] Um, and then when...
+[41:15.0 - 41:21.7] If, if you are able to, to do it and everything, would it be ready tomorrow just 'cause I'm going on a trip, or does it take a few days?
+[41:21.7 - 41:24.2] What, what are we looking at on a timeframe-wise?
+[41:24.2 - 41:28.8] Got it.
+[41:28.8 - 41:30.1] Um, okay.
+[41:30.1 - 41:33.1] Uh, okay, and you said to email it.
+[41:33.1 - 41:34.7] Uh, let me see if I...
+[41:34.7 - 41:35.4] Do I have your email?
+[41:35.4 - 41:39.3] Yeah, info@vdcrxmeds.com.
+[41:39.3 - 41:40.2] Is that the email?
+[41:40.2 - 41:45.2] No, no.
+[41:45.2 - 41:47.1] Like, if you want it, you can buy it right now.
+[41:47.1 - 41:47.5] Okay.
+[41:47.5 - 41:48.2] Perfect.
+[41:48.2 - 41:49.2] Thank you very much.
+[41:49.2 - 41:50.1] I appreciate it.
+[41:50.1 - 41:51.6] Okay.
+[41:51.6 - 41:52.4] You too.
+[41:52.4 - 41:53.5] Bye.
+[41:53.5 - 46:24.8] Hey.
+[46:24.8 - 46:27.1] Mm-hmm.
+[46:27.1 - 46:31.9] Mm-two forty-seven.
+[46:31.9 - 46:33.6] He's right behind me, though.
+[46:33.6 - 46:35.4] I can just put you on speaker if you want.
+[46:35.4 - 46:36.4] Who is that?
+[46:36.4 - 46:37.6] Who's talking to us?
+[46:37.6 - 46:38.8] Who is that?
+[46:38.8 - 46:39.3] Leslie.
+[46:39.3 - 46:40.1] She wants- You know who it is ...
+[46:40.1 - 46:40.8] to bitch you out.
+[46:40.8 - 46:41.9] What the fuck?
+[46:41.9 - 46:42.6] Get him.
+[46:42.6 - 46:43.3] Get him.
+[46:43.3 - 46:44.5] Get him.
+[46:44.5 - 46:45.1] Come on.
+[46:45.1 - 46:46.7] I can, I can hear you from over there.
+[46:46.7 - 46:47.7] Get him.
+[46:47.7 - 46:48.6] What can I do for you?
+[46:48.6 - 46:51.1] Don't talk like that to me.
+[46:51.1 - 46:52.4] I'm sorry.
+[46:52.4 - 46:55.6] I'm, I'm making more fucking modules for PropertyMax.
+[46:55.6 - 46:56.3] You're gonna love it.
+[46:56.3 - 46:59.8] Is it something I created?
+[46:59.8 - 47:02.3] No, it's fucking something that...
+[47:02.3 - 47:03.4] N- n- oh, I'm not talking.
+[47:03.4 - 47:04.4] Are you calling from your...
+[47:04.4 - 47:06.0] Yeah, I'm- No.
+[47:06.0 - 47:06.8] It's, it's wonderful.
+[47:06.8 - 47:08.0] It's the greatest thing ever.
+[47:08.0 - 47:12.5] Well, I, I gave him a couple ideas today, and so I was wondering if it was something I created.
+[47:12.5 - 47:13.2] Oof.
+[47:13.2 - 47:14.3] It probably is something you did.
+[47:14.3 - 47:15.6] I fucking hope not, dude.
+[47:15.6 - 47:17.6] I swear- Hey, real quick, 18 an hour?
+[47:17.6 - 47:20.4] Is it, is it maintenance tools and, uh, something else?
+[47:20.4 - 47:21.0] Nope.
+[47:21.0 - 47:21.1] No.
+[47:21.1 - 47:22.6] Okay.
+[47:22.6 - 47:25.2] Hey, real quick, for the assistant, 18 an hour?
+[47:25.2 - 47:27.2] No.
+[47:27.2 - 47:29.6] What do you want it, 20?
+[47:29.6 - 47:32.3] 19.
+[47:32.3 - 47:32.9] 19.
+[47:32.9 - 47:33.7] Okay.
+[47:33.7 - 47:35.2] If you want to- Starting at 19.
+[47:35.2 - 47:35.6] Cool.
+[47:35.6 - 47:36.8] I'm posting it.
+[47:36.8 - 47:39.3] I don't know where it went, but I'll post it.
+[47:39.3 - 47:39.6] I don't know about that.
+[47:39.6 - 47:40.6] I'll review resumes.
+[47:40.6 - 47:41.9] Do you want me to send them to you?
+[47:41.9 - 47:46.0] Well, I wanted to say something to him, but I don't wanna say it on speakerphone because- Well, no one else is in here ...
+[47:46.0 - 47:46.1] someone could hear me.
+[47:46.1 - 47:46.9] No one else is in here.
+[47:46.9 - 47:49.2] No one can hear you except us.
+[47:49.2 - 47:49.6] You sure?
+[47:49.6 - 47:50.4] Positive.
+[47:50.4 - 47:50.8] Yeah.
+[47:50.8 - 47:53.7] Who else can hear me a la...
+[47:53.7 - 47:55.5] little further away?
+[47:55.5 - 47:57.2] Nobody, just don't scream.
+[47:57.2 - 47:59.9] No, no-
+[48:00.4 - 48:02.5] No one, no word You just close the door.
+[48:02.5 - 48:06.5] Definitely no one back.
+[48:06.5 - 48:08.9] Anyway, anything I say, I say to people's face.
+[48:08.9 - 48:09.4] How about that?
+[48:09.4 - 48:19.5] So this situation with you hiring, I've already talked to Nicole twice about how she does it, three times maybe.
+[48:19.5 - 48:24.6] Nicole sends me people that she's like, "Everything is great.
+[48:24.6 - 48:25.4] They're wonderful.
+[48:25.4 - 48:28.7] I like this girl." I just talked to this motherfucker.
+[48:28.7 - 48:30.5] She was so weird.
+[48:30.5 - 48:31.5] Who, the Black girl?
+[48:31.5 - 48:32.9] And- The Canadian girl?
+[48:32.9 - 48:33.5] Huh?
+[48:33.5 - 48:34.6] Who, the Canadian girl?
+[48:34.6 - 48:38.7] Yeah, the Canadian assistant that she was like, "Would be great, she's a great fit.
+[48:38.7 - 48:41.7] She's savvy." She's like, "Hello.
+[48:41.7 - 48:44.1] Yes, um, no, that, that would be wonderful.
+[48:44.1 - 48:50.3] How long would this hiring process take?" I'm like, "Oh, this motherfucker's fired already." You see what I'm saying?
+[48:50.3 - 48:52.4] I agree with Nicole about this girl.
+[48:52.4 - 48:54.1] I was sitting right there.
+[48:54.1 - 48:55.0] I liked her too.
+[48:55.0 - 48:57.3] This is why I want you to be part of it, because you're- Which one are you...
+[48:57.3 - 48:57.8] You're...
+[48:57.8 - 48:58.8] Which one are you talking about?
+[48:58.8 - 48:59.7] Do you know which I'm talking about?
+[48:59.7 - 49:02.0] She was Black, I don't know, for Crossroads, right?
+[49:02.0 - 49:05.4] Well, why don't you, either one of you, say the person's name?
+[49:05.4 - 49:08.0] I don't remember her name, but Nicole interviewed once.
+[49:08.0 - 49:08.6] Uh, Newborn.
+[49:08.6 - 49:09.5] D-e...
+[49:09.5 - 49:10.6] Di- Dinat...
+[49:10.6 - 49:13.9] D- E apostrophe N-A.
+[49:13.9 - 49:15.0] New...
+[49:15.0 - 49:17.0] uh, something.
+[49:17.0 - 49:17.7] I don't know.
+[49:17.7 - 49:18.5] I liked her.
+[49:18.5 - 49:19.4] Nicole interviewed...
+[49:19.4 - 49:20.3] She, she was cool.
+[49:20.3 - 49:21.2] She sat in her car.
+[49:21.2 - 49:21.7] She was cool.
+[49:21.7 - 49:25.0] She seemed, uh, savvy, the same thing- A Black girl with dreads?
+[49:25.0 - 49:26.0] Yeah.
+[49:26.0 - 49:28.8] I lo- I, I said the same- With a, with a earring in her nose?
+[49:28.8 - 49:29.3] That girl?
+[49:29.3 - 49:30.2] I think so.
+[49:30.2 - 49:31.0] I'm pretty sure.
+[49:31.0 - 49:32.0] I'm pretty sure.
+[49:32.0 - 49:33.7] I'm pretty sure.
+[49:33.7 - 49:35.3] But that's what I'm saying.
+[49:35.3 - 49:35.4] Wow.
+[49:35.4 - 49:38.1] I know you're gonna do this to every person that I okay.
+[49:38.1 - 49:39.1] I know who...
+[49:39.1 - 49:40.9] I know how you are.
+[49:40.9 - 49:43.9] I'm not mad about it, I'm just trying to nip that in the bud.
+[49:43.9 - 49:48.3] I, I- Can I just tell you, who has the most longest standing regen of anybody?
+[49:48.3 - 49:50.5] I'm not, I'm not opposing what you're saying.
+[49:50.5 - 49:51.9] I'm just trying to- All right.
+[49:51.9 - 49:53.0] All right.
+[49:53.0 - 49:53.2] Let's calm down, bro.
+[49:53.2 - 49:53.4] I ain't that serious.
+[49:53.4 - 49:54.1] Well, because I...
+[49:54.1 - 49:59.2] That, that's all I'm saying is I, I would appreciate it if you could help me during this so we could not waste time.
+[49:59.2 - 49:59.6] Yeah.
+[49:59.6 - 50:03.4] Because I just called this girl, and I was like, "Hey, Nicole called- And you found something wrong with her, I know it ...
+[50:03.4 - 50:07.4] uh, calling about the assistant manager position, and this and that.
+[50:07.4 - 50:17.4] Are you still available?" And she was like, "Uh, yeah." And then I was like, "Are you moving?" She's like, "Yeah." And you know, it could be me, 'cause I'm dry
+[50:17.4 - 50:18.2] calling them right now.
+[50:18.2 - 50:20.0] I don't really have my notes out or anything.
+[50:20.0 - 50:24.3] But she was like, "How long is this hiring process gonna take?" She was fucking weird.
+[50:24.3 - 50:25.6] You can say it, it's fine.
+[50:25.6 - 50:35.5] Well, it could've just been me, but you know, "How long is this hiring process gonna take?" And I was like, "Um, what?" Desiree, I, I don't, I don't think it's anything, but I just think if you guys don't find them, you're gonna...
+[50:35.5 - 50:37.5] You and Ginger are gonna feel this way about everybody.
+[50:37.5 - 50:38.9] And I don't think it's a bad thing.
+[50:38.9 - 50:39.8] Well, Ginger feel the same way?
+[50:39.8 - 50:40.7] No, but I don't...
+[50:40.7 - 50:43.0] I'm not saying it's a bad thing, so don't take it like that.
+[50:43.0 - 50:43.0] Okay.
+[50:43.0 - 50:45.3] I just feel that you guys- I'm not taking it like...
+[50:45.3 - 50:46.1] Dude, you have...
+[50:46.1 - 50:47.2] You think I take it like that?
+[50:47.2 - 50:48.0] I don't even care.
+[50:48.0 - 50:48.4] Okay.
+[50:48.4 - 50:49.8] Well, I think that you...
+[50:49.8 - 50:50.5] That's what I'm saying.
+[50:50.5 - 50:59.4] I don't know why you guys just don't do it, because- No, I was just calling to say, like, sometimes the things that she thinks are good, they're not good for us.
+[50:59.4 - 51:00.6] And I'm gonna tell you...
+[51:00.6 - 51:03.5] I just wanted to tell you why, so you could look out while you're doing it.
+[51:03.5 - 51:04.0] Mm-hmm.
+[51:04.0 - 51:11.0] Like, another girl she sent, she was, like, over the housing people.
+[51:11.0 - 51:11.6] Cordell.
+[51:11.6 - 51:13.1] Did you interview that lady?
+[51:13.1 - 51:14.2] No.
+[51:14.2 - 51:16.2] Who was like- So which property?
+[51:16.2 - 51:18.3] Thomasville.
+[51:18.3 - 51:19.9] Hmm, I don't know.
+[51:19.9 - 51:20.8] Maybe.
+[51:20.8 - 51:30.9] So for instance, when I look at the resume and I see, "Worked at Cordell for six years," and quit because of something or whatever, and then this, that, and the other, I'm thinking to myself, Cordell
+[51:30.9 - 51:31.4] funds us.
+[51:31.4 - 51:36.5] They're the people that come and do all of our inspections, all of our MORs, all that stuff.
+[51:36.5 - 51:42.0] Why would I want a person that worked for them to come in when we do all kinds of shady shit?
+[51:42.0 - 51:43.4] Right?
+[51:43.4 - 51:49.2] That could just call the contact as soon as they get mad and don't like something we do, and then, like, turn us in.
+[51:49.2 - 51:51.6] So I have to, like, remember all that stuff.
+[51:51.6 - 51:53.9] Like, those are the things that need to be looked out for.
+[51:53.9 - 51:57.4] And when I sent it to her, I was like, "This could be a good and a bad thing," you know?
+[51:57.4 - 52:05.6] Yeah, I think, I think she, I think she- It's good if they know about like housing, but I don't think it's good if they worked at the place that controls our whole thing.
+[52:05.6 - 52:07.3] Yeah, I think she noted that too.
+[52:07.3 - 52:12.9] Like, I think the girl said she left because they were doing shady shit or something like that.
+[52:12.9 - 52:15.9] Nicole was like, "I don't know if that's a good thing." Yeah.
+[52:15.9 - 52:17.5] Like if, if we're talking about the same person.
+[52:17.5 - 52:18.1] Yeah.
+[52:18.1 - 52:23.4] I mean, this, this person could be exactly like you- She had a friggin' mustache.
+[52:23.4 - 52:24.9] Oh, my God.
+[52:24.9 - 52:28.3] She ugly too?
+[52:28.3 - 52:29.3] Damn.
+[52:29.3 - 52:32.2] Dude, she has bigger mustache than JR.
+[52:32.2 - 52:33.6] How is JR, by the way?
+[52:33.6 - 52:34.5] Oh, yeah.
+[52:34.5 - 52:35.2] He's all right.
+[52:35.2 - 52:35.8] Still a dick.
+[52:35.8 - 52:37.2] Is he still a dick?
+[52:37.2 - 52:38.2] I'm not asking that.
+[52:38.2 - 52:41.4] I'm asking about, is he, is he back, is he back on, is he back on the ground?
+[52:41.4 - 52:44.1] Yeah, he's back on the ground.
+[52:44.1 - 52:44.8] Oh, that's cool.
+[52:44.8 - 52:45.3] Okay.
+[52:45.3 - 52:46.9] It was rough.
+[52:46.9 - 52:49.6] Um, yeah.
+[52:49.6 - 52:55.6] And then also we need to start figuring out what the fuck's happening with apartment court, Apartment Fest, because...
+[52:55.6 - 52:57.7] Ah.
+[52:57.7 - 53:00.1] That's another monster that we need to get on.
+[53:00.1 - 53:02.4] Fuck, dude, this is- I keep...
+[53:02.4 - 53:02.8] I don't know.
+[53:02.8 - 53:04.7] I just keep telling y'all, like, we definitely gotta figure it out.
+[53:04.7 - 53:04.7] But- I know.
+[53:04.7 - 53:05.8] I, I understand.
+[53:05.8 - 53:10.5] But the thing is, is that we have, you have Todd and Miles that want their- Are we doing different rooms?
+[53:10.5 - 53:12.0] Did we decide that?
+[53:12.0 - 53:13.2] Yeah.
+[53:13.2 - 53:13.5] Yeah.
+[53:13.5 - 53:15.9] We're gonna get- Were we supposed to get on a call with Blake to do that tonight?
+[53:15.9 - 53:22.5] I know, but then you have Miles and Todd that wanna put stuff into a cube, and then, and then- Yeah, but the thing is, Robert, you have to...
+[53:22.5 - 53:29.8] Sometimes you gotta go bypass that and get me, Blake, Ginger, and you on the phone, Ethan, whatever, and we talk about everything- I'll get him on ...
+[53:29.8 - 53:34.7] we wanna get together and do, and then we present it to them and let them make the decision.
+[53:34.7 - 53:36.1] All right.
+[53:36.1 - 53:37.6] Okay.
+[53:37.6 - 53:38.6] I think we have to do that.
+[53:38.6 - 53:40.6] Oh, God, dude.
+[53:40.6 - 53:44.3] And Gennady's gonna be there too.
+[53:44.3 - 53:47.5] Yeah, we present it to everybody.
+[53:47.5 - 53:49.3] We figure it out, then we tell everybody.
+[53:49.3 - 53:50.1] All right.
+[53:50.1 - 53:53.4] Well, it has to be done sometime soon, because- Me, you, Ginger, and Blake.
+[53:53.4 - 53:54.1] All right.
+[53:54.1 - 53:55.8] And Ethan 'cause he's helping you, I guess.
+[53:55.8 - 53:57.2] Like, right?
+[53:57.2 - 53:58.1] Aren't you helping?
+[53:58.1 - 53:58.8] I don't know what he's doing.
+[53:58.8 - 53:59.5] I don't give a shit.
+[53:59.5 - 53:59.9] What about Adrian?
+[53:59.9 - 54:00.3] ...
+[54:00.3 - 54:04.6] quit, and the other dude, he told me he called her, so I'm so confused on what's going on over there.
+[54:04.6 - 54:05.4] Yeah, you're having...
+[54:05.4 - 54:09.9] David's noticed, and we hired somebody else, but he's just driving right now.
+[54:09.9 - 54:10.3] Gotcha.
+[54:10.3 - 54:12.4] What, what happened to the other dude?
+[54:12.4 - 54:13.3] Brandon?
+[54:13.3 - 54:14.0] Is he still around?
+[54:14.0 - 54:22.3] Yeah, he just got put on ice with you, so not really trying to interact.
+[54:22.3 - 54:24.5] Yeah, you won that one.
+[54:24.5 - 54:31.7] Your turn.
+[54:31.7 - 54:32.2] I know, but he...
+[54:32.2 - 54:35.5] I, I, I would've signed the contract like nine times for you.
+[54:35.5 - 54:38.4] Oh, good.
+[54:38.4 - 54:40.5] By like, by like ten different people.
+[54:40.5 - 54:43.4] That's true.
+[54:43.4 - 54:46.5] Oh, my God.
+[54:46.5 - 54:49.6] Dude, it wasn't even me though this time, right?
+[54:49.6 - 54:50.9] No, I'll give you that.
+[54:50.9 - 54:51.3] It wasn't.
+[54:51.3 - 54:55.8] I mean, I'm, I'm pretty good at my own shit, but damn, this dude's good at me.
+[54:55.8 - 54:57.5] Take care of it.
+[54:57.5 - 54:59.3] Okay, motherfucker.
+[54:59.3 - 55:02.1] I'm gonna take care of it just like that.
+[55:02.1 - 55:04.1] And then, and then your husband chimes in.
+[55:04.1 - 55:06.0] This dude.
+[55:06.0 - 55:07.9] Was that not the funniest shit ever?
+[55:07.9 - 55:08.7] Just when I...
+[55:08.7 - 55:09.9] He doesn't even know what he's doing.
+[55:09.9 - 55:14.8] He's like, "This must be the new guy." Oh, God.
+[55:14.8 - 55:17.3] Anyway, I just miss you guys.
+[55:17.3 - 55:18.3] I wanted to talk to you.
+[55:18.3 - 55:19.1] It's been so long.
+[55:19.1 - 55:20.9] Yeah, we miss you too.
+[55:20.9 - 55:23.1] It's gonna be another six months.
+[55:23.1 - 55:25.1] I'm sure.
+[55:25.1 - 55:26.5] What else?
+[55:26.5 - 55:28.4] Anything else I need to know before I hang up?
+[55:28.4 - 55:30.5] Uh, I posted the ad.
+[55:30.5 - 55:31.1] Do you want...
+[55:31.1 - 55:37.3] I, I know what the deal is, but, so do you want me sending it to her or to you or both?
+[55:37.3 - 55:39.7] Uh, no, just to me.
+[55:39.7 - 55:40.3] Yep.
+[55:40.3 - 55:42.3] Okay.
+[55:42.3 - 55:45.8] Um, yeah.
+[55:45.8 - 55:47.3] What else?
+[55:47.3 - 55:48.0] That's it.
+[55:48.0 - 55:49.5] You're not...
+[55:49.5 - 55:52.1] Are you calling maintenance and stuff too, or just managers?
+[55:52.1 - 55:52.9] Just managers.
+[55:52.9 - 55:54.4] Okay.
+[55:54.4 - 56:02.0] So my main focus right now is, uh, Thomasville.
+[56:02.0 - 56:04.2] That's who you're on right now?
+[56:04.2 - 56:06.7] I'm, I'm trying to...
+[56:06.7 - 56:15.9] Every time I go down there with Nicole, I do a little bit, and she trains me in her way, which is like, it's awesome, but you know, there's all that that's involved.
+[56:15.9 - 56:21.9] And then Mark calls me back up here to design another module or deal with Brandon or fucking...
+[56:21.9 - 56:22.2] It's, it's...
+[56:22.2 - 56:22.8] Yeah.
+[56:22.8 - 56:23.9] It's...
+[56:23.9 - 56:26.9] So yeah, and Nicole just told me right now, she's like, "Uh, I'm...
+[56:26.9 - 56:35.9] You're gonna be interviewing when I leave 'cause there's nobody to be doing it, and they want managers." And I said, "Well, I'm including Leslie on this because I think- She's a bitch ...
+[56:35.9 - 56:38.3] just think it would, I just think it would be helpful.
+[56:38.3 - 56:41.0] She's gonna have to give you her login.
+[56:41.0 - 56:41.5] I know.
+[56:41.5 - 56:44.6] Well, just because like her- I know ...
+[56:44.6 - 56:46.9] her Indeed shit, it like- Oh, good point ...
+[56:46.9 - 56:48.3] she's told me to jump- Great ...
+[56:48.3 - 56:50.7] into a meeting before and I have all the credentials.
+[56:50.7 - 56:56.0] Like I have the admin access in Indeed, and it doesn't let you in when it's a meeting that she set up.
+[56:56.0 - 56:57.0] Got it.
+[56:57.0 - 57:00.2] It's some stupid shit, so just remember to grab that.
+[57:00.2 - 57:07.7] Anyway, like this girl that you're gonna probably interview for La Promesa, I'm assuming.
+[57:07.7 - 57:08.7] Yeah.
+[57:08.7 - 57:11.8] Oh, and Asia quit today too, so that's another one.
+[57:11.8 - 57:13.6] She doesn't even know who Asia is.
+[57:13.6 - 57:14.7] Oh.
+[57:14.7 - 57:16.4] That's Ginger's region.
+[57:16.4 - 57:17.5] I, I know who she is.
+[57:17.5 - 57:17.8] I know.
+[57:17.8 - 57:19.4] Oh, I know you know.
+[57:19.4 - 57:19.8] Okay.
+[57:19.8 - 57:20.9] My bad.
+[57:20.9 - 57:21.4] Yeah.
+[57:21.4 - 57:21.8] My bad.
+[57:21.8 - 57:24.2] It says, "What is the largest number of units you managed?
+[57:24.2 - 57:24.9] Ninety-six.
+[57:24.9 - 57:26.5] What is your last MOR score?
+[57:26.5 - 57:31.8] Ninety-six." Not one thing in the resume mentioned about HUD.
+[57:31.8 - 57:35.9] So that's my first tip right there.
+[57:35.9 - 57:38.4] Anyway- Well, I'm gonna be honest with you.
+[57:38.4 - 57:40.3] I'm, I'm going off looks first.
+[57:40.3 - 57:45.6] If they're cute- You gotta go off of Canadian-ish managers first- Well, yeah, that's first.
+[57:45.6 - 57:51.4] But if they're cute and they, and they look like they'll have a good time at Apartment Fest- If they're cute ...
+[57:51.4 - 57:55.7] and they look like they'll have a good time at Apartment Fest, then they're gonna get through the door with me.
+[57:55.7 - 57:56.9] Listen, bro.
+[57:56.9 - 58:00.5] That doesn't sound like a fiancé to me.
+[58:00.5 - 58:04.7] I'm just saying, dude.
+[58:04.7 - 58:06.5] First and foremost.
+[58:06.5 - 58:09.0] But you wanted me to hire the AI girl.
+[58:09.0 - 58:10.9] She wasn't AI, dude.
+[58:10.9 - 58:12.6] She was fucking AI, bro.
+[58:12.6 - 58:15.1] She was- Her name- She was- I promise.
+[58:15.1 - 58:15.9] Something was wrong.
+[58:15.9 - 58:21.5] She, her name was, uh, Abu Dhabi from somewhere else, and that was not her picture.
+[58:21.5 - 58:22.9] You were just hating, dude.
+[58:22.9 - 58:26.8] No, I'm too old to hate these days.
+[58:26.8 - 58:30.5] I'm past that.
+[58:30.5 - 58:35.0] Um, property manager.
+[58:35.0 - 58:36.2] All right.
+[58:36.2 - 58:39.0] Is anybody on the groundkeeper for Quincy?
+[58:39.0 - 58:40.8] Has anybody seen anything for that?
+[58:40.8 - 58:42.5] I'm doing all those.
+[58:42.5 - 58:43.1] Don't worry.
+[58:43.1 - 58:45.3] There's 79 of them.
+[58:45.3 - 58:46.7] She's so full of shit over there.
+[58:46.7 - 58:48.7] She just tells me what I wanna hear all the time.
+[58:48.7 - 58:56.5] No wonder she- Well, I already sent her that many too, and she just constantly says they don't answer the phone or some shit- She's a liar ...
+[58:56.5 - 58:57.8] and it's like, well- She's a liar.
+[58:57.8 - 58:58.2] I'm gonna...
+[58:58.2 - 59:00.9] I can find one tomorrow with the- I know.
+[59:00.9 - 59:06.3] But so I like put that one on the backburner compared to everything else because I don't know.
+[59:06.3 - 59:07.4] Like- No, I know.
+[59:07.4 - 59:12.0] It's just that she's full of shit and doesn't do them.
+[59:12.0 - 59:12.4] All right.
+[59:12.4 - 59:13.8] That's it for the day, fellas.
+[59:13.8 - 59:14.4] Thank you.
+[59:14.4 - 59:20.8] Oh, I wanted to tell you that, um, there's this new thing inside of the, uh, inspection software.
+[59:20.8 - 59:22.4] Mm-hmm.
+[59:22.4 - 59:28.8] And for the, for the managers that haven't done them in two months, um, I'm gonna...
+[59:28.8 - 59:29.1] They're...
+[59:29.1 - 59:32.7] Mark wants me to assign the units for them now.
+[59:32.7 - 59:37.5] So now they will be assigned the units that they're gonna...
+[59:37.5 - 59:38.9] And I'm gonna fucking spread them out.
+[59:38.9 - 59:41.2] For them not doing them, they're gonna be spread out.
+[59:41.2 - 59:44.3] They're gonna be walking across the whole fucking property.
+[59:44.3 - 59:49.9] And then if they don't do them, they're gonna get written up, 'cause some of them haven't done them in two months, and I'm not gonna get in trouble for them.
+[59:49.9 - 59:52.6] So now- Fuck them.
+[59:52.6 - 59:53.4] You know what I'm saying?
+[59:53.4 - 59:54.5] I'm so sick and tired.
+[59:54.5 - 59:56.6] So I send out emails.
+[59:56.6 - 59:59.7] I send out regional group chats
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-15-11-13_transcription_20260705_194228.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-15-11-13_transcription_20260705_194228.txt
+[2J[H[3Jmanus-speech-to-text mp3/ROSE-REC2_Tuesday_V2026-06-30-15-11-13.mp3
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_Tuesday_V2026-06-30-15-11-13.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-15-11-13_chunks_20260705_194038/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-15-11-13_chunks_20260705_194038/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-15-11-13_chunks_20260705_194038/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-15-11-13_chunks_20260705_194038/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-15-11-13_chunks_20260705_194038/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[57:38.4 - 57:40.3] I'm, I'm going off looks first.
+[57:40.3 - 57:45.6] If they're cute- You gotta go off of Canadian-ish managers first- Well, yeah, that's first.
+[57:45.6 - 57:51.4] But if they're cute and they, and they look like they'll have a good time at Apartment Fest- If they're cute ...
+[57:51.4 - 57:55.7] and they look like they'll have a good time at Apartment Fest, then they're gonna get through the door with me.
+[57:55.7 - 57:56.9] Listen, bro.
+[57:56.9 - 58:00.5] That doesn't sound like a fiancé to me.
+[58:00.5 - 58:04.7] I'm just saying, dude.
+[58:04.7 - 58:06.5] First and foremost.
+[58:06.5 - 58:09.0] But you wanted me to hire the AI girl.
+[58:09.0 - 58:10.9] She wasn't AI, dude.
+[58:10.9 - 58:12.6] She was fucking AI, bro.
+[58:12.6 - 58:15.1] She was- Her name- She was- I promise.
+[58:15.1 - 58:15.9] Something was wrong.
+[58:15.9 - 58:21.5] She, her name was, uh, Abu Dhabi from somewhere else, and that was not her picture.
+[58:21.5 - 58:22.9] You were just hating, dude.
+[58:22.9 - 58:26.8] No, I'm too old to hate these days.
+[58:26.8 - 58:30.5] I'm past that.
+[58:30.5 - 58:35.0] Um, property manager.
+[58:35.0 - 58:36.2] All right.
+[58:36.2 - 58:39.0] Is anybody on the groundkeeper for Quincy?
+[58:39.0 - 58:40.8] Has anybody seen anything for that?
+[58:40.8 - 58:42.5] I'm doing all those.
+[58:42.5 - 58:43.1] Don't worry.
+[58:43.1 - 58:45.3] There's 79 of them.
+[58:45.3 - 58:46.7] She's so full of shit over there.
+[58:46.7 - 58:48.7] She just tells me what I wanna hear all the time.
+[58:48.7 - 58:56.5] No wonder she- Well, I already sent her that many too, and she just constantly says they don't answer the phone or some shit- She's a liar ...
+[58:56.5 - 58:57.8] and it's like, well- She's a liar.
+[58:57.8 - 58:58.2] I'm gonna...
+[58:58.2 - 59:00.9] I can find one tomorrow with the- I know.
+[59:00.9 - 59:06.3] But so I like put that one on the backburner compared to everything else because I don't know.
+[59:06.3 - 59:07.4] Like- No, I know.
+[59:07.4 - 59:12.0] It's just that she's full of shit and doesn't do them.
+[59:12.0 - 59:12.4] All right.
+[59:12.4 - 59:13.8] That's it for the day, fellas.
+[59:13.8 - 59:14.4] Thank you.
+[59:14.4 - 59:20.8] Oh, I wanted to tell you that, um, there's this new thing inside of the, uh, inspection software.
+[59:20.8 - 59:22.4] Mm-hmm.
+[59:22.4 - 59:28.8] And for the, for the managers that haven't done them in two months, um, I'm gonna...
+[59:28.8 - 59:29.1] They're...
+[59:29.1 - 59:32.7] Mark wants me to assign the units for them now.
+[59:32.7 - 59:37.5] So now they will be assigned the units that they're gonna...
+[59:37.5 - 59:38.9] And I'm gonna fucking spread them out.
+[59:38.9 - 59:41.2] For them not doing them, they're gonna be spread out.
+[59:41.2 - 59:44.3] They're gonna be walking across the whole fucking property.
+[59:44.3 - 59:49.9] And then if they don't do them, they're gonna get written up, 'cause some of them haven't done them in two months, and I'm not gonna get in trouble for them.
+[59:49.9 - 59:52.6] So now- Fuck them.
+[59:52.6 - 59:53.4] You know what I'm saying?
+[59:53.4 - 59:54.5] I'm so sick and tired.
+[59:54.5 - 59:56.6] So I send out emails.
+[59:56.6 - 59:59.7] I send out regional group chats
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-15-11-13_transcription_20260705_194228.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-15-11-13_transcription_20260705_194228.txt

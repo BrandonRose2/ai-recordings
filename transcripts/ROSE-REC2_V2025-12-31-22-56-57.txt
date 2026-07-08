@@ -1,0 +1,45 @@
+Starting Speech-to-Text conversion...
+Audio file size (6.2MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 6.22 MB, duration: 1086.9 seconds
+Splitting into 2 chunks (each ~543.5 seconds, max 5 MB)...
+Successfully split into 2 chunks
+Audio file split into 2 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2025-12-31-22-56-57.mp3, file size: 6.22 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 2 chunks...
+
+Transcribing chunk 1/2: .ROSE-REC2_V2025-12-31-22-56-57_chunks_20260706_160625/chunk_000.mp3
+Chunk 1 completed (duration: 543.4s)
+
+Transcribing chunk 2/2: .ROSE-REC2_V2025-12-31-22-56-57_chunks_20260706_160625/chunk_001.mp3
+Chunk 2 completed (duration: 543.2s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 1086.6 seconds
+Language: eng
+Total Chunks: 2
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-31-22-56-57_transcription_20260706_160632.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-31-22-56-57_transcription_20260706_160632.txt
+[2J[H[3Jmanus-speech-to-text ROSE-REC2_V2025-12-31-22-56-57.mp3
+Starting Speech-to-Text conversion...
+Audio file size (6.2MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 6.22 MB, duration: 1086.9 seconds
+Splitting into 2 chunks (each ~543.5 seconds, max 5 MB)...
+Successfully split into 2 chunks
+Audio file split into 2 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2025-12-31-22-56-57.mp3, file size: 6.22 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 2 chunks...
+Transcribing chunk 1/2: .ROSE-REC2_V2025-12-31-22-56-57_chunks_20260706_160625/chunk_000.mp3
+Chunk 1 completed (duration: 543.4s)
+Transcribing chunk 2/2: .ROSE-REC2_V2025-12-31-22-56-57_chunks_20260706_160625/chunk_001.mp3
+Chunk 2 completed (duration: 543.2s)
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-31-22-56-57_transcription_20260706_160632.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-31-22-56-57_transcription_20260706_160632.txt

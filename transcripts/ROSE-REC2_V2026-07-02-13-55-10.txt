@@ -1,0 +1,303 @@
+Starting Speech-to-Text conversion...
+Audio file size (27.5MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 64 kbps
+Audio file size: 27.47 MB, duration: 3600.1 seconds
+Splitting into 6 chunks (each ~600.0 seconds, max 5 MB)...
+Successfully split into 6 chunks
+Audio file split into 6 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_V2026-07-02-13-55-10.mp3, file size: 27.47 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 6 chunks...
+
+Transcribing chunk 1/6: mp3/.ROSE-REC2_V2026-07-02-13-55-10_chunks_20260706_165252/chunk_000.mp3
+Chunk 1 completed (duration: 600.0s)
+
+Transcribing chunk 2/6: mp3/.ROSE-REC2_V2026-07-02-13-55-10_chunks_20260706_165252/chunk_001.mp3
+Chunk 2 completed (duration: 600.0s)
+
+Transcribing chunk 3/6: mp3/.ROSE-REC2_V2026-07-02-13-55-10_chunks_20260706_165252/chunk_002.mp3
+Chunk 3 completed (duration: 600.0s)
+
+Transcribing chunk 4/6: mp3/.ROSE-REC2_V2026-07-02-13-55-10_chunks_20260706_165252/chunk_003.mp3
+Chunk 4 completed (duration: 600.0s)
+
+Transcribing chunk 5/6: mp3/.ROSE-REC2_V2026-07-02-13-55-10_chunks_20260706_165252/chunk_004.mp3
+Chunk 5 completed (duration: 600.0s)
+
+Transcribing chunk 6/6: mp3/.ROSE-REC2_V2026-07-02-13-55-10_chunks_20260706_165252/chunk_005.mp3
+Chunk 6 completed (duration: 599.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.7 seconds
+Language: eng
+Total Chunks: 6
+Timestamped segments:
+[40:17.7 - 40:21.0] What's up, man?
+[40:21.0 - 40:21.8] Hello.
+[40:21.8 - 40:23.3] That's how you come in here.
+[40:23.3 - 40:27.3] Appreciate it, sir.
+[40:27.3 - 40:29.7] Treat me better, man.
+[40:29.7 - 40:30.7] Good.
+[40:30.7 - 40:32.1] You know, if you give me this.
+[40:32.1 - 40:34.5] So yeah, you want to...
+[40:34.5 - 41:36.4] How
+[41:36.4 - 41:38.3] was, uh, lunch today?
+[41:38.3 - 41:38.5] Huh?
+[41:38.5 - 41:48.6] I didn't think much of that.
+[41:48.6 - 41:49.5] Oh.
+[41:49.5 - 41:52.2] Is that pretty good?
+[41:52.2 - 41:52.5] No.
+[41:52.5 - 41:53.8] How'd she do?
+[41:53.8 - 41:56.2] Well, she had competition.
+[41:56.2 - 41:58.6] Oh.
+[41:58.6 - 42:06.8] Yeah, sometimes they're like, "You're doing..." Oh, okay.
+[42:06.8 - 42:12.2] But, um, so yeah, we're taking her over tomorrow, Saturday.
+[42:12.2 - 42:13.2] For the horse park?
+[42:13.2 - 42:13.9] Yes.
+[42:13.9 - 42:14.5] Oh, okay.
+[42:14.5 - 42:17.5] Well, I was gonna-- I was about to ask what you're doing for the fourth, but- Yeah.
+[42:17.5 - 42:18.4] -I guess that answers me.
+[42:18.4 - 42:20.2] You're gonna be driving a fourteen-year-old.
+[42:20.2 - 42:20.7] Yeah.
+[42:20.7 - 42:24.0] Well, it's still more, more eventful than what I'm doing.
+[42:24.0 - 42:28.8] Which is exactly what I wanna be doing, nothing.
+[42:28.8 - 42:30.4] Nothing's wrong.
+[42:30.4 - 42:30.7] Yeah.
+[42:30.7 - 42:32.5] It's all-- I'm all for nothing.
+[42:32.5 - 42:34.2] Cleaning.
+[42:34.2 - 48:54.5] I'm
+[48:54.5 - 48:55.2] outta here.
+[48:55.2 - 48:55.8] All right.
+[48:55.8 - 48:59.2] You have a good little bit of a weekend it sounds like you have.
+[48:59.2 - 49:01.7] Ashley said-- she's texting me right now.
+[49:01.7 - 49:02.4] She goes, "Hi, Chicago.
+[49:02.4 - 49:03.7] Go home early today.
+[49:03.7 - 49:06.0] Can you start to prepare for next week?" Oh, nice.
+[49:06.0 - 49:06.6] Yeah.
+[49:06.6 - 49:08.2] That's what she, that's what she says.
+[49:08.2 - 49:08.9] Yeah.
+[49:08.9 - 49:10.9] You're not gonna do anything this- Did she put my name in that text?
+[49:10.9 - 49:12.6] Yeah.
+[49:12.6 - 49:13.3] She Brandon too?
+[49:13.3 - 49:14.2] Yeah, she put Brandon.
+[49:14.2 - 49:23.3] "Tell Brandon he's been working very hard." "He owes it to the company, so he should, you know, take some time off." Oh, she- She also said she's gonna give you a raise.
+[49:23.3 - 49:24.6] Oh, even better.
+[49:24.6 - 49:25.0] Yeah.
+[49:25.0 - 49:26.1] That'd be the most- She thinks I deserve it ...
+[49:26.1 - 49:27.9] that'd be the most words she's ever spoken to me.
+[49:27.9 - 49:29.5] Yeah.
+[49:29.5 - 49:30.0] All right, bro.
+[49:30.0 - 49:30.9] Okay, you be good.
+[49:30.9 - 49:31.5] All right, man.
+[49:31.5 - 49:32.0] See ya.
+[49:32.0 - 49:33.6] You're not gonna do nothing this weekend?
+[49:33.6 - 49:34.3] Nope.
+[49:34.3 - 49:35.9] Nope, not at all.
+[49:35.9 - 49:38.8] I, I wish that I would've put together that we had Friday off.
+[49:38.8 - 49:42.4] I might have flown back to Texas 'cause my parents, they always do a huge fireworks show.
+[49:42.4 - 49:46.1] They like get like $20,000 worth of fireworks with their, their friends.
+[49:46.1 - 49:46.8] Damn.
+[49:46.8 - 49:48.2] And it's always a big show, but...
+[49:48.2 - 49:50.0] How many do you spend, almost, on fireworks?
+[49:50.0 - 49:52.9] Well, it's like four of them- I'm leaving.
+[49:52.9 - 49:52.9] I'm outta here ...
+[49:52.9 - 49:55.0] like four of you spend like 5,000, yeah.
+[49:55.0 - 49:57.3] You be good.
+[49:57.3 - 49:58.6] Take care.
+[49:58.6 - 49:58.8] Take care.
+[50:09.3 - 50:11.6] You can probably get a last minute appointment.
+[50:11.6 - 50:12.0] Huh?
+[50:12.0 - 50:14.6] I said you can probably get a last minute appointment.
+[50:14.6 - 50:16.4] Yeah.
+[50:16.4 - 50:19.7] Could, I guess.
+[50:19.7 - 50:30.4] So after you turn the thing
+[50:30.4 - 50:32.7] on the weekend, it'll probably pop up.
+[50:32.7 - 50:33.8] But if you turn it on, it'll probably...
+[50:33.8 - 50:34.3] It'll just come on the front there where the little thing that pops up and just go side.
+[50:34.3 - 50:34.3] It'll have- It'll have a little two?
+[50:34.3 - 50:34.6] Yeah.
+[50:34.6 - 50:36.5] It'll, it'll just come up on here.
+[50:36.5 - 50:40.7] It'll say like, you know, it's gonna go off, and then you just like click it.
+[50:40.7 - 50:45.6] It'll have like this thing that say armed, and then you just have-- It'll...
+[50:45.6 - 50:49.3] I'm pretty sure it just gives you the thing to punch in the code.
+[50:49.3 - 50:53.3] If not, you just have to literally like touch the thing like that- Yeah ...
+[50:53.3 - 50:55.0] instead of this coming up, the like big thing.
+[50:55.0 - 50:58.4] And it just being like zero to, I mean, zero, five, zero two.
+[50:58.4 - 50:58.9] Yeah, exactly.
+[50:58.9 - 50:59.1] Okay.
+[50:59.1 - 51:06.1] You can double-check really quick because Abraham was coming in on the weekend, so I'm pretty sure that's how it is.
+[51:06.1 - 51:09.4] It's been a minute since I've had the alarm about to go off on me.
+[51:09.4 - 51:10.0] Yeah.
+[51:10.0 - 51:12.9] So you could just double-check with him that I'm not like misleading you.
+[51:12.9 - 51:13.1] Yeah.
+[51:13.1 - 51:15.7] But I'm pretty sure it's just that.
+[51:15.7 - 51:17.3] Yeah, that's all I had to do one time.
+[51:17.3 - 51:17.7] Oh, yeah.
+[51:17.7 - 51:18.2] There you go.
+[51:18.2 - 51:19.1] Yeah, yeah, you did it.
+[51:19.1 - 51:20.3] Zero, five, zero, two.
+[51:20.3 - 51:21.7] I actually set it off one time.
+[51:21.7 - 51:22.3] Right.
+[51:22.3 - 51:25.7] But it just comes up, and then you just touch it, and then it has the keypad.
+[51:25.7 - 51:26.3] Yeah, yeah.
+[51:26.3 - 51:28.3] It might even just go straight to the keypad.
+[51:28.3 - 51:28.8] I can't remember.
+[51:28.8 - 51:29.2] Yeah.
+[51:29.2 - 51:29.5] Right.
+[51:29.5 - 51:30.3] So it- It's one of the two ...
+[51:30.3 - 51:31.1] go straight to keypad.
+[51:31.1 - 51:33.8] If it doesn't, you just tap the armed thing and do it.
+[51:33.8 - 51:34.2] Yeah.
+[51:34.2 - 51:37.7] And then, um, and then, yeah, I mean, it's not a big deal.
+[51:37.7 - 51:38.8] But when you're leaving- Yeah ...
+[51:38.8 - 51:42.7] you could just do the thing and say click here to arm it again- Yeah ...
+[51:42.7 - 51:44.3] like how I was just doing.
+[51:44.3 - 51:44.3] Yeah.
+[51:44.3 - 51:45.5] And it asks you to like arm it.
+[51:45.5 - 51:45.8] Yeah.
+[51:45.8 - 51:49.4] And then it gives you ten seconds to walk out, so you don't have to put the keypad.
+[51:49.4 - 51:55.0] But if you don't remember that, it'll res- it'll reset itself at like midnight before the next day.
+[51:55.0 - 51:55.5] Perfect.
+[51:55.5 - 51:56.2] All right.
+[51:56.2 - 51:57.2] Thank you.
+[51:57.2 - 52:03.1] All right, have a good weekend.
+[52:03.1 - 52:04.0] Take care.
+[52:04.0 - 52:07.1] All right, bro.
+[52:07.1 - 52:21.2] All
+[52:21.2 - 52:21.6] right, Brian.
+[52:21.6 - 52:22.1] See ya.
+[52:22.1 - 52:22.7] See ya.
+[52:22.7 - 52:23.4] Have a good one.
+[52:23.4 - 54:10.8] Huh.
+[54:10.8 - 55:13.0] Is
+[55:13.0 - 55:14.2] Santiago home?
+[55:14.2 - 55:14.9] He just left.
+[55:14.9 - 55:15.6] He went home.
+[55:15.6 - 55:17.4] Ellie told him to go home.
+[55:17.4 - 56:43.0] You
+[56:43.0 - 57:03.7] should always Okay.
+[57:03.7 - 57:05.1] What happened?
+[57:05.1 - 57:08.4] Ellie said, "Oh, you can go home early." Bitch.
+[57:08.4 - 57:09.6] She.
+[57:09.6 - 57:12.0] Since you started early, you can go home early.
+[57:12.0 - 57:13.9] Damn.
+[57:13.9 - 57:15.4] Told me to go home early.
+[57:15.4 - 57:22.7] Go home early.
+[57:22.7 - 57:24.7] That's three more words than she's ever said to me.
+[57:24.7 - 57:30.5] Mark was here, and Mark was attacking me.
+[57:30.5 - 57:37.7] There was nothing he, he just got home, and he was like I said, he was just like, "Oh," and then walked back and then went to do the feedback.
+[57:37.7 - 57:41.6] And I guess like I said, it's cool now because Mark's not around, but- Yeah, yeah, yeah.
+[57:41.6 - 57:42.5] I mean, it's true.
+[57:42.5 - 57:42.8] It really is.
+[57:42.8 - 57:44.4] You were something else.
+[57:44.4 - 57:49.8] But it's just dumb because then Mark, like, Mark hired me and told me that Ellie was my boss.
+[57:49.8 - 57:50.4] You?
+[57:50.4 - 57:50.9] Yeah.
+[57:50.9 - 58:01.3] He's like, "Ellie's also your boss," and then he goes and like has shit fits when you listen to her, when he then portrays and paints it every which way that she is someone's boss.
+[58:01.3 - 58:04.7] It's like, well, you're not my favorite bro.
+[58:04.7 - 58:06.5] Come on.
+[58:06.5 - 58:12.2] Okay.
+[58:12.2 - 58:16.0] Oh, hey.
+[58:16.0 - 58:20.7] What's up?
+[58:20.7 - 58:23.0] Um.
+[58:23.0 - 58:32.4] Hmm.
+[58:32.4 - 58:36.8] Thank you.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2026-07-02-13-55-10_transcription_20260706_165435.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2026-07-02-13-55-10_transcription_20260706_165435.txt
+[2J[H[3Jmanus-speech-to-text mp3/ROSE-REC2_V2026-07-02-13-55-10.mp3
+Starting Speech-to-Text conversion...
+Audio file size (27.5MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 64 kbps
+Audio file size: 27.47 MB, duration: 3600.1 seconds
+Splitting into 6 chunks (each ~600.0 seconds, max 5 MB)...
+Successfully split into 6 chunks
+Audio file split into 6 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_V2026-07-02-13-55-10.mp3, file size: 27.47 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 6 chunks...
+Transcribing chunk 1/6: mp3/.ROSE-REC2_V2026-07-02-13-55-10_chunks_20260706_165252/chunk_000.mp3
+Chunk 1 completed (duration: 600.0s)
+Transcribing chunk 2/6: mp3/.ROSE-REC2_V2026-07-02-13-55-10_chunks_20260706_165252/chunk_001.mp3
+Chunk 2 completed (duration: 600.0s)
+Transcribing chunk 3/6: mp3/.ROSE-REC2_V2026-07-02-13-55-10_chunks_20260706_165252/chunk_002.mp3
+Chunk 3 completed (duration: 600.0s)
+Transcribing chunk 4/6: mp3/.ROSE-REC2_V2026-07-02-13-55-10_chunks_20260706_165252/chunk_003.mp3
+Chunk 4 completed (duration: 600.0s)
+Transcribing chunk 5/6: mp3/.ROSE-REC2_V2026-07-02-13-55-10_chunks_20260706_165252/chunk_004.mp3
+Chunk 5 completed (duration: 600.0s)
+Transcribing chunk 6/6: mp3/.ROSE-REC2_V2026-07-02-13-55-10_chunks_20260706_165252/chunk_005.mp3
+Chunk 6 completed (duration: 599.7s)
+
+Snippet of transcribed content:
+[51:22.3 - 51:25.7] But it just comes up, and then you just touch it, and then it has the keypad.
+[51:25.7 - 51:26.3] Yeah, yeah.
+[51:26.3 - 51:28.3] It might even just go straight to the keypad.
+[51:28.3 - 51:28.8] I can't remember.
+[51:28.8 - 51:29.2] Yeah.
+[51:29.2 - 51:29.5] Right.
+[51:29.5 - 51:30.3] So it- It's one of the two ...
+[51:30.3 - 51:31.1] go straight to keypad.
+[51:31.1 - 51:33.8] If it doesn't, you just tap the armed thing and do it.
+[51:33.8 - 51:34.2] Yeah.
+[51:34.2 - 51:37.7] And then, um, and then, yeah, I mean, it's not a big deal.
+[51:37.7 - 51:38.8] But when you're leaving- Yeah ...
+[51:38.8 - 51:42.7] you could just do the thing and say click here to arm it again- Yeah ...
+[51:42.7 - 51:44.3] like how I was just doing.
+[51:44.3 - 51:44.3] Yeah.
+[51:44.3 - 51:45.5] And it asks you to like arm it.
+[51:45.5 - 51:45.8] Yeah.
+[51:45.8 - 51:49.4] And then it gives you ten seconds to walk out, so you don't have to put the keypad.
+[51:49.4 - 51:55.0] But if you don't remember that, it'll res- it'll reset itself at like midnight before the next day.
+[51:55.0 - 51:55.5] Perfect.
+[51:55.5 - 51:56.2] All right.
+[51:56.2 - 51:57.2] Thank you.
+[51:57.2 - 52:03.1] All right, have a good weekend.
+[52:03.1 - 52:04.0] Take care.
+[52:04.0 - 52:07.1] All right, bro.
+[52:07.1 - 52:21.2] All
+[52:21.2 - 52:21.6] right, Brian.
+[52:21.6 - 52:22.1] See ya.
+[52:22.1 - 52:22.7] See ya.
+[52:22.7 - 52:23.4] Have a good one.
+[52:23.4 - 54:10.8] Huh.
+[54:10.8 - 55:13.0] Is
+[55:13.0 - 55:14.2] Santiago home?
+[55:14.2 - 55:14.9] He just left.
+[55:14.9 - 55:15.6] He went home.
+[55:15.6 - 55:17.4] Ellie told him to go home.
+[55:17.4 - 56:43.0] You
+[56:43.0 - 57:03.7] should always Okay.
+[57:03.7 - 57:05.1] What happened?
+[57:05.1 - 57:08.4] Ellie said, "Oh, you can go home early." Bitch.
+[57:08.4 - 57:09.6] She.
+[57:09.6 - 57:12.0] Since you started early, you can go home early.
+[57:12.0 - 57:13.9] Damn.
+[57:13.9 - 57:15.4] Told me to go home early.
+[57:15.4 - 57:22.7] Go home early.
+[57:22.7 - 57:24.7] That's three more words than she's ever said to me.
+[57:24.7 - 57:30.5] Mark was here, and Mark was attacking me.
+[57:30.5 - 57:37.7] There was nothing he, he just got home, and he was like I said, he was just like, "Oh," and then walked back and then went to do the feedback.
+[57:37.7 - 57:41.6] And I guess like I said, it's cool now because Mark's not around, but- Yeah, yeah, yeah.
+[57:41.6 - 57:42.5] I mean, it's true.
+[57:42.5 - 57:42.8] It really is.
+[57:42.8 - 57:44.4] You were something else.
+[57:44.4 - 57:49.8] But it's just dumb because then Mark, like, Mark hired me and told me that Ellie was my boss.
+[57:49.8 - 57:50.4] You?
+[57:50.4 - 57:50.9] Yeah.
+[57:50.9 - 58:01.3] He's like, "Ellie's also your boss," and then he goes and like has shit fits when you listen to her, when he then portrays and paints it every which way that she is someone's boss.
+[58:01.3 - 58:04.7] It's like, well, you're not my favorite bro.
+[58:04.7 - 58:06.5] Come on.
+[58:06.5 - 58:12.2] Okay.
+[58:12.2 - 58:16.0] Oh, hey.
+[58:16.0 - 58:20.7] What's up?
+[58:20.7 - 58:23.0] Um.
+[58:23.0 - 58:32.4] Hmm.
+[58:32.4 - 58:36.8] Thank you.
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2026-07-02-13-55-10_transcription_20260706_165435.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2026-07-02-13-55-10_transcription_20260706_165435.txt

@@ -1,0 +1,30 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: downloads/ROSE-REC1_V2026-03-20-11-22-23.mp3, file size: 2.67 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 466.5 seconds
+Language: eng
+Timestamped segments:
+[00:30.8 - 00:32.1] Hello, this is a test.
+[00:32.1 - 00:34.0] Testing, testing, testing.
+[00:34.0 - 00:36.5] Testing, testing, testing.
+[00:36.5 - 00:41.1] Testing one, testing two, testing three.
+[00:41.1 - 00:44.1] Testing this AI device.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/downloads/ROSE-REC1_V2026-03-20-11-22-23_transcription_20260706_231605.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/downloads/ROSE-REC1_V2026-03-20-11-22-23_transcription_20260706_231605.txt
+[2J[H[3Jmanus-speech-to-text downloads/ROSE-REC1_V2026-03-20-11-22-23.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: downloads/ROSE-REC1_V2026-03-20-11-22-23.mp3, file size: 2.67 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:30.8 - 00:32.1] Hello, this is a test.
+[00:32.1 - 00:34.0] Testing, testing, testing.
+[00:34.0 - 00:36.5] Testing, testing, testing.
+[00:36.5 - 00:41.1] Testing one, testing two, testing three.
+[00:41.1 - 00:44.1] Testing this AI device.
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/downloads/ROSE-REC1_V2026-03-20-11-22-23_transcription_20260706_231605.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/downloads/ROSE-REC1_V2026-03-20-11-22-23_transcription_20260706_231605.txt

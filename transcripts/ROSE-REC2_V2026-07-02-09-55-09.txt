@@ -1,0 +1,375 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2026-07-02-09-55-09.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: .ROSE-REC2_V2026-07-02-09-55-09_chunks_20260706_160819/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: .ROSE-REC2_V2026-07-02-09-55-09_chunks_20260706_160819/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: .ROSE-REC2_V2026-07-02-09-55-09_chunks_20260706_160819/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: .ROSE-REC2_V2026-07-02-09-55-09_chunks_20260706_160819/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: .ROSE-REC2_V2026-07-02-09-55-09_chunks_20260706_160819/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.7 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[03:07.8 - 03:08.6] I almost forgot.
+[03:08.6 - 03:10.6] I'm doing interviews and stuff.
+[03:10.6 - 03:10.7] Oh.
+[03:10.7 - 03:10.7] It's what I'm doing.
+[03:10.7 - 03:17.7] This is your first-- last day, and then you're on vacation mode.
+[27:48.9 - 27:49.4] What the fuck?
+[27:49.4 - 28:05.6] It's
+[28:05.6 - 28:06.5] not inside.
+[28:06.5 - 29:52.4] Fuck.
+[29:52.4 - 30:35.7] Yep.
+[30:35.7 - 30:37.3] Go.
+[30:37.3 - 31:08.1] My
+[31:08.1 - 31:08.5] boy.
+[31:08.5 - 31:09.3] Hold on.
+[31:09.3 - 31:09.9] My boy.
+[31:09.9 - 31:10.8] My boy.
+[31:10.8 - 31:13.5] Was it about that email?
+[31:13.5 - 31:16.0] Oh, okay.
+[31:16.0 - 31:18.9] Okay, hold on.
+[31:18.9 - 31:20.0] Uh...
+[31:20.0 - 31:21.7] Oh, okay.
+[31:21.7 - 31:27.6] I was like, I think this is how, but I, I, I couldn't remember because I didn't even look at what it...
+[31:27.6 - 31:29.9] Sometimes they're, like, tucked away in spots.
+[31:29.9 - 31:30.4] My boy made a peptide website.
+[31:30.4 - 31:31.5] But I'm glad you figured it out.
+[31:31.5 - 31:35.8] Ran a backend through Google API- Uh-huh ...
+[31:35.8 - 31:38.1] so that he can charge Zelle.
+[31:38.1 - 31:39.6] Oh, on the back.
+[31:39.6 - 31:41.1] Oh, yep.
+[31:41.1 - 31:41.2] And now it's giving this error.
+[31:41.2 - 31:41.8] Yep, on the back.
+[31:41.8 - 31:44.6] So Powers of Bio is probably what, uh...
+[31:44.6 - 31:44.9] Yeah.
+[31:44.9 - 31:46.6] Um, okay.
+[31:46.6 - 31:47.6] But you figured it out.
+[31:47.6 - 31:51.3] And just in regards to your email, I did remove- So you can't put Google...
+[31:51.3 - 31:53.4] I think you can't publish anything here.
+[31:53.4 - 31:54.3] You need to add the backend ...
+[31:54.3 - 31:54.5] I think that check request still shows up because we didn't change it.
+[31:54.5 - 31:55.9] Maybe it's for another property.
+[31:55.9 - 31:58.0] But I, uh- So there's a little red dot on the publish button ...
+[31:58.0 - 31:59.6] I'll check with Paul on that.
+[31:59.6 - 32:01.3] But I did remove St.
+[32:01.3 - 32:02.7] Charles from Leslie- Um, I would say- ...
+[32:02.7 - 32:03.5] because it's more of a GitHub property ...
+[32:03.5 - 32:04.3] do you have GitHub?
+[32:04.3 - 32:08.4] So it should continue to have it, just so you're- Do you have GitHub?
+[32:08.4 - 32:11.5] I did do that the last time we spoke about it, so.
+[32:11.5 - 32:12.7] Yeah.
+[32:12.7 - 32:17.6] I was saying you could, like, make a re- It's Ginger's property, basically ...
+[32:17.6 - 32:21.0] GitHub repository for this, and then you can- Basically it has a government aspect to it that's called ConTech ...
+[32:21.0 - 32:21.3] use, uh, the...
+[32:21.3 - 32:22.3] Does he use Mac?
+[32:22.3 - 32:23.0] Well, it doesn't matter.
+[32:23.0 - 32:26.0] You can use Docker, and then Docker- Um, Ginger doesn't really do...
+[32:26.0 - 32:26.0] been largely done ...
+[32:26.0 - 32:29.0] has this AI thing called Gordon, and it will- And so there was a time when they were kind of tagging things.
+[32:29.0 - 32:29.0] So for the most part, Ginger's been fine ...
+[32:29.0 - 32:32.1] it'll look over your repository and tell you how to code it to fix it.
+[32:32.1 - 32:35.2] I elected to just remove it from Leslie so that that wasn't- Okay.
+[32:35.2 - 32:39.1] So, so I can show you in here.
+[32:39.1 - 32:40.4] So if you, if you just go to the app.
+[32:40.4 - 32:44.0] Well, that's one way to do it.
+[32:44.0 - 32:45.5] There's probably multiple ways to do it.
+[32:45.5 - 32:48.9] But you may just need to get a, another API key.
+[32:48.9 - 32:51.2] So the, so what's the first thing?
+[32:51.2 - 32:52.9] You have to push everything to GitHub, right?
+[32:52.9 - 32:54.7] Um, so see, this is what I'm talking about.
+[32:54.7 - 32:59.3] Um, I'm gonna install this GitHub that I found on...
+[32:59.3 - 33:01.1] I mean, this repository on GitHub.
+[33:01.1 - 33:09.5] So I gave it a new session, and I said, "Walk me through fixing the errors or installing it." And then I, uh- Let's start from the beginning.
+[33:09.5 - 33:12.1] How does he push his whole fucking project to GitHub?
+[33:12.1 - 33:13.5] He has to sign up with GitHub.
+[33:13.5 - 33:15.3] Uh, where did he do this project, in Manus?
+[33:15.3 - 33:15.7] Manus, yeah.
+[33:15.7 - 33:16.4] Okay, cool.
+[33:16.4 - 33:22.9] Um, he needs to just log into his, um- GitHub ...
+[33:22.9 - 33:25.3] GitHub, make a repository for it.
+[33:25.3 - 33:25.7] For it.
+[33:25.7 - 33:29.6] So, like, just name it, like, website or whatever.
+[33:29.6 - 33:32.6] Um, here, I'll show you so it kind of makes more sense.
+[33:32.6 - 33:36.7] Okay, so what he would do, go to his main page.
+[33:36.7 - 33:40.3] Um, hold on a second.
+[33:40.3 - 33:41.3] Let me just do this.
+[33:41.3 - 33:44.0] Are you familiar with GitHub at all?
+[33:44.0 - 33:44.2] No.
+[33:44.2 - 33:44.5] Huh.
+[33:44.5 - 33:48.5] You should be, you should be pushing all of this to GitHub, dude.
+[33:48.5 - 33:55.3] So- Every, every fucking thing you do so it exists in GitHub inside of Manus just in case if you need to go work on codings like this.
+[33:55.3 - 33:55.4] Absolutely.
+[33:55.4 - 34:00.1] Because then you can sign up with other services and have them overlook it, uh, because you, you...
+[34:00.1 - 34:06.4] Right now, you're, it's only existing in Manus, so you should be pushing all of this to GitHub, so all of this exists in GitHub.
+[34:06.4 - 34:08.7] So sign up with GitHub.
+[34:08.7 - 34:08.8] Okay.
+[34:08.8 - 34:10.6] I'm gonna, I'm gonna record this so he knows how to do it.
+[34:10.6 - 34:11.1] Okay.
+[34:11.1 - 34:13.5] He's gonna re- he's gonna, he's gonna record this, and we're gonna send it to you.
+[34:13.5 - 34:13.8] Okay.
+[34:13.8 - 34:14.9] So he'll- He has to sign a GitHub account ...
+[34:14.9 - 34:19.7] create a new repository, name it, um, website.
+[34:19.7 - 34:21.5] Share screen right now.
+[34:21.5 - 34:22.3] Peptide.
+[34:22.3 - 34:23.8] We're gonna, we're gonna send you the recording.
+[34:23.8 - 34:26.0] And then, um, example.
+[34:26.0 - 34:31.6] And then he's going to hit Create.
+[34:31.6 - 34:39.2] And then he's gonna go to his Manus.
+[34:39.2 - 34:44.5] He's gonna go to the task and, um, let's just do this.
+[34:44.5 - 34:47.7] He's gonna connect his GitHub.
+[34:47.7 - 34:49.2] Hit that.
+[34:49.2 - 34:50.0] Connect it.
+[34:50.0 - 34:59.5] GitHub, and then say, "Push this task to my repo called," and then the name of it.
+[34:59.5 - 35:04.5] So it would be, um, website peptide.
+[35:04.5 - 35:10.6] And then hit Enter.
+[35:10.6 - 35:15.6] And then it will push to GitHub, and then all of the files for this will be in the repository.
+[35:15.6 - 35:18.7] And then he's going to go to- Okay.
+[35:18.7 - 35:20.5] Stop recording right there for, for right there.
+[35:20.5 - 35:21.2] Okay.
+[35:21.2 - 35:22.1] We're gonna send you this recording.
+[35:22.1 - 35:25.4] Do that, and then once you do that, then we'll send you the next step.
+[35:25.4 - 35:27.6] Okay.
+[35:27.6 - 35:29.9] Okay.
+[35:29.9 - 35:30.3] All right.
+[35:30.3 - 35:30.8] I'm gonna send...
+[35:30.8 - 35:33.7] What, send it to what, um, what- I'll just text him it to you.
+[35:33.7 - 35:34.1] What...
+[35:34.1 - 35:35.7] I, I'm gonna, uh...
+[35:35.7 - 35:36.7] Yeah, just text it to him.
+[35:36.7 - 35:37.6] I'm gonna forward it to you.
+[35:37.6 - 35:48.4] And then ultimately someone on GitHub or Harrison outside help is necessary.
+[35:48.4 - 35:51.0] And then he's gonna do, um- Hold on, hold on.
+[35:51.0 - 35:52.8] Yeah.
+[35:52.8 - 35:55.4] Sending you is probably pretty- He use a Mac or what?
+[35:55.4 - 35:56.0] Yeah, he...
+[35:56.0 - 35:57.0] What are you using, Mac?
+[35:57.0 - 35:57.3] Yeah.
+[35:57.3 - 35:59.1] I'm, I'm Mac at home.
+[35:59.1 - 35:59.6] I'm all Mac
+[36:00.1 - 36:01.0] Windows right now.
+[36:01.0 - 36:02.6] Um, I'm at the office.
+[36:02.6 - 36:10.0] Do I-- I can, um...
+[36:10.0 - 36:19.8] Okay, so he's showing you how to create a re- a repo in GitHub and how to push those files to GitHub.
+[36:19.8 - 36:24.2] And then once you do that, then he's gonna show you how to upload those files to what?
+[36:24.2 - 36:24.7] Docker?
+[36:24.7 - 36:25.2] Mm-hmm.
+[36:25.2 - 36:29.6] And then Docker will review all the code and- And then Docker has this thing called Gordon.
+[36:29.6 - 36:30.5] Docker has this thing called Gordon.
+[36:30.5 - 36:34.6] You'll tell it to evaluate that, that repo and tell you how to fix it.
+[36:34.6 - 36:34.8] Yeah.
+[36:34.8 - 36:44.7] It'll-- You'll, you'll, you'll, you'll go to Gordon in Docker, and it'll tell you-- you, you create a new session, and you- I'm giving him the terminal commands to download everything, so he doesn't have to go to websites and do it.
+[36:44.7 - 36:45.8] So he's gonna do it through his terminal.
+[36:45.8 - 36:48.7] I don't think he knows how to use a terminal.
+[36:48.7 - 36:49.2] Do you know how to use your terminal?
+[36:49.2 - 36:50.3] Just copy and paste.
+[36:50.3 - 36:50.4] No.
+[36:50.4 - 36:52.5] Yeah, he doesn't even know how to bring it up.
+[36:52.5 - 36:53.4] That's okay.
+[36:53.4 - 36:55.2] I'll walk him through it.
+[36:55.2 - 36:57.6] Okay, so another recording.
+[36:57.6 - 37:02.5] Going to go to your terminal.
+[37:02.5 - 37:04.4] I'm gonna do a new window.
+[37:04.4 - 37:09.7] Basically, he's just gonna go here, hit copy, hit paste.
+[37:09.7 - 37:11.0] It's gonna install everything.
+[37:11.0 - 37:12.5] He's putting his computer password in.
+[37:12.5 - 37:13.9] It's gonna do all the installation.
+[37:13.9 - 37:14.4] Whoops.
+[37:14.4 - 37:14.7] Yeah.
+[37:14.7 - 37:18.2] Do you know how to bring up your terminal in fucking Mac or, or, or Windows?
+[37:18.2 - 37:21.0] No.
+[37:21.0 - 37:23.3] Come on.
+[37:23.3 - 37:23.8] I'm working.
+[37:23.8 - 37:25.3] Okay, I'll put that in the recording.
+[37:25.3 - 37:27.3] Are you gonna do this at home or at your job?
+[37:27.3 - 37:31.2] I mean, like, what are you gonna do?
+[37:31.2 - 37:32.8] You could just take over his screen.
+[37:32.8 - 37:36.7] It's gonna-- It's gonna-- You're gonna-- If you do that at your job, it's gonna install all these apps.
+[37:36.7 - 37:38.5] I could just take over his screen and do it for him.
+[37:38.5 - 37:40.3] You want, you want me to just take over your screen?
+[37:40.3 - 37:43.2] Yeah, sure.
+[37:43.2 - 37:44.3] Right now at work?
+[37:44.3 - 37:45.4] Sure.
+[37:45.4 - 37:45.9] Okay.
+[37:45.9 - 37:46.5] All right.
+[37:46.5 - 37:51.3] But, um, I gotta research a good website to do for free that I can let you know about, so.
+[37:51.3 - 37:52.2] Uh, I don't.
+[37:52.2 - 37:54.2] Um, he needs to get a screen takeover.
+[37:54.2 - 37:56.1] Hold on.
+[37:56.1 - 37:57.2] I'll just try this first.
+[37:57.2 - 37:59.7] If he-- If this doesn't make sense, then I'll do it.
+[37:59.7 - 37:59.7] Okay.
+[37:59.7 - 38:00.6] He's gonna...
+[38:00.6 - 38:01.3] Did you get the video?
+[38:01.3 - 38:03.0] Yes.
+[38:03.0 - 38:03.3] Okay.
+[38:03.3 - 38:05.0] Sign up for GitHub.
+[38:05.0 - 38:06.5] Do everything that it says on the video.
+[38:06.5 - 38:12.5] Push all your shit from Manus to that Git-- that repository, and then call me back.
+[38:12.5 - 38:14.5] All right.
+[38:14.5 - 38:14.7] Thanks.
+[38:14.7 - 38:14.8] All right.
+[38:14.8 - 38:15.4] Later.
+[38:15.4 - 38:16.0] Thanks.
+[38:16.0 - 38:16.7] Well, I appreciate it.
+[38:16.7 - 38:17.1] Yeah.
+[38:17.1 - 38:18.9] Tell her to fuckin' do it in Mac.
+[38:18.9 - 38:20.3] Perfect.
+[38:20.3 - 38:21.9] Run it.
+[48:45.0 - 48:46.5] So I lost my water bottle.
+[48:46.5 - 48:49.1] Didn't have it over here.
+[48:49.1 - 48:52.8] It's the one with the orange top that it says Maggie.
+[48:52.8 - 48:53.7] Oh.
+[48:53.7 - 48:56.9] Open and hide it or whatever on it.
+[48:56.9 - 48:57.1] Hmm.
+[48:57.1 - 58:36.5] Yello?
+[58:36.5 - 58:38.6] Hey, uh, is PropertyMax down right now?
+[58:38.6 - 58:42.5] Mm, no.
+[58:42.5 - 58:44.8] Yeah, I guess it is.
+[58:44.8 - 58:45.7] Okay.
+[58:45.7 - 58:47.8] I'm gonna send an email to them real quick.
+[58:47.8 - 58:50.5] Yeah, I don't know.
+[58:50.5 - 58:57.1] I-- It was up for me when I was doing things like, um, just a minute ago, but- Video tape me.
+[58:57.1 - 58:58.7] -but I refreshed now that you called.
+[58:58.7 - 58:59.2] Yeah.
+[58:59.2 - 58:59.7] See.
+[58:59.7 - 59:00.1] Oh, okay.
+[59:00.1 - 59:02.3] I'll send them an email right now and CC you.
+[59:02.3 - 59:02.6] Cool.
+[59:02.6 - 59:03.2] Okay, thanks.
+[59:03.2 - 59:03.8] Sounds good.
+[59:03.8 - 59:04.2] Thanks.
+[59:04.2 - 59:04.7] Bye-bye.
+[59:04.7 - 59:05.7] Bye.
+[59:05.7 - 59:07.4] Video tape me picking up this femur.
+[59:07.4 - 59:08.0] Okay.
+[59:08.0 - 59:11.6] Aww.
+[59:11.6 - 59:13.6] All right, cool.
+[59:13.6 - 59:14.8] Let me see if I-- see if this works.
+[59:14.8 - 59:18.2] I don't know what the fuck you're doing, but okay.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2026-07-02-09-55-09_transcription_20260706_160943.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2026-07-02-09-55-09_transcription_20260706_160943.txt
+[2J[H[3Jmanus-speech-to-text ROSE-REC2_V2026-07-02-09-55-09.mp3
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2026-07-02-09-55-09.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: .ROSE-REC2_V2026-07-02-09-55-09_chunks_20260706_160819/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: .ROSE-REC2_V2026-07-02-09-55-09_chunks_20260706_160819/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: .ROSE-REC2_V2026-07-02-09-55-09_chunks_20260706_160819/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: .ROSE-REC2_V2026-07-02-09-55-09_chunks_20260706_160819/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: .ROSE-REC2_V2026-07-02-09-55-09_chunks_20260706_160819/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[37:12.5 - 37:13.9] It's gonna do all the installation.
+[37:13.9 - 37:14.4] Whoops.
+[37:14.4 - 37:14.7] Yeah.
+[37:14.7 - 37:18.2] Do you know how to bring up your terminal in fucking Mac or, or, or Windows?
+[37:18.2 - 37:21.0] No.
+[37:21.0 - 37:23.3] Come on.
+[37:23.3 - 37:23.8] I'm working.
+[37:23.8 - 37:25.3] Okay, I'll put that in the recording.
+[37:25.3 - 37:27.3] Are you gonna do this at home or at your job?
+[37:27.3 - 37:31.2] I mean, like, what are you gonna do?
+[37:31.2 - 37:32.8] You could just take over his screen.
+[37:32.8 - 37:36.7] It's gonna-- It's gonna-- You're gonna-- If you do that at your job, it's gonna install all these apps.
+[37:36.7 - 37:38.5] I could just take over his screen and do it for him.
+[37:38.5 - 37:40.3] You want, you want me to just take over your screen?
+[37:40.3 - 37:43.2] Yeah, sure.
+[37:43.2 - 37:44.3] Right now at work?
+[37:44.3 - 37:45.4] Sure.
+[37:45.4 - 37:45.9] Okay.
+[37:45.9 - 37:46.5] All right.
+[37:46.5 - 37:51.3] But, um, I gotta research a good website to do for free that I can let you know about, so.
+[37:51.3 - 37:52.2] Uh, I don't.
+[37:52.2 - 37:54.2] Um, he needs to get a screen takeover.
+[37:54.2 - 37:56.1] Hold on.
+[37:56.1 - 37:57.2] I'll just try this first.
+[37:57.2 - 37:59.7] If he-- If this doesn't make sense, then I'll do it.
+[37:59.7 - 37:59.7] Okay.
+[37:59.7 - 38:00.6] He's gonna...
+[38:00.6 - 38:01.3] Did you get the video?
+[38:01.3 - 38:03.0] Yes.
+[38:03.0 - 38:03.3] Okay.
+[38:03.3 - 38:05.0] Sign up for GitHub.
+[38:05.0 - 38:06.5] Do everything that it says on the video.
+[38:06.5 - 38:12.5] Push all your shit from Manus to that Git-- that repository, and then call me back.
+[38:12.5 - 38:14.5] All right.
+[38:14.5 - 38:14.7] Thanks.
+[38:14.7 - 38:14.8] All right.
+[38:14.8 - 38:15.4] Later.
+[38:15.4 - 38:16.0] Thanks.
+[38:16.0 - 38:16.7] Well, I appreciate it.
+[38:16.7 - 38:17.1] Yeah.
+[38:17.1 - 38:18.9] Tell her to fuckin' do it in Mac.
+[38:18.9 - 38:20.3] Perfect.
+[38:20.3 - 38:21.9] Run it.
+[48:45.0 - 48:46.5] So I lost my water bottle.
+[48:46.5 - 48:49.1] Didn't have it over here.
+[48:49.1 - 48:52.8] It's the one with the orange top that it says Maggie.
+[48:52.8 - 48:53.7] Oh.
+[48:53.7 - 48:56.9] Open and hide it or whatever on it.
+[48:56.9 - 48:57.1] Hmm.
+[48:57.1 - 58:36.5] Yello?
+[58:36.5 - 58:38.6] Hey, uh, is PropertyMax down right now?
+[58:38.6 - 58:42.5] Mm, no.
+[58:42.5 - 58:44.8] Yeah, I guess it is.
+[58:44.8 - 58:45.7] Okay.
+[58:45.7 - 58:47.8] I'm gonna send an email to them real quick.
+[58:47.8 - 58:50.5] Yeah, I don't know.
+[58:50.5 - 58:57.1] I-- It was up for me when I was doing things like, um, just a minute ago, but- Video tape me.
+[58:57.1 - 58:58.7] -but I refreshed now that you called.
+[58:58.7 - 58:59.2] Yeah.
+[58:59.2 - 58:59.7] See.
+[58:59.7 - 59:00.1] Oh, okay.
+[59:00.1 - 59:02.3] I'll send them an email right now and CC you.
+[59:02.3 - 59:02.6] Cool.
+[59:02.6 - 59:03.2] Okay, thanks.
+[59:03.2 - 59:03.8] Sounds good.
+[59:03.8 - 59:04.2] Thanks.
+[59:04.2 - 59:04.7] Bye-bye.
+[59:04.7 - 59:05.7] Bye.
+[59:05.7 - 59:07.4] Video tape me picking up this femur.
+[59:07.4 - 59:08.0] Okay.
+[59:08.0 - 59:11.6] Aww.
+[59:11.6 - 59:13.6] All right, cool.
+[59:13.6 - 59:14.8] Let me see if I-- see if this works.
+[59:14.8 - 59:18.2] I don't know what the fuck you're doing, but okay.
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2026-07-02-09-55-09_transcription_20260706_160943.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2026-07-02-09-55-09_transcription_20260706_160943.txt

@@ -1,0 +1,99 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: downloads/ROSE-REC2_V2026-07-03-00-19-04.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: downloads/.ROSE-REC2_V2026-07-03-00-19-04_chunks_20260706_193823/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: downloads/.ROSE-REC2_V2026-07-03-00-19-04_chunks_20260706_193823/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: downloads/.ROSE-REC2_V2026-07-03-00-19-04_chunks_20260706_193823/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: downloads/.ROSE-REC2_V2026-07-03-00-19-04_chunks_20260706_193823/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: downloads/.ROSE-REC2_V2026-07-03-00-19-04_chunks_20260706_193823/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.6 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[54:46.6 - 54:51.5] All the storms we weathered away that we've been through.
+[54:51.5 - 54:55.9] And without you what on earth am I to do?
+[54:55.9 - 55:03.6] When I called the mathematician to ask them to explain.
+[55:03.6 - 55:08.2] They said love is only equal to the pain.
+[55:08.2 - 55:16.1] And when the day was cold, you could turn my sorrow into gold.
+[55:16.1 - 55:19.2] You could turn my sorrow into gold.
+[55:19.2 - 55:23.4] You could turn my sorrow into gold.
+[55:23.4 - 55:57.9] What
+[55:57.9 - 55:59.1] the fuck is this?
+[55:59.1 - 56:01.1] It's okay.
+[56:01.1 - 56:12.3] Oh, when
+[56:12.3 - 56:15.8] you love somebody.
+[56:15.8 - 56:16.5] When you love somebody.
+[56:16.5 - 56:19.7] Got to let somebody know.
+[56:19.7 - 56:24.6] Oh, when you love somebody.
+[56:24.6 - 56:27.4] When you love somebody.
+[56:27.4 - 59:49.8] Got to
+[59:49.8 - 59:54.9] let somebody know.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/downloads/ROSE-REC2_V2026-07-03-00-19-04_transcription_20260706_193845.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/downloads/ROSE-REC2_V2026-07-03-00-19-04_transcription_20260706_193845.txt
+[2J[H[3Jmanus-speech-to-text downloads/ROSE-REC2_V2026-07-03-00-19-04.mp3
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: downloads/ROSE-REC2_V2026-07-03-00-19-04.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: downloads/.ROSE-REC2_V2026-07-03-00-19-04_chunks_20260706_193823/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: downloads/.ROSE-REC2_V2026-07-03-00-19-04_chunks_20260706_193823/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: downloads/.ROSE-REC2_V2026-07-03-00-19-04_chunks_20260706_193823/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: downloads/.ROSE-REC2_V2026-07-03-00-19-04_chunks_20260706_193823/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: downloads/.ROSE-REC2_V2026-07-03-00-19-04_chunks_20260706_193823/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[54:46.6 - 54:51.5] All the storms we weathered away that we've been through.
+[54:51.5 - 54:55.9] And without you what on earth am I to do?
+[54:55.9 - 55:03.6] When I called the mathematician to ask them to explain.
+[55:03.6 - 55:08.2] They said love is only equal to the pain.
+[55:08.2 - 55:16.1] And when the day was cold, you could turn my sorrow into gold.
+[55:16.1 - 55:19.2] You could turn my sorrow into gold.
+[55:19.2 - 55:23.4] You could turn my sorrow into gold.
+[55:23.4 - 55:57.9] What
+[55:57.9 - 55:59.1] the fuck is this?
+[55:59.1 - 56:01.1] It's okay.
+[56:01.1 - 56:12.3] Oh, when
+[56:12.3 - 56:15.8] you love somebody.
+[56:15.8 - 56:16.5] When you love somebody.
+[56:16.5 - 56:19.7] Got to let somebody know.
+[56:19.7 - 56:24.6] Oh, when you love somebody.
+[56:24.6 - 56:27.4] When you love somebody.
+[56:27.4 - 59:49.8] Got to
+[59:49.8 - 59:54.9] let somebody know.
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/downloads/ROSE-REC2_V2026-07-03-00-19-04_transcription_20260706_193845.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/downloads/ROSE-REC2_V2026-07-03-00-19-04_transcription_20260706_193845.txt

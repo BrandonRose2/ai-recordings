@@ -1,0 +1,86 @@
+Starting Speech-to-Text conversion...
+Audio file size (19.8MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 19.84 MB, duration: 3467.0 seconds
+Splitting into 4 chunks (each ~866.7 seconds, max 5 MB)...
+Successfully split into 4 chunks
+Audio file split into 4 chunks for batch processing
+Transcribing audio file: downloads/ROSE-REC2_V2026-07-06-11-00-36.mp3, file size: 19.84 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 4 chunks...
+
+Transcribing chunk 1/4: downloads/.ROSE-REC2_V2026-07-06-11-00-36_chunks_20260706_233007/chunk_000.mp3
+Chunk 1 completed (duration: 866.7s)
+
+Transcribing chunk 2/4: downloads/.ROSE-REC2_V2026-07-06-11-00-36_chunks_20260706_233007/chunk_001.mp3
+Chunk 2 completed (duration: 866.7s)
+
+Transcribing chunk 3/4: downloads/.ROSE-REC2_V2026-07-06-11-00-36_chunks_20260706_233007/chunk_002.mp3
+Chunk 3 completed (duration: 866.7s)
+
+Transcribing chunk 4/4: downloads/.ROSE-REC2_V2026-07-06-11-00-36_chunks_20260706_233007/chunk_003.mp3
+Chunk 4 completed (duration: 866.4s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3466.6 seconds
+Language: eng
+Total Chunks: 4
+Timestamped segments:
+[45:58.1 - 45:58.8] Ethan!
+[45:58.8 - 46:07.3] Where is he going?
+[46:07.3 - 46:09.4] Uh, he might be in his office.
+[46:09.4 - 46:10.2] Not sure.
+[46:10.2 - 46:12.9] Let's go to lunch.
+[46:12.9 - 46:16.1] Half a day.
+[46:16.1 - 46:21.6] Nicole said, "Bro, you have to leave till twelve and you'll be back by one." Well, she can kiss my ass.
+[46:21.6 - 46:30.8] I'll be working at my house too.
+[46:30.8 - 54:17.9] What's
+[54:17.9 - 54:48.4] going
+[54:48.4 - 54:48.7] on here?
+[54:48.7 - 54:56.2] So I can hang up on what?
+[54:56.2 - 55:22.3] See
+[55:22.3 - 55:26.0] you tomorrow.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/downloads/ROSE-REC2_V2026-07-06-11-00-36_transcription_20260706_233024.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/downloads/ROSE-REC2_V2026-07-06-11-00-36_transcription_20260706_233024.txt
+[2J[H[3Jmanus-speech-to-text downloads/ROSE-REC2_V2026-07-06-11-00-36.mp3
+Starting Speech-to-Text conversion...
+Audio file size (19.8MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 19.84 MB, duration: 3467.0 seconds
+Splitting into 4 chunks (each ~866.7 seconds, max 5 MB)...
+Successfully split into 4 chunks
+Audio file split into 4 chunks for batch processing
+Transcribing audio file: downloads/ROSE-REC2_V2026-07-06-11-00-36.mp3, file size: 19.84 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 4 chunks...
+Transcribing chunk 1/4: downloads/.ROSE-REC2_V2026-07-06-11-00-36_chunks_20260706_233007/chunk_000.mp3
+Chunk 1 completed (duration: 866.7s)
+Transcribing chunk 2/4: downloads/.ROSE-REC2_V2026-07-06-11-00-36_chunks_20260706_233007/chunk_001.mp3
+Chunk 2 completed (duration: 866.7s)
+Transcribing chunk 3/4: downloads/.ROSE-REC2_V2026-07-06-11-00-36_chunks_20260706_233007/chunk_002.mp3
+Chunk 3 completed (duration: 866.7s)
+Transcribing chunk 4/4: downloads/.ROSE-REC2_V2026-07-06-11-00-36_chunks_20260706_233007/chunk_003.mp3
+Chunk 4 completed (duration: 866.4s)
+
+Snippet of transcribed content:
+[45:58.1 - 45:58.8] Ethan!
+[45:58.8 - 46:07.3] Where is he going?
+[46:07.3 - 46:09.4] Uh, he might be in his office.
+[46:09.4 - 46:10.2] Not sure.
+[46:10.2 - 46:12.9] Let's go to lunch.
+[46:12.9 - 46:16.1] Half a day.
+[46:16.1 - 46:21.6] Nicole said, "Bro, you have to leave till twelve and you'll be back by one." Well, she can kiss my ass.
+[46:21.6 - 46:30.8] I'll be working at my house too.
+[46:30.8 - 54:17.9] What's
+[54:17.9 - 54:48.4] going
+[54:48.4 - 54:48.7] on here?
+[54:48.7 - 54:56.2] So I can hang up on what?
+[54:56.2 - 55:22.3] See
+[55:22.3 - 55:26.0] you tomorrow.
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/downloads/ROSE-REC2_V2026-07-06-11-00-36_transcription_20260706_233024.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/downloads/ROSE-REC2_V2026-07-06-11-00-36_transcription_20260706_233024.txt

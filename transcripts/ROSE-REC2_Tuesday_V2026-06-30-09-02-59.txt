@@ -1,0 +1,653 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_Tuesday_V2026-06-30-09-02-59.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-09-02-59_chunks_20260705_192912/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-09-02-59_chunks_20260705_192912/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-09-02-59_chunks_20260705_192912/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-09-02-59_chunks_20260705_192912/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-09-02-59_chunks_20260705_192912/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.7 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[00:22.8 - 00:30.7] We did it.
+[00:30.7 - 00:31.7] Morning.
+[00:31.7 - 02:15.1] Oh,
+[02:15.1 - 02:25.9] fuck.
+[02:25.9 - 02:40.7] What's
+[02:40.7 - 02:48.0] the value?
+[02:48.0 - 02:52.5] Good morning.
+[02:52.5 - 02:52.8] Thanks.
+[02:52.8 - 02:53.1] Yeah.
+[02:53.1 - 03:03.1] Is there, is there
+[03:03.1 - 03:03.8] coffee here?
+[03:03.8 - 03:04.2] Did you get some?
+[03:04.2 - 03:05.1] There's a little bit, yeah.
+[03:05.1 - 03:08.1] I mean, there's enough for all of us.
+[03:08.1 - 03:10.3] Have a cup this morning.
+[03:10.3 - 03:15.3] We're gonna, uh, Costco tomorrow afternoon.
+[03:15.3 - 03:16.8] When, when's Mark getting in?
+[03:16.8 - 03:17.5] Tomorrow, right?
+[03:17.5 - 03:17.8] Yeah.
+[03:17.8 - 03:19.5] After you get back, after you get back here.
+[03:19.5 - 03:20.1] Trust me.
+[03:20.1 - 03:21.5] Trust me.
+[03:21.5 - 03:22.5] It's the longest stretch.
+[03:22.5 - 03:26.8] Yeah, you were like, you were like, "When are you fucking coming?" Yeah, it's the longest stretch.
+[03:26.8 - 03:29.4] You here for the weekend?
+[03:29.4 - 03:41.5] For longer this time because of
+[03:41.5 - 03:44.9] the beer stuff.
+[03:44.9 - 03:50.8] If Ol's here, guarantee he's gone Tuesday every morning.
+[03:50.8 - 03:55.2] And fucking we just, I mean, we just, we do, we do our work.
+[03:55.2 - 03:57.7] We do look- But it's a lot more like casual ...
+[03:57.7 - 04:00.0] yeah, there's no pressure.
+[04:00.0 - 04:00.9] We do fucking chores.
+[04:00.9 - 04:01.5] I got my fucking sweats on.
+[04:01.5 - 04:01.8] Yeah.
+[04:01.8 - 04:05.8] Yeah, you work, work out a little bit.
+[04:05.8 - 04:09.7] Always five sessions this week.
+[04:09.7 - 04:21.6] The board is starting to build on us, like, "We want you guys to be back for lunch." And that's
+[04:21.6 - 04:23.4] like an extra an hour each.
+[04:23.4 - 04:23.7] Yeah.
+[04:23.7 - 04:25.3] I mean, I, I do work a lot at home.
+[04:25.3 - 04:26.1] But either way...
+[04:26.1 - 04:28.3] Yeah, well done.
+[04:28.3 - 04:40.0] She even said herself, like, "Do you notice I've been coming in later and later?" I said, "Yeah, you're pretty much out the door." You
+[04:40.0 - 04:42.7] want me to pick this up at Costco or do you want me to order it?
+[04:42.7 - 04:44.6] I'll probably pick some of those.
+[04:44.6 - 04:45.9] Rent it.
+[04:45.9 - 04:52.5] How long is he gonna be in Canada?
+[04:52.5 - 04:52.9] Huh?
+[04:52.9 - 04:56.2] He never, we never know 'cause he always does his flight like the night before.
+[04:56.2 - 04:58.8] He's at, he's gone till...
+[04:58.8 - 05:02.6] If he leaves Wednesday, he's, he'll be back probably next Friday.
+[05:02.6 - 05:05.5] Well, the Fourth of July, he's gonna stay for that for sure.
+[05:05.5 - 05:07.8] Yeah, so, so then he'll probably stay like during the week.
+[05:07.8 - 05:12.3] He'll probably stay through the weekend and come back maybe Thursday or next Thursday.
+[05:12.3 - 05:13.3] Is his boat fixed?
+[05:13.3 - 05:13.6] No.
+[05:13.6 - 05:14.2] Oh.
+[05:14.2 - 05:15.0] His boat was fixed.
+[05:15.0 - 05:17.4] He knew there- He's already done been there.
+[05:17.4 - 05:18.5] Why don't you just rent one out?
+[05:18.5 - 05:19.4] He will.
+[05:19.4 - 05:19.8] Yeah.
+[05:19.8 - 05:23.2] Well, he said, he told me yesterday he's gonna sleep on his boat, but he can't take it out.
+[05:23.2 - 05:24.1] Oh, right.
+[05:24.1 - 05:26.1] Well, have you seen it?
+[05:26.1 - 05:29.4] Oh, you should send us that video you made.
+[05:29.4 - 05:31.3] The tycoon video.
+[05:31.3 - 05:34.4] Yeah, it's only a half maybe.
+[05:34.4 - 05:37.1] And then it's 120 foot.
+[05:37.1 - 05:38.4] 120 feet.
+[05:38.4 - 05:39.9] Azmu- Azimut?
+[05:39.9 - 05:41.5] Azimut.
+[05:41.5 - 05:42.6] $20 million.
+[05:42.6 - 05:46.7] They said it's one of the- And, and it costs- ...
+[05:46.7 - 05:46.9] richest there ...
+[05:46.9 - 05:50.8] the captain's salary alone a year is $220,000.
+[05:50.8 - 05:51.8] Just the captain.
+[05:51.8 - 05:53.6] He has three other people that he pays salary.
+[05:53.6 - 05:56.2] Like $80,000 or $100,000 just to fill it up.
+[05:56.2 - 05:59.6] Yeah, it's like $80,000 just to drive it.
+[05:59.6 - 06:10.0] So 'cause they go to the Bahamas, they go to- It probably costs over a million dollars just to keep it running a year
+[06:10.0 - 06:16.6] It's like in Miami, you're nothing unless you have a yacht, and only, only the, the big, big ballers in Miami.
+[06:16.6 - 06:18.6] It's like right here, you're nothing if you don't have a car.
+[06:18.6 - 06:21.7] In Miami, everybody has-- You're nothing if you don't have a yacht.
+[06:21.7 - 06:23.3] If you have a yacht, you're somebody.
+[06:23.3 - 06:30.0] On his Instagram, there's Katie Fox, Paul, the, the dude, Fox, that kind of thing.
+[06:30.0 - 06:30.5] Yeah.
+[06:30.5 - 06:31.1] On there.
+[06:31.1 - 06:31.8] Katie Holmes.
+[06:31.8 - 06:33.8] Yeah, you got all kinds of people on there.
+[06:33.8 - 06:35.5] Like everybody knows Mark.
+[06:35.5 - 06:37.2] Everybody fucking knows him.
+[06:37.2 - 06:38.5] There's Rick Ross.
+[06:38.5 - 06:38.9] Yeah.
+[06:38.9 - 06:40.8] They all know him.
+[06:40.8 - 06:42.7] All the girls fucking...
+[06:42.7 - 06:45.8] Yeah.
+[06:45.8 - 06:49.7] All the girls are just like, "Oh." Well, I don't know.
+[06:49.7 - 06:51.4] You, you told me the other one.
+[06:51.4 - 06:57.1] Um, got a whole process in the morning.
+[06:57.1 - 07:01.2] Drink this while my coffee's cooling.
+[07:01.2 - 07:03.6] You get it though.
+[07:03.6 - 07:05.4] Don't believe- Huh?
+[07:05.4 - 07:06.3] Nothing.
+[07:06.3 - 07:06.8] Oh, yeah.
+[07:06.8 - 07:09.1] What's, uh, Luciana?
+[07:09.1 - 07:11.1] One of his girls.
+[07:11.1 - 07:17.1] How many, uh, how many girls did you say he has?
+[07:17.1 - 07:25.9] Three.
+[07:25.9 - 07:33.1] Um, are you gonna use the...
+[07:33.1 - 07:38.4] I was gonna ask you, Higgsfield, for those new sites you shared with me on Manus.
+[07:38.4 - 07:39.9] What's that?
+[07:39.9 - 07:42.8] Higgsfield, are you gonna use it for those three you shared with me on Manus?
+[07:42.8 - 07:47.9] Mark is M-A-R-K-N-E-T-O-R-P, right?
+[07:47.9 - 07:48.3] Yeah.
+[07:48.3 - 07:49.0] Mark Neptune.
+[07:49.0 - 07:49.4] Mm-hmm.
+[07:49.4 - 07:59.7] Um, I'm, I, I was just using it for like, for like
+[07:59.7 - 08:05.6] intros and shit, um, on like, like if I do a, a, a website and I want like an intro.
+[08:05.6 - 08:06.0] Oh, yeah.
+[08:06.0 - 08:08.1] I'm using the motion sites for more than anything.
+[08:08.1 - 08:08.4] Yeah.
+[08:08.4 - 08:13.6] And Higgsfield is just like so- Yeah, just for like- Generating, yeah, generating shit, yeah.
+[08:13.6 - 08:17.4] I thought we should have at least one or two done that- Oh, yeah, yeah, yeah.
+[08:17.4 - 08:18.5] You know.
+[08:18.5 - 08:21.7] Um, well- I mean, there's not a whole lot with Victoria.
+[08:21.7 - 08:25.1] I feel like we'd be like kind of dismissive about that.
+[08:25.1 - 08:26.2] She doesn't need to do that.
+[08:26.2 - 08:30.9] But if you did it for Mark Neptune- Um- If you got the Mark Neptune one and Victoria- You know what?
+[08:30.9 - 08:33.5] I can say, I can say that I was, I was just kidding.
+[08:33.5 - 08:38.8] I mean, for the, the pictures.
+[08:38.8 - 08:40.4] For the, for the, for the, for the...
+[08:40.4 - 08:44.3] It's really, it's really, it's really gonna get past Nicole.
+[08:44.3 - 08:44.9] Yeah.
+[08:44.9 - 08:45.9] And she wants to build it.
+[08:45.9 - 08:54.8] Well- So if she asks and I can be like, "Yeah, Mark said," and then if she, if, if that ever comes where she confronts him, I can be like, "Yeah, you said I fucking, I called you." Oh, right.
+[08:54.8 - 08:57.1] She's not gonna know the difference of when I asked to order it or not.
+[08:57.1 - 08:57.6] Yeah.
+[08:57.6 - 08:58.6] She's not gonna log in or anything.
+[08:58.6 - 08:59.0] No.
+[08:59.0 - 09:03.0] I mean, she doesn't look at anything over like under a thousand dollars, really.
+[09:03.0 - 09:04.0] She starts clicking shit.
+[09:04.0 - 09:04.5] Yeah.
+[09:04.5 - 09:14.6] She leaves what day?
+[09:14.6 - 09:20.6] We just have to get it past maybe the next couple of months with this like, you know...
+[09:20.6 - 09:23.3] I'm learning how to write checks today.
+[09:23.3 - 09:24.3] Oh, nice.
+[09:24.3 - 09:25.0] I don't know how to do that.
+[09:25.0 - 09:25.6] Yeah.
+[09:25.6 - 09:30.0] I know how to do it, but I need to learn how to- It's-- The hardest part is the printer.
+[09:30.0 - 09:30.9] Whatever the printer says.
+[09:30.9 - 09:31.3] Well, no, I know how to do that.
+[09:31.3 - 09:33.2] It's just inputting it into the RD and shit.
+[09:33.2 - 09:33.7] Oh.
+[09:33.7 - 09:35.2] I mean, she prints it out and do that.
+[09:35.2 - 09:38.0] I know how to write checks and fucking put it through there.
+[09:38.0 - 09:38.7] Yeah, yeah, yeah.
+[09:38.7 - 09:40.5] The RD is weird.
+[09:40.5 - 09:46.4] Thanks for Nicole, but it's not for Nicole apparently.
+[09:46.4 - 09:49.6] She said she's expecting a fake water package.
+[09:49.6 - 10:38.0] I'm
+[10:38.0 - 10:45.4] asking now because otherwise you're gonna have to pay another hundred out of pocket for your shipping.
+[10:45.4 - 10:50.5] You're gonna have to pay another hundred out of pocket, four hundred bucks, and it's just...
+[10:50.5 - 10:55.4] I'm making a big order, so you order with me, and you won't have to pay the shipping.
+[10:55.4 - 10:55.8] Yeah.
+[10:55.8 - 10:56.7] You know what I'm saying?
+[10:56.7 - 10:58.9] Because you won't care, it won't be that hundred dollar tax.
+[10:58.9 - 10:58.9] Yeah.
+[10:58.9 - 11:01.1] So if not, you're gonna, you're gonna have to pay the hundred and fifty.
+[11:01.1 - 11:03.4] Or that's half.
+[11:03.4 - 11:40.7] You know
+[11:40.7 - 11:52.1] what I'm saying?
+[11:52.1 - 11:52.4] If you order two hundred and fifty, you only gotta pay...
+[11:52.4 - 11:56.3] If you order now, if you order now, you order it when you get out, and you order it when you come back.
+[11:56.3 - 11:56.8] So you're probably gonna order like...
+[11:56.8 - 11:59.8] You order a half piece today.
+[11:59.8 - 11:59.9] You order a half piece and then like-
+[12:16.6 - 12:18.8] It's either ten.
+[12:18.8 - 12:22.1] I mean, I, I'm gonna tell you, you gotta...
+[12:22.1 - 12:25.4] It's probably gonna be like five hundred plus ten.
+[12:25.4 - 12:29.5] But I know for us, it's five hundred plus ten.
+[12:29.5 - 12:37.9] I just gotta like But that gives you basically a hundred...
+[12:37.9 - 12:38.2] Basically you're paying for one.
+[12:38.2 - 12:38.4] You gotta do this one right.
+[12:38.4 - 12:39.3] You gotta protect it.
+[12:39.3 - 12:45.6] No matter what, you're gonna pay a hundred dollars a bottle.
+[12:45.6 - 12:51.4] And you want them to go, right?
+[12:51.4 - 12:54.0] Oh, you're the test guy game, huh?
+[12:54.0 - 12:57.6] This fucker selling a fucking- I like Alex.
+[12:57.6 - 13:03.4] This fucker selling one bottle of just like, for like three hundred dollars.
+[13:03.4 - 13:03.8] Four hundred.
+[13:03.8 - 13:04.7] That's what I'm saying.
+[13:04.7 - 13:07.7] Uh, I mean, he killed it.
+[13:07.7 - 13:08.4] He killed it.
+[13:08.4 - 13:11.1] I sold one bottle for a hundred and sixty bucks.
+[13:11.1 - 13:12.1] Well, you tripled that, bro.
+[13:12.1 - 13:18.3] If you're getting like a hundred dollars, you can't pay seventy-five bucks a bottle and then you gonna buy.
+[13:18.3 - 13:18.4] So like I get five for one ninety-nine, so...
+[13:18.4 - 13:22.7] Yeah, I'm gonna give, I'm gonna give you at least five bottles for it.
+[13:22.7 - 13:23.0] At least.
+[13:23.0 - 13:27.1] In fact, at least.
+[13:27.1 - 13:30.6] So you're paying fucking, paying twelve a bottle.
+[13:30.6 - 13:40.6] Tell
+[13:40.6 - 13:44.3] me what you want, and I'll tell you how much you want to spend.
+[13:44.3 - 13:46.8] And I'll work it out for you.
+[13:46.8 - 13:48.5] Because then I can go in on it.
+[13:48.5 - 13:49.5] Okay, we'll figure it out.
+[13:49.5 - 13:56.1] If you want to spend more than six hundred bucks, then I can get you ten bottles.
+[13:56.1 - 13:59.3] Five of those, five of those.
+[13:59.3 - 14:00.7] For six hundred bucks.
+[14:00.7 - 14:01.6] Yeah.
+[14:01.6 - 14:03.4] If you're willing to do that.
+[14:03.4 - 14:12.0] I don't know.
+[14:12.0 - 14:13.3] I'm not trying to pressure you, bro.
+[14:13.3 - 14:14.5] I'm not trying to push you.
+[14:14.5 - 14:14.9] You know what I mean?
+[14:14.9 - 14:23.1] I'm just telling you, I'm gonna place the order, and it's gonna be a full price if I do that for you.
+[14:23.1 - 14:27.5] What did they come in?
+[14:27.5 - 14:27.5] You gotta pay again.
+[14:27.5 - 14:27.5] Pay again.
+[14:27.5 - 14:27.5] That's why.
+[14:27.5 - 15:04.0] You
+[15:04.0 - 15:04.0] just...
+[15:04.0 - 15:15.1] And when you go up there, you're probably gonna get cold for the
+[15:15.1 - 15:18.1] steam that has the heat that makes the cold foam come out.
+[15:18.1 - 15:26.6] Where you put it in.
+[15:26.6 - 15:26.6] No, you put it through that.
+[15:26.6 - 15:26.6] Um, and then you pull it up.
+[15:26.6 - 15:28.6] Or just...
+[15:28.6 - 15:29.4] Yeah.
+[15:29.4 - 15:35.3] Um, and then after it comes out.
+[15:35.3 - 15:35.4] No, so you turn this on.
+[15:35.4 - 15:35.4] See it?
+[15:35.4 - 15:35.4] And it steams it.
+[15:35.4 - 15:40.2] That's where I have to share my greatest shit about.
+[15:40.2 - 15:41.6] I teach you greatest shit.
+[15:41.6 - 15:43.9] That's what they, that's how they get started.
+[15:43.9 - 15:46.6] That's how they give you cold foam for, you know.
+[15:46.6 - 15:47.1] Yeah.
+[15:47.1 - 15:58.6] How they give you
+[15:58.6 - 16:01.5] the foam.
+[16:01.5 - 16:05.8] The last second is gonna be cold, man.
+[16:05.8 - 16:07.0] That makes it cold, Steven?
+[16:07.0 - 16:08.8] No, like a box.
+[16:08.8 - 16:11.3] It's just five for like a hundred bucks.
+[16:11.3 - 16:12.0] No.
+[16:12.0 - 16:12.9] Like less than a hundred.
+[16:12.9 - 16:12.9] Eighty bucks for five.
+[16:12.9 - 16:17.9] So if you're gonna want to do it today...
+[16:17.9 - 16:25.5] I mean, you get like fucking half.
+[16:25.5 - 16:30.7] You're gonna be down to eighty.
+[16:30.7 - 16:33.9] That's not pretty certain.
+[16:33.9 - 16:34.6] You got it.
+[16:34.6 - 16:38.8] That's not pretty right now.
+[16:38.8 - 16:40.2] I can't get one that's pretty.
+[16:40.2 - 16:42.2] So I'll take this one on the line again.
+[16:42.2 - 16:48.6] Yeah, and just make sure like you just want the other nine ten by five is full of this one right there.
+[16:48.6 - 16:53.3] Makes it where you don't have to like bang in the sun and get cancer and all that stuff.
+[16:53.3 - 16:57.7] Even though I've had skin cancer before.
+[16:57.7 - 17:06.2] I don't have any straight coffee on today.
+[17:06.2 - 17:07.5] I'm gonna buy it.
+[17:07.5 - 17:10.7] So I can sell you, um, ten.
+[17:10.7 - 17:11.5] Sure.
+[17:11.5 - 17:11.9] Yeah.
+[17:11.9 - 17:14.2] Fourteen ninety-nine.
+[17:14.2 - 17:16.2] So that's actually two dollars.
+[17:16.2 - 17:16.3] You can't...
+[17:16.3 - 17:16.9] You cannot do that, bro.
+[17:16.9 - 17:17.2] That's how it is.
+[17:17.2 - 17:19.5] That's- I know.
+[17:19.5 - 17:24.1] You can't do that.
+[17:24.1 - 17:27.1] If you can get cheaper than that, then we'll have three persons in there.
+[17:27.1 - 17:30.0] Nah.
+[17:30.0 - 17:30.1] Nah.
+[17:30.1 - 17:31.0] What do you think about?
+[17:31.0 - 17:36.4] Well, if you buy ten, if you buy six, if you buy five, it'll blow up.
+[17:36.4 - 17:45.1] No, no, no.
+[17:45.1 - 17:49.7] I mean, uh, online, online is like fifteen grand.
+[17:49.7 - 17:50.3] That's the four hundred dollars versus eighteen five.
+[17:50.3 - 17:50.3] Can you sell those though?
+[17:50.3 - 17:50.3] I don't, I don't do what you said.
+[17:50.3 - 17:51.4] Yeah, make sure you could at least sell three of them so you're only paying- No, I-- Yeah.
+[17:51.4 - 17:52.2] Yeah, yeah, yeah.
+[17:52.2 - 17:53.2] That's what I mean.
+[17:53.2 - 17:53.9] Make sure you already got...
+[17:53.9 - 17:56.8] If you got three sold, then that means you're paying- Yeah.
+[17:56.8 - 17:59.8] A hundred and sixty bucks for seven bottles.
+[17:59.8 - 18:10.2] Oh,
+[18:10.2 - 18:10.7] hearing half?
+[18:10.7 - 18:13.4] Like they won't ship anything under deals?
+[18:13.4 - 18:13.7] Yeah, neither does anything.
+[18:13.7 - 18:14.2] Again, I don't do that.
+[18:14.2 - 18:17.2] Not through that company anyway.
+[18:17.2 - 18:19.7] Hot attack companies anyways.
+[18:19.7 - 18:20.4] Alright, yeah.
+[18:20.4 - 18:21.2] Then the CLO.
+[18:21.2 - 18:22.9] Clo or glow?
+[18:22.9 - 18:24.5] There's two.
+[18:24.5 - 18:26.3] There's clo and there's glow.
+[18:26.3 - 18:32.7] Glow is the GHQ, which you should look up by setting it between $500.
+[18:32.7 - 18:42.8] A clove is something else period It's true They make more money Ah Probably stick to the globe Okay It doesn't
+[18:42.8 - 18:53.5] happen The Globe has GHCU Which you should look up by setting Between $500 The club has Well,
+[18:53.5 - 19:04.0] the club Is KTV UVC D NGHD To the
+[19:04.0 - 19:08.5] left HDB So you want clothes instead?
+[19:08.5 - 19:18.8] Yes They have sporo They have both But Steve You're only getting No, no Bad Yeah, yeah That's why All
+[19:18.8 - 19:29.0] my clients They like the cloak They like the cloak Because you're getting You're getting 15 GHA DU UVCA CU Getting 10 UBC And then TB You'll be good to go confident With the other ones For example But that's more for your skin The other one kind of teaches me About gut intuition Okay I like
+[19:29.0 - 19:39.0] GHQ Maybe go ahead and
+[19:39.0 - 19:49.9] compare notes What Robert Yes sir Did you get Anavar yet?
+[19:49.9 - 19:59.0] I just got some I just got 100 of them Yeah I can get it It happened right Yeah yours I used to carry the like 90 for 80 bucks wasn't it?
+[19:59.0 - 20:06.5] The Sophia steroid dealt dot com Yeah i'll pay What which one fifty?
+[20:06.5 - 20:16.6] Yeah Yeah im paying Im paying uhh for a hundred Im paying One seventy Oh god damn man whats up bro No one ninety bro And thats
+[20:16.6 - 20:26.7] me making nothing off it Its all charged Two twenty five Thats uh ill tell you to throw out Some love your way Does it come apart slide form Still a bot Low
+[20:26.7 - 20:46.1] Five Hundred
+[20:46.1 - 20:57.2] Ten Have extra Time for dinner Extra pair
+[20:57.2 - 21:10.7] Long version Of what But
+[21:10.7 - 22:48.5] uh
+[22:48.5 - 23:53.7] steroids
+[23:53.7 - 23:59.9] Are most popular In cities Cities with high Okay Anyways It's 70 milligrams Well how many So then it's 70 milligram When did they kick it Into that 500 64 pills It's 70 milligrams each Essentially you're getting Fucking You gain 300 units Or you Could Do four You could Get 400 units Okay It's 70 Milligrams Dude it's 700 Units If you Really Want to fucking Split it But someone Told value Exactly It takes 400 units Out of you Definitely That's Kind of please That's That's a fucking Three months Supply One bottle Will last Four versus Three months Depending On ten units Every day Yeah Correct Um So then Going spend More than Like you could You could either Half it for Probably 300 Units Okay Fine For nineties Plus shipping though right Yeah Twenty plus I Don't want to weigh down Substrum Is uh Eighty orders Said Free Shipping I wouldn't take I Wouldn't take TCAC By Because My activation shirt Was fucked up It might Be shitty So I activated The hormone Too much That Didn't look Good ACID IQ I fell for A hundred And twenty dollars To buy a thousand Dollars worth Of iron Based hormones Gotten together Last year Totaled Up I actually Threw away Almost two hundred Now I created And then Went ahead And paid Fifty fifty So you got TPC Microbe TBC Strong Design Active Why cuz That stops runners Who has all done like That all All the likes People that want to build But they don't Wanna pay Shipweight Interesting It attacks Me shirts From American Apparel Wait I don't Know whether It was asked Earlier maybe You want chat There's going to be Describe What did you Describe Can you describe PC295 CA That's pretty cool
+[24:11.8 - 25:42.2] You should
+[25:42.2 - 25:43.6] go, like I said, sell.
+[25:43.6 - 25:44.0] Yeah.
+[25:44.0 - 25:49.3] If you got two piss— If you got two repositories, you're gonna have eight labs.
+[25:49.3 - 25:51.0] Yeah.
+[25:51.0 - 25:54.9] So, you know, because- Yeah, which doesn't make sense.
+[25:54.9 - 26:01.1] And then so like I say, it's like those fucking DS teams suck.
+[26:01.1 - 26:01.4] Right?
+[26:01.4 - 26:04.6] Like, you shouldn't rush into anything like this.
+[26:04.6 - 26:04.8] Tell me, I'll, I'll, I'll, I'm late.
+[26:04.8 - 26:06.1] I'm late to use my words.
+[26:06.1 - 26:07.4] You're not even wrong.
+[26:07.4 - 26:40.0] So I guess
+[26:40.0 - 26:53.9] this whole thing wasn't worth
+[26:53.9 - 27:03.4] doing again.
+[27:03.4 - 27:39.7] Maybe it was but now maybe it sucks
+[27:39.7 - 27:51.1] again.
+[27:51.1 - 28:03.1] Or actually
+[28:03.1 - 28:13.5] yes probably does since we went over
+[28:13.5 - 28:23.9] everything all night long already
+[28:23.9 - 28:25.1] anyway.
+[28:25.1 - 28:35.7] Just try to sell shit so you don't pay bills until January next week dude we brought in selling forty oh five editions tonight seven ten twenty
+[28:35.7 - 28:46.1] physical thank you very
+[28:46.1 - 28:56.9] much hey as soon as we test this new game we gotta post it up who are you copying
+[28:56.9 - 29:07.1] team boy who the fuck you thought you already in business I lose shit man okay Joe wait a
+[29:07.1 - 29:17.3] second hi everybody great shift yet nope cool hang on
+[29:17.3 - 29:28.6] yep shut
+[29:28.6 - 29:48.7] up
+[29:48.7 - 29:58.9] every year sorry I worked Amazon such a whore check your speed rate product change emergency come home apparently all forgot about the exact date last Friday yeah literally yeah let's ride another day quality and number sure and text message send video copy paste god damn legal death before I pick up groceries money started paying myself yeah I didn't anyways today
+[29:58.9 - 30:10.4] nothing presents or I don't drive anymore mom trying to push more stuff around update honestly sitting back and going okay Robert Martin used to live pretty fun you know what it says well basically why you're asking questions sending other messages most popular products she that's fine forget yeah by the way we haven't done flash drives lately oh wow weirdly working on three different projects together yellow figures and then beat files and I connected data bye bye when you set it up do you download orders real quick no pump stats Photoshop close top close top so usually yeah goes crazy I took the backlog exploded up into small items and put them inside library and added them your radio extends into that and makes little ads full screen version I'm giving you three thousand milligrams of ketamine so I could I closed shots seventy fives and I almost logged into item supply lots of times uh sometimes I wish I couldn't turn down incredible lives because it really is dead you have three thousand milligrams that's normally half thirty milligrams meaning three thousand total units yeah three thousand units sold if you're selling hundred units per hundred plus sales turns into data that yeah after days months years decades past tense future present you know cheating
+[30:10.4 - 30:15.1] I think, I think, I think we have to just have a manual just for how long we have to have these things planned.
+[30:15.1 - 30:15.4] Like, we won't miss this delivery today, but we get back to the house.
+[30:15.4 - 30:17.1] We have to fucking stop and then- And then we can look at it.
+[30:17.1 - 30:19.0] We have to look at the job.
+[30:19.0 - 30:27.1] Make sure it's worth the money.
+[30:27.1 - 30:30.6] Maybe we- Yeah.
+[30:30.6 - 30:57.1] Are
+[30:57.1 - 30:58.3] you all packed?
+[30:58.3 - 30:59.6] I am, actually.
+[30:59.6 - 31:02.6] I packed today.
+[31:02.6 - 31:05.6] I think usually I'm packing the day before.
+[31:05.6 - 31:06.6] Oh, okay.
+[31:06.6 - 31:10.0] So we have like a five AM flight.
+[31:10.0 - 31:10.0] Oh.
+[31:10.0 - 31:11.1] Do we have to be there at two thirty?
+[31:11.1 - 31:19.3] No, it's not till like that, but when I pack, I feel like I-- this is like a very specific- Packing ...
+[31:19.3 - 31:19.3] packing story.
+[31:19.3 - 31:19.3] Oh, right.
+[31:19.3 - 31:19.3] Yeah.
+[31:19.3 - 31:19.5] Packing story.
+[31:19.5 - 31:19.5] Just roll clothes from here.
+[31:19.5 - 31:20.4] Right here, we can just haul things up all around.
+[31:20.4 - 31:20.4] No ghosts and ghost sheets in here.
+[31:20.4 - 31:20.4] Right.
+[31:20.4 - 31:20.4] That or maybe even just start like right here.
+[31:20.4 - 31:30.4] Start getting kind of a problem spot going and then you can
+[31:30.4 - 31:43.6] start moving stuff around and walk it where we are and get that
+[31:43.6 - 31:45.0] influence.
+[31:45.0 - 31:51.4] Like, it immediately exists and the options are a lot easier after you have a reference point.
+[31:51.4 - 31:53.8] Because alone, if you just come in blind, you don't know what to do.
+[31:53.8 - 31:57.9] All your decisions are wrong and it's easy to fuck up when you can't see the end.
+[31:57.9 - 32:08.5] And then having a reference point, you can work off of.
+[32:08.5 - 32:09.0] Yeah.
+[32:09.0 - 32:10.7] And then suddenly you have maybe a harder-- like maybe even a much harder- Yeah.
+[32:10.7 - 32:10.7] Yeah.
+[32:10.7 - 32:17.4] You'll get there and you'll find yourself standing on your spot.
+[32:17.4 - 32:17.6] Yep.
+[32:17.6 - 32:17.7] Yeah.
+[32:17.7 - 32:27.6] That fucking made money, man.
+[32:27.6 - 32:32.1] Made money.
+[32:32.1 - 32:38.2] Of course, my check says a hundred and ten.
+[32:38.2 - 32:42.1] That would be one of the things I have.
+[32:42.1 - 32:43.2] I gotta...
+[32:43.2 - 32:44.1] Let me think through this.
+[32:44.1 - 32:59.9] Whatever it is, it's gonna be
+[32:59.9 - 33:33.9] making
+[33:33.9 - 33:36.2] more now.
+[33:36.2 - 33:37.9] Yeah.
+[33:37.9 - 33:38.8] Yeah.
+[33:38.8 - 33:41.7] For doing less.
+[33:41.7 - 33:42.3] Yeah.
+[33:42.3 - 33:45.6] Did Kelly text you?
+[33:45.6 - 33:48.1] Yeah, he said that.
+[33:48.1 - 33:50.1] He said, uh, ten twenty.
+[33:50.1 - 33:53.3] I'll be right there.
+[33:53.3 - 34:03.3] You know, shirts and other shit
+[34:03.3 - 34:04.5] about me shit.
+[34:04.5 - 34:08.2] He called me already.
+[34:08.2 - 34:14.8] Did Leslie call you?
+[34:14.8 - 34:16.9] No.
+[34:16.9 - 34:16.9] Why?
+[34:16.9 - 34:18.8] They fucked up the Real Page logins again.
+[34:18.8 - 34:20.1] So fucking stupid.
+[34:20.1 - 34:21.2] I'm so tired of it.
+[34:21.2 - 35:39.3] Well,
+[35:39.3 - 35:52.6] there's
+[35:52.6 - 35:57.1] no problem with you having to call me.
+[35:57.1 - 35:59.9] Hey.
+[35:59.9 - 35:59.9] Oh, no.
+[35:59.9 - 35:59.9] What?
+[36:00.1 - 36:01.4] Uh, Leslie in there or no?
+[36:01.4 - 36:01.9] No?
+[36:01.9 - 36:03.6] It's not Leslie, no.
+[36:03.6 - 36:04.4] Okay.
+[36:04.4 - 36:07.9] Um, yeah, I see it.
+[36:07.9 - 36:10.4] You need that fixed.
+[36:10.4 - 36:14.7] Uh, no.
+[36:14.7 - 36:21.7] You, you can see all of that, so it's just Joanne's stuff because Joanne is...
+[36:21.7 - 36:33.4] No, I know, I'm just saying the only thing in Property Max should be Joanne, and I'm not fixing those ones because she's,
+[36:33.4 - 36:42.0] like, bullshitting and saying she's working from home, and it's like, "Well, you're not allowed to." And then she flipped out on me.
+[36:42.0 - 36:43.5] We discussed it.
+[36:43.5 - 36:46.2] Um, okay, I have the stuff in Connecting.
+[36:46.2 - 36:47.2] Just give me, like, two minutes.
+[36:47.2 - 36:48.5] I'll just let you know.
+[36:48.5 - 36:52.7] Uh, I'll rep-- uh, respond to the email for you when I'm done.
+[36:52.7 - 36:53.8] Yeah.
+[36:53.8 - 36:54.8] You're welcome.
+[36:54.8 - 36:55.1] Bye.
+[36:55.1 - 38:57.9] At
+[38:57.9 - 38:58.3] your house.
+[38:58.3 - 39:07.9] In a flash.
+[39:07.9 - 39:10.7] It even has a built-in display to check your battery level.
+[39:10.7 - 39:11.7] I was just telling Brian- Two days?
+[39:11.7 - 39:13.1] Just place it next to your boss.
+[39:13.1 - 39:15.9] Every word they say will show up on your screen in real time.
+[39:15.9 - 39:16.3] Yeah, I know.
+[39:16.3 - 39:18.0] No more taking meeting minutes manually.
+[39:18.0 - 39:18.4] Is it on?
+[39:18.4 - 39:21.2] Best of all, you can still get a discount if you order now.
+[39:21.2 - 39:21.4] What's it called?
+[39:21.4 - 39:22.2] AI Smart Tricho?
+[39:22.2 - 39:22.8] Yeah, I know.
+[39:22.8 - 39:26.3] For just twenty-four six nine, you still- I'd rather buy it off Amazon.
+[39:26.3 - 39:26.5] I don't trust those fucking sites.
+[39:26.5 - 39:28.4] Yeah.
+[39:28.4 - 39:28.5] That's dope.
+[39:28.5 - 39:28.5] I'll look it up.
+[39:28.5 - 39:28.5] Yeah.
+[39:28.5 - 39:29.4] Thank you.
+[39:29.4 - 39:32.1] All right, I'm gonna take off.
+[39:32.1 - 39:33.6] All right, bro.
+[39:33.6 - 39:41.8] All right, guys.
+[39:41.8 - 41:54.3] Thirty-five.
+[41:54.3 - 41:54.3] Thirty-five.
+[41:54.3 - 41:56.7] All right, man.
+[41:56.7 - 41:57.7] Perfect.
+[41:57.7 - 41:58.7] Thank you.
+[41:58.7 - 45:55.9] So
+[45:55.9 - 45:56.4] listen.
+[45:56.4 - 45:58.0] What up?
+[45:58.0 - 45:59.1] You know about this one.
+[45:59.1 - 46:04.7] If I pay, if I pay, if I pay this...
+[46:04.7 - 46:06.5] Johnny Barber, right?
+[46:06.5 - 46:08.3] Here's my invoice for all my peptides.
+[46:08.3 - 46:09.5] I'm trying to do a new dealer.
+[46:09.5 - 46:10.6] Uh-huh.
+[46:10.6 - 46:14.9] So if I pay through PayPal- Yeah ...
+[46:14.9 - 46:18.5] can I-- If I don't get the f- if I don't get it, can I do a, a, a refund?
+[46:18.5 - 46:20.7] It's harder with- You can...
+[46:20.7 - 46:21.7] It's not hard.
+[46:21.7 - 46:24.1] You just would dispute the charge.
+[46:24.1 - 46:25.3] You just tell them.
+[46:25.3 - 46:35.5] When I do it for Mark, it's always way after the fact instead of right away, which that makes it harder when it's like three months later or whatever,
+[46:35.5 - 46:35.9] right?
+[46:35.9 - 46:36.3] Uh-huh.
+[46:36.3 - 46:39.0] But usually you just...
+[46:39.0 - 46:44.9] He's had me call about fraud and stuff, and then they, like, open an investigation.
+[46:44.9 - 46:51.7] Um, I think as long as your account is in good standing and you're like, "Hey, I ordered this.
+[46:51.7 - 46:56.3] It said it was gonna be shipped, and I have no tracking or anything.
+[46:56.3 - 47:01.0] Like, this is the order." Probably like, "Here's a screenshot of it.
+[47:01.0 - 47:02.2] It didn't arrive.
+[47:02.2 - 47:10.1] I'm not bullshitting." And as long as your, like, your PayPal account is in good standing, I think they would just refund the money.
+[47:10.1 - 47:12.4] Like, they don't make it super difficult.
+[47:12.4 - 47:21.4] They ask for a little bit of time to, like, look into it when I've dealt with them, but it's 'cause Mark is saying to claim it's fraud.
+[47:21.4 - 47:30.5] Whereas for you, you'd just be like, "No, I ordered the thing and they never sent it." So it'd be a lot easier in my head for-- in that situation.
+[47:30.5 - 47:31.2] All right.
+[47:31.2 - 47:32.8] Thank you.
+[47:32.8 - 47:33.9] Yeah.
+[47:33.9 - 47:33.9] Yeah.
+[47:33.9 - 47:34.4] All love.
+[57:04.7 - 57:11.2] Hi, Rosa.
+[57:11.2 - 57:14.1] Good.
+[57:14.1 - 57:14.3] You?
+[57:14.3 - 57:38.0] Okay,
+[57:38.0 - 57:38.9] but does it work?
+[57:38.9 - 57:58.6] That
+[57:58.6 - 58:02.7] would have nothing to do with scanning the checks into the bank.
+[58:02.7 - 58:05.9] In terms of it...
+[58:05.9 - 58:07.9] Like, I don't...
+[58:07.9 - 58:12.5] I can't tell you why it's taking a long time, but that doesn't have to do with the operating system.
+[58:12.5 - 58:13.9] But you're saying that you...
+[58:13.9 - 58:20.9] Even though it says that, you have no problem s-using the check scanner to scan...
+[58:20.9 - 58:21.3] Okay.
+[58:21.3 - 58:25.3] Yeah, that, that's just a normal warning.
+[58:25.3 - 58:30.7] They say that it can't do it, and it's, it's not true, at least not as of now.
+[58:30.7 - 58:32.1] So you're...
+[58:32.1 - 58:33.1] Yeah, you're all good.
+[58:33.1 - 58:35.5] You can just kind of ignore...
+[58:35.5 - 58:37.4] Yeah, just, just ignore it.
+[58:37.4 - 58:40.3] Yeah, you can just ignore it, and, uh...
+[58:40.3 - 58:42.1] Yeah, just ignore it.
+[58:42.1 - 58:42.7] You should be good.
+[58:42.7 - 58:43.5] Okay.
+[58:43.5 - 58:47.7] Yeah, yeah.
+[58:47.7 - 58:48.7] No, it's...
+[58:48.7 - 58:49.0] You're...
+[58:49.0 - 58:55.0] It's totally fair that you're wondering, and it's, it's smart that you're, you know, worrying about it.
+[58:55.0 - 58:56.1] But you just...
+[58:56.1 - 58:58.6] It ha- Uh, excuse me.
+[58:58.6 - 59:01.0] Happens to not, uh, be an issue.
+[59:01.0 - 59:03.8] So yeah, you're all, you're all good for now.
+[59:03.8 - 59:10.4] And if it ever becomes a thing where you can't scan or anything like that, then let me know, yeah, right away.
+[59:10.4 - 59:11.2] Okay?
+[59:11.2 - 59:13.0] Yeah, you're welcome.
+[59:13.0 - 59:13.5] Take care.
+[59:13.5 - 59:14.4] Bye.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-09-02-59_transcription_20260705_193447.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-09-02-59_transcription_20260705_193447.txt
+[2J[H[3Jmanus-speech-to-text mp3/ROSE-REC2_Tuesday_V2026-06-30-09-02-59.mp3
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_Tuesday_V2026-06-30-09-02-59.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-09-02-59_chunks_20260705_192912/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-09-02-59_chunks_20260705_192912/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-09-02-59_chunks_20260705_192912/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-09-02-59_chunks_20260705_192912/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-09-02-59_chunks_20260705_192912/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[46:24.1 - 46:25.3] You just tell them.
+[46:25.3 - 46:35.5] When I do it for Mark, it's always way after the fact instead of right away, which that makes it harder when it's like three months later or whatever,
+[46:35.5 - 46:35.9] right?
+[46:35.9 - 46:36.3] Uh-huh.
+[46:36.3 - 46:39.0] But usually you just...
+[46:39.0 - 46:44.9] He's had me call about fraud and stuff, and then they, like, open an investigation.
+[46:44.9 - 46:51.7] Um, I think as long as your account is in good standing and you're like, "Hey, I ordered this.
+[46:51.7 - 46:56.3] It said it was gonna be shipped, and I have no tracking or anything.
+[46:56.3 - 47:01.0] Like, this is the order." Probably like, "Here's a screenshot of it.
+[47:01.0 - 47:02.2] It didn't arrive.
+[47:02.2 - 47:10.1] I'm not bullshitting." And as long as your, like, your PayPal account is in good standing, I think they would just refund the money.
+[47:10.1 - 47:12.4] Like, they don't make it super difficult.
+[47:12.4 - 47:21.4] They ask for a little bit of time to, like, look into it when I've dealt with them, but it's 'cause Mark is saying to claim it's fraud.
+[47:21.4 - 47:30.5] Whereas for you, you'd just be like, "No, I ordered the thing and they never sent it." So it'd be a lot easier in my head for-- in that situation.
+[47:30.5 - 47:31.2] All right.
+[47:31.2 - 47:32.8] Thank you.
+[47:32.8 - 47:33.9] Yeah.
+[47:33.9 - 47:33.9] Yeah.
+[47:33.9 - 47:34.4] All love.
+[57:04.7 - 57:11.2] Hi, Rosa.
+[57:11.2 - 57:14.1] Good.
+[57:14.1 - 57:14.3] You?
+[57:14.3 - 57:38.0] Okay,
+[57:38.0 - 57:38.9] but does it work?
+[57:38.9 - 57:58.6] That
+[57:58.6 - 58:02.7] would have nothing to do with scanning the checks into the bank.
+[58:02.7 - 58:05.9] In terms of it...
+[58:05.9 - 58:07.9] Like, I don't...
+[58:07.9 - 58:12.5] I can't tell you why it's taking a long time, but that doesn't have to do with the operating system.
+[58:12.5 - 58:13.9] But you're saying that you...
+[58:13.9 - 58:20.9] Even though it says that, you have no problem s-using the check scanner to scan...
+[58:20.9 - 58:21.3] Okay.
+[58:21.3 - 58:25.3] Yeah, that, that's just a normal warning.
+[58:25.3 - 58:30.7] They say that it can't do it, and it's, it's not true, at least not as of now.
+[58:30.7 - 58:32.1] So you're...
+[58:32.1 - 58:33.1] Yeah, you're all good.
+[58:33.1 - 58:35.5] You can just kind of ignore...
+[58:35.5 - 58:37.4] Yeah, just, just ignore it.
+[58:37.4 - 58:40.3] Yeah, you can just ignore it, and, uh...
+[58:40.3 - 58:42.1] Yeah, just ignore it.
+[58:42.1 - 58:42.7] You should be good.
+[58:42.7 - 58:43.5] Okay.
+[58:43.5 - 58:47.7] Yeah, yeah.
+[58:47.7 - 58:48.7] No, it's...
+[58:48.7 - 58:49.0] You're...
+[58:49.0 - 58:55.0] It's totally fair that you're wondering, and it's, it's smart that you're, you know, worrying about it.
+[58:55.0 - 58:56.1] But you just...
+[58:56.1 - 58:58.6] It ha- Uh, excuse me.
+[58:58.6 - 59:01.0] Happens to not, uh, be an issue.
+[59:01.0 - 59:03.8] So yeah, you're all, you're all good for now.
+[59:03.8 - 59:10.4] And if it ever becomes a thing where you can't scan or anything like that, then let me know, yeah, right away.
+[59:10.4 - 59:11.2] Okay?
+[59:11.2 - 59:13.0] Yeah, you're welcome.
+[59:13.0 - 59:13.5] Take care.
+[59:13.5 - 59:14.4] Bye.
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-09-02-59_transcription_20260705_193447.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-09-02-59_transcription_20260705_193447.txt

@@ -1,0 +1,33 @@
+{
+  "folder_map": {
+    "Calls": "1Cx4xR5JV0kr8iyLCd3CdKAqPhPYGxWU3",
+    "Gerald": "1fIUVHUWlTUChkJLlj5K-XrPHPm5wn9qP",
+    "Inbox": "1R8aP1YFqaiojFAqVBFDj-n0-rGhmAav9",
+    "Marc's Inappropriate Screaming": "1PKwWvR4NbUwucn_Wp6RYcP_oJV7HSmiP",
+    "Meetings": "1Kg98rGEhxKKdCUEAjiEadYeKdhkajPO_",
+    "Momma Rose": "1pBStehwj76jQLLf8XUBCq4UXC2dgiaUM",
+    "Other": "1vIdE78TJrPDIb9tI7N1uotgfNH1T75sH",
+    "Personal Notes": "1Bw1F45StcpM8UPm6vMc14Q5pFZ_18oI7"
+  },
+  "new_files": [],
+  "downloaded": [
+    {
+      "name": "ROSE-REC2_V2076-06-07-15-46-04.WAV",
+      "id": "1o-s3M-GDhGUySJSYisCL7NJBorUxJE9_",
+      "path": "/home/ubuntu/recordings_pipeline/downloads/ROSE-REC2_V2076-06-07-15-46-04.WAV",
+      "source_folder": "Inbox/Sunday 06-07-2076"
+    },
+    {
+      "name": "ROSE-REC2_V2076-06-07-16-46-05.WAV",
+      "id": "1mUm_Lqf9gf9fn6qfJZrMJJGr4tp_3mwS",
+      "path": "/home/ubuntu/recordings_pipeline/downloads/ROSE-REC2_V2076-06-07-16-46-05.WAV",
+      "source_folder": "Inbox/Sunday 06-07-2076"
+    },
+    {
+      "name": "ROSE-REC2_V2076-06-07-17-13-45.WAV",
+      "id": "1pzGHSen8vLvWvkSP9o5oN_hygnVcZgeT",
+      "path": "/home/ubuntu/recordings_pipeline/downloads/ROSE-REC2_V2076-06-07-17-13-45.WAV",
+      "source_folder": "Inbox/Sunday 06-07-2076"
+    }
+  ]
+}

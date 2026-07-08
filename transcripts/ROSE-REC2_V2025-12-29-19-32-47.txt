@@ -1,0 +1,853 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2025-12-29-19-32-47.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: .ROSE-REC2_V2025-12-29-19-32-47_chunks_20260706_155657/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: .ROSE-REC2_V2025-12-29-19-32-47_chunks_20260706_155657/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: .ROSE-REC2_V2025-12-29-19-32-47_chunks_20260706_155657/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: .ROSE-REC2_V2025-12-29-19-32-47_chunks_20260706_155657/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: .ROSE-REC2_V2025-12-29-19-32-47_chunks_20260706_155657/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.6 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[00:00.1 - 00:03.1] and eat a lot of fresh fruits and vegetables.
+[00:03.1 - 00:03.5] Sleep?
+[00:03.5 - 00:05.5] Sleep- Mm-hmm ...
+[00:05.5 - 00:06.9] and community.
+[00:06.9 - 00:07.3] Oh.
+[00:07.3 - 00:08.5] Community- Well, then I'm not gonna live very long at all ...
+[00:08.5 - 00:09.3] is important too.
+[00:09.3 - 00:14.6] When, you know, they have the, the family, your friends, there's ...
+[00:14.6 - 00:16.5] It's a very social- Oh, that's wh- ...
+[00:16.5 - 00:17.1] Okay ...
+[00:17.1 - 00:18.0] environment.
+[00:18.0 - 00:18.6] Mm.
+[00:18.6 - 00:19.2] That's it.
+[00:19.2 - 00:21.1] Sounds simple.
+[00:21.1 - 00:22.2] It sounds simple.
+[00:22.2 - 00:23.1] But you know what?
+[00:23.1 - 00:30.1] In the life we live here, where we're in our cars all the time and- Traffic and- And we eat garbage and- Mm-hmm ...
+[00:30.1 - 00:38.1] you know, we're very isolated in our homes Even if we eat fruits and vegetables, those aren't really what you're supposed to be eating.
+[00:38.1 - 00:39.5] They're not ripe anyways, yeah.
+[00:39.5 - 00:42.9] It's like you have to take a supplement to eat, to take, you know?
+[00:42.9 - 00:45.5] So there's this fluff show called Emily in Paris.
+[00:45.5 - 00:46.9] Oh, yeah.
+[00:46.9 - 00:48.7] And, um- I know what it is ...
+[00:48.7 - 00:50.5] yeah, so she's this young American girl.
+[00:50.5 - 00:52.1] There's a spinoff too of it or something.
+[00:52.1 - 00:53.6] I don't know if there's a spinoff.
+[00:53.6 - 00:53.8] Oh, okay.
+[00:53.8 - 00:56.4] But, you know, I watch it when I'm on the treadmill, just- ...
+[00:56.4 - 00:59.0] it's like a, you know, beautiful people soap opera.
+[00:59.0 - 01:09.1] Um- But there was one episode where she's in Paris, obviously, given the title, and she meets a guy who works for the American Consulate-
+[01:09.1 - 01:10.1] Okay ...
+[01:10.1 - 01:10.7] in Paris.
+[01:10.7 - 01:15.0] And it's the Fourth of July, and he's like, "Oh, you should come over.
+[01:15.0 - 01:23.0] We're doing a party and fireworks." So she goes over there, and they're having hot dogs and burgers and all the things that- Americans ...
+[01:23.0 - 01:29.4] uh, and then he takes her down to the basement, and there's like this, this room in the basement, and he opens it up.
+[01:29.4 - 01:34.3] It's like an American grocery store with all the junk food.
+[01:34.3 - 01:35.0] Oh, gosh.
+[01:35.0 - 01:40.8] Oreos and Pop-Tarts and Doritos and- And it was, like, spot on probably.
+[01:40.8 - 01:41.6] Oh, yeah.
+[01:41.6 - 01:43.6] It's like- Cheetos, Fritos, right?
+[01:43.6 - 01:43.6] ...
+[01:43.6 - 01:53.4] Cheetos, Fritos, and he's like, "C- like, the food here is so healthy." So it's like his hoarding room?
+[01:53.4 - 01:54.1] No, it's just...
+[01:54.1 - 01:55.1] It's for the employees.
+[01:55.1 - 01:56.9] They can go down there and get a little taste of home.
+[01:56.9 - 01:57.6] Oh, wow.
+[01:57.6 - 01:59.1] That's funny.
+[01:59.1 - 02:05.6] Yeah, and while they're down there, the, the em- the actual ambassador comes down and, you know, grabs a bag of whatever.
+[02:05.6 - 02:06.0] Yeah.
+[02:06.0 - 02:08.9] But the point was I- I...
+[02:08.9 - 02:09.7] It struck me.
+[02:09.7 - 02:12.7] Like, you go to the grocery store, and you see all this stuff, and you don't think about it.
+[02:12.7 - 02:15.0] But in this case, it struck me as like, you know what?
+[02:15.0 - 02:17.6] This is garbage.
+[02:17.6 - 02:19.3] It is literally garbage.
+[02:19.3 - 02:20.3] When they compare it to...
+[02:20.3 - 02:20.6] Yeah.
+[02:20.6 - 02:24.8] And our supermarkets are full of this stuff.
+[02:24.8 - 02:25.2] Right.
+[02:25.2 - 02:32.9] There was another Netflix one that, like, exposed all of the terrible things of fast food and, you know, McDonald's- It's just garbage ...
+[02:32.9 - 02:34.5] and how it's not real chicken.
+[02:34.5 - 02:35.1] What we eat is garbage.
+[02:35.1 - 02:36.4] It's made of- I mean, come on.
+[02:36.4 - 02:36.8] I know.
+[02:36.8 - 02:37.4] I love candy.
+[02:37.4 - 02:38.5] I've always loved candy.
+[02:38.5 - 02:40.5] That's never gonna, that's never gonna stop.
+[02:40.5 - 02:44.9] But yeah, it was like I had 14 cavities in my baby teeth.
+[02:44.9 - 02:47.2] Anyways, yeah.
+[02:47.2 - 02:49.4] We just eat garbage.
+[02:49.4 - 02:52.9] So we'll see how long the treadmill thing lasts.
+[02:52.9 - 02:54.7] You know, maybe I'll do it one day and say, "Oh, man.
+[02:54.7 - 02:56.8] This is too hard." Well- Apparently, it takes some getting used to ...
+[02:56.8 - 03:00.0] I mean, you do the treadmill every day at home, or no?
+[03:00.0 - 03:01.0] Um, not every day.
+[03:01.0 - 03:02.1] A few da- few days a week?
+[03:02.1 - 03:07.1] I t- I try to do it after I eat, but, like, these past couple of days we've been watching the games.
+[03:07.1 - 03:07.4] Oh.
+[03:07.4 - 03:12.0] And so I've been eating heavy meals sitting in my den, you know?
+[03:12.0 - 03:12.2] Yeah.
+[03:12.2 - 03:14.4] Not good.
+[03:14.4 - 03:16.9] Well, and you're not gonna be doing- And I have to- ...
+[03:16.9 - 03:18.9] a lot of walking around on the ship.
+[03:18.9 - 03:21.2] Yeah.
+[03:21.2 - 03:22.2] I mean, you might.
+[03:22.2 - 03:22.8] You might.
+[03:22.8 - 03:23.7] Maybe doing- Actually ...
+[03:23.7 - 03:25.4] a lot of eating on the ship.
+[03:25.4 - 03:26.9] They always have the best buffets.
+[03:26.9 - 03:32.3] Is this, like, a Victorian or a Princess or- No, Viking.
+[03:32.3 - 03:33.0] Oh, Viking.
+[03:33.0 - 03:33.4] That's what it is.
+[03:33.4 - 03:33.7] Okay.
+[03:33.7 - 03:34.6] Viking.
+[03:34.6 - 03:38.3] Yeah, I think the- Viking's high- I know that, like, the, uh- High-end-ish ...
+[03:38.3 - 03:41.1] I know that the, um, Alaskan ones use different ships and stuff.
+[03:41.1 - 03:43.8] Yeah, no, Viking, it's, it's, uh, no kids.
+[03:43.8 - 03:45.1] Oh, praise be.
+[03:45.1 - 03:45.8] Yeah.
+[03:45.8 - 03:50.9] No kids and, you know, like, gourmet food.
+[03:50.9 - 03:53.5] Shows and dining, seven course- Um, not...
+[03:53.5 - 03:54.4] Well, yeah, dining.
+[03:54.4 - 03:55.4] Yeah, did you say shows?
+[03:55.4 - 03:55.5] No.
+[03:55.5 - 03:55.7] Yeah.
+[03:55.7 - 03:57.5] Do they do kind of- I don't think so.
+[03:57.5 - 03:59.0] No casinos.
+[03:59.0 - 03:59.3] Okay.
+[03:59.3 - 03:59.6] Nothing like that.
+[03:59.6 - 04:01.2] It's more about relaxing cruise.
+[04:01.2 - 04:01.6] It's, yeah.
+[04:01.6 - 04:03.7] It's, it's gonna be a bunch of old people.
+[04:03.7 - 04:05.0] Well, that's fine.
+[04:05.0 - 04:07.0] Which is fine with me.
+[04:07.0 - 04:08.8] You'll all be going to bed at 6:00 PM.
+[04:08.8 - 04:11.2] We're, we're, we're in that category now, you know?
+[04:11.2 - 04:14.4] Well, that will be lovely.
+[04:14.4 - 04:15.1] But you know what?
+[04:15.1 - 04:19.8] To Alaska, it's gonna be old people, but old adventurous people 'cause- Yeah ...
+[04:19.8 - 04:20.1] you know?
+[04:20.1 - 04:21.1] It, there'll be interesting people.
+[04:21.1 - 04:21.6] There'll be in...
+[04:21.6 - 04:22.2] E- exactly.
+[04:22.2 - 04:23.1] It'll be interesting people.
+[04:23.1 - 04:24.2] Yeah, good conversations.
+[04:24.2 - 04:24.7] Yeah.
+[04:24.7 - 04:28.5] I'm really, I'm really interested to see who we meet because it's not cheap.
+[04:28.5 - 04:29.2] Mm-hmm.
+[04:29.2 - 04:31.4] So it's a- Upper class?
+[04:31.4 - 04:31.5] ...
+[04:31.5 - 04:33.0] a c- it's a certain level of young.
+[04:33.0 - 04:33.6] Oh, okay.
+[04:33.6 - 04:34.5] And no kids.
+[04:34.5 - 04:35.7] I see.
+[04:35.7 - 04:37.6] And they do lectures- What are all the stops?
+[04:37.6 - 04:40.4] Is it just Alaska, or, like, where do you go on the way?
+[04:40.4 - 04:40.6] Or- It's just Alaska.
+[04:40.6 - 04:42.4] You start in Vancouver- Oh, okay ...
+[04:42.4 - 04:44.2] and you go one way up.
+[04:44.2 - 04:44.6] Okay.
+[04:44.6 - 04:44.8] There's...
+[04:44.8 - 04:45.8] You could take two cruises.
+[04:45.8 - 04:51.4] You could take Vancouver to Alaska, and then there's another group that'll board Alaska to Vancouver.
+[04:51.4 - 04:52.1] Oh, okay.
+[04:52.1 - 04:54.7] Just keep on going all the way.
+[04:54.7 - 04:55.5] No, no.
+[04:55.5 - 04:56.9] You just go up one way.
+[04:56.9 - 04:57.2] Mm-hmm.
+[04:57.2 - 04:58.4] And then we have to fly back.
+[04:58.4 - 04:59.1] Mm.
+[04:59.1 - 05:01.6] But then we're spending two extra days in Denali.
+[05:01.6 - 05:06.6] Do you have to have a passport, I guess, for- You have to have a passport to fly into Vancouver.
+[05:06.6 - 05:07.4] Vancouver, yeah.
+[05:07.4 - 05:08.4] 'Cause that's Canada.
+[05:08.4 - 05:09.2] US and Canada.
+[05:09.2 - 05:09.5] Okay.
+[05:09.5 - 05:11.7] Yeah.
+[05:11.7 - 05:14.5] So- Which reminds me, I need to get mine.
+[05:14.5 - 05:16.0] I let it- Actually- I let it expire.
+[05:16.0 - 05:18.3] I, I, I went to Chatty Cathy.
+[05:18.3 - 05:20.2] I'm like, "Taking an Alaska cruise.
+[05:20.2 - 05:22.2] What, what should I pack?" Oh, yeah.
+[05:22.2 - 05:26.1] They gave me this whole list, and I gotta go to REI this weekend to buy a bunch of stuff.
+[05:26.1 - 05:26.6] Oh, really?
+[05:26.6 - 05:27.8] Why Amazon?
+[05:27.8 - 05:32.6] Yeah, but REI I could try it on and then- Oh.
+[05:32.6 - 05:33.7] Where's the REI?
+[05:33.7 - 05:35.7] I don't even- There's an REI in Chatsworth.
+[05:35.7 - 05:36.3] Oh, okay.
+[05:36.3 - 05:38.1] I don't even know what REI is.
+[05:38.1 - 05:39.7] Oh, you don't know what REI is?
+[05:39.7 - 05:40.3] Mm-mm.
+[05:40.3 - 05:40.6] Oh.
+[05:40.6 - 05:46.9] It's, um, it's an outdoor adventure, hiking- Oh, okay ...
+[05:46.9 - 05:47.0] biking, fishing.
+[05:47.0 - 05:50.1] It's kind of like the Outdoorsman or the- Yeah, or- ...
+[05:50.1 - 05:51.7] Bass r- Yeah ...
+[05:51.7 - 05:53.5] Bass Pro Shops of, for women or something.
+[05:53.5 - 05:53.9] I don't know.
+[05:53.9 - 05:55.6] So, yeah, but Bass is just about fishing.
+[05:55.6 - 05:57.1] It's just hunting, basically.
+[05:57.1 - 05:57.3] Yeah.
+[05:57.3 - 05:57.6] No.
+[05:57.6 - 06:00.1] It's like, it's a higher end Big 5.
+[06:00.1 - 06:03.4] Oh, okay, okay They've got more- More face stuff and- Yeah ...
+[06:03.4 - 06:03.9] those type things.
+[06:03.9 - 06:04.3] Yeah, okay.
+[06:04.3 - 06:05.1] Yeah, those types of things.
+[06:05.1 - 06:05.7] Yeah.
+[06:05.7 - 06:10.3] 'Cause I went to Chatty Patty and they said, "Oh, you know, you should get the Patagonia this and the Patagonia that." Oh, yeah.
+[06:10.3 - 06:13.2] And I'm looking them up and I'm like, "Damn!" They're like 300 a shirt.
+[06:13.2 - 06:14.6] Yeah, exactly.
+[06:14.6 - 06:16.0] I'm like, "I don't think so." Patagonians, but they last.
+[06:16.0 - 06:16.9] They're so comfortable.
+[06:16.9 - 06:17.7] 'Cause I need it and my husband needs it.
+[06:17.7 - 06:19.8] It'd be like $1,000, over $1,000.
+[06:19.8 - 06:20.3] Right.
+[06:20.3 - 06:20.6] No.
+[06:20.6 - 06:21.6] For socks.
+[06:21.6 - 06:22.1] No, I'm just kidding.
+[06:22.1 - 06:24.6] Yeah, exactly.
+[06:24.6 - 06:24.7] For socks.
+[06:24.7 - 06:29.7] So no, but REI is a, is a good...
+[06:29.7 - 06:32.1] There used to be another store called Adventure 16.
+[06:32.1 - 06:32.8] Oh, okay.
+[06:32.8 - 06:36.2] In, um, uh, right on Reseda Boulevard.
+[06:36.2 - 06:37.4] That was a great store too.
+[06:37.4 - 06:37.8] Hm.
+[06:37.8 - 06:42.6] REI has- Well, if you looked up the brands of REI, then you could probably find it on Amazon and have it delivered.
+[06:42.6 - 06:44.0] Yeah, REI has its own brand- But you like to try it.
+[06:44.0 - 06:44.6] You need to try it on.
+[06:44.6 - 06:44.6] Yeah ...
+[06:44.6 - 06:46.4] it also has other brands.
+[06:46.4 - 06:46.8] Oh, okay.
+[06:46.8 - 06:48.6] Like, they have a lot of their own brand.
+[06:48.6 - 06:50.6] And it's, it's actually a co-op.
+[06:50.6 - 06:51.2] Oh.
+[06:51.2 - 06:54.7] So when you buy stuff, you actually get a...
+[06:54.7 - 07:00.2] Like, at the end of the year, you get like a coupon or something and- Oh ...
+[07:00.2 - 07:02.7] like your share of- Oh ...
+[07:02.7 - 07:03.7] it's, it's really strange.
+[07:03.7 - 07:06.6] But you know when I get the coupon, I never use it- Paid to buy there, huh?
+[07:06.6 - 07:06.6] ...
+[07:06.6 - 07:07.9] 'cause I never- Remember.
+[07:07.9 - 07:08.9] Well, yeah.
+[07:08.9 - 07:13.2] We had one for like 20 bucks, and I'm like, "What am I gonna buy at REI for 20 bucks?" There's nothing for 20 bucks.
+[07:13.2 - 07:13.9] Yeah, right.
+[07:13.9 - 07:17.5] You can't even buy Chick-fil-A for 20 bucks anymore.
+[07:17.5 - 07:22.1] Yeah, so we'll probably spend a couple hundred dollars, and then we'll get a nice little rebate.
+[07:22.1 - 07:27.9] And now I'm thinking, "Yeah, can we just, like, buy today and come back and use our rebate for tomorrow?" Yeah, like, is it like a- I think it- ...
+[07:27.9 - 07:29.3] 12-month wait on the rebate?
+[07:29.3 - 07:30.0] Yeah.
+[07:30.0 - 07:32.4] I think you have to wait, like, till like the end of the year.
+[07:32.4 - 07:34.1] Oh, make sure you don't return it.
+[07:34.1 - 07:43.3] But, you know, what- whatever we buy tomorrow will be useful for wherever we end up going- Yeah ...
+[07:43.3 - 07:46.8] in the winter, unless we're going to all beach towns, which we're not gonna go to all beach towns.
+[07:46.8 - 07:53.8] No, but maybe you'll go to, like, s- Breckenridge or Telluride, Colorado, somewhere up in the mountains, beautiful place.
+[07:53.8 - 07:60.0] Yeah, I have ski stuff, but- That's where I went to learn skiing was in Telluride Oh my God.
+[07:60.0 - 08:01.5] I learned how to ski- I used to go to Breckenridge every year.
+[08:01.5 - 08:03.1] It's my favorite ...
+[08:03.1 - 08:04.2] I learned how to ski...
+[08:04.2 - 08:05.8] I grew up in Montreal.
+[08:05.8 - 08:06.7] Oh.
+[08:06.7 - 08:09.9] And, uh, we had school- St.
+[08:09.9 - 08:12.1] Catherine Street, I remember Oh, yes.
+[08:12.1 - 08:12.9] Big one.
+[08:12.9 - 08:18.3] Uh, we had ski school where a bus would pick us up at our school on Saturday morning.
+[08:18.3 - 08:18.6] Oh.
+[08:18.6 - 08:21.3] Uh, it wasn't part of the school, but I...
+[08:21.3 - 08:21.9] You know what?
+[08:21.9 - 08:22.4] I don't know.
+[08:22.4 - 08:23.5] Selection, I guess.
+[08:23.5 - 08:26.2] You could- So everybody went to ski school.
+[08:26.2 - 08:27.7] You know?
+[08:27.7 - 08:28.3] That's cool.
+[08:28.3 - 08:33.9] The whole school would be on the school, on the bus on a Saturday morning, and take us up to the hill.
+[08:33.9 - 08:37.6] And there was an actual ski school, and you had- Oh, I love that ...
+[08:37.6 - 08:42.6] you had a badge with a, with a color- A student or something?
+[08:42.6 - 08:47.9] No, it was a, um, it was a pin with a window.
+[08:47.9 - 08:48.7] Hm.
+[08:48.7 - 08:51.5] And the window had the color of your level.
+[08:51.5 - 08:52.0] Hm.
+[08:52.0 - 08:54.4] So you started at white- Bunny slopes and- Yeah.
+[08:54.4 - 08:57.7] You started, it was white, green, blue, red, black.
+[08:57.7 - 08:58.3] Oh, okay.
+[08:58.3 - 09:04.4] So we all started at white, and then, you know, some people progressed really quickly, and- Right ...
+[09:04.4 - 09:06.2] I was at blue forever.
+[09:06.2 - 09:08.3] It's a confidence sport.
+[09:08.3 - 09:10.3] Once it's broken, it's just gone.
+[09:10.3 - 09:11.7] Yeah.
+[09:11.7 - 09:13.8] But it was hard to ski there.
+[09:13.8 - 09:16.6] And so I skied there for like three, four years.
+[09:16.6 - 09:16.9] Okay.
+[09:16.9 - 09:19.4] And then we moved here, and I went to Mammoth.
+[09:19.4 - 09:20.6] I've never been here.
+[09:20.6 - 09:22.4] You've never been to Mammoth?
+[09:22.4 - 09:24.3] I've never been anywhere in California to ski.
+[09:24.3 - 09:25.4] I always do Colorado.
+[09:25.4 - 09:26.9] It's like 14,000 feet.
+[09:26.9 - 09:28.2] It's big.
+[09:28.2 - 09:29.2] Oh, Mammoth is awesome.
+[09:29.2 - 09:30.2] Oh, okay.
+[09:30.2 - 09:31.2] That's the best one?
+[09:31.2 - 09:33.5] 'Cause there's Big Bear, right, which is like- Yeah ...
+[09:33.5 - 09:34.5] the off-brand one.
+[09:34.5 - 09:37.0] It's not that it's off-brand, it's the mountain's really small.
+[09:37.0 - 09:37.6] Oh, okay.
+[09:37.6 - 09:38.8] It's kind of like- You get to the bottom, the bottom- ...
+[09:38.8 - 09:40.1] Ruidoso, New Mexico ...
+[09:40.1 - 09:41.3] you get in.
+[09:41.3 - 09:41.4] Yeah.
+[09:41.4 - 09:43.2] Two, two mi- you could go top to bottom.
+[09:43.2 - 09:45.3] That's exactly like the one near me in Texas, then.
+[09:45.3 - 09:46.6] Well, it's in New Mexico, but yeah.
+[09:46.6 - 09:48.0] No, Mammoth is huge.
+[09:48.0 - 09:48.8] Oh, okay.
+[09:48.8 - 09:49.3] Huge.
+[09:49.3 - 09:50.5] I've heard it's great.
+[09:50.5 - 09:50.6] Yeah.
+[09:50.6 - 09:51.1] Oh, yeah.
+[09:51.1 - 09:54.2] And it, and on a good year they get eight feet, 10 feet, 10 feet.
+[09:54.2 - 09:56.2] Is it like a three-and-a-half, four-hour drive?
+[09:56.2 - 09:56.9] Or how far is it?
+[09:56.9 - 09:58.8] Six-hour drive, okay.
+[09:58.8 - 10:00.8] Unless you drive really fast.
+[10:00.8 - 10:01.7] Yeah.
+[10:01.7 - 10:02.4] Well, I do.
+[10:02.4 - 10:04.2] Uh- That's what Mark says.
+[10:04.2 - 10:09.6] He says, "Wow, you know how to drive fast, don't you?" I said, "Well, you're always in a fucking hurry." It's, it's a premiere ski resort.
+[10:09.6 - 10:10.0] Hm.
+[10:10.0 - 10:11.5] It's a premiere ski resort.
+[10:11.5 - 10:18.9] And California snow, the best snow is, um, Utah.
+[10:18.9 - 10:26.0] Oh, like Alta and- In terms of the actual composition of the snow.
+[10:26.0 - 10:26.9] Oh, okay.
+[10:26.9 - 10:29.8] Utah snow is very dry.
+[10:29.8 - 10:31.4] It doesn't have a high water content- Oh ...
+[10:31.4 - 10:32.3] so it's very light and fluffy.
+[10:32.3 - 10:33.3] Oh, I like that.
+[10:33.3 - 10:35.0] I went to Stowe in Vermont once.
+[10:35.0 - 10:35.2] Okay.
+[10:35.2 - 10:35.7] Terrible.
+[10:35.7 - 10:36.4] It was icy.
+[10:36.4 - 10:37.0] It was awful.
+[10:37.0 - 10:39.1] Yeah, Montreal's like that, icy, cold.
+[10:39.1 - 10:39.9] 'Cause they're, yeah.
+[10:39.9 - 10:40.8] Just awful.
+[10:40.8 - 10:44.6] And I went to ski Mammoth and I'm like, "Oh my God." Wow, you can actually move.
+[10:44.6 - 10:47.4] It's actually snow, wow.
+[10:47.4 - 10:48.9] Uh, California snow- You can hear the iciness ...
+[10:48.9 - 10:49.7] is very heavy.
+[10:49.7 - 10:51.3] It's got a high water content.
+[10:51.3 - 10:51.7] Oh, okay.
+[10:51.7 - 10:57.7] So on a, on a deep powder day, it's, you really have to slog through it.
+[10:57.7 - 10:58.4] It's heavy stuff.
+[10:58.4 - 10:59.0] Oh, okay.
+[10:59.0 - 11:01.4] Guess it'd be less dense.
+[11:01.4 - 11:02.0] Yeah.
+[11:02.0 - 11:03.4] It's very dense- Mm-hmm ...
+[11:03.4 - 11:05.0] 'cause it's got a high water content.
+[11:05.0 - 11:11.2] I, I don't know why it's like that here and not in Utah, but in Utah it's like- Lush ...
+[11:11.2 - 11:13.0] it's, it's like, it's like powder.
+[11:13.0 - 11:13.9] I love that.
+[11:13.9 - 11:17.4] Salt Lake City and there's like...
+[11:17.4 - 11:18.4] What's the main one?
+[11:18.4 - 11:19.1] It's, it's quite big.
+[11:19.1 - 11:22.4] There's, uh- Yeah, I mean, that's, it's m- it's like more Mormon, right?
+[11:22.4 - 11:24.1] More- Yeah.
+[11:24.1 - 11:27.5] There's a, there's a lot of, um, resorts in Utah, but that's the best snow.
+[11:27.5 - 11:29.3] I looked up- Colorado, I don't know.
+[11:29.3 - 11:30.6] I've never...
+[11:30.6 - 11:31.9] I've skied once in Colorado.
+[11:31.9 - 11:32.8] Colorado's amazing, yeah.
+[11:32.8 - 11:34.6] Breckenridge- Oh, shit, it's beautiful ...
+[11:34.6 - 11:37.2] um, Telluride, Steamboat.
+[11:37.2 - 11:37.6] Yeah.
+[11:37.6 - 11:41.9] Uh, but in terms of the snow, I don't know how it compares to Utah and California.
+[11:41.9 - 11:45.0] California, wet, heavy snow.
+[11:45.0 - 11:45.4] Oh, okay.
+[11:45.4 - 11:49.3] Even on a, a powder day, like, you think it'd be light, but it's, it's not that light.
+[11:49.3 - 11:54.8] I like going to Breckenridge 'cause you can do, like, a day skiing and then the same pass works for the night skiing.
+[11:54.8 - 11:56.6] They, like, light it all up and- Mm-hmm ...
+[11:56.6 - 11:57.9] I forgot what city it is.
+[11:57.9 - 11:59.1] It's not Steamboat.
+[11:59.1 - 11:59.4] It's-
+[12:00.7 - 12:01.8] I haven't skied in years.
+[12:01.8 - 12:03.9] I don't ski anymore I used to go every year.
+[12:03.9 - 12:09.7] My birthday's in January, so it's like- Yeah, I skied my entire life, and then my husband doesn't ski.
+[12:09.7 - 12:12.3] He tried it a few times- Mm ...
+[12:12.3 - 12:16.3] and just didn't really- Yeah, my dad's a good skier, but my mom and my sisters don't ski.
+[12:16.3 - 12:16.4] Yeah.
+[12:16.4 - 12:18.0] So it's like could, could be a family thing.
+[12:18.0 - 12:20.1] And I was like, you know what?
+[12:20.1 - 12:21.5] I've skied a lot.
+[12:21.5 - 12:22.5] I've skied in Europe.
+[12:22.5 - 12:25.6] I've skied in- Talk about your joints- ...
+[12:25.6 - 12:25.7] more in the US ...
+[12:25.7 - 12:25.9] too.
+[12:25.9 - 12:26.8] That's like the worst.
+[12:26.8 - 12:29.7] Yeah, and I'm like, you know- I've got bad IT bands right here- Yeah ...
+[12:29.7 - 12:30.8] so it's like- I'm good.
+[12:30.8 - 12:32.5] I'm okay if I don't ski anymore.
+[12:32.5 - 12:34.6] Who knows?
+[12:34.6 - 12:36.0] Well, now you make me wanna go skiing.
+[12:36.0 - 12:40.8] And on a cruise, and to Positano.
+[12:40.8 - 12:45.4] That's my favorite place I've gone so far.
+[12:45.4 - 12:45.9] That'd be cool.
+[12:45.9 - 12:51.2] So, uh, you know, my internet and phone are gonna be spotty.
+[12:51.2 - 12:52.2] What?
+[12:52.2 - 12:54.3] If we can't reach you, we can't reach you.
+[12:54.3 - 12:56.9] Oh, well.
+[12:56.9 - 12:59.4] I would just say that it was spotty the whole time.
+[12:59.4 - 12:59.6] Yeah.
+[12:59.6 - 13:04.0] I'm gonna be literally in the middle of nowhere.
+[13:04.0 - 13:04.9] Yeah.
+[13:04.9 - 13:06.6] Do you have, like, a hotspot?
+[13:06.6 - 13:10.7] Well, apparently on the boat itself- Yeah ...
+[13:10.7 - 13:12.3] there's satellite service- Yeah ...
+[13:12.3 - 13:14.4] so it's, it's okay Probably use, like, Starlink or something.
+[13:14.4 - 13:17.6] But, like, in the towns and such, like in Anchorage, yes.
+[13:17.6 - 13:21.0] But we'll be in these tiny little fishing villages, maybe.
+[13:21.0 - 13:22.7] Yeah.
+[13:22.7 - 13:24.5] Yeah.
+[13:24.5 - 13:25.5] Oh, well.
+[13:25.5 - 13:27.9] Hope you don't, for your sake.
+[13:27.9 - 13:29.0] It is what it is.
+[13:29.0 - 13:31.5] I'm not planning on checking my email.
+[13:31.5 - 13:35.5] I always do, but this time I won't.
+[13:35.5 - 13:38.1] I finally finished my little piano mastery.
+[13:38.1 - 13:38.4] Oh, so I gave you the check.
+[13:38.4 - 13:40.3] I brought it up here, but if you're done, I didn't even tell you.
+[13:40.3 - 13:40.8] Oh, yeah.
+[13:40.8 - 13:42.0] I didn't even see it, so.
+[13:42.0 - 13:44.7] This is for Ellie.
+[13:44.7 - 13:45.3] Ellie.
+[13:45.3 - 13:47.0] Another check.
+[13:47.0 - 13:47.8] Another check.
+[13:47.8 - 13:51.1] I don't taste these orange biscuits.
+[13:51.1 - 13:52.5] Okay, good.
+[13:52.5 - 13:53.4] I'm glad that you- There's no orange- ...
+[13:53.4 - 13:56.6] it wasn't just my brain then ...
+[13:56.6 - 13:57.1] in these biscuits.
+[13:57.1 - 13:57.9] But these are kosher.
+[13:57.9 - 13:59.1] It's a kosher brand.
+[13:59.1 - 13:59.9] Hmm.
+[13:59.9 - 14:02.9] They're like $1.29 for a pack.
+[14:02.9 - 14:08.3] I think there's vanilla ones up in the cabinet that I've never opened.
+[14:08.3 - 14:11.8] There's absolutely nothing orange about these.
+[14:11.8 - 14:13.3] Yeah.
+[14:13.3 - 14:14.4] I think I got...
+[14:14.4 - 14:17.6] Was it thinking, like, oh, I have my lemon ginger- Oh, you know what?
+[14:17.6 - 14:17.6] Wait.
+[14:17.6 - 14:18.5] I just got a little hint.
+[14:18.5 - 14:20.0] It's orange.
+[14:20.0 - 14:21.1] That's 'cause you said orange.
+[14:21.1 - 14:21.8] Your brain went...
+[14:21.8 - 14:43.1] I
+[14:43.1 - 14:43.9] was about to send you this.
+[14:43.9 - 14:45.3] This is what- See ...
+[14:45.3 - 14:45.9] did in mine.
+[14:45.9 - 14:49.0] Kinda nifty.
+[14:49.0 - 14:55.4] So look, um, so, like, rebuild her shit and use some of the animations from there.
+[14:55.4 - 14:56.9] Like, go to MotionSource- Oh, okay ...
+[14:56.9 - 14:57.8] and you can, like, pick.
+[14:57.8 - 14:59.1] Like, it'll be like, I just...
+[14:59.1 - 14:59.6] I'm fucking around.
+[14:59.6 - 15:01.1] Did you already tell him that we in or...?
+[15:01.1 - 15:02.3] I'm asking right now.
+[15:02.3 - 15:02.6] Yeah.
+[15:02.6 - 15:03.9] So, but at least you'll have it ready.
+[15:03.9 - 15:04.4] You know what I'm saying?
+[15:04.4 - 15:06.5] Yeah, I could whip up a bunch of stuff we use it for.
+[15:06.5 - 15:08.5] Okay.
+[15:08.5 - 15:12.3] I can make some of it for the managers, like, it's like for their training and video.
+[15:12.3 - 15:14.1] It's, um, it's 200 bucks for the year.
+[15:14.1 - 15:15.1] Oh.
+[15:15.1 - 15:16.4] So- So it's...
+[15:16.4 - 15:18.3] Just tell 'em the monthly then, divide it by 12.
+[15:18.3 - 15:22.3] Oh, yeah.
+[15:22.3 - 15:24.8] I mean, sounds better than say 200.
+[15:24.8 - 15:25.9] Yeah.
+[15:25.9 - 15:30.0] Or whatever that is.
+[15:30.0 - 15:32.1] I mean, 12 times 12 is 144.
+[15:32.1 - 15:33.7] It's gotta be, what, 15 a month?
+[15:33.7 - 15:34.7] 16 a month?
+[15:34.7 - 15:35.2] Yeah.
+[15:35.2 - 15:36.3] Nothing.
+[15:36.3 - 15:44.3] Yeah, go to that site, log in, and it takes a month there.
+[15:44.3 - 15:47.8] Oh, yeah, I was, I was talking to Nick on a call.
+[15:47.8 - 15:50.3] Uh- This MotionLink ...
+[15:50.3 - 15:50.4] MotionLink?
+[15:50.4 - 15:50.7] Yeah.
+[15:50.7 - 15:52.2] I didn't send you the link.
+[15:52.2 - 15:54.5] I just fucking- Oh, this is the login.
+[15:54.5 - 15:54.8] Yeah.
+[15:54.8 - 15:55.0] Okay.
+[15:55.0 - 15:57.7] So it's right here.
+[15:57.7 - 15:59.2] We got everything.
+[15:59.2 - 15:59.9] Hmm?
+[15:59.9 - 16:01.1] So we got everything.
+[16:01.1 - 16:02.4] Where's the login at?
+[16:02.4 - 16:04.1] Uh, that's a good question.
+[16:04.1 - 16:06.6] Sign in.
+[16:06.6 - 16:08.5] Here.
+[16:08.5 - 16:12.3] You can take off that fucking...
+[16:12.3 - 16:13.6] That.
+[16:13.6 - 16:14.3] Oh.
+[16:14.3 - 16:18.0] And I copy that space after the explanation.
+[16:18.0 - 16:19.3] No.
+[16:19.3 - 16:19.8] Oh, no, I didn't.
+[16:19.8 - 16:21.1] Here, let me just show you right here.
+[16:21.1 - 16:23.5] It's that keyboard.
+[16:23.5 - 16:24.8] Oh.
+[16:24.8 - 16:32.4] Sweet.
+[16:32.4 - 16:34.8] So, like- What more?
+[16:34.8 - 16:36.4] So what, let me show you.
+[16:36.4 - 16:37.7] I didn't go...
+[16:37.7 - 16:38.4] I didn't do that.
+[16:38.4 - 16:38.5] Okay.
+[16:38.5 - 16:39.0] I don't want fucking do...
+[16:39.0 - 16:39.5] I don't know what that is.
+[16:39.5 - 16:42.5] But, like, say, like, I mean- Oh, I like this light one ...
+[16:42.5 - 16:43.9] this is, this is the first one I did.
+[16:43.9 - 16:44.6] Okay.
+[16:44.6 - 16:45.1] Watch.
+[16:45.1 - 16:45.4] Scroll down.
+[16:45.4 - 16:48.8] Down, down, down.
+[16:48.8 - 16:49.6] It was, like, the tree.
+[16:49.6 - 16:50.8] Oh.
+[16:50.8 - 16:51.9] Well, it's at the top.
+[16:51.9 - 16:54.0] I like the fish one, the fish bowl looking one.
+[16:54.0 - 16:55.4] Oh, that's in there too.
+[16:55.4 - 17:04.1] Basically, you did it, and then just copy and just say, "Take everything from my website and put this as an About f- and About...
+[17:04.1 - 17:06.8] " or change this as the This page or This page again.
+[17:06.8 - 17:07.5] Oh, okay.
+[17:07.5 - 17:08.2] You know what I'm saying?
+[17:08.2 - 17:09.0] But start with the new site.
+[17:09.0 - 17:09.6] Don't fucking break the whole site.
+[17:09.6 - 17:10.2] Yeah, yeah, yeah.
+[17:10.2 - 17:12.8] I was just wanted it in here, like, just for the prompting purposes.
+[17:12.8 - 17:13.2] Oh, yeah.
+[17:13.2 - 17:14.4] Yeah, I didn't wanna, like, mess with it.
+[17:14.4 - 17:19.7] Yeah, I mean, no, you were s- Like, you could use the la- any of these landing pages.
+[17:19.7 - 17:20.4] So there's, there's...
+[17:20.4 - 17:27.0] Go all the way to the top so you can see the- Got too much shit open ...
+[17:27.0 - 17:28.9] so here's Sections and Backgrounds.
+[17:28.9 - 17:29.5] Oh, okay.
+[17:29.5 - 17:31.0] And then these are, like, landing pages- And templates.
+[17:31.0 - 17:31.7] Okay ...
+[17:31.7 - 17:31.8] and then templates.
+[17:31.8 - 17:32.8] And then just copy the code.
+[17:32.8 - 17:33.2] Boom.
+[17:33.2 - 17:33.9] Sweet.
+[17:33.9 - 17:36.9] I'll have a Shopify store running by the end of the day.
+[17:36.9 - 17:41.1] Have a million dollars by next Monday.
+[17:41.1 - 21:12.0] Uh,
+[21:12.0 - 21:14.5] I meant to send that to myself to show you in here.
+[21:14.5 - 21:16.5] Come here for a sec.
+[21:16.5 - 21:18.2] Yeah, come here for a sec.
+[21:18.2 - 21:23.2] I, I meant to send it to myself to show you in here.
+[21:23.2 - 21:26.4] I'll show you what it looks like.
+[21:26.4 - 21:33.7] So I have it, uh, push all of my tasks that I ever do in Claude and in Manus in here.
+[21:33.7 - 21:38.6] So I have a backup, uh, like for all of my files in one place.
+[21:38.6 - 21:40.9] Yeah.
+[21:40.9 - 21:47.2] So then, like, I can go to, uh, get rid of the hide, and then you can go to apps and websites.
+[21:47.2 - 21:49.9] It, like, categorizes all of it for me.
+[21:49.9 - 21:50.8] Oh, you shouldn't have.
+[21:50.8 - 21:51.3] Right?
+[21:51.3 - 21:58.6] I knew you'd like to do it for yourself, so that way you don't have to, like, worry about, like, you know, different accounts everywhere and bullshit.
+[21:58.6 - 22:00.0] That's skill.
+[22:00.0 - 22:00.7] Right?
+[22:00.7 - 22:02.2] Appreciate it.
+[24:08.5 - 30:35.2] Hmm?
+[30:35.2 - 31:12.3] Oh,
+[31:12.3 - 31:13.7] I need to do that for my house.
+[31:13.7 - 31:15.6] Well, there's your reminder.
+[31:15.6 - 31:16.1] Thank you.
+[31:16.1 - 31:17.9] I myself have been forgetting here.
+[31:17.9 - 31:22.2] Hey Siri, open my Amazon.
+[31:22.2 - 31:30.1] Find my last order for trash bags.
+[31:30.1 - 32:54.2] Quit
+[32:54.2 - 32:55.2] watching TV.
+[32:55.2 - 32:56.2] Huh?
+[32:56.2 - 32:59.9] I haven't watched TV in about th- two years.
+[32:59.9 - 33:02.0] Yeah, yeah, yeah.
+[33:02.0 - 33:03.7] That's what everybody who watches a bunch of TV says.
+[33:03.7 - 33:07.5] I really, really used to.
+[33:07.5 - 33:28.3] See
+[33:28.3 - 33:29.2] you Monday.
+[33:29.2 - 33:29.8] Cheers.
+[33:29.8 - 34:33.3] Um,
+[34:33.3 - 34:38.7] I can't remember what it was called, but maybe it was the same website.
+[34:38.7 - 34:49.4] Wrong
+[34:49.4 - 34:49.8] finger.
+[34:49.8 - 34:52.0] There you go.
+[34:52.0 - 34:53.1] Doesn't feel right.
+[36:05.9 - 36:06.5] There's two.
+[36:06.5 - 36:10.5] There's react-bits.dev, and there's motionsites.ai.
+[36:10.5 - 36:11.5] Reacts what?
+[36:11.5 - 36:12.7] Bits.dev.
+[36:12.7 - 36:15.3] Uh.
+[36:15.3 - 36:16.8] And this is for, like, the...
+[36:16.8 - 36:19.1] If you're going to, um, uh- Browse ...
+[36:19.1 - 36:20.0] browse components.
+[36:20.0 - 36:22.8] And then this, uh...
+[36:22.8 - 36:27.6] You can browse components, and then this just gives you, like...
+[36:27.6 - 36:29.4] You see on the side, there's like- Oh ...
+[36:29.4 - 36:30.6] you could just paste those.
+[36:30.6 - 36:30.6] Categories?
+[36:30.6 - 36:30.8] Yeah.
+[36:30.8 - 36:34.9] And if you, if you click on them, click on them, see Copy Prop?
+[36:34.9 - 36:35.7] Oh, okay.
+[36:35.7 - 36:36.9] And then you just put that in- Yeah ...
+[36:36.9 - 36:37.7] wherever applicable.
+[36:37.7 - 36:38.8] Wherever you want to- Okay ...
+[36:38.8 - 36:40.4] that effect to, to, to go.
+[36:40.4 - 36:41.0] And what's another one?
+[36:41.0 - 36:43.1] Um, the motionsites.ai.
+[36:43.1 - 36:44.3] That's the one- Oh, yeah, yeah, yeah ...
+[36:44.3 - 36:44.5] I was just showing before.
+[36:44.5 - 36:45.0] Okay, cool.
+[36:45.0 - 36:48.6] Sweet.
+[36:48.6 - 37:00.2] Hey,
+[37:00.2 - 39:46.7] Robert.
+[39:46.7 - 41:57.2] Hello?
+[41:57.2 - 41:58.6] Hi.
+[41:58.6 - 41:59.0] Hi.
+[41:59.0 - 42:02.5] Um, I just got off the phone with Jeff Sedaka.
+[42:02.5 - 42:03.2] Okay.
+[42:03.2 - 42:11.0] He doesn't have- The 3115 from the CSSI people.
+[42:11.0 - 42:12.6] For which property?
+[42:12.6 - 42:14.3] Granite Ridge.
+[42:14.3 - 42:15.4] That's the one he needs.
+[42:15.4 - 42:19.7] But I-- my understanding is that all the 3115s are now available.
+[42:19.7 - 42:22.5] I thought that they were too.
+[42:22.5 - 42:23.0] Um- Yeah.
+[42:23.0 - 42:25.0] So can you send him at least Granite Ridge?
+[42:25.0 - 42:25.5] Yes.
+[42:25.5 - 42:31.0] And then in a separate email or link to a Dropbox or something, send him all the others.
+[42:31.0 - 42:33.8] He has a link, but it only takes him- Sure.
+[42:33.8 - 42:37.2] -to prospect studies, not the actual 3115.
+[42:37.2 - 42:39.1] Yes, I will do so now.
+[42:39.1 - 42:40.0] Thank you.
+[42:40.0 - 42:40.0] Uh-huh.
+[42:40.0 - 42:41.4] For sure he needs Granite Ridge.
+[42:41.4 - 42:41.8] Okay.
+[42:41.8 - 42:42.5] Bye-bye.
+[42:42.5 - 42:43.1] So much.
+[42:43.1 - 42:44.5] Bye.
+[48:28.3 - 48:28.9] Hi, how are you?
+[48:28.9 - 48:28.9] Hi.
+[48:28.9 - 48:29.0] How are you?
+[48:29.0 - 48:29.9] Good.
+[48:29.9 - 48:30.3] How are you?
+[48:30.3 - 48:31.3] I'm Sia, nice to meet you.
+[48:31.3 - 48:32.0] Brandon, pleasure.
+[48:32.0 - 48:32.5] Yeah.
+[48:32.5 - 48:36.2] I just wanted to mention, I'm gonna take a look at- Oh, okay ...
+[48:36.2 - 48:36.8] the property.
+[48:36.8 - 48:37.3] Sure, yeah.
+[48:37.3 - 48:37.8] Yeah?
+[48:37.8 - 48:43.1] Okay.
+[48:43.1 - 48:44.0] Are you an agent or?
+[48:44.0 - 48:45.1] Yeah.
+[48:45.1 - 48:45.4] Okay.
+[48:45.4 - 49:05.1] Hmm.
+[49:05.1 - 49:06.8] Who was that?
+[49:06.8 - 49:08.2] A, a real estate agent.
+[49:08.2 - 49:09.0] Oh.
+[49:09.0 - 49:29.9] Brandon.
+[49:29.9 - 49:30.3] Yes.
+[49:30.3 - 49:35.2] Coming.
+[49:35.2 - 50:38.2] You're
+[50:38.2 - 50:38.8] a liar.
+[50:38.8 - 50:40.4] Hi.
+[50:40.4 - 50:40.8] Yeah.
+[50:40.8 - 50:42.7] Question, is there a pool?
+[50:42.7 - 50:45.7] Uh, it's just this little strip here that you can see.
+[50:45.7 - 50:47.7] Uh- There is no pool.
+[50:47.7 - 50:48.9] Well, it's the pool.
+[50:48.9 - 50:49.1] That's the one?
+[50:49.1 - 50:49.6] Yeah.
+[50:49.6 - 50:51.8] It's a baby pool.
+[50:51.8 - 50:52.7] I know.
+[50:52.7 - 50:54.1] Are you gonna be listing the property?
+[50:54.1 - 50:56.2] Possibly.
+[50:56.2 - 50:56.5] Oh.
+[50:56.5 - 50:57.8] Yeah.
+[50:57.8 - 51:01.0] Hmm.
+[51:01.0 - 51:54.0] Uh,
+[51:54.0 - 51:56.6] the key to the Hickfield, Brandon.
+[51:56.6 - 51:57.1] What's that?
+[51:57.1 - 52:01.6] Hickfield, can you see?
+[52:01.6 - 52:02.0] Hicksville?
+[52:02.0 - 52:02.0] Hickfield.
+[52:02.0 - 52:03.3] Oh, yeah, yeah, yeah, yeah, yeah.
+[52:03.3 - 52:03.6] Okay.
+[52:03.6 - 52:26.4] Four
+[52:26.4 - 52:28.6] bedroom, right?
+[52:28.6 - 52:29.0] I'm sorry?
+[52:29.0 - 52:29.9] It's four bedrooms.
+[52:29.9 - 52:30.4] Yes.
+[52:30.4 - 52:31.7] Okay.
+[52:31.7 - 52:36.7] Is there a living stuff?
+[52:36.7 - 52:38.6] Yes.
+[52:38.6 - 52:38.6] Okay.
+[52:38.6 - 52:38.6] Thanks, Brandon.
+[52:38.6 - 52:39.1] Of course.
+[52:39.1 - 52:39.9] Have a good weekend.
+[52:39.9 - 52:46.3] You too.
+[52:46.3 - 53:30.4] I
+[53:30.4 - 53:31.4] mean, the fucking bike...
+[53:31.4 - 53:32.9] No, you, you gotta pick up his phone.
+[53:32.9 - 53:37.2] There is still Marco that, uh, that, uh, that thing right there.
+[53:37.2 - 53:50.1] Hello?
+[53:50.1 - 53:59.4] I don't give a shit.
+[53:59.4 - 53:59.7] Hello?
+[53:59.7 - 57:45.6] And
+[57:45.6 - 57:47.2] now I'm about to go take this check to Ellie.
+[57:47.2 - 57:49.5] She's up at four thirty.
+[57:49.5 - 58:18.2] Nicole.
+[58:18.2 - 58:21.2] I'll see y'all.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-29-19-32-47_transcription_20260706_155942.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-29-19-32-47_transcription_20260706_155942.txt
+[2J[H[3Jmanus-speech-to-text ROSE-REC2_V2025-12-29-19-32-47.mp3
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2025-12-29-19-32-47.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: .ROSE-REC2_V2025-12-29-19-32-47_chunks_20260706_155657/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: .ROSE-REC2_V2025-12-29-19-32-47_chunks_20260706_155657/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: .ROSE-REC2_V2025-12-29-19-32-47_chunks_20260706_155657/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: .ROSE-REC2_V2025-12-29-19-32-47_chunks_20260706_155657/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: .ROSE-REC2_V2025-12-29-19-32-47_chunks_20260706_155657/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[42:19.7 - 42:22.5] I thought that they were too.
+[42:22.5 - 42:23.0] Um- Yeah.
+[42:23.0 - 42:25.0] So can you send him at least Granite Ridge?
+[42:25.0 - 42:25.5] Yes.
+[42:25.5 - 42:31.0] And then in a separate email or link to a Dropbox or something, send him all the others.
+[42:31.0 - 42:33.8] He has a link, but it only takes him- Sure.
+[42:33.8 - 42:37.2] -to prospect studies, not the actual 3115.
+[42:37.2 - 42:39.1] Yes, I will do so now.
+[42:39.1 - 42:40.0] Thank you.
+[42:40.0 - 42:40.0] Uh-huh.
+[42:40.0 - 42:41.4] For sure he needs Granite Ridge.
+[42:41.4 - 42:41.8] Okay.
+[42:41.8 - 42:42.5] Bye-bye.
+[42:42.5 - 42:43.1] So much.
+[42:43.1 - 42:44.5] Bye.
+[48:28.3 - 48:28.9] Hi, how are you?
+[48:28.9 - 48:28.9] Hi.
+[48:28.9 - 48:29.0] How are you?
+[48:29.0 - 48:29.9] Good.
+[48:29.9 - 48:30.3] How are you?
+[48:30.3 - 48:31.3] I'm Sia, nice to meet you.
+[48:31.3 - 48:32.0] Brandon, pleasure.
+[48:32.0 - 48:32.5] Yeah.
+[48:32.5 - 48:36.2] I just wanted to mention, I'm gonna take a look at- Oh, okay ...
+[48:36.2 - 48:36.8] the property.
+[48:36.8 - 48:37.3] Sure, yeah.
+[48:37.3 - 48:37.8] Yeah?
+[48:37.8 - 48:43.1] Okay.
+[48:43.1 - 48:44.0] Are you an agent or?
+[48:44.0 - 48:45.1] Yeah.
+[48:45.1 - 48:45.4] Okay.
+[48:45.4 - 49:05.1] Hmm.
+[49:05.1 - 49:06.8] Who was that?
+[49:06.8 - 49:08.2] A, a real estate agent.
+[49:08.2 - 49:09.0] Oh.
+[49:09.0 - 49:29.9] Brandon.
+[49:29.9 - 49:30.3] Yes.
+[49:30.3 - 49:35.2] Coming.
+[49:35.2 - 50:38.2] You're
+[50:38.2 - 50:38.8] a liar.
+[50:38.8 - 50:40.4] Hi.
+[50:40.4 - 50:40.8] Yeah.
+[50:40.8 - 50:42.7] Question, is there a pool?
+[50:42.7 - 50:45.7] Uh, it's just this little strip here that you can see.
+[50:45.7 - 50:47.7] Uh- There is no pool.
+[50:47.7 - 50:48.9] Well, it's the pool.
+[50:48.9 - 50:49.1] That's the one?
+[50:49.1 - 50:49.6] Yeah.
+[50:49.6 - 50:51.8] It's a baby pool.
+[50:51.8 - 50:52.7] I know.
+[50:52.7 - 50:54.1] Are you gonna be listing the property?
+[50:54.1 - 50:56.2] Possibly.
+[50:56.2 - 50:56.5] Oh.
+[50:56.5 - 50:57.8] Yeah.
+[50:57.8 - 51:01.0] Hmm.
+[51:01.0 - 51:54.0] Uh,
+[51:54.0 - 51:56.6] the key to the Hickfield, Brandon.
+[51:56.6 - 51:57.1] What's that?
+[51:57.1 - 52:01.6] Hickfield, can you see?
+[52:01.6 - 52:02.0] Hicksville?
+[52:02.0 - 52:02.0] Hickfield.
+[52:02.0 - 52:03.3] Oh, yeah, yeah, yeah, yeah, yeah.
+[52:03.3 - 52:03.6] Okay.
+[52:03.6 - 52:26.4] Four
+[52:26.4 - 52:28.6] bedroom, right?
+[52:28.6 - 52:29.0] I'm sorry?
+[52:29.0 - 52:29.9] It's four bedrooms.
+[52:29.9 - 52:30.4] Yes.
+[52:30.4 - 52:31.7] Okay.
+[52:31.7 - 52:36.7] Is there a living stuff?
+[52:36.7 - 52:38.6] Yes.
+[52:38.6 - 52:38.6] Okay.
+[52:38.6 - 52:38.6] Thanks, Brandon.
+[52:38.6 - 52:39.1] Of course.
+[52:39.1 - 52:39.9] Have a good weekend.
+[52:39.9 - 52:46.3] You too.
+[52:46.3 - 53:30.4] I
+[53:30.4 - 53:31.4] mean, the fucking bike...
+[53:31.4 - 53:32.9] No, you, you gotta pick up his phone.
+[53:32.9 - 53:37.2] There is still Marco that, uh, that, uh, that thing right there.
+[53:37.2 - 53:50.1] Hello?
+[53:50.1 - 53:59.4] I don't give a shit.
+[53:59.4 - 53:59.7] Hello?
+[53:59.7 - 57:45.6] And
+[57:45.6 - 57:47.2] now I'm about to go take this check to Ellie.
+[57:47.2 - 57:49.5] She's up at four thirty.
+[57:49.5 - 58:18.2] Nicole.
+[58:18.2 - 58:21.2] I'll see y'all.
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-29-19-32-47_transcription_20260706_155942.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-29-19-32-47_transcription_20260706_155942.txt

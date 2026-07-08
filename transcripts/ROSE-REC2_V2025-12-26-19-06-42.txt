@@ -1,0 +1,90 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: ROSE-REC2_V2025-12-26-19-06-42.mp3, file size: 1.92 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 335.9 seconds
+Language: eng
+Timestamped segments:
+[00:15.9 - 00:17.0] In the rain.
+[00:17.0 - 00:24.1] Your touch, your kiss, your warm embrace.
+[00:24.1 - 00:30.6] I'll find my way back to you.
+[00:30.6 - 00:36.2] Be safe, you'll be waiting.
+[00:36.2 - 00:45.0] Give birth again.
+[00:45.0 - 00:51.8] It would feel so good to be in your arms.
+[00:51.8 - 00:56.4] Put all my journeys in.
+[00:56.4 - 00:58.9] I make a promise.
+[00:58.9 - 01:06.5] If it's one that you can keep, I vow to come for you.
+[01:06.5 - 01:10.0] You wait for me.
+[01:10.0 - 01:20.4] Take me home.
+[01:20.4 - 01:27.4] Eight days, fourteen.
+[01:27.4 - 01:38.3] Place me.
+[01:38.3 - 01:39.7] Place me.
+[01:39.7 - 01:52.3] Place me.
+[01:52.3 - 02:19.0] There's
+[02:19.0 - 02:26.2] a moment hanging from your eyes.
+[02:26.2 - 02:33.1] That I wrote twenty years ago.
+[02:33.1 - 02:42.2] In an open paper and a faded picture.
+[02:42.2 - 02:44.7] And we're sleeping in the rain.
+[02:44.7 - 02:55.0] There's no
+[02:55.0 - 03:00.5] reason, no excuse.
+[03:00.5 - 03:08.8] There's no second-hand alibis.
+[03:08.8 - 03:17.3] Just some black ink on some blue lines.
+[03:17.3 - 03:23.5] And a shadow before the light.
+[03:23.5 - 04:04.1] In the
+[04:04.1 - 04:11.9] meantime, I'll be waiting.
+[04:11.9 - 04:14.4] Twenty years, twenty more.
+[04:14.4 - 04:24.5] I'll be praying for
+[04:24.5 - 04:26.8] your return, sure.
+[04:26.8 - 04:36.9] And you
+[04:36.9 - 05:15.8] know
+[05:15.8 - 05:26.1] it
+[05:26.1 - 05:27.2] is my fault.
+[05:27.2 - 05:35.8] And you know it is my fault.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-26-19-06-42_transcription_20260706_153309.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-26-19-06-42_transcription_20260706_153309.txt
+[2J[H[3Jmanus-speech-to-text ROSE-REC2_V2025-12-26-19-06-42.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: ROSE-REC2_V2025-12-26-19-06-42.mp3, file size: 1.92 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:15.9 - 00:17.0] In the rain.
+[00:17.0 - 00:24.1] Your touch, your kiss, your warm embrace.
+[00:24.1 - 00:30.6] I'll find my way back to you.
+[00:30.6 - 00:36.2] Be safe, you'll be waiting.
+[00:36.2 - 00:45.0] Give birth again.
+[00:45.0 - 00:51.8] It would feel so good to be in your arms.
+[00:51.8 - 00:56.4] Put all my journeys in.
+[00:56.4 - 00:58.9] I make a promise.
+[00:58.9 - 01:06.5] If it's one that you can keep, I vow to come for you.
+[01:06.5 - 01:10.0] You wait for me.
+[01:10.0 - 01:20.4] Take me home.
+[01:20.4 - 01:27.4] Eight days, fourteen.
+[01:27.4 - 01:38.3] Place me.
+[01:38.3 - 01:39.7] Place me.
+[01:39.7 - 01:52.3] Place me.
+[01:52.3 - 02:19.0] There's
+[02:19.0 - 02:26.2] a moment hanging from your eyes.
+[02:26.2 - 02:33.1] That I wrote twenty years ago.
+[02:33.1 - 02:42.2] In an open paper and a faded picture.
+[02:42.2 - 02:44.7] And we're sleeping in the rain.
+[02:44.7 - 02:55.0] There's no
+[02:55.0 - 03:00.5] reason, no excuse.
+[03:00.5 - 03:08.8] There's no second-hand alibis.
+[03:08.8 - 03:17.3] Just some black ink on some blue lines.
+[03:17.3 - 03:23.5] And a shadow before the light.
+[03:23.5 - 04:04.1] In the
+[04:04.1 - 04:11.9] meantime, I'll be waiting.
+[04:11.9 - 04:14.4] Twenty years, twenty more.
+[04:14.4 - 04:24.5] I'll be praying for
+[04:24.5 - 04:26.8] your return, sure.
+[04:26.8 - 04:36.9] And you
+[04:36.9 - 05:15.8] know
+[05:15.8 - 05:26.1] it
+[05:26.1 - 05:27.2] is my fault.
+[05:27.2 - 05:35.8] And you know it is my fault.
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-26-19-06-42_transcription_20260706_153309.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-26-19-06-42_transcription_20260706_153309.txt

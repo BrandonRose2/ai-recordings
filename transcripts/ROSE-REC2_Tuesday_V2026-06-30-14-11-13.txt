@@ -1,0 +1,454 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_Tuesday_V2026-06-30-14-11-13.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-14-11-13_chunks_20260705_193935/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-14-11-13_chunks_20260705_193935/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-14-11-13_chunks_20260705_193935/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-14-11-13_chunks_20260705_193935/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-14-11-13_chunks_20260705_193935/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.7 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[03:38.2 - 05:50.2] Damn it.
+[12:00.1 - 12:39.5] I'm gonna
+[12:39.5 - 13:35.5] let
+[13:35.5 - 13:40.1] it sit on this until the fucking air actually pulls out.
+[13:40.1 - 16:30.1] You know
+[16:30.1 - 17:05.4] what
+[17:05.4 - 17:50.3] I
+[17:50.3 - 17:56.1] mean?
+[17:56.1 - 17:58.9] Yup.
+[40:59.3 - 40:59.8] What up, dog?
+[40:59.8 - 41:01.2] Sorry.
+[41:01.2 - 41:02.0] I thought you were Mark.
+[41:02.0 - 41:02.7] Huh?
+[41:02.7 - 41:03.8] I thought you were Mark.
+[41:03.8 - 41:04.3] Mmm.
+[41:04.3 - 41:07.9] I gotta go pick her up at, uh, six o'clock.
+[41:07.9 - 41:08.2] Damn.
+[41:08.2 - 41:10.3] Six o'clock.
+[41:10.3 - 41:12.5] She told me I have to work this weekend.
+[41:12.5 - 41:14.0] What?
+[41:14.0 - 41:14.7] Yeah.
+[41:14.7 - 41:15.3] What time?
+[41:15.3 - 41:22.8] She, uh, she- Well, Saturday's a holiday, so if you're working, if you're working Saturday, you're gonna get double time.
+[41:22.8 - 41:25.7] Let's go clarify that with Nicole, 'cause Saturday's a fucking holiday.
+[41:25.7 - 41:32.8] Yeah, she said that she wants me to fucking, uh, take her, take the, um, Victoria riding for like three hours.
+[41:32.8 - 41:34.0] What time?
+[41:34.0 - 41:36.0] Um, like in the morning, like seven.
+[41:36.0 - 41:46.2] You might wanna also, like, check with that, like, the horse riding spot might not be o- Like, it's Fourth of July on Saturday,
+[41:46.2 - 41:46.5] you know?
+[41:46.5 - 41:53.4] Yeah, it's- Like, they may wanna call 'cause that, they may not be, like, yeah.
+[41:53.4 - 44:13.4] Hi,
+[44:13.4 - 44:13.7] Mark.
+[44:13.7 - 44:30.4] So
+[44:30.4 - 44:33.3] you don't want Santiago sitting there when he's in the office?
+[44:33.3 - 44:43.5] No, he's
+[44:43.5 - 44:43.8] here.
+[44:43.8 - 44:44.7] He's back.
+[44:44.7 - 44:47.8] Yeah, I don't think he's, he's sitting there.
+[44:47.8 - 44:51.7] Yeah, Mark knows.
+[44:51.7 - 44:53.3] Well, I mean, he's not in...
+[44:53.3 - 44:57.2] You know, he's usually driving around so far, so- Yeah ...
+[44:57.2 - 44:58.1] it shouldn't be an issue.
+[44:58.1 - 45:07.4] I was just making sure, but- Mark, there's a couple things that David wants done.
+[45:07.4 - 45:17.4] So I guess I'm gonna go get some water
+[45:17.4 - 45:17.7] from him.
+[45:17.7 - 45:17.9] Oh.
+[45:17.9 - 45:22.5] And he said that he wanted, uh, thirty-six of them, but should I just get two cases?
+[45:22.5 - 45:23.5] One case.
+[45:23.5 - 45:23.8] Yeah.
+[45:23.8 - 45:24.8] Work it out.
+[45:24.8 - 45:25.5] Yeah, he's not gonna...
+[45:25.5 - 45:26.3] Yeah.
+[45:26.3 - 45:27.1] It's not gonna matter, like...
+[45:27.1 - 45:29.8] Who the fuck are you telling to be quiet?
+[45:29.8 - 45:31.0] Who are we talking to, Mark?
+[45:31.0 - 45:32.9] Um, okay.
+[45:32.9 - 45:34.0] Yeah, sure.
+[45:34.0 - 45:37.7] Yeah.
+[45:37.7 - 45:38.5] Okay.
+[45:38.5 - 45:39.1] Yeah.
+[45:39.1 - 45:40.0] I'll, I'll give him...
+[45:40.0 - 45:48.6] I was, I was spinning up the VMware machine right now for getting that all set up, so I didn't realize he was coming into the office.
+[45:48.6 - 45:52.2] It, like, now or, or is this, like, tomorrow morning?
+[45:52.2 - 45:54.1] Oh, okay.
+[45:54.1 - 45:54.5] Yeah.
+[45:54.5 - 45:55.4] Okay, cool.
+[45:55.4 - 46:00.8] Yeah, I'll get it all- Just don't pick anything today.
+[46:00.8 - 46:00.9] No way.
+[46:00.9 - 46:04.6] I just made it his name @apartmentcorp.com and...
+[46:04.6 - 46:22.0] Uh,
+[46:22.0 - 46:23.7] yeah, I'll see what the...
+[46:23.7 - 46:29.1] One more thing.
+[46:29.1 - 46:29.4] Okay.
+[46:29.4 - 46:33.1] I'll touch base with Jeremy on- Gotcha ...
+[46:33.1 - 46:33.3] if I...
+[46:33.3 - 46:36.7] Yeah, I'll, I'll figure it out with Jeremy on how to make that- His office phone ...
+[46:36.7 - 46:38.1] as his, like, main email and everything.
+[46:38.1 - 46:39.6] Yeah, I want more cases of...
+[46:39.6 - 46:43.2] Should I turn on the stock up on that so you can just let us know?
+[46:43.2 - 46:49.3] 'Cause if I order like this, it might be a little bit cheaper because we'll have to pay, pay one shipping.
+[46:49.3 - 46:50.1] Yeah.
+[46:50.1 - 46:50.9] Yeah.
+[46:50.9 - 46:51.3] Okay.
+[46:51.3 - 46:52.7] I trust you to do this too because- Yeah ...
+[46:52.7 - 46:53.1] I trust him.
+[46:53.1 - 46:54.1] I know him.
+[46:54.1 - 46:55.6] I can go to his fucking front door.
+[46:55.6 - 46:55.8] Okay.
+[46:55.8 - 46:56.7] I- You know what I'm saying?
+[46:56.7 - 46:57.7] I don't have to fucking...
+[46:57.7 - 46:58.9] He's not gonna jack me 'cause I know this fucking kid.
+[46:58.9 - 47:00.4] Yeah.
+[47:00.4 - 47:04.2] Yeah, I just heard you say Mark, and I was like, "That's why I did that." Did anybody call him?
+[47:04.2 - 47:04.8] 'Cause I heard you...
+[47:04.8 - 47:05.6] Yeah, he was...
+[47:05.6 - 47:14.6] Called me, I don't know, just that fucking douchey dude who we met with about selling PropertyMax is coming in.
+[47:14.6 - 47:17.7] So now we have to deal with that shit.
+[47:17.7 - 47:18.8] Coming in, what?
+[47:18.8 - 47:19.9] To, to sit here and work here?
+[47:19.9 - 47:20.4] To work.
+[47:20.4 - 47:23.1] So you no longer have a desk, FYI.
+[47:23.1 - 47:24.0] Well, that's okay.
+[47:24.0 - 47:25.5] He can fucking sit at my desk.
+[47:25.5 - 47:28.3] I guess, but when Mark comes in- Mark's not gonna be here for two weeks.
+[47:28.3 - 47:30.3] Oh, yeah.
+[47:30.3 - 47:31.6] Well, I just mean in gen...
+[47:31.6 - 47:32.5] You know what I mean?
+[47:32.5 - 47:33.4] Like, but he...
+[47:33.4 - 47:43.6] You don't have to worry 'cause he said to do that, and I was like, "Well, you wanted Santiago sitting there when he's here." Like, I know it's not super often,
+[47:43.6 - 47:53.7] he's driving all the time, but, like, that was his desk, and he's like, "Oh, um, have him sit at Dave's desk." And I was like, "Dave's back." And then he's like, "Well,
+[47:53.7 - 47:55.9] uh, okay, then have him take Santiago's.
+[47:55.9 - 47:59.9] I'll, I'll figure it out." So you have the built-in excuse now.
+[48:00.1 - 48:00.8] don't worry about it.
+[48:00.8 - 48:01.3] I hear you now.
+[48:01.3 - 48:05.1] He said to steal the desk from you, so it's like, you're- We'll figure it out.
+[48:05.1 - 48:05.8] We'll get you another.
+[48:05.8 - 48:06.7] It- it's not.
+[48:06.7 - 48:07.6] It's not a big deal.
+[48:07.6 - 48:08.6] You're not- I have...
+[48:08.6 - 48:14.1] There's computers sitting in that box, I would think, and shit, so we can get you a new setup.
+[48:14.1 - 48:14.6] It just...
+[48:14.6 - 48:18.3] Now you don't have to worry about it 'cause- Yeah ...
+[48:18.3 - 48:18.5] he said he'd steal it from you.
+[48:18.5 - 48:21.4] So the guy could be downstairs right- Yeah, I guess.
+[48:21.4 - 48:21.5] Yeah.
+[48:21.5 - 48:22.0] 'Cause I do.
+[48:22.0 - 48:23.2] How, what are we gonna do?
+[48:23.2 - 48:24.5] How are we gonna swing this?
+[48:24.5 - 48:25.8] Because he's gonna fucking...
+[48:25.8 - 48:29.8] He's only here to sell property packs.
+[48:29.8 - 48:34.6] I don't know.
+[48:34.6 - 48:42.0] That's literally the dude's only job, and it's like, "Oh, by the way, dude, you're a fucking idiot for taking this on board.
+[48:42.0 - 48:43.8] You can't sell it to anybody.
+[48:43.8 - 48:53.7] No one is gonna want this because everything you're telling them is a lie." But we can't tell him that 'cause this dude's gonna want a job.
+[48:53.7 - 48:59.5] All right.
+[48:59.5 - 49:02.1] Well, cool.
+[49:02.1 - 49:25.1] Well,
+[49:25.1 - 49:29.4] that's unfortunate.
+[49:29.4 - 49:36.4] And he's le-- and he's coming when fucking Mark's fucking...
+[49:36.4 - 49:39.1] Well, Mark's not gonna be here tomorrow.
+[49:39.1 - 49:41.2] Well, I know, but fucking one day.
+[49:41.2 - 49:42.4] Fuck, dude.
+[49:42.4 - 49:44.7] How the fuck do I get out tomorrow?
+[49:44.7 - 49:45.7] What do you need?
+[49:45.7 - 49:46.4] Oh.
+[49:46.4 - 49:48.5] I need to be home for the game.
+[49:48.5 - 49:49.6] It's, like, non...
+[49:49.6 - 49:50.9] uh, not optional.
+[49:50.9 - 49:52.2] I'm not gonna...
+[49:52.2 - 49:54.6] 'Cause all I'm gonna do-- This is all I'm gonna do.
+[49:54.6 - 49:58.6] If it's, if I'm here, I'm just gonna be doing this, and like, "Fuck!
+[49:58.6 - 50:03.4] Come on." Like, I can't not watch, like, the US World Cup game.
+[50:03.4 - 50:06.5] Fucking, like, live my life for this shit.
+[50:06.5 - 50:11.5] It's like the only reason I have a job is to facilitate my watching football.
+[50:11.5 - 50:14.4] Like, this will...
+[50:14.4 - 50:19.2] See, I know I can share it with him 'cause he's like that with the NFL, so he gets it.
+[50:19.2 - 50:24.5] Usually, I'm just the insane person that people are like, "Why do you care so much, dude?" Yeah.
+[50:24.5 - 50:27.5] It's like, "You don't understand." Finally, there's a dude who...
+[50:27.5 - 50:32.8] It's like somehow I've surrounded myself with people all the time who, like, don't even like sports.
+[50:32.8 - 50:38.2] I'm like, "What the fuck is going on?" Like, they're all, like, nerdy dudes- Yeah ...
+[50:38.2 - 50:42.7] who like video games and shit, which I also like that, but it just somehow there was, like- Yeah ...
+[50:42.7 - 50:46.4] never a crossover of, like, oh, you like that and you like sports.
+[50:46.4 - 50:46.8] Like- Yeah ...
+[50:46.8 - 50:50.8] it's always just, like, video game nerds or computer dudes or something.
+[50:50.8 - 50:51.0] Yeah.
+[50:51.0 - 50:54.1] I'm like, "Fuck." How does nobody understand this?
+[50:54.1 - 50:55.2] You're my brother.
+[50:55.2 - 50:58.2] Like, this fool gets it, though.
+[50:58.2 - 51:00.1] Ugh.
+[51:00.1 - 51:03.3] But dude, yeah, it's full.
+[51:03.3 - 51:04.5] Ah, we can't...
+[51:04.5 - 51:07.2] I, I don't know what you think the move is, but we can't...
+[51:07.2 - 51:11.2] I don't think we're gonna be able to share, like, reality with this new dude.
+[51:11.2 - 51:14.6] You know what I mean, about property?
+[51:14.6 - 51:16.3] 'Cause it's gonna be the whole...
+[51:16.3 - 51:26.5] His whole job is selling it to people, so I don't know that we can share, like, the, "Oh, dude, Mark's lying
+[51:26.5 - 51:30.7] to everybody about this." Like, it's, it's not really...
+[51:30.7 - 51:32.5] He, like, he...
+[51:32.5 - 51:35.7] Hold on, actually.
+[51:35.7 - 51:38.0] You don't have to, but I need to see something.
+[51:38.0 - 51:39.7] I don't fucking know, bro.
+[51:39.7 - 51:41.4] I fucking- So Marcy is coming?
+[51:41.4 - 51:42.1] He's on his way back?
+[51:42.1 - 51:42.8] No.
+[51:42.8 - 51:47.4] I think, I kinda think he called me 'cause he isn't, and he's, like...
+[51:47.4 - 51:50.2] like, he isn't on his way back at least.
+[51:50.2 - 51:52.5] What happened?
+[51:52.5 - 51:59.5] Did he turn it off?
+[51:59.5 - 52:00.5] He didn't turn it off.
+[52:00.5 - 52:01.5] Weird.
+[52:01.5 - 52:13.3] We're
+[52:13.3 - 52:14.6] talking a little too much.
+[52:14.6 - 52:18.3] I wanna make sure- ...
+[52:18.3 - 52:20.2] make sure we don't have a code red.
+[52:20.2 - 52:21.8] Oh, yeah.
+[52:21.8 - 52:25.5] You weren't even around when we were like...
+[52:25.5 - 52:25.9] we...
+[52:25.9 - 52:32.1] there was a t- one time when Nicole came up here and we were, like, talking a bunch of shit about Mark, and then it fucking...
+[52:32.1 - 52:41.7] he has this little necklace thing that does AI transcripts and records, and he, like, left it on and right here, and he, like, was sending this dude like, "Who said this?
+[52:41.7 - 52:43.5] Who said this?" Oh, yeah.
+[52:43.5 - 52:44.6] We weren't, like...
+[52:44.6 - 52:46.7] It, it was- I, I don't...
+[52:46.7 - 52:49.4] I know you brought this up with me, but- It randomly, the shit that it got was like- ...
+[52:49.4 - 52:49.6] you know what, huh?
+[52:49.6 - 52:51.6] I wasn't really talking shit- Yeah ...
+[52:51.6 - 52:52.5] about him ...
+[52:52.5 - 52:58.0] uh- I saw- We were more like, "Oh, he's like"- I saw, uh, a, a picture of T- Tiny working out- ...
+[52:58.0 - 52:58.3] but the stuff that came up was- ...
+[52:58.3 - 52:59.4] of Tiny working out ...
+[52:59.4 - 53:01.5] it was, uh- And, uh- Yeah, it was like- ...
+[53:01.5 - 53:07.4] and I was like, "You look a little stale, but you look sober, so I guess that's good." And he's like, he's like, "Bro, I've been waiting.
+[53:07.4 - 53:09.9] I know you've been mad at me." He's like, "I've been sober this whole time.
+[53:09.9 - 53:11.3] I'm living with my cousin.
+[53:11.3 - 53:12.2] Things are going great.
+[53:12.2 - 53:16.7] Um, fucking, you know, I'm, I'm just sober.
+[53:16.7 - 53:17.4] I'm not doing...
+[53:17.4 - 53:25.9] I'm just, um, you know, l- going to this program, outpatient, and being sober." Uh, so he's like, "What are you doing this weekend?" I was like, "We're having a barbecue," and I left my phone home.
+[53:25.9 - 53:28.5] He was like, "Well, yeah." I was like, "Well, what are you doing?" He's like, "Nothing.
+[53:28.5 - 53:40.8] I'm hoping to get invited to my friend's barbecue, my good friend's barbecue." So then I'm like, "Well, we're both here if you want for a couple hours." But
+[53:40.8 - 53:42.4] you could tell he's sober, baby.
+[53:42.4 - 53:46.2] He's posting fucking pictures of weights and stuff, and he's just letting you know.
+[53:46.2 - 53:47.6] So I don't know if he'll make it.
+[53:47.6 - 53:48.3] He's staying in Palmdale.
+[53:48.3 - 53:49.1] He's not living down here.
+[53:49.1 - 53:49.8] He's staying in Palmdale.
+[53:49.8 - 53:51.6] He said he's staying out there to stay away from everything.
+[53:51.6 - 53:54.2] Not me.
+[53:54.2 - 53:55.1] That's not my problem.
+[53:55.1 - 53:56.8] Not my problem.
+[53:56.8 - 53:57.9] All right.
+[53:57.9 - 53:58.5] I love you.
+[53:58.5 - 53:60.0] Bye.
+[53:60.0 - 54:12.0] Come
+[54:12.0 - 54:12.7] on.
+[54:12.7 - 54:22.7] I'm gonna go ahead and,
+[54:22.7 - 54:24.0] uh, get some water and shit.
+[54:24.0 - 54:25.1] Get the fuck out of here.
+[54:25.1 - 54:27.5] I don't know what the hell I want you to do.
+[54:27.5 - 54:35.1] You're on your own, bro, 'cause if you fuck up, you're on your own.
+[54:35.1 - 54:47.7] See,
+[54:47.7 - 54:49.9] this is what- Oh, it was...
+[54:49.9 - 54:50.9] It says start recording.
+[54:50.9 - 54:52.4] No, I'm just trying to...
+[54:52.4 - 54:54.0] Like, what even is it?
+[54:54.0 - 54:59.9] I was gonna say, what the fuck?
+[54:59.9 - 55:02.0] What is this?
+[55:02.0 - 55:03.6] Oh, it's Claude.
+[55:03.6 - 55:04.5] Yeah.
+[55:04.5 - 55:05.8] Oh.
+[55:05.8 - 55:07.2] Well, shit then.
+[55:07.2 - 55:11.2] I know how to get rid of this shit.
+[55:11.2 - 55:13.5] Was it recording?
+[55:13.5 - 55:14.5] No.
+[55:14.5 - 55:16.3] I just noti-- it...
+[55:16.3 - 55:18.5] I just noticed the other day- I may have noticed even that day.
+[55:18.5 - 55:18.9] I did notice even that day ...
+[55:18.9 - 55:22.7] where it pops up right here, and I'm just gonna do this shit.
+[55:22.7 - 55:38.9] Boom.
+[55:38.9 - 55:40.2] There you go.
+[55:40.2 - 55:42.6] I disabled it from auto-starting.
+[55:42.6 - 55:43.2] Yeah.
+[55:43.2 - 55:44.6] And now we know.
+[55:44.6 - 55:48.6] So just so you have, you know, like, a frame of reference- Absolutely ...
+[55:48.6 - 55:49.6] it's fucking...
+[55:49.6 - 55:58.2] It's on here doing that, so if his VMware is ever up, we can just exit out of it, and we should be good.
+[55:58.2 - 56:00.8] And we can view that.
+[56:00.8 - 56:02.4] Like, you know what I even think?
+[56:02.4 - 56:05.4] That might be what's been what recorded.
+[56:05.4 - 56:08.2] You know what I mean?
+[56:08.2 - 56:23.1] Hey,
+[56:23.1 - 56:23.5] Tammy.
+[56:23.5 - 56:26.8] Sorry, I was on the phone with, uh, with Mark when you called.
+[56:26.8 - 56:29.4] Are you still at your computer?
+[56:29.4 - 56:39.7] Do-- You're s-
+[56:39.7 - 56:40.4] Okay, but you...
+[56:40.4 - 56:42.2] So you're still at your computer, yeah?
+[56:42.2 - 56:43.6] I just wanna check it out.
+[56:43.6 - 56:43.9] Okay.
+[56:43.9 - 56:45.9] Uh, ba-ba-ba.
+[56:45.9 - 56:50.1] Okay, so it all went from, uh...
+[56:50.1 - 56:53.7] You have twenty-five two bedrooms?
+[56:53.7 - 56:54.3] Is that right?
+[56:54.3 - 56:58.2] Sorry, in, in the screenshot that you sent.
+[56:58.2 - 57:02.5] Got it.
+[57:02.5 - 57:05.7] You have twenty-three two bedrooms.
+[57:05.7 - 57:13.1] Yeah.
+[57:13.1 - 57:13.3] Yeah.
+[57:13.3 - 57:16.3] I, I jumped on your computer, so I see what you're looking at.
+[57:16.3 - 57:16.9] I was just...
+[57:16.9 - 57:20.0] I was referring to the screenshot in the email you sent too.
+[57:20.0 - 57:20.6] So let's...
+[57:20.6 - 57:21.5] We'll get on the same page.
+[57:21.5 - 57:25.5] Let's use what's on your computer for now, and then we can pivot to the, the other thing.
+[57:25.5 - 57:27.1] Okay.
+[57:27.1 - 57:31.6] Right.
+[57:31.6 - 57:36.5] Yeah, so okay.
+[57:36.5 - 57:37.9] I, I see where the confusion is.
+[57:37.9 - 57:38.8] I'll explain it.
+[57:38.8 - 57:40.2] Uh, it, it'll make sense.
+[57:40.2 - 57:50.3] So they're highlighted like that because you see how it says you have zero studio units, zero three, zero four, and zero five bedrooms.
+[57:50.3 - 58:00.7] And so these numbers being all zeros, they highlight that whole row of column of things, row of things, because it matches
+[58:00.7 - 58:01.4] this total.
+[58:01.4 - 58:05.5] So these ones here aren't highlighted because they don't match that total.
+[58:05.5 - 58:05.9] So watch.
+[58:05.9 - 58:15.9] I'm not gonna submit it, but if I do that, you see how it highlights all of them because the total number of all of these units combined, 'cause there's seven
+[58:15.9 - 58:18.3] and then all zeros, equals this seven.
+[58:18.3 - 58:22.3] And so it'll do the same if I do twenty-five and twenty-seven.
+[58:22.3 - 58:23.7] That's why.
+[58:23.7 - 58:32.9] So the only thing I can think of is based off of what you're saying, do you not...
+[58:32.9 - 58:36.3] With Columbia is what you sent the screenshot of to me, correct?
+[58:36.3 - 58:37.1] Okay.
+[58:37.1 - 58:47.2] Was it that, um, you were saying how you have twenty-three total two-bedroom units, so maybe the count is off on our end, which I
+[58:47.2 - 58:47.9] can change?
+[58:47.9 - 58:53.3] Okay, so the total is twen- Okay, so that wasn't...
+[58:53.3 - 58:53.7] Okay.
+[58:53.7 - 58:54.6] Well...
+[58:54.6 - 58:57.2] Mm-hmm.
+[58:57.2 - 59:02.3] In, at Columbia?
+[59:02.3 - 59:08.4] Yeah, there's, there's six four-bedroom units is what I was told originally.
+[59:08.4 - 59:11.7] But again, I can go into the system and, and change things for that.
+[59:11.7 - 59:14.2] So, um, but yeah.
+[59:14.2 - 59:15.7] So, so go ahead and do...
+[59:15.7 - 59:18.7] Is this not the right unit count on the left?
+[59:18.7 - 59:22.1] Mm-hmm.
+[59:22.1 - 59:33.3] Oh,
+[59:33.3 - 59:33.9] I see.
+[59:33.9 - 59:36.8] It's exempt because what, their maintenance has to live there?
+[59:36.8 - 59:38.5] That's what you mean by exempt?
+[59:38.5 - 59:43.4] So really it's only seventy-six units in terms of units that...
+[59:43.4 - 59:46.0] Right, right, right.
+[59:46.0 - 59:51.3] But so it's seventy-eight total units, but then minus two because of the exemptions?
+[59:51.3 - 59:52.3] Or...
+[59:52.3 - 59:54.1] Oh.
+[59:54.1 - 59:57.0] Oh, okay.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-14-11-13_transcription_20260705_194038.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-14-11-13_transcription_20260705_194038.txt
+[2J[H[3Jmanus-speech-to-text mp3/ROSE-REC2_Tuesday_V2026-06-30-14-11-13.mp3
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_Tuesday_V2026-06-30-14-11-13.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-14-11-13_chunks_20260705_193935/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-14-11-13_chunks_20260705_193935/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-14-11-13_chunks_20260705_193935/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-14-11-13_chunks_20260705_193935/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-14-11-13_chunks_20260705_193935/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[56:43.9 - 56:45.9] Uh, ba-ba-ba.
+[56:45.9 - 56:50.1] Okay, so it all went from, uh...
+[56:50.1 - 56:53.7] You have twenty-five two bedrooms?
+[56:53.7 - 56:54.3] Is that right?
+[56:54.3 - 56:58.2] Sorry, in, in the screenshot that you sent.
+[56:58.2 - 57:02.5] Got it.
+[57:02.5 - 57:05.7] You have twenty-three two bedrooms.
+[57:05.7 - 57:13.1] Yeah.
+[57:13.1 - 57:13.3] Yeah.
+[57:13.3 - 57:16.3] I, I jumped on your computer, so I see what you're looking at.
+[57:16.3 - 57:16.9] I was just...
+[57:16.9 - 57:20.0] I was referring to the screenshot in the email you sent too.
+[57:20.0 - 57:20.6] So let's...
+[57:20.6 - 57:21.5] We'll get on the same page.
+[57:21.5 - 57:25.5] Let's use what's on your computer for now, and then we can pivot to the, the other thing.
+[57:25.5 - 57:27.1] Okay.
+[57:27.1 - 57:31.6] Right.
+[57:31.6 - 57:36.5] Yeah, so okay.
+[57:36.5 - 57:37.9] I, I see where the confusion is.
+[57:37.9 - 57:38.8] I'll explain it.
+[57:38.8 - 57:40.2] Uh, it, it'll make sense.
+[57:40.2 - 57:50.3] So they're highlighted like that because you see how it says you have zero studio units, zero three, zero four, and zero five bedrooms.
+[57:50.3 - 58:00.7] And so these numbers being all zeros, they highlight that whole row of column of things, row of things, because it matches
+[58:00.7 - 58:01.4] this total.
+[58:01.4 - 58:05.5] So these ones here aren't highlighted because they don't match that total.
+[58:05.5 - 58:05.9] So watch.
+[58:05.9 - 58:15.9] I'm not gonna submit it, but if I do that, you see how it highlights all of them because the total number of all of these units combined, 'cause there's seven
+[58:15.9 - 58:18.3] and then all zeros, equals this seven.
+[58:18.3 - 58:22.3] And so it'll do the same if I do twenty-five and twenty-seven.
+[58:22.3 - 58:23.7] That's why.
+[58:23.7 - 58:32.9] So the only thing I can think of is based off of what you're saying, do you not...
+[58:32.9 - 58:36.3] With Columbia is what you sent the screenshot of to me, correct?
+[58:36.3 - 58:37.1] Okay.
+[58:37.1 - 58:47.2] Was it that, um, you were saying how you have twenty-three total two-bedroom units, so maybe the count is off on our end, which I
+[58:47.2 - 58:47.9] can change?
+[58:47.9 - 58:53.3] Okay, so the total is twen- Okay, so that wasn't...
+[58:53.3 - 58:53.7] Okay.
+[58:53.7 - 58:54.6] Well...
+[58:54.6 - 58:57.2] Mm-hmm.
+[58:57.2 - 59:02.3] In, at Columbia?
+[59:02.3 - 59:08.4] Yeah, there's, there's six four-bedroom units is what I was told originally.
+[59:08.4 - 59:11.7] But again, I can go into the system and, and change things for that.
+[59:11.7 - 59:14.2] So, um, but yeah.
+[59:14.2 - 59:15.7] So, so go ahead and do...
+[59:15.7 - 59:18.7] Is this not the right unit count on the left?
+[59:18.7 - 59:22.1] Mm-hmm.
+[59:22.1 - 59:33.3] Oh,
+[59:33.3 - 59:33.9] I see.
+[59:33.9 - 59:36.8] It's exempt because what, their maintenance has to live there?
+[59:36.8 - 59:38.5] That's what you mean by exempt?
+[59:38.5 - 59:43.4] So really it's only seventy-six units in terms of units that...
+[59:43.4 - 59:46.0] Right, right, right.
+[59:46.0 - 59:51.3] But so it's seventy-eight total units, but then minus two because of the exemptions?
+[59:51.3 - 59:52.3] Or...
+[59:52.3 - 59:54.1] Oh.
+[59:54.1 - 59:57.0] Oh, okay.
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-14-11-13_transcription_20260705_194038.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-14-11-13_transcription_20260705_194038.txt

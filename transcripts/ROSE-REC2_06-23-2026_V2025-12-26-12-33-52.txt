@@ -1,0 +1,501 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_06-23-2026_V2025-12-26-12-33-52.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: mp3/.ROSE-REC2_06-23-2026_V2025-12-26-12-33-52_chunks_20260705_173809/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: mp3/.ROSE-REC2_06-23-2026_V2025-12-26-12-33-52_chunks_20260705_173809/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: mp3/.ROSE-REC2_06-23-2026_V2025-12-26-12-33-52_chunks_20260705_173809/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: mp3/.ROSE-REC2_06-23-2026_V2025-12-26-12-33-52_chunks_20260705_173809/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: mp3/.ROSE-REC2_06-23-2026_V2025-12-26-12-33-52_chunks_20260705_173809/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.6 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[00:45.5 - 00:45.9] Good day.
+[00:45.9 - 00:48.5] Oh, it's your fault.
+[00:48.5 - 00:49.4] Good day.
+[00:49.4 - 00:53.3] You were fucking around yesterday, and I didn't fuck in this morning, and it says I didn't fuck out on Friday.
+[00:53.3 - 00:56.6] Goddamn, dude.
+[00:56.6 - 00:57.5] You were here on Friday?
+[00:57.5 - 01:01.9] You just like to fuck it out of my paycheck whenever you, whenever you feel like a bitch.
+[01:01.9 - 01:07.8] Well, you keep your job, bro.
+[01:07.8 - 01:08.5] Fuck.
+[01:08.5 - 01:10.2] Fuck.
+[01:10.2 - 01:10.6] Good morning.
+[01:10.6 - 01:13.1] Morning, bro.
+[01:13.1 - 01:22.9] Love this June gloom weather.
+[01:22.9 - 01:26.0] It was sunny by my pad.
+[01:26.0 - 01:27.1] Was it?
+[01:27.1 - 01:28.9] Yeah.
+[01:28.9 - 01:42.6] We're
+[01:42.6 - 01:46.7] running the fuck out of out of those credits 'cause of that cost segregation thing.
+[01:46.7 - 01:47.6] What's that?
+[01:47.6 - 01:50.6] That cost segregation thing's running the fuck out of credits.
+[01:50.6 - 01:51.4] Sorry.
+[01:51.4 - 01:54.5] Yeah, but that was done by Nicole.
+[01:54.5 - 02:01.9] And you better get-- you better tell her to get the okay from Mark, 'cause if he's, if he- Well, yesterday he was like...
+[02:01.9 - 02:06.6] He was gonna come to my desk, and he said, "What are you working on?" I said, "It's cost, cost segregation." "I'm gonna leave you alone.
+[02:06.6 - 02:10.1] That's important." So, I mean- All right.
+[02:10.1 - 02:13.5] I mean- I'm not gonna get in the fucking middle of it, but I'm not gonna get yelled at, at it either.
+[02:13.5 - 02:14.6] No, I'm not either.
+[02:14.6 - 02:16.9] I'm just letting you know.
+[02:16.9 - 02:23.1] I've been telling her to use as least as possible.
+[02:23.1 - 04:58.6] I'll
+[04:58.6 - 05:00.1] pick up some coffee.
+[05:00.1 - 05:02.0] You know, I have to.
+[05:02.0 - 05:04.3] I'm gonna get it from the coffee school.
+[05:04.3 - 05:05.1] Oh, you're gonna get it?
+[05:05.1 - 05:06.0] Yeah.
+[05:06.0 - 05:06.4] Or you...
+[05:06.4 - 05:07.3] What's that?
+[05:07.3 - 05:08.1] I'm gonna-- I'll get it in a bit.
+[05:08.1 - 05:08.6] Oh, okay.
+[05:08.6 - 06:10.7] Did
+[06:10.7 - 06:19.4] you get a hold, did you contact any of those managers yesterday for their inspection stuff or?
+[06:19.4 - 06:19.9] Yeah.
+[06:19.9 - 06:21.4] She figured out what I'm gonna do.
+[06:21.4 - 06:24.6] Oh.
+[12:22.2 - 12:30.6] Oh, really?
+[12:30.6 - 12:36.8] Okay.
+[12:36.8 - 12:40.1] You got sticky fingers?
+[12:40.1 - 12:50.4] Uh- Well, we're-- That's crazy what they charge
+[12:50.4 - 12:50.9] for it.
+[12:50.9 - 12:54.2] Stuff that we absolutely can't live without, they charge too much.
+[12:54.2 - 12:59.6] I looked for mine actually, uh, yeah, two days ago on Temu.
+[12:59.6 - 13:08.7] I got this ProGlide Gillette, but they're fucking like 30, $40 for a pack, 45.
+[13:08.7 - 13:25.6] Where
+[13:25.6 - 13:26.2] did that go?
+[13:26.2 - 13:51.8] Top
+[13:51.8 - 13:52.2] of the morning.
+[13:52.2 - 14:20.8] Oh,
+[14:20.8 - 14:21.6] shit.
+[14:21.6 - 17:13.3] Hello.
+[17:13.3 - 17:13.7] Hello.
+[17:13.7 - 17:15.7] I brought some mandarins for everybody.
+[17:15.7 - 17:17.1] Bless you.
+[17:17.1 - 17:18.5] Mandarins.
+[17:18.5 - 17:19.3] Praise be.
+[17:19.3 - 17:45.1] Mandarins
+[17:45.1 - 17:45.1] and oranges.
+[17:45.1 - 17:49.4] Mandarins and oranges.
+[17:49.4 - 17:51.0] Got these new orange ones.
+[17:51.0 - 17:56.1] I don't know how they sound, but just those- Look at you.
+[17:56.1 - 17:57.8] You're like a little convenience store.
+[17:57.8 - 17:58.9] Right?
+[17:58.9 - 18:02.4] Spicy K- I know, I got those the other day.
+[18:02.4 - 18:03.4] All of those herbs.
+[18:03.4 - 18:04.9] Well, I had those in my- Protein pretzels?
+[18:04.9 - 18:07.7] I had those in my truck whenever I was driving around the other day.
+[18:07.7 - 18:08.6] What the heck is this?
+[18:08.6 - 18:12.2] Um, they're just these protein pretzels.
+[18:12.2 - 18:13.2] They're actually pretty good.
+[18:13.2 - 18:14.0] Protein pretzels.
+[18:14.0 - 18:17.5] There's a honey mustard one that I like a lot.
+[18:17.5 - 18:22.7] Mm.
+[18:22.7 - 18:24.3] No, that's weird.
+[18:24.3 - 18:25.5] Yeah, they taste like tacos.
+[18:25.5 - 18:34.7] Yeah, my taste is, you know, my brain injury, I taste different than what, you know, everybody else tastes, so to me, I can put up with stuff.
+[18:34.7 - 18:41.1] You know that, that taco seasoning that you put on ground meat that you buy in like a- Oh, yeah, yeah, yeah.
+[18:41.1 - 18:41.8] It's- That's exactly what it tastes like ...
+[18:41.8 - 18:43.6] um, it's like Lawry's.
+[18:43.6 - 18:44.6] It's something like that, though.
+[18:44.6 - 18:50.9] It's in that orange pack.
+[18:50.9 - 19:33.3] Mm-hmm.
+[19:33.3 - 22:54.1] Okay.
+[22:54.1 - 22:56.5] Mm-hmm.
+[22:56.5 - 23:56.2] Let
+[23:56.2 - 23:57.8] me see.
+[29:46.7 - 29:47.8] What the fuck's going on?
+[29:47.8 - 30:31.6] Hey,
+[30:31.6 - 30:32.9] Ethan.
+[30:32.9 - 30:37.1] Hey, Ethan, I got a question for you when you get a chance.
+[30:37.1 - 30:40.4] Yeah?
+[30:40.4 - 30:53.9] One
+[30:53.9 - 30:54.3] second.
+[30:54.3 - 30:58.4] What is it?
+[30:58.4 - 31:00.5] Uh, well, I restarted my desktop.
+[31:00.5 - 31:01.8] I'm waiting a second.
+[31:01.8 - 31:03.7] It, um...
+[31:03.7 - 31:07.7] Whenever I went to go into the Grid 3D, it prompted me with, like, an error.
+[31:07.7 - 31:09.0] Well, I restarted...
+[31:09.0 - 31:09.5] I'll back up.
+[31:09.5 - 31:17.4] I restarted it because it said something to do with my email certificate and something was, like, out, out of date or something.
+[31:17.4 - 31:18.6] Oh, you're gonna have to- And it wouldn't...
+[31:18.6 - 31:24.9] But, um, let me get out of this one so I can show you what it was doing.
+[31:24.9 - 31:27.0] So whenever I go in here like usual...
+[31:27.0 - 31:30.1] Oh, now it's gonna do it.
+[31:30.1 - 31:30.4] It's gonna...
+[31:30.4 - 31:31.2] Oh.
+[31:31.2 - 31:41.2] It does it fine now, but- It probably booted you out of the other one, but if it didn't, you should exit out of that other one to not have them both running.
+[31:41.2 - 31:41.9] Oh, let's see here.
+[31:41.9 - 31:44.3] It probably booted you out.
+[31:44.3 - 31:45.2] Okay.
+[31:45.2 - 31:49.7] And then if it gives you the email certificate thing, um- Yeah.
+[31:49.7 - 31:51.1] It's something I'd never seen before.
+[31:51.1 - 31:53.0] It was like I tried to go into my email and it was...
+[31:53.0 - 32:01.5] said that, um, like, uh, some sort of hacking spam-type message or something.
+[32:01.5 - 32:02.3] Sorry to interrupt.
+[32:02.3 - 32:04.4] Nicole called me on the other line.
+[32:04.4 - 32:04.9] Oh, okay.
+[32:04.9 - 32:06.6] And, uh- No worries ...
+[32:06.6 - 32:09.5] and then I'll, I'll come back up and see you then.
+[32:09.5 - 32:11.4] Yeah, if it's happening still, I'll let you know.
+[32:11.4 - 32:33.5] Hi,
+[32:33.5 - 32:34.5] good morning.
+[32:34.5 - 32:35.4] Hey, Brandon.
+[32:35.4 - 32:36.3] It's Susan.
+[32:36.3 - 32:37.1] Hey, Susan.
+[32:37.1 - 32:37.6] How are you?
+[32:37.6 - 32:38.8] I'm fine.
+[32:38.8 - 32:39.3] How are you?
+[32:39.3 - 32:40.8] I'm doing well, thank you.
+[32:40.8 - 32:42.3] Well, that's good.
+[32:42.3 - 32:43.1] I have a question.
+[32:43.1 - 32:45.4] Do you know anything about our email?
+[32:45.4 - 32:49.2] Um, not- We're getting- Not a whole lot, no ...
+[32:49.2 - 32:51.1] notifications of a certificate expiration.
+[32:51.1 - 32:51.8] Oh, yes.
+[32:51.8 - 32:55.5] I actually just now was mentioning that to Ethan.
+[32:55.5 - 32:57.0] Mine was doing the same thing.
+[32:57.0 - 33:07.1] So, um, he was going to run down and talk to Nicole real quick, but I will flag him over here to, um, mention it to
+[33:07.1 - 33:11.6] him again 'cause now I know that multiple people's emails is happening too, so.
+[33:11.6 - 33:12.3] Okay.
+[33:12.3 - 33:13.2] I thought it was just me.
+[33:13.2 - 33:14.7] Okay.
+[33:14.7 - 33:17.9] I couldn't get a hold of him, so I thought, "Well, let me call Brandon and see." Oh, okay.
+[33:17.9 - 33:18.7] Yes.
+[33:18.7 - 33:21.0] I will for sure get with him- Okay ...
+[33:21.0 - 33:22.9] and I will let you know what I find out.
+[33:22.9 - 33:24.2] Okay, awesome.
+[33:24.2 - 33:24.7] Thank you.
+[33:24.7 - 33:24.7] All right.
+[33:24.7 - 33:25.2] Thanks, Susan.
+[33:25.2 - 33:25.8] Okay, bye.
+[33:25.8 - 33:26.0] Bye-bye.
+[33:26.0 - 33:31.0] Apparently it's happening to multiple people, 'cause Susan just said.
+[33:31.0 - 33:33.9] Uh- Let me see if I can get it to do it again.
+[33:33.9 - 33:38.0] No, that's what Nicole had too, so I guess it's happening to everybody.
+[33:38.0 - 33:38.3] Oh.
+[33:38.3 - 33:39.4] I'm not having any issues.
+[33:39.4 - 33:40.3] Oh, okay.
+[33:40.3 - 35:48.8] When I
+[35:48.8 - 35:50.4] log in, so...
+[40:29.1 - 40:29.1] Hello.
+[40:29.1 - 40:29.6] Hey, Jeff.
+[40:29.6 - 40:31.1] I just wrote you back an email.
+[40:31.1 - 40:37.1] Uh, well, we've been having some email technical difficulties throughout the company.
+[40:37.1 - 40:41.1] One of-- Some of our managers in Dallas and then, uh, Nicole and I just...
+[40:41.1 - 40:42.2] I don't know.
+[40:42.2 - 40:46.0] Uh, it seems to be resolved, but maybe it's still delayed, but...
+[40:46.0 - 40:51.0] Okay.
+[40:51.0 - 40:53.0] I understand.
+[40:53.0 - 40:53.4] Okay.
+[40:53.4 - 40:57.1] Let me see if I see the formulas.
+[40:57.1 - 40:58.8] Mm.
+[40:58.8 - 41:00.9] Oh.
+[41:00.9 - 41:03.4] Yeah, it's a lot.
+[41:03.4 - 41:08.1] Yeah, I mean, I don't mind doing it.
+[41:08.1 - 41:12.3] If, if, if you give me the formulas, because, I mean, I, I love Excel.
+[41:12.3 - 41:12.8] I did...
+[41:12.8 - 41:15.2] You know, I have a couple engineering degrees.
+[41:15.2 - 41:20.7] Um, mm-hmm.
+[41:20.7 - 41:22.7] Right.
+[41:22.7 - 41:32.8] Well, I-- In my email, I did say that I hadn't sent a final resi-- revised copy yet because I didn't get the full package link with all of the, uh,
+[41:32.8 - 41:38.5] three one one five forms until the end of the day yesterday, so it still needs to be updated.
+[41:38.5 - 41:41.0] So, um, I was going to let you know.
+[41:41.0 - 41:41.9] Mm-hmm.
+[41:41.9 - 41:43.9] Okay.
+[41:43.9 - 41:45.9] Okay.
+[41:45.9 - 41:48.0] Mm-hmm.
+[41:48.0 - 41:50.1] Okay.
+[41:50.1 - 41:52.7] Oh, I understand.
+[41:52.7 - 41:54.7] Okay.
+[41:54.7 - 41:56.7] Mm-hmm.
+[41:56.7 - 42:00.1] Swiftly.
+[42:00.1 - 42:00.4] Okay.
+[42:00.4 - 42:02.9] I see.
+[42:02.9 - 42:04.3] Yeah.
+[42:04.3 - 42:09.4] Um, so let me go in here and look, um, where the formulas are because I'm still...
+[42:09.4 - 42:12.6] 'Cause it may be I'm not receiving them.
+[42:12.6 - 42:13.5] Did you send it?
+[42:13.5 - 42:15.2] Which email did you send it to, by the way?
+[42:15.2 - 42:16.2] Both.
+[42:16.2 - 42:17.0] Okay.
+[42:17.0 - 42:24.1] Let me go look in my Gmail because of our issue we're having with our, um, uh, uh, exchange.
+[42:24.1 - 42:26.6] Okay.
+[42:26.6 - 42:29.4] Mm.
+[42:29.4 - 42:32.0] Okay, the schedule does not tie.
+[42:32.0 - 42:32.5] Okay.
+[42:32.5 - 42:36.2] Uh, Grace, the final here, is that what you're...
+[42:36.2 - 42:39.8] Okay.
+[42:39.8 - 42:42.6] Let's see.
+[42:42.6 - 42:44.7] Mm-hmm.
+[42:44.7 - 42:50.0] Okay.
+[42:50.0 - 42:59.1] Hmm.
+[42:59.1 - 43:01.0] Fifty-two.
+[43:01.0 - 43:01.9] Mm-hmm.
+[43:01.9 - 43:07.8] Okay, so you're summing 39 if you want.
+[43:07.8 - 43:08.6] Okay.
+[43:08.6 - 43:14.4] And then, yeah, that makes sense, and then everything sums to the right.
+[43:14.4 - 43:14.8] Okay.
+[43:14.8 - 43:16.2] That makes sense.
+[43:16.2 - 43:19.5] Yeah, I'm glad that I have formulas to go by.
+[43:19.5 - 43:27.0] That makes my life actually way better, easier, because I- I'm sending stuff that, you know, this is stuff I've never honestly, like, you know, seen before.
+[43:27.0 - 43:37.2] So it's like, for me to make sure it's correct, I'm just sending you stuff h- kind of fingers crossed and Mm-hmm.
+[43:37.2 - 43:41.7] Five point two six.
+[43:41.7 - 43:42.7] Where is that?
+[43:42.7 - 43:44.6] Wait, which one?
+[43:44.6 - 43:47.2] Wait, which one was that one that was right?
+[43:47.2 - 43:49.0] Uh...
+[43:49.0 - 43:54.9] Oh, I see what you're saying.
+[43:54.9 - 44:02.0] Mm-hmm.
+[44:02.0 - 44:13.4] Ah,
+[44:13.4 - 44:13.8] I see.
+[44:13.8 - 44:15.4] Okay.
+[44:15.4 - 44:17.0] Yeah, that makes more sense.
+[44:17.0 - 44:18.6] Okay.
+[44:18.6 - 44:20.7] Well, I'm gonna dissect this some more.
+[44:20.7 - 44:21.1] Mm-hmm.
+[44:21.1 - 44:31.8] Mm-hmm.
+[44:31.8 - 44:37.2] Yeah, I did notice that, and I did get that fixed yesterday, so maybe...
+[44:37.2 - 44:37.5] Mm-hmm.
+[44:37.5 - 44:39.9] Right.
+[44:39.9 - 44:40.3] Right.
+[44:40.3 - 44:46.9] You're not being paid to do Oh, yeah, for sure.
+[44:46.9 - 44:48.7] Yes, and I'm gonna figure it out.
+[44:48.7 - 44:53.9] I'm determined, so Okay.
+[44:53.9 - 44:55.1] Yeah, that makes sense.
+[44:55.1 - 44:55.8] Yeah.
+[44:55.8 - 45:00.8] Mm-hmm.
+[45:00.8 - 45:04.3] Okay.
+[45:04.3 - 45:05.9] Let me open up the...
+[45:05.9 - 45:09.2] Okay.
+[45:09.2 - 45:10.6] Let me open that.
+[45:10.6 - 45:23.3] I
+[45:23.3 - 45:26.5] swear my phone knows whenever I'm on the computer.
+[45:26.5 - 45:28.9] I mean, my computer knows when I'm on the phone.
+[45:28.9 - 45:29.6] It never runs...
+[45:29.6 - 45:31.4] Mm-hmm, when...
+[45:31.4 - 45:33.5] I'm still pulling up the cost seg, sorry.
+[45:33.5 - 45:36.3] Okay, cost reports.
+[45:36.3 - 45:39.0] No, that's not what I want, the cost reports, the breakdown.
+[45:39.0 - 45:43.6] I want to go to, um, Grace's...
+[45:43.6 - 45:44.9] This one.
+[45:44.9 - 45:48.5] And use, uh, page what?
+[45:48.5 - 45:49.5] Of one hundred and ten?
+[45:49.5 - 45:52.4] Seven?
+[45:52.4 - 46:00.0] Ohs.
+[46:00.0 - 46:02.8] Okay, building sixteen?
+[46:02.8 - 46:05.7] Oh, okay.
+[46:05.7 - 46:07.5] Well, this is a different report.
+[46:07.5 - 46:14.3] It says full report Grace, um, and the link that I was given.
+[46:14.3 - 46:16.8] Oh.
+[46:16.8 - 46:19.4] Oh, are, are you looking at the numbers on the bottom or are you looking at the...
+[46:19.4 - 46:23.3] Actually, this...
+[46:23.3 - 46:25.4] Oh, okay.
+[46:25.4 - 46:28.7] I thought we were looking at the cost seg this way.
+[46:28.7 - 46:31.9] Right.
+[46:31.9 - 46:40.0] Okay.
+[46:40.0 - 46:40.6] Yeah.
+[46:40.6 - 46:46.6] Sure.
+[46:46.6 - 46:47.0] Yeah.
+[46:47.0 - 46:50.0] Okay, I, I'm, yeah, I'm where you- I need to be now.
+[46:50.0 - 46:52.7] Yes.
+[46:52.7 - 46:55.4] Okay, I'm, I'm where I need to be now.
+[46:55.4 - 47:09.7] Uh,
+[47:09.7 - 47:10.8] well, hold on one second.
+[47:10.8 - 47:11.4] Um.
+[47:11.4 - 47:16.9] Okay.
+[47:16.9 - 47:21.6] I thought I was looking at page seventy of the, uh, combined R two.
+[47:21.6 - 47:24.4] That's page, uh, the building twelve.
+[47:24.4 - 47:26.9] It does, yes.
+[47:26.9 - 47:29.1] Yes.
+[47:29.1 - 47:32.6] Okay, I do see the one seventeen, the, the tax and depreciation.
+[47:32.6 - 47:32.9] Yes.
+[47:32.9 - 47:33.3] Okay.
+[47:33.3 - 47:36.8] Uh, yeah.
+[47:36.8 - 47:37.1] Okay.
+[47:37.1 - 47:43.3] In the summary?
+[47:43.3 - 47:46.9] Mm.
+[47:46.9 - 47:50.7] Mm-hmm.
+[48:14.0 - 48:14.8] Row S.
+[48:14.8 - 48:15.3] Okay.
+[48:15.3 - 48:28.0] Ah, I
+[48:28.0 - 48:28.1] see.
+[48:28.1 - 48:28.5] I see, I see.
+[48:28.5 - 48:29.3] Mm-hmm.
+[48:29.3 - 48:37.8] Building five?
+[48:37.8 - 48:40.9] Are you building twelve, five here?
+[48:40.9 - 48:42.5] Uh...
+[48:42.5 - 48:45.8] Oh, yes, the asset number?
+[48:45.8 - 48:46.5] Mm-hmm.
+[48:46.5 - 48:48.9] I see.
+[48:48.9 - 48:50.8] Yes.
+[48:50.8 - 48:51.1] Okay.
+[48:51.1 - 48:53.3] Mm-hmm.
+[48:53.3 - 48:57.9] Mm.
+[48:57.9 - 48:59.9] Yes.
+[48:59.9 - 49:11.1] Ah,
+[49:11.1 - 49:12.0] I see.
+[49:12.0 - 49:13.9] Mm-hmm.
+[49:13.9 - 49:15.6] Okay, that's making more sense.
+[49:15.6 - 49:17.4] Okay.
+[49:17.4 - 49:20.8] Oh, okay, okay.
+[49:20.8 - 49:27.3] Mm-hmm.
+[49:27.3 - 49:28.5] Yes.
+[49:28.5 - 49:35.2] Mm.
+[49:35.2 - 49:38.3] I see.
+[49:38.3 - 49:45.9] Okay.
+[49:45.9 - 49:48.8] Yes.
+[49:48.8 - 49:51.0] Well, yeah, let me...
+[49:51.0 - 49:52.0] Mm-hmm.
+[49:52.0 - 49:54.1] Right.
+[49:54.1 - 49:54.3] Right.
+[49:54.3 - 49:55.3] Yeah, that makes sense.
+[49:55.3 - 50:05.8] Well, let me go through these all in detail and make sure that I get Grace down perfectly, and then I will call you back if I have any stumbles.
+[50:05.8 - 50:08.5] Yeah, I wanna make sure it's okay.
+[50:08.5 - 50:11.0] Mm-hmm.
+[50:11.0 - 50:15.0] It just subtracts.
+[50:15.0 - 50:15.5] Okay.
+[50:15.5 - 50:17.2] I see that now.
+[50:17.2 - 50:21.1] Yeah, it sums to fifty-one, that deducts it off of fifty-two.
+[50:21.1 - 50:21.4] Okay.
+[50:21.4 - 50:23.6] Yeah, that does clear it up.
+[50:23.6 - 50:26.5] I think I was making it actually more difficult than it needed to be.
+[50:26.5 - 50:29.0] Okay, Jeff.
+[50:29.0 - 50:36.3] Well, let me work on this and see, um, if I can get it all corrected, and I will let you know if I have any issues.
+[50:36.3 - 50:38.1] Okay.
+[50:38.1 - 50:38.8] Thanks, Jeff.
+[50:38.8 - 50:40.2] Goodbye.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_06-23-2026_V2025-12-26-12-33-52_transcription_20260705_173908.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_06-23-2026_V2025-12-26-12-33-52_transcription_20260705_173908.txt
+[2J[H[3Jmanus-speech-to-text mp3/ROSE-REC2_06-23-2026_V2025-12-26-12-33-52.mp3
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_06-23-2026_V2025-12-26-12-33-52.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: mp3/.ROSE-REC2_06-23-2026_V2025-12-26-12-33-52_chunks_20260705_173809/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: mp3/.ROSE-REC2_06-23-2026_V2025-12-26-12-33-52_chunks_20260705_173809/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: mp3/.ROSE-REC2_06-23-2026_V2025-12-26-12-33-52_chunks_20260705_173809/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: mp3/.ROSE-REC2_06-23-2026_V2025-12-26-12-33-52_chunks_20260705_173809/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: mp3/.ROSE-REC2_06-23-2026_V2025-12-26-12-33-52_chunks_20260705_173809/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[46:02.8 - 46:05.7] Oh, okay.
+[46:05.7 - 46:07.5] Well, this is a different report.
+[46:07.5 - 46:14.3] It says full report Grace, um, and the link that I was given.
+[46:14.3 - 46:16.8] Oh.
+[46:16.8 - 46:19.4] Oh, are, are you looking at the numbers on the bottom or are you looking at the...
+[46:19.4 - 46:23.3] Actually, this...
+[46:23.3 - 46:25.4] Oh, okay.
+[46:25.4 - 46:28.7] I thought we were looking at the cost seg this way.
+[46:28.7 - 46:31.9] Right.
+[46:31.9 - 46:40.0] Okay.
+[46:40.0 - 46:40.6] Yeah.
+[46:40.6 - 46:46.6] Sure.
+[46:46.6 - 46:47.0] Yeah.
+[46:47.0 - 46:50.0] Okay, I, I'm, yeah, I'm where you- I need to be now.
+[46:50.0 - 46:52.7] Yes.
+[46:52.7 - 46:55.4] Okay, I'm, I'm where I need to be now.
+[46:55.4 - 47:09.7] Uh,
+[47:09.7 - 47:10.8] well, hold on one second.
+[47:10.8 - 47:11.4] Um.
+[47:11.4 - 47:16.9] Okay.
+[47:16.9 - 47:21.6] I thought I was looking at page seventy of the, uh, combined R two.
+[47:21.6 - 47:24.4] That's page, uh, the building twelve.
+[47:24.4 - 47:26.9] It does, yes.
+[47:26.9 - 47:29.1] Yes.
+[47:29.1 - 47:32.6] Okay, I do see the one seventeen, the, the tax and depreciation.
+[47:32.6 - 47:32.9] Yes.
+[47:32.9 - 47:33.3] Okay.
+[47:33.3 - 47:36.8] Uh, yeah.
+[47:36.8 - 47:37.1] Okay.
+[47:37.1 - 47:43.3] In the summary?
+[47:43.3 - 47:46.9] Mm.
+[47:46.9 - 47:50.7] Mm-hmm.
+[48:14.0 - 48:14.8] Row S.
+[48:14.8 - 48:15.3] Okay.
+[48:15.3 - 48:28.0] Ah, I
+[48:28.0 - 48:28.1] see.
+[48:28.1 - 48:28.5] I see, I see.
+[48:28.5 - 48:29.3] Mm-hmm.
+[48:29.3 - 48:37.8] Building five?
+[48:37.8 - 48:40.9] Are you building twelve, five here?
+[48:40.9 - 48:42.5] Uh...
+[48:42.5 - 48:45.8] Oh, yes, the asset number?
+[48:45.8 - 48:46.5] Mm-hmm.
+[48:46.5 - 48:48.9] I see.
+[48:48.9 - 48:50.8] Yes.
+[48:50.8 - 48:51.1] Okay.
+[48:51.1 - 48:53.3] Mm-hmm.
+[48:53.3 - 48:57.9] Mm.
+[48:57.9 - 48:59.9] Yes.
+[48:59.9 - 49:11.1] Ah,
+[49:11.1 - 49:12.0] I see.
+[49:12.0 - 49:13.9] Mm-hmm.
+[49:13.9 - 49:15.6] Okay, that's making more sense.
+[49:15.6 - 49:17.4] Okay.
+[49:17.4 - 49:20.8] Oh, okay, okay.
+[49:20.8 - 49:27.3] Mm-hmm.
+[49:27.3 - 49:28.5] Yes.
+[49:28.5 - 49:35.2] Mm.
+[49:35.2 - 49:38.3] I see.
+[49:38.3 - 49:45.9] Okay.
+[49:45.9 - 49:48.8] Yes.
+[49:48.8 - 49:51.0] Well, yeah, let me...
+[49:51.0 - 49:52.0] Mm-hmm.
+[49:52.0 - 49:54.1] Right.
+[49:54.1 - 49:54.3] Right.
+[49:54.3 - 49:55.3] Yeah, that makes sense.
+[49:55.3 - 50:05.8] Well, let me go through these all in detail and make sure that I get Grace down perfectly, and then I will call you back if I have any stumbles.
+[50:05.8 - 50:08.5] Yeah, I wanna make sure it's okay.
+[50:08.5 - 50:11.0] Mm-hmm.
+[50:11.0 - 50:15.0] It just subtracts.
+[50:15.0 - 50:15.5] Okay.
+[50:15.5 - 50:17.2] I see that now.
+[50:17.2 - 50:21.1] Yeah, it sums to fifty-one, that deducts it off of fifty-two.
+[50:21.1 - 50:21.4] Okay.
+[50:21.4 - 50:23.6] Yeah, that does clear it up.
+[50:23.6 - 50:26.5] I think I was making it actually more difficult than it needed to be.
+[50:26.5 - 50:29.0] Okay, Jeff.
+[50:29.0 - 50:36.3] Well, let me work on this and see, um, if I can get it all corrected, and I will let you know if I have any issues.
+[50:36.3 - 50:38.1] Okay.
+[50:38.1 - 50:38.8] Thanks, Jeff.
+[50:38.8 - 50:40.2] Goodbye.
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_06-23-2026_V2025-12-26-12-33-52_transcription_20260705_173908.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_06-23-2026_V2025-12-26-12-33-52_transcription_20260705_173908.txt

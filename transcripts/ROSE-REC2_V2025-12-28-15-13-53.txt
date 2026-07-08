@@ -1,0 +1,413 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2025-12-28-15-13-53.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: .ROSE-REC2_V2025-12-28-15-13-53_chunks_20260706_154445/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: .ROSE-REC2_V2025-12-28-15-13-53_chunks_20260706_154445/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: .ROSE-REC2_V2025-12-28-15-13-53_chunks_20260706_154445/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: .ROSE-REC2_V2025-12-28-15-13-53_chunks_20260706_154445/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: .ROSE-REC2_V2025-12-28-15-13-53_chunks_20260706_154445/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.6 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[01:52.1 - 01:52.4] Hello.
+[01:52.4 - 04:00.6] Santiago
+[04:00.6 - 04:04.7] will need access to all the properties from the Q- the QC button.
+[04:04.7 - 04:05.1] Uh-huh.
+[04:05.1 - 04:05.9] Okay.
+[04:05.9 - 04:06.8] Can you make that happen?
+[04:06.8 - 04:07.1] Yep.
+[04:07.1 - 04:13.9] Do you not have the admin privileges or you- I don't know how to do it.
+[04:13.9 - 04:14.8] You want me to show you real quick?
+[04:14.8 - 04:15.0] No?
+[04:15.0 - 04:15.4] Yeah.
+[04:15.4 - 04:15.7] Okay.
+[04:15.7 - 04:17.4] You gonna send me the fuck about me?
+[04:17.4 - 04:18.3] No, I don't care.
+[04:18.3 - 04:19.4] I just figured you might wanna know.
+[04:19.4 - 04:20.9] You go to admin right here.
+[04:20.9 - 04:21.3] Uh-huh.
+[04:21.3 - 04:23.1] And then you go to- I don't have that.
+[04:23.1 - 04:23.9] Oh.
+[04:23.9 - 04:24.1] Let me see.
+[04:24.1 - 04:24.2] Let me check.
+[04:24.2 - 04:25.7] That's what you'll need first.
+[04:25.7 - 04:27.2] Can I get me that?
+[04:27.2 - 04:28.0] Okay.
+[04:28.0 - 04:37.2] Oh, you know what I do?
+[04:37.2 - 04:38.2] I do have it.
+[04:38.2 - 04:38.7] My bad.
+[04:38.7 - 04:39.4] No, you're good.
+[04:39.4 - 04:41.5] Let me see, um...
+[04:41.5 - 04:46.7] I just don't know...
+[04:46.7 - 04:52.4] Like, whenever you go to user settings, this is what pops up.
+[04:52.4 - 04:54.4] So this is where...
+[04:54.4 - 04:56.0] And I was gonna add this to yours too.
+[04:56.0 - 04:59.0] This is the one site, like, login that we use.
+[04:59.0 - 05:01.0] I just added it as a button yesterday.
+[05:01.0 - 05:02.6] But, um...
+[05:02.6 - 05:04.6] And if you want this too.
+[05:04.6 - 05:10.1] Anyway, um, you're saying that your, um- No, he-- Santiago.
+[05:10.1 - 05:11.1] Oh, okay.
+[05:11.1 - 05:15.5] Okay.
+[05:15.5 - 05:17.7] So he needed...
+[05:17.7 - 05:18.5] Which one?
+[05:18.5 - 05:20.0] Uh, the, the...
+[05:20.0 - 05:21.9] He needs, um, the QC.
+[05:21.9 - 05:22.7] Oh, the QC button.
+[05:22.7 - 05:25.2] Oh, they're gonna have to add that.
+[05:25.2 - 05:25.6] Oh.
+[05:25.6 - 05:28.3] Yeah, 'cause I only can add these green quick access.
+[05:28.3 - 05:28.4] Okay.
+[05:28.4 - 05:28.4] All right.
+[05:28.4 - 05:28.7] Yeah.
+[05:28.7 - 05:29.9] Like, I'll email them real quick.
+[05:29.9 - 06:46.1] Hello?
+[06:46.1 - 06:49.4] Hey, is Santiago's email just Santiago at Apartment Corp?
+[06:49.4 - 06:50.6] Yeah.
+[06:50.6 - 06:51.8] Okay, thanks.
+[06:51.8 - 06:52.9] No problem.
+[06:52.9 - 06:53.1] Mm-hmm.
+[12:32.7 - 12:37.4] Bob and Chris should be getting you set up with the QC button.
+[12:37.4 - 15:58.1] So
+[15:58.1 - 16:00.8] I have a bit of a problem that, um...
+[16:00.8 - 16:05.8] I, I, I, uh, the boat was small and it had a blown-out motor.
+[16:05.8 - 16:15.8] Uh, so my intention was that I was just gonna get a rental boat, um, and then going back and forth to the city or to the
+[16:15.8 - 16:17.8] shop or to get a new motor.
+[16:17.8 - 16:27.8] Thinking that it wasn't going to be such a huge problem, even if it
+[16:27.8 - 16:27.9] did rain.
+[16:27.9 - 16:29.2] Just make sure, uh, you do what you see.
+[16:29.2 - 16:32.0] Make sure you, you get a, get a pad.
+[16:32.0 - 16:32.8] Yeah.
+[16:32.8 - 16:34.0] Just write everything down.
+[16:34.0 - 16:34.5] Yes.
+[16:34.5 - 16:39.4] And just if he asks you questions, you actually kinda tell him like, "Yeah, I noticed this kind of problem.
+[16:39.4 - 16:46.9] Yeah, I noticed this kind of problem." Um, and then if you're seeing it, he asks you, and then say like- Number of pumps.
+[16:46.9 - 16:50.0] Okay, we can do that.
+[16:50.0 - 16:57.3] Or we can just, uh, I'll pay you the month, uh, whatever the monthly rate is for this month, and then you can go do this as long as...
+[16:57.3 - 16:58.2] Yeah, but the captain then...
+[16:58.2 - 17:00.8] I mean, me talking to the captain, he doesn't...
+[17:00.8 - 17:10.4] Maybe the problem I'm having is that I'm communicating that, I'm communicating the problem and not communicating everything.
+[17:10.4 - 17:10.6] Um, oh, okay, great.
+[17:10.6 - 17:12.3] Let's just do that.
+[17:12.3 - 17:14.2] And then my intention is to come back.
+[17:14.2 - 17:18.5] I, I need to go back, but when I come back, I'm gonna have to get a new motor.
+[17:18.5 - 17:21.3] Um, and I get there, um, and work on the lines, but you know, you're gonna be able...
+[17:21.3 - 17:24.3] You understand why I have to pay up front?
+[17:24.3 - 17:26.0] So, um, I'm gonna do that.
+[17:26.0 - 17:28.0] So, um, can you notify...
+[17:28.0 - 17:28.7] Do you have a phone number?
+[17:28.7 - 17:33.1] Just call wherever it's at or wherever, um, he is there.
+[17:33.1 - 17:38.7] Um, he will take- Um, so, so then if he asks you like, "Yeah, I looked on it.
+[17:38.7 - 17:43.6] He says, he says everything seems fine." And then just, just, you know, if you see something, you're not gonna forget it.
+[17:43.6 - 17:47.2] If I looked around and said, "Yeah, that's something wrong." Yeah.
+[17:47.2 - 17:49.2] Not good enough, though.
+[17:49.2 - 17:49.2] Yeah.
+[17:49.2 - 17:49.2] Okay.
+[17:49.2 - 17:51.4] You have your email on your phone?
+[17:51.4 - 17:51.8] What?
+[17:51.8 - 17:53.4] You have your email on your phone?
+[17:53.4 - 17:53.4] Yep.
+[17:53.4 - 17:55.4] Have you gotten emails from work?
+[17:55.4 - 17:55.4] Yeah.
+[17:55.4 - 17:60.0] Okay, go ahead and, um, I'll call Dan.
+[17:60.0 - 18:13.1] Um, maybe he can go over the phone and-
+[18:13.1 - 18:59.6] Well, no, I mean, they
+[18:59.6 - 19:10.2] basically said that, you know,
+[19:10.2 - 19:13.0] the insurance agency turned off.
+[19:13.0 - 19:13.0] So they have no idea.
+[19:13.0 - 19:29.0] Well, I mean, like I said, in, uh, you know, um, I told them that I used to do satellite and stuff like that, but I, uh, but
+[19:29.0 - 19:60.0] I told
+[19:60.0 - 20:11.1] them that I might be interested.
+[20:11.1 - 20:21.7] But they're not gonna recommend
+[20:21.7 - 20:21.8] me or anything like that.
+[20:21.8 - 20:32.0] That's actually pretty
+[20:32.0 - 20:32.0] cool, especially with the top end.
+[20:32.0 - 20:42.7] I think the working order is to do the pay on the other interest, and these are gonna have one part,
+[20:42.7 - 20:50.7] an actual infection as well based on running on that browser and that, um, browser having included.
+[20:50.7 - 20:51.5] So you have to completely look inside the actual code.
+[20:51.5 - 20:54.2] Ocean or enterprise users, we hear about that.
+[20:54.2 - 20:54.8] Let me just go ahead.
+[20:54.8 - 21:08.7] Is there a way for these guys to get- Yeah,
+[21:08.7 - 21:11.1] you're welcome.
+[21:11.1 - 21:11.6] See that?
+[21:11.6 - 21:14.7] It's fine, but let's say you pull it up.
+[21:14.7 - 21:14.7] Yeah.
+[21:14.7 - 21:14.7] Okay.
+[21:14.7 - 21:17.8] I mean, I'm, I'm putting-- I've only got four, so...
+[21:17.8 - 21:21.1] Hey, what happened to my, um, my, uh, gardening, uh...
+[21:21.1 - 21:23.9] Oh, I got-- It's, it's-- We're moving forward.
+[21:23.9 - 21:27.0] There's no more, there's no more, uh, what do you call it?
+[21:27.0 - 21:28.0] Um, resistance.
+[21:28.0 - 21:30.1] Oh, there was already resistance on the first place.
+[21:30.1 - 21:33.2] I got the call because, you know, the whole deal was...
+[21:33.2 - 21:35.4] Your, your brother just agreed.
+[21:35.4 - 21:39.0] I didn't get any-- I didn't-- I was gonna-- I didn't have the chance to ask him.
+[21:39.0 - 21:41.2] But- The distributions ready?
+[21:41.2 - 21:43.8] Did I ask you to do yesterday?
+[21:43.8 - 21:46.4] They're not ready, no.
+[21:46.4 - 21:55.0] I sent them to John, and I need to check with him if he's- Well, I thought you were just handling them directly here, and I can- I was going to, but since I didn't have Excel, I asked him to do it.
+[21:55.0 - 21:56.7] So I need to check with- Well, you have Excel now.
+[21:56.7 - 21:58.1] Okay.
+[21:58.1 - 22:00.6] I will- I need to have them done, like, in the next hour.
+[22:00.6 - 22:05.9] Mark, I take-- It takes some time, so- I know, but I thought you were doing them yourself.
+[22:05.9 - 22:06.6] Uh, okay.
+[22:06.6 - 22:08.5] Again, I will take care of it.
+[22:08.5 - 22:14.5] So your wife asked me yesterday for a five thousand dollar check for a horse show.
+[22:14.5 - 22:16.2] So here's that.
+[22:16.2 - 22:17.0] Okay.
+[22:17.0 - 22:20.8] Then I have the two checks for your father.
+[22:20.8 - 22:23.8] Uh, yeah, for citizens.
+[22:23.8 - 22:27.8] Uh, the one to Fred and the one to Rick Realty.
+[22:27.8 - 22:33.6] Now, as I said, if the account is thirty thousand dollars short- Figure that out in a couple days.
+[22:33.6 - 22:36.0] Well, it's not about-- And he wants me to FedEx it.
+[22:36.0 - 22:36.7] FedEx it.
+[22:36.7 - 22:46.8] But the account is short, so I either need to deposit from Genesis, which means I need to go to the bank, or you need to transfer from your savings to j-- to,
+[22:46.8 - 22:48.3] like you've done before.
+[22:48.3 - 22:51.6] If for citizens transfer from savings to checking- We'll do that.
+[22:51.6 - 22:52.3] We'll do that.
+[22:52.3 - 22:52.8] Okay, good.
+[22:52.8 - 22:53.1] Thank you.
+[22:53.1 - 22:54.1] So I don't have to go to the bank.
+[22:54.1 - 22:58.1] Can you get my distributions ready?
+[22:58.1 - 22:58.7] Yes.
+[22:58.7 - 23:00.1] Mark, I will be done.
+[36:30.3 - 36:40.4] About to get back in the gym and get my fifteen pounds back.
+[36:40.4 - 36:43.0] Yet.
+[36:43.0 - 37:05.8] Looks
+[37:05.8 - 37:07.2] like I get to see Ellie today.
+[37:07.2 - 37:10.3] Lucky me.
+[37:10.3 - 37:49.5] What's
+[37:49.5 - 37:49.6] up?
+[37:49.6 - 37:53.1] Huh?
+[37:53.1 - 37:53.2] Huh?
+[37:53.2 - 37:57.0] What'd you say?
+[37:57.0 - 41:50.2] I was
+[41:50.2 - 42:00.0] talking to Nicole.
+[42:00.0 - 42:00.0] Oh.
+[54:53.5 - 54:53.7] Hello.
+[54:53.7 - 54:54.1] Can I get the pickups?
+[54:54.1 - 54:55.3] Oh, yeah.
+[54:55.3 - 54:55.8] One second.
+[54:55.8 - 54:59.6] I believe this is it.
+[54:59.6 - 55:00.4] Okay, thank you.
+[55:00.4 - 55:00.8] Thank you.
+[55:00.8 - 55:01.3] Thanks a lot.
+[55:01.3 - 55:01.9] Mm-hmm.
+[55:01.9 - 55:20.9] Um,
+[55:20.9 - 55:23.0] are you doing it?
+[55:23.0 - 55:25.0] Mm, yeah, I'm getting it all installed over here.
+[55:25.0 - 55:27.0] What are you, what are you doing it with?
+[55:27.0 - 55:29.3] I, I install everything through my terminal.
+[55:29.3 - 55:31.5] Through the codes.
+[55:31.5 - 55:32.2] Do you not do that?
+[55:32.2 - 55:34.2] I, I tried it.
+[55:34.2 - 55:34.8] I just don't...
+[55:34.8 - 55:35.7] I don't fucking...
+[55:35.7 - 55:44.1] Like for instance, if you wanted to install, uh, this Droid one, you just take it and throw that in the...
+[55:44.1 - 55:44.8] in here.
+[55:44.8 - 55:49.0] Yeah, I have that, but then how do you, um, use it, like?
+[55:49.0 - 55:52.8] Um, well, normally you have to like read what it's doing.
+[55:52.8 - 55:55.5] Like, it'll install it into your applications and then like...
+[55:55.5 - 56:05.0] Here's the one that I'm now installing, like the Gamma, which is great, um, Llama, and then you hook up all your connectors apparently.
+[56:05.0 - 56:07.5] I'm gonna put my Notion, my Gmail, my Drive, my...
+[56:07.5 - 56:09.4] Kinda like I- You're gonna have to do, do it for me, bro.
+[56:09.4 - 56:11.3] You're gonna have to do it for me, dog.
+[56:11.3 - 56:13.3] I mean, I don't know how it all works.
+[56:13.3 - 56:15.3] I'm just like- I'll give you a fucking C-max for it.
+[56:15.3 - 56:21.3] Well, let me see if I can get mine set up.
+[56:21.3 - 56:22.1] Let's see.
+[56:22.1 - 56:32.9] I
+[56:32.9 - 56:34.3] gotta go take this to Ellie later.
+[56:34.3 - 56:36.7] Mark's not coming back.
+[56:36.7 - 56:41.3] He's going to the doctor's and then she's gonna take him to a hotel.
+[56:41.3 - 56:43.5] Sounds about right.
+[56:43.5 - 56:49.6] Waiting for a fucking chair so I can fucking take a nap.
+[56:49.6 - 56:50.3] All right.
+[56:50.3 - 57:00.5] Um, a friend told me about how you can like use this website called Grabify,
+[57:00.5 - 57:05.9] and you can embed different links inside of emojis and GIFs and memes.
+[57:05.9 - 57:06.5] Did you know that?
+[57:06.5 - 57:08.5] Like, if somebody...
+[57:08.5 - 57:15.5] If you were to entice someone to click or on like a meme, it would navigate them to the site that you built into it.
+[57:15.5 - 57:19.8] But then it would give you their real-time data of where they are, where their IP address is at all times.
+[57:19.8 - 57:20.5] Damn.
+[57:20.5 - 57:23.4] That's what Grabify...
+[57:23.4 - 57:24.6] That thing I sent you yesterday was.
+[57:24.6 - 57:26.9] Yeah.
+[57:26.9 - 57:32.2] Um, I know some, uh, pretty cool tricks.
+[57:32.2 - 57:34.8] Let's see.
+[57:34.8 - 57:40.7] Where was...
+[57:40.7 - 57:48.4] Um, I can't see this.
+[57:48.4 - 58:00.7] That thing.
+[58:00.7 - 58:01.3] I'm over here.
+[58:01.3 - 58:03.2] I'm not looking for you.
+[58:03.2 - 58:03.6] Oh.
+[58:03.6 - 58:05.4] Mark's not here, right?
+[58:05.4 - 58:06.2] Correct.
+[58:06.2 - 58:07.2] You guys might say we're back.
+[58:07.2 - 58:07.5] Never mind.
+[58:07.5 - 58:15.1] I was like, "Well, no one's over there." Is he coming back?
+[58:15.1 - 58:15.5] Probably not.
+[58:15.5 - 58:16.0] No.
+[58:16.0 - 58:16.6] I talked to him.
+[58:16.6 - 58:20.2] He just called and said that he's taken to a, um, hotel after.
+[58:20.2 - 58:21.0] A meeting.
+[58:21.0 - 58:22.5] Yeah, a meeting.
+[58:22.5 - 58:25.6] Uh, he needs to move some money.
+[58:25.6 - 58:27.3] He's in...
+[58:27.3 - 58:28.9] literally inside of the doctor right now.
+[58:28.9 - 58:32.4] Okay.
+[58:32.4 - 58:34.7] He'll be pretty grouchy for about an hour.
+[58:34.7 - 58:36.9] I think he's just doing the test.
+[58:36.9 - 58:38.4] He's not getting any procedure done.
+[58:38.4 - 58:39.8] They're just doing a test on him.
+[58:39.8 - 58:40.6] Oh, yeah.
+[58:40.6 - 58:42.1] He's doing the MRI today.
+[58:42.1 - 58:47.6] He needs to move some money before those checks are deposited tomorrow.
+[58:47.6 - 58:49.7] Should...
+[58:49.7 - 58:50.6] You want me to text him?
+[58:50.6 - 58:53.9] Give him an hour.
+[58:53.9 - 58:54.6] Okay.
+[58:54.6 - 58:55.3] Or here.
+[58:55.3 - 59:01.0] I can do this next week and get all the receipts.
+[59:01.0 - 59:04.1] You can leave the notes on the other one.
+[59:04.1 - 59:05.9] Oh.
+[59:05.9 - 59:07.2] He's gonna come here right now.
+[59:07.2 - 59:08.2] Oh.
+[59:08.2 - 59:12.5] That seems to be working out okay so far.
+[59:12.5 - 59:13.5] What?
+[59:13.5 - 59:15.2] I said, "That seems to be-" Mark and Ellie love him.
+[59:15.2 - 59:17.7] Better him than me.
+[59:17.7 - 59:20.9] I heard.
+[59:20.9 - 59:21.9] I talked to Mark- He seems like a- I talked to Mark here yesterday.
+[59:21.9 - 59:25.6] Yeah, he seems like he'll- Drop everything for you.
+[59:25.6 - 59:26.1] Yeah.
+[59:26.1 - 59:29.0] Whatever they throw at him, he'll just take it.
+[59:29.0 - 59:31.0] He's perfect.
+[59:31.0 - 59:32.9] He saw, um...
+[59:32.9 - 59:35.7] He saw Ellie hit Victoria.
+[59:35.7 - 59:40.6] He was like, "You're so weird." I was like, "I haven't heard that one.
+[59:40.6 - 59:42.4] That's a new one for me.
+[59:42.4 - 59:50.6] I haven't heard him say anything about that." Yeah.
+[59:50.6 - 59:52.6] I wish they were down here.
+[59:52.6 - 59:53.0] Yeah.
+[59:53.0 - 59:57.3] That third seating area, I picture it very nice.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-28-15-13-53_transcription_20260706_154557.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-28-15-13-53_transcription_20260706_154557.txt
+[2J[H[3Jmanus-speech-to-text ROSE-REC2_V2025-12-28-15-13-53.mp3
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2025-12-28-15-13-53.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: .ROSE-REC2_V2025-12-28-15-13-53_chunks_20260706_154445/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: .ROSE-REC2_V2025-12-28-15-13-53_chunks_20260706_154445/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: .ROSE-REC2_V2025-12-28-15-13-53_chunks_20260706_154445/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: .ROSE-REC2_V2025-12-28-15-13-53_chunks_20260706_154445/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: .ROSE-REC2_V2025-12-28-15-13-53_chunks_20260706_154445/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[57:00.5 - 57:05.9] and you can embed different links inside of emojis and GIFs and memes.
+[57:05.9 - 57:06.5] Did you know that?
+[57:06.5 - 57:08.5] Like, if somebody...
+[57:08.5 - 57:15.5] If you were to entice someone to click or on like a meme, it would navigate them to the site that you built into it.
+[57:15.5 - 57:19.8] But then it would give you their real-time data of where they are, where their IP address is at all times.
+[57:19.8 - 57:20.5] Damn.
+[57:20.5 - 57:23.4] That's what Grabify...
+[57:23.4 - 57:24.6] That thing I sent you yesterday was.
+[57:24.6 - 57:26.9] Yeah.
+[57:26.9 - 57:32.2] Um, I know some, uh, pretty cool tricks.
+[57:32.2 - 57:34.8] Let's see.
+[57:34.8 - 57:40.7] Where was...
+[57:40.7 - 57:48.4] Um, I can't see this.
+[57:48.4 - 58:00.7] That thing.
+[58:00.7 - 58:01.3] I'm over here.
+[58:01.3 - 58:03.2] I'm not looking for you.
+[58:03.2 - 58:03.6] Oh.
+[58:03.6 - 58:05.4] Mark's not here, right?
+[58:05.4 - 58:06.2] Correct.
+[58:06.2 - 58:07.2] You guys might say we're back.
+[58:07.2 - 58:07.5] Never mind.
+[58:07.5 - 58:15.1] I was like, "Well, no one's over there." Is he coming back?
+[58:15.1 - 58:15.5] Probably not.
+[58:15.5 - 58:16.0] No.
+[58:16.0 - 58:16.6] I talked to him.
+[58:16.6 - 58:20.2] He just called and said that he's taken to a, um, hotel after.
+[58:20.2 - 58:21.0] A meeting.
+[58:21.0 - 58:22.5] Yeah, a meeting.
+[58:22.5 - 58:25.6] Uh, he needs to move some money.
+[58:25.6 - 58:27.3] He's in...
+[58:27.3 - 58:28.9] literally inside of the doctor right now.
+[58:28.9 - 58:32.4] Okay.
+[58:32.4 - 58:34.7] He'll be pretty grouchy for about an hour.
+[58:34.7 - 58:36.9] I think he's just doing the test.
+[58:36.9 - 58:38.4] He's not getting any procedure done.
+[58:38.4 - 58:39.8] They're just doing a test on him.
+[58:39.8 - 58:40.6] Oh, yeah.
+[58:40.6 - 58:42.1] He's doing the MRI today.
+[58:42.1 - 58:47.6] He needs to move some money before those checks are deposited tomorrow.
+[58:47.6 - 58:49.7] Should...
+[58:49.7 - 58:50.6] You want me to text him?
+[58:50.6 - 58:53.9] Give him an hour.
+[58:53.9 - 58:54.6] Okay.
+[58:54.6 - 58:55.3] Or here.
+[58:55.3 - 59:01.0] I can do this next week and get all the receipts.
+[59:01.0 - 59:04.1] You can leave the notes on the other one.
+[59:04.1 - 59:05.9] Oh.
+[59:05.9 - 59:07.2] He's gonna come here right now.
+[59:07.2 - 59:08.2] Oh.
+[59:08.2 - 59:12.5] That seems to be working out okay so far.
+[59:12.5 - 59:13.5] What?
+[59:13.5 - 59:15.2] I said, "That seems to be-" Mark and Ellie love him.
+[59:15.2 - 59:17.7] Better him than me.
+[59:17.7 - 59:20.9] I heard.
+[59:20.9 - 59:21.9] I talked to Mark- He seems like a- I talked to Mark here yesterday.
+[59:21.9 - 59:25.6] Yeah, he seems like he'll- Drop everything for you.
+[59:25.6 - 59:26.1] Yeah.
+[59:26.1 - 59:29.0] Whatever they throw at him, he'll just take it.
+[59:29.0 - 59:31.0] He's perfect.
+[59:31.0 - 59:32.9] He saw, um...
+[59:32.9 - 59:35.7] He saw Ellie hit Victoria.
+[59:35.7 - 59:40.6] He was like, "You're so weird." I was like, "I haven't heard that one.
+[59:40.6 - 59:42.4] That's a new one for me.
+[59:42.4 - 59:50.6] I haven't heard him say anything about that." Yeah.
+[59:50.6 - 59:52.6] I wish they were down here.
+[59:52.6 - 59:53.0] Yeah.
+[59:53.0 - 59:57.3] That third seating area, I picture it very nice.
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-28-15-13-53_transcription_20260706_154557.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-28-15-13-53_transcription_20260706_154557.txt

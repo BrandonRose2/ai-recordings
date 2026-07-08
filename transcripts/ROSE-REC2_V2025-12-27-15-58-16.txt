@@ -1,0 +1,42 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: ROSE-REC2_V2025-12-27-15-58-16.mp3, file size: 1.08 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 189.4 seconds
+Language: eng
+Timestamped segments:
+[00:45.8 - 00:46.2] Hi, baby.
+[00:46.2 - 00:47.6] Hi.
+[00:47.6 - 00:49.2] What you doing?
+[00:49.2 - 00:52.6] You go outside?
+[00:52.6 - 00:54.7] You go potty?
+[00:54.7 - 01:00.3] Let's go.
+[01:00.3 - 01:04.7] Go outside.
+[01:04.7 - 01:06.9] Go potty.
+[01:06.9 - 01:25.2] Go
+[01:25.2 - 01:29.0] potty.
+[01:29.0 - 01:30.9] Go outside.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-27-15-58-16_transcription_20260706_153725.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-27-15-58-16_transcription_20260706_153725.txt
+[2J[H[3Jmanus-speech-to-text ROSE-REC2_V2025-12-27-15-58-16.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: ROSE-REC2_V2025-12-27-15-58-16.mp3, file size: 1.08 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:45.8 - 00:46.2] Hi, baby.
+[00:46.2 - 00:47.6] Hi.
+[00:47.6 - 00:49.2] What you doing?
+[00:49.2 - 00:52.6] You go outside?
+[00:52.6 - 00:54.7] You go potty?
+[00:54.7 - 01:00.3] Let's go.
+[01:00.3 - 01:04.7] Go outside.
+[01:04.7 - 01:06.9] Go potty.
+[01:06.9 - 01:25.2] Go
+[01:25.2 - 01:29.0] potty.
+[01:29.0 - 01:30.9] Go outside.
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-27-15-58-16_transcription_20260706_153725.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-27-15-58-16_transcription_20260706_153725.txt

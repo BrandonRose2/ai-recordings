@@ -1,0 +1,180 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-11-08-04.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-11-08-04_chunks_20260706_161506/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-11-08-04_chunks_20260706_161506/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-11-08-04_chunks_20260706_161506/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-11-08-04_chunks_20260706_161506/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-11-08-04_chunks_20260706_161506/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.7 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[43:38.1 - 43:38.9] Pardon the last.
+[43:38.9 - 43:40.1] I'm leaving.
+[43:40.1 - 43:40.5] I'm about to.
+[43:40.5 - 43:41.8] Okay.
+[49:38.0 - 49:48.3] When I said I loved you once
+[49:48.3 - 49:58.3] before Maybe I won't again anymore maybe I love again Then again maybe I wont Cause maybe you feel the same
+[49:58.3 - 50:44.9] maybe you dont But baby when i
+[50:44.9 - 51:10.6] found faith everything
+[51:10.6 - 51:21.0] changed I am alone tonight I am alone
+[51:21.0 - 51:31.4] tonight Run and run as the rains come And hide undercover Hide undercover
+[51:31.4 - 51:41.9] On my knees and out of luck I look hard And I can always
+[51:41.9 - 51:52.2] push stop forward Must know how to say the game That I won't
+[51:52.2 - 52:04.3] roam alone No I won't roam Not this mind and not this heart I won't roam
+[52:04.3 - 52:14.4] And I took you by the hand We could talk Remembered
+[52:14.4 - 52:25.0] our own lives What we used for They'll
+[52:25.0 - 52:35.1] cover each other you'll see With no tears and love will not break your fall But
+[52:35.1 - 52:45.8] dismiss your fears Get over your hill and see For neil find there with grace in your heart
+[52:45.8 - 53:03.7] And flowers in your hair Now I
+[53:03.7 - 53:13.7] cling to what value Saw exactly what was true Though no more
+[53:13.7 - 53:24.0] Ohh thats why I hold Thats why I hold with all I have Thats why I hold
+[53:24.0 - 53:35.8] And I won't die alone To be left there Well
+[53:35.8 - 53:46.1] I guess I'll just go cold God knows where Because death is just so full
+[53:46.1 - 53:56.4] And mine so small While im scared of whats behind And whats
+[53:56.4 - 54:09.9] before
+[54:09.9 - 54:12.6] love break your heart.
+[54:12.6 - 54:18.7] Dismiss your fears, get over your hill and see.
+[54:18.7 - 54:27.9] What you find there with grace in your heart and flowers in your hair.
+[54:27.9 - 54:38.0] Little plumbers line your sea with no more chairs and love will not break your heart.
+[54:38.0 - 54:48.0] Dismiss your fears, get over your hill and see what you find there with grace in
+[54:48.0 - 54:51.3] your heart and- I have to have more.
+[54:51.3 - 55:34.9] In
+[55:34.9 - 55:42.9] this autumn town where the leaves can fall on either side of the garden wall.
+[55:42.9 - 55:48.7] We run all night to keep the embers glowing.
+[55:48.7 - 55:58.8] Some are leaping free from their moving cars, stacking stones 'round their broken
+[55:58.8 - 55:59.6] hearts.
+[55:59.6 - 56:04.8] Waving down any wind might come blowing.
+[56:04.8 - 56:14.8] Ice moves out and the field is cut, servants curl where the sun
+[56:14.8 - 56:15.9] comes up.
+[56:15.9 - 56:21.4] Songbirds only end up where they're blowing.
+[56:21.4 - 56:28.7] Some get rain and some get snow.
+[56:28.7 - 56:32.6] Some will love and some will go.
+[56:32.6 - 56:44.3] I just want to see you in the
+[56:44.3 - 56:44.8] morning.
+[56:44.8 - 56:53.0] Dogs lay down in the evening.
+[56:53.0 - 56:57.2] Fish do worse when they leave the sea.
+[56:57.2 - 57:04.0] Songbirds only end up where they're blowing.
+[57:04.0 - 58:25.3] In this autumn- Give
+[58:25.3 - 58:26.6] me a sign.
+[58:26.6 - 58:29.2] Give me...
+[58:29.2 - 58:34.7] Take me home when I'm done lying.
+[58:34.7 - 58:42.3] Give me a loan when I'm stone cold broke.
+[58:42.3 - 58:47.0] Hit me high when I need to.
+[58:47.0 - 58:53.1] I was born to run.
+[58:53.1 - 58:56.5] I was born.
+[58:56.5 - 59:01.5] I was born to run.
+[59:01.5 - 59:11.2] I was born.
+[59:11.2 - 59:18.7] Times were tough, made it through.
+[59:18.7 - 59:24.0] The chase still a rush for the saints.
+[59:24.0 - 59:30.2] All the time, I was hurting you.
+[59:30.2 - 59:35.8] Got to believe that I was learned.
+[59:35.8 - 59:42.2] I was born to love.
+[59:42.2 - 59:47.1] I was born.
+[59:47.1 - 59:54.0] Born to run.
+[59:54.0 - 59:59.4] I was born.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-11-08-04_transcription_20260706_161856.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-11-08-04_transcription_20260706_161856.txt
+[2J[H[3Jmanus-speech-to-text "ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-11-08-04.mp3"
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-11-08-04.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-11-08-04_chunks_20260706_161506/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-11-08-04_chunks_20260706_161506/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-11-08-04_chunks_20260706_161506/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-11-08-04_chunks_20260706_161506/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-11-08-04_chunks_20260706_161506/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[51:52.2 - 52:04.3] roam alone No I won't roam Not this mind and not this heart I won't roam
+[52:04.3 - 52:14.4] And I took you by the hand We could talk Remembered
+[52:14.4 - 52:25.0] our own lives What we used for They'll
+[52:25.0 - 52:35.1] cover each other you'll see With no tears and love will not break your fall But
+[52:35.1 - 52:45.8] dismiss your fears Get over your hill and see For neil find there with grace in your heart
+[52:45.8 - 53:03.7] And flowers in your hair Now I
+[53:03.7 - 53:13.7] cling to what value Saw exactly what was true Though no more
+[53:13.7 - 53:24.0] Ohh thats why I hold Thats why I hold with all I have Thats why I hold
+[53:24.0 - 53:35.8] And I won't die alone To be left there Well
+[53:35.8 - 53:46.1] I guess I'll just go cold God knows where Because death is just so full
+[53:46.1 - 53:56.4] And mine so small While im scared of whats behind And whats
+[53:56.4 - 54:09.9] before
+[54:09.9 - 54:12.6] love break your heart.
+[54:12.6 - 54:18.7] Dismiss your fears, get over your hill and see.
+[54:18.7 - 54:27.9] What you find there with grace in your heart and flowers in your hair.
+[54:27.9 - 54:38.0] Little plumbers line your sea with no more chairs and love will not break your heart.
+[54:38.0 - 54:48.0] Dismiss your fears, get over your hill and see what you find there with grace in
+[54:48.0 - 54:51.3] your heart and- I have to have more.
+[54:51.3 - 55:34.9] In
+[55:34.9 - 55:42.9] this autumn town where the leaves can fall on either side of the garden wall.
+[55:42.9 - 55:48.7] We run all night to keep the embers glowing.
+[55:48.7 - 55:58.8] Some are leaping free from their moving cars, stacking stones 'round their broken
+[55:58.8 - 55:59.6] hearts.
+[55:59.6 - 56:04.8] Waving down any wind might come blowing.
+[56:04.8 - 56:14.8] Ice moves out and the field is cut, servants curl where the sun
+[56:14.8 - 56:15.9] comes up.
+[56:15.9 - 56:21.4] Songbirds only end up where they're blowing.
+[56:21.4 - 56:28.7] Some get rain and some get snow.
+[56:28.7 - 56:32.6] Some will love and some will go.
+[56:32.6 - 56:44.3] I just want to see you in the
+[56:44.3 - 56:44.8] morning.
+[56:44.8 - 56:53.0] Dogs lay down in the evening.
+[56:53.0 - 56:57.2] Fish do worse when they leave the sea.
+[56:57.2 - 57:04.0] Songbirds only end up where they're blowing.
+[57:04.0 - 58:25.3] In this autumn- Give
+[58:25.3 - 58:26.6] me a sign.
+[58:26.6 - 58:29.2] Give me...
+[58:29.2 - 58:34.7] Take me home when I'm done lying.
+[58:34.7 - 58:42.3] Give me a loan when I'm stone cold broke.
+[58:42.3 - 58:47.0] Hit me high when I need to.
+[58:47.0 - 58:53.1] I was born to run.
+[58:53.1 - 58:56.5] I was born.
+[58:56.5 - 59:01.5] I was born to run.
+[59:01.5 - 59:11.2] I was born.
+[59:11.2 - 59:18.7] Times were tough, made it through.
+[59:18.7 - 59:24.0] The chase still a rush for the saints.
+[59:24.0 - 59:30.2] All the time, I was hurting you.
+[59:30.2 - 59:35.8] Got to believe that I was learned.
+[59:35.8 - 59:42.2] I was born to love.
+[59:42.2 - 59:47.1] I was born.
+[59:47.1 - 59:54.0] Born to run.
+[59:54.0 - 59:59.4] I was born.
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-11-08-04_transcription_20260706_161856.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-11-08-04_transcription_20260706_161856.txt

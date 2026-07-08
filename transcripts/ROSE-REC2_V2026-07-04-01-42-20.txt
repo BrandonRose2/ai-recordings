@@ -1,0 +1,137 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: downloads/ROSE-REC2_V2026-07-04-01-42-20.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: downloads/.ROSE-REC2_V2026-07-04-01-42-20_chunks_20260706_195600/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: downloads/.ROSE-REC2_V2026-07-04-01-42-20_chunks_20260706_195600/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: downloads/.ROSE-REC2_V2026-07-04-01-42-20_chunks_20260706_195600/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: downloads/.ROSE-REC2_V2026-07-04-01-42-20_chunks_20260706_195600/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: downloads/.ROSE-REC2_V2026-07-04-01-42-20_chunks_20260706_195600/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.6 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[00:29.2 - 00:29.4] Huh?
+[00:29.4 - 00:35.0] What the fuck?
+[00:35.0 - 00:57.1] Where
+[00:57.1 - 00:57.5] is it?
+[00:57.5 - 01:03.3] There it is.
+[13:33.9 - 13:36.9] I gotta go home.
+[13:36.9 - 13:48.8] I
+[13:48.8 - 13:51.9] don't even wanna do this.
+[13:51.9 - 13:59.3] Let's get it.
+[13:59.3 - 14:12.7] Fucking
+[14:12.7 - 14:13.2] right.
+[14:13.2 - 14:17.2] Damn.
+[14:17.2 - 14:26.4] Fucking bright top, yeah.
+[14:26.4 - 18:12.4] You
+[18:12.4 - 18:15.3] pull me in and push me away.
+[18:15.3 - 18:18.0] Been somewhere alone.
+[18:18.0 - 18:20.4] I got PTSD.
+[18:20.4 - 18:22.1] I give you bone.
+[18:22.1 - 18:24.5] I never want to leave.
+[18:24.5 - 18:27.6] I'm scared inside the walls.
+[18:27.6 - 18:30.3] But it's undeniable.
+[18:30.3 - 18:35.1] The way I feel for you.
+[18:35.1 - 18:45.3] You're where I go when I've been
+[18:45.3 - 20:51.0] lonely.
+[20:51.0 - 21:07.2] But you're undeniable.
+[21:07.2 - 21:09.5] Oh.
+[21:09.5 - 21:40.5] Oh.
+[21:40.5 - 21:46.6] Oh.
+[21:46.6 - 22:06.6] Oh.
+[22:06.6 - 22:31.7] Oh.
+[22:31.7 - 22:40.2] Oh.
+[22:40.2 - 23:43.5] It's
+[23:43.5 - 23:51.4] undeniable.
+[23:51.4 - 23:53.9] Oh.
+[23:53.9 - 23:54.8] The way I feel for you.
+[23:54.8 - 23:55.0] It's undeniable.
+[23:55.0 - 23:55.0] Oh.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/downloads/ROSE-REC2_V2026-07-04-01-42-20_transcription_20260706_195625.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/downloads/ROSE-REC2_V2026-07-04-01-42-20_transcription_20260706_195625.txt
+[2J[H[3Jmanus-speech-to-text downloads/ROSE-REC2_V2026-07-04-01-42-20.mp3
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: downloads/ROSE-REC2_V2026-07-04-01-42-20.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: downloads/.ROSE-REC2_V2026-07-04-01-42-20_chunks_20260706_195600/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: downloads/.ROSE-REC2_V2026-07-04-01-42-20_chunks_20260706_195600/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: downloads/.ROSE-REC2_V2026-07-04-01-42-20_chunks_20260706_195600/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: downloads/.ROSE-REC2_V2026-07-04-01-42-20_chunks_20260706_195600/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: downloads/.ROSE-REC2_V2026-07-04-01-42-20_chunks_20260706_195600/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[00:29.2 - 00:29.4] Huh?
+[00:29.4 - 00:35.0] What the fuck?
+[00:35.0 - 00:57.1] Where
+[00:57.1 - 00:57.5] is it?
+[00:57.5 - 01:03.3] There it is.
+[13:33.9 - 13:36.9] I gotta go home.
+[13:36.9 - 13:48.8] I
+[13:48.8 - 13:51.9] don't even wanna do this.
+[13:51.9 - 13:59.3] Let's get it.
+[13:59.3 - 14:12.7] Fucking
+[14:12.7 - 14:13.2] right.
+[14:13.2 - 14:17.2] Damn.
+[14:17.2 - 14:26.4] Fucking bright top, yeah.
+[14:26.4 - 18:12.4] You
+[18:12.4 - 18:15.3] pull me in and push me away.
+[18:15.3 - 18:18.0] Been somewhere alone.
+[18:18.0 - 18:20.4] I got PTSD.
+[18:20.4 - 18:22.1] I give you bone.
+[18:22.1 - 18:24.5] I never want to leave.
+[18:24.5 - 18:27.6] I'm scared inside the walls.
+[18:27.6 - 18:30.3] But it's undeniable.
+[18:30.3 - 18:35.1] The way I feel for you.
+[18:35.1 - 18:45.3] You're where I go when I've been
+[18:45.3 - 20:51.0] lonely.
+[20:51.0 - 21:07.2] But you're undeniable.
+[21:07.2 - 21:09.5] Oh.
+[21:09.5 - 21:40.5] Oh.
+[21:40.5 - 21:46.6] Oh.
+[21:46.6 - 22:06.6] Oh.
+[22:06.6 - 22:31.7] Oh.
+[22:31.7 - 22:40.2] Oh.
+[22:40.2 - 23:43.5] It's
+[23:43.5 - 23:51.4] undeniable.
+[23:51.4 - 23:53.9] Oh.
+[23:53.9 - 23:54.8] The way I feel for you.
+[23:54.8 - 23:55.0] It's undeniable.
+[23:55.0 - 23:55.0] Oh.
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/downloads/ROSE-REC2_V2026-07-04-01-42-20_transcription_20260706_195625.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/downloads/ROSE-REC2_V2026-07-04-01-42-20_transcription_20260706_195625.txt

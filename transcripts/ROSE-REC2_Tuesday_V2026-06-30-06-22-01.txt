@@ -1,0 +1,60 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_Tuesday_V2026-06-30-06-22-01.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-06-22-01_chunks_20260705_174126/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-06-22-01_chunks_20260705_174126/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-06-22-01_chunks_20260705_174126/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-06-22-01_chunks_20260705_174126/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-06-22-01_chunks_20260705_174126/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.6 seconds
+Language: eng
+Total Chunks: 5
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-06-22-01_transcription_20260705_174144.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-06-22-01_transcription_20260705_174144.txt
+[2J[H[3Jmanus-speech-to-text mp3/ROSE-REC2_Tuesday_V2026-06-30-06-22-01.mp3
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_Tuesday_V2026-06-30-06-22-01.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-06-22-01_chunks_20260705_174126/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-06-22-01_chunks_20260705_174126/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-06-22-01_chunks_20260705_174126/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-06-22-01_chunks_20260705_174126/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-06-22-01_chunks_20260705_174126/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-06-22-01_transcription_20260705_174144.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-06-22-01_transcription_20260705_174144.txt

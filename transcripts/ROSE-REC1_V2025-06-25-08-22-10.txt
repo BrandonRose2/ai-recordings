@@ -1,0 +1,1058 @@
+Starting Speech-to-Text conversion...
+Audio file size (41.2MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 41.20 MB, duration: 7200.3 seconds
+Splitting into 9 chunks (each ~800.0 seconds, max 5 MB)...
+Successfully split into 9 chunks
+Audio file split into 9 chunks for batch processing
+Transcribing audio file: downloads/ROSE-REC1_V2025-06-25-08-22-10.mp3, file size: 41.20 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 9 chunks...
+
+Transcribing chunk 1/9: downloads/.ROSE-REC1_V2025-06-25-08-22-10_chunks_20260706_231008/chunk_000.mp3
+Chunk 1 completed (duration: 800.0s)
+
+Transcribing chunk 2/9: downloads/.ROSE-REC1_V2025-06-25-08-22-10_chunks_20260706_231008/chunk_001.mp3
+Chunk 2 completed (duration: 800.0s)
+
+Transcribing chunk 3/9: downloads/.ROSE-REC1_V2025-06-25-08-22-10_chunks_20260706_231008/chunk_002.mp3
+Chunk 3 completed (duration: 800.0s)
+
+Transcribing chunk 4/9: downloads/.ROSE-REC1_V2025-06-25-08-22-10_chunks_20260706_231008/chunk_003.mp3
+Chunk 4 completed (duration: 800.0s)
+
+Transcribing chunk 5/9: downloads/.ROSE-REC1_V2025-06-25-08-22-10_chunks_20260706_231008/chunk_004.mp3
+Chunk 5 completed (duration: 800.0s)
+
+Transcribing chunk 6/9: downloads/.ROSE-REC1_V2025-06-25-08-22-10_chunks_20260706_231008/chunk_005.mp3
+Chunk 6 completed (duration: 800.0s)
+
+Transcribing chunk 7/9: downloads/.ROSE-REC1_V2025-06-25-08-22-10_chunks_20260706_231008/chunk_006.mp3
+Chunk 7 completed (duration: 800.0s)
+
+Transcribing chunk 8/9: downloads/.ROSE-REC1_V2025-06-25-08-22-10_chunks_20260706_231008/chunk_007.mp3
+Chunk 8 completed (duration: 800.0s)
+
+Transcribing chunk 9/9: downloads/.ROSE-REC1_V2025-06-25-08-22-10_chunks_20260706_231008/chunk_008.mp3
+Chunk 9 completed (duration: 799.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 7199.7 seconds
+Language: eng
+Total Chunks: 9
+Timestamped segments:
+[00:04.2 - 00:04.6] Hello?
+[00:04.6 - 00:05.2] Hello.
+[00:05.2 - 00:10.1] God, I listened to it yesterday, but it was too late.
+[00:10.1 - 00:10.9] Yeah.
+[00:10.9 - 00:12.2] Mm.
+[00:12.2 - 00:13.1] He's, uh- The only part...
+[00:13.1 - 00:13.4] Okay.
+[00:13.4 - 00:15.3] Is it when he was...
+[00:15.3 - 00:23.7] I listened to it three times to try to see if it was something else, when he just, he hol- he's hollering for you, he- Yeah ...
+[00:23.7 - 00:25.2] he, uh- He, yeah, well, he does it.
+[00:25.2 - 00:27.9] He yells at him twice, and then I'm like...
+[00:27.9 - 00:29.0] I say, "I don't know where he is.
+[00:29.0 - 00:33.1] I'll go look for him." And he, like, screams, like- Yeah ...
+[00:33.1 - 00:36.3] real loud and- Well, did he get in trouble?
+[00:36.3 - 00:36.5] Huh?
+[00:36.5 - 00:37.8] I didn't...
+[00:37.8 - 00:38.7] Did he get in trouble?
+[00:38.7 - 00:39.5] No.
+[00:39.5 - 00:40.2] What was going on?
+[00:40.2 - 00:40.4] No.
+[00:40.4 - 00:41.1] We're never- No?
+[00:41.1 - 00:41.1] ...
+[00:41.1 - 00:41.6] in trouble.
+[00:41.6 - 00:44.5] Like, he just, that's how he yells at us, all the time.
+[00:44.5 - 00:44.7] Oh.
+[00:44.7 - 00:47.1] For no reason.
+[00:47.1 - 00:49.4] Well, I know.
+[00:49.4 - 00:50.2] So.
+[00:50.2 - 00:54.8] Well, now my AI knows who he is, and has a profile- Oh, yeah ...
+[00:54.8 - 00:55.8] created for him.
+[00:55.8 - 00:56.8] Oh.
+[00:56.8 - 01:05.2] And since I have voice recordings for all of the managers in his software, I'm gonna download them and make profiles for all of them, too.
+[01:05.2 - 01:06.5] Oh.
+[01:06.5 - 01:11.2] Can you do that?
+[01:11.2 - 01:11.9] Yeah?
+[01:11.9 - 01:12.2] Yep.
+[01:12.2 - 01:15.3] And I, I have it set up in automation.
+[01:15.3 - 01:25.4] Whenever I plug my device in, my automation recognizes it and then, um, puts it in the inbox folder, and then on my
+[01:25.4 - 01:35.5] phone I created this golden button that I can push to let my AI know it's in there, and then it does its job and goes in there, listens to the calls, summarizes
+[01:35.5 - 01:39.0] them, sorts them in the folders, and if it's Mark- Oh my God ...
+[01:39.0 - 01:40.9] it now knows who Mark is, so.
+[01:40.9 - 01:41.5] Oh.
+[01:41.5 - 01:48.1] So now it's puts in a, uh, into the folder Mark's, uh, inappropriate outbursts or something.
+[01:48.1 - 01:50.8] Mm-hmm.
+[01:50.8 - 01:52.6] Hold on one sec.
+[01:52.6 - 01:53.2] That's funny.
+[01:53.2 - 01:53.8] Hey, Siri.
+[01:53.8 - 01:55.0] Oh.
+[01:55.0 - 01:56.6] Oh, hold on, I gotta do it through...
+[01:56.6 - 02:00.3] I gotta log into my Paychex app and log in.
+[02:00.3 - 02:01.0] Are you at work?
+[02:01.0 - 02:01.3] Clock in.
+[02:01.3 - 02:03.1] No, I'll be there in, like, 20 minutes.
+[02:03.1 - 02:03.3] Oh, yeah.
+[02:03.3 - 02:04.5] Oh.
+[02:04.5 - 02:07.8] That's good that you had to clock in 20 minutes early.
+[02:07.8 - 02:10.7] Yeah, I know where the geo fence starts and stops.
+[02:10.7 - 02:10.9] Mm-hmm.
+[02:10.9 - 02:16.1] He has it around his house's radius, I found out, not the office's radius.
+[02:16.1 - 02:17.4] Oh.
+[02:17.4 - 02:19.0] Found the nest.
+[02:19.0 - 02:19.7] Yeah.
+[02:19.7 - 02:23.5] But are, are there listening devices everywhere?
+[02:23.5 - 02:32.7] Well, I found out that there's a crazy device, um, like at the airports that, um, look like...
+[02:32.7 - 02:42.9] Like, people will leave these iPhone-looking cables, look just like an iPhone cable, and they, um, people are plugging them into their phones
+[02:42.9 - 02:48.7] to, like, charge their phones if it's low, and this cord has a technology in it.
+[02:48.7 - 02:58.7] Whenever a hacker has put, um, this, I guess an app on their phone, and whenever this cord is plugged into someone's phone, it goes in
+[02:58.7 - 03:00.7] and connects to that phone's Wi-Fi.
+[03:00.7 - 03:02.4] And so- Wow ...
+[03:02.4 - 03:09.2] then that hacker gets an alert on the phone when it's plugged in, and they can go in and get all the personal data from that person's phone.
+[03:09.2 - 03:10.5] Oh my God.
+[03:10.5 - 03:11.8] How did you find that out?
+[03:11.8 - 03:15.2] Uh, it was one of my newsfeeds for AI stuff or something.
+[03:15.2 - 03:15.9] I can't remember.
+[03:15.9 - 03:18.3] Wow.
+[03:18.3 - 03:22.1] Hey, do you know a girl named Sarah Ferguson?
+[03:22.1 - 03:24.0] Sounds familiar.
+[03:24.0 - 03:26.7] Well, I was...
+[03:26.7 - 03:34.7] I just, I haven't been up long and I was scrolling and, um, it was, uh, Chelsea, uh, Kelsey Becita posted it.
+[03:34.7 - 03:35.4] Uh-huh.
+[03:35.4 - 03:41.3] And, uh, it was a picture, uh, with that girl, and everybody's going, "Oh my gosh.
+[03:41.3 - 03:45.7] Oh my gosh." And Trevor was like, "What the hell?" Did she die or what?
+[03:45.7 - 03:47.8] I, I guess so.
+[03:47.8 - 03:48.1] Yeah.
+[03:48.1 - 03:49.2] Yeah, she did die.
+[03:49.2 - 03:50.4] Chelsea Ferguson.
+[03:50.4 - 03:51.7] Sounds real familiar.
+[03:51.7 - 03:53.1] Yeah.
+[03:53.1 - 03:57.5] Real sweet, everybody was saying that she- Was she blonde and kinda tubby?
+[03:57.5 - 03:58.5] No?
+[03:58.5 - 03:59.1] No.
+[03:59.1 - 04:00.5] Not in this picture.
+[04:00.5 - 04:02.5] Hmm.
+[04:02.5 - 04:04.0] I'll look it up.
+[04:04.0 - 04:05.3] Yeah.
+[04:05.3 - 04:07.6] I never get on Facebook or like, the...
+[04:07.6 - 04:10.8] I got on Facebook and wrote on your wall, and I hadn't been on since.
+[04:10.8 - 04:11.6] I never get on.
+[04:11.6 - 04:14.8] Do you know No.
+[04:14.8 - 04:15.7] Your password?
+[04:15.7 - 04:22.4] No, and like, all of it, I mean, the algorithms that you start getting and everything.
+[04:22.4 - 04:24.2] Like, I'll just see AI stuff.
+[04:24.2 - 04:27.3] I see, you know, I don't even see stuff I wanna see anymore.
+[04:27.3 - 04:27.3] Oh.
+[04:27.3 - 04:30.9] Well, I mean, I love the AI stuff, but yeah.
+[04:30.9 - 04:32.2] Yeah.
+[04:32.2 - 04:36.6] Yeah, mine's all commercials with, like, race cars and shit.
+[04:36.6 - 04:38.2] Oh, yeah.
+[04:38.2 - 04:38.9] Oh, I bet.
+[04:38.9 - 04:40.9] 'Cause he scrolls.
+[04:40.9 - 04:43.6] He went to the doctor this morning.
+[04:43.6 - 04:46.0] Um- Oh.
+[04:46.0 - 04:49.5] Doctor, the infectious disease.
+[04:49.5 - 04:51.4] It was time for him to go for a checkup.
+[04:51.4 - 04:52.3] Oh.
+[04:52.3 - 04:54.8] And I didn't want to go, so I didn't get up and go.
+[04:54.8 - 05:03.4] This, um, voice recorder will be great, too, whenever we have our little meetings in the living room.
+[05:03.4 - 05:12.9] Instead of me having to write down everything, now I can just, now I just plug it into my computer and it'll summarize the meeting for me and give me the dialogue.
+[05:12.9 - 05:20.7] Did you know, um, that I think it is to, it is against the law to illegally videotape anybody?
+[05:20.7 - 05:22.3] Yeah, I know.
+[05:22.3 - 05:22.5] To anybody.
+[05:22.5 - 05:24.6] But, um, he does it to me.
+[05:24.6 - 05:26.1] I did consent to it- Oh ...
+[05:26.1 - 05:28.7] but whenever I was hired.
+[05:28.7 - 05:28.9] Well, I know.
+[05:28.9 - 05:32.0] So, um, you know.
+[05:32.0 - 05:33.3] Yeah.
+[05:33.3 - 05:35.7] Oh, I know, just for, just for records.
+[05:35.7 - 05:39.1] Yeah, it's, uh, invasion of privacy, but whatever.
+[05:39.1 - 05:41.7] He's all about invading my privacy, so.
+[05:41.7 - 05:47.8] Brandon, Brandon, Brandon.
+[05:47.8 - 05:51.3] Well, I don't know if you heard him talking to me, but he's been nice to me.
+[05:51.3 - 05:52.7] He just- Yeah ...
+[05:52.7 - 05:55.9] I just told him whatever I was working on and he said, "Oh, okay.
+[05:55.9 - 05:58.9] Okay." I didn't think that sounded that nice.
+[05:58.9 - 06:04.0] I thought it was kinda- Oh, he's just, he's on the spectrum or something.
+[06:04.0 - 06:07.5] I don't know what it is So what are you working on?
+[06:07.5 - 06:09.9] No, yeah, that's what he does.
+[06:09.9 - 06:11.3] He doesn't say good morning or anything.
+[06:11.3 - 06:15.6] He just comes in immediately like, "What are you working on?" Like, uh- Yeah.
+[06:15.6 - 06:18.0] Yeah, he does that ...
+[06:18.0 - 06:25.3] he just, he's been like, like the last two times, which we hired a new guy that it's, uh, Santiago, one of Robert's friends.
+[06:25.3 - 06:25.5] Oh, God.
+[06:25.5 - 06:26.3] We'll see how that goes.
+[06:26.3 - 06:28.5] But he is nice, and I like him.
+[06:28.5 - 06:32.4] He seems to be real professional and- He fit ...
+[06:32.4 - 06:33.5] um- Yeah ...
+[06:33.5 - 06:36.7] so now he's gonna be driving because Abraham's leaving.
+[06:36.7 - 06:38.4] Um- Oh ...
+[06:38.4 - 06:41.8] and Abraham's been there for a while, like couple, two or three years.
+[06:41.8 - 06:43.6] But- Why come he's leaving?
+[06:43.6 - 06:44.9] I don't know.
+[06:44.9 - 06:45.6] I think- That energy ...
+[06:45.6 - 06:49.8] I think he just didn't really like me coming in there and- Yeah ...
+[06:49.8 - 06:50.5] yeah, you know.
+[06:50.5 - 06:53.8] But he's just a told you kind of like an Eeyore character.
+[06:53.8 - 06:55.6] He's like, "Doo, doo, doo," and...
+[06:55.6 - 07:03.8] But then whenever you talk to him, he's really knowledgeable about all the Section 8 and low-income housing, affordable housing- Wow ...
+[07:03.8 - 07:12.3] laws, and he was doing more acquisition stuff, and that's what, um, that's what I was going to throw my hat in for, you know.
+[07:12.3 - 07:13.3] Yeah.
+[07:13.3 - 07:23.4] But r- uh, Mark has Ethan sitting with Abraham every day for an hour to learn all of it, but Ethan, A, doesn't
+[07:23.4 - 07:31.7] want to, and B, Nicole was like, "You would be so much better for that position than, um, than Ethan.
+[07:31.7 - 07:33.5] You know, you have real estate experience.
+[07:33.5 - 07:35.6] You've done offering memorandums.
+[07:35.6 - 07:36.9] You know about cap rates.
+[07:36.9 - 07:39.7] You know about all that stuff, and you're, you've gone- Wow ...
+[07:39.7 - 07:42.5] to investor meetings for 1031 exchange.
+[07:42.5 - 07:52.8] You've done all this stuff." And she said, "That's how one girl made a lot of damn money, was on the side was getting acquisition percentages." Oh.
+[07:52.8 - 07:58.3] And I said, "What happened to her?" She said, "She s- sued Mark for sexual harassment." Oh.
+[07:58.3 - 08:03.9] And Nicole said- Did you- ...
+[08:03.9 - 08:13.8] "He's never done anything towards me or anything." I said, "Yeah, it's 'cause you're not a Korean nail tech." And he likes them.
+[08:13.8 - 08:13.9] What did she say to that?
+[08:13.9 - 08:14.6] She just laughs.
+[08:14.6 - 08:16.0] It's 'cause you're not young and dumb.
+[08:16.0 - 08:17.8] Yeah.
+[08:17.8 - 08:20.1] Oh, boy.
+[08:20.1 - 08:26.5] And then I showed her something yesterday where I automated the inspections that are due every 21st of every month.
+[08:26.5 - 08:34.7] I've taught my computer how to log into the website and, um, sort through all the properties and- Uh-huh ...
+[08:34.7 - 08:44.7] detect whether the manager has done their inspections by the 21st, and if they have, it reports it on my web portal, and it attaches the PDF, and
+[08:44.7 - 08:46.1] I sh- And all I have to do...
+[08:46.1 - 08:47.4] I don't even have to do anything now.
+[08:47.4 - 08:50.8] I have it scheduled when to do it, on what day every month.
+[08:50.8 - 08:52.3] And, uh- Wow ...
+[08:52.3 - 08:53.2] and I showed Nicole.
+[08:53.2 - 09:06.4] She said, "Wow, you're dangerous." I said, "Yeah, I am." I said, "Yeah, I'm, I'm better as a friend." Well,
+[09:06.4 - 09:07.0] you are.
+[09:07.0 - 09:08.5] Yeah.
+[09:08.5 - 09:18.5] I mean, I would never actually try to mess up any of his stuff 'cause he is smart, and he does have his IT guy, Jeremy, the, he, that's not at our
+[09:18.5 - 09:18.9] office.
+[09:18.9 - 09:21.9] He has it set up pretty, pretty tight.
+[09:21.9 - 09:23.1] Yeah.
+[09:23.1 - 09:27.9] But yesterday we weren't able to get on our computers, or our...
+[09:27.9 - 09:32.5] So we all have what's called a, a Tenzig, and those are- Mm-hmm ...
+[09:32.5 - 09:35.7] our, our personal little computers.
+[09:35.7 - 09:43.2] And everybody in the company, uh, so, like at every property in each state, they all have a Tenzig.
+[09:43.2 - 09:46.4] And those Tenzigs are all attached to a server.
+[09:46.4 - 09:53.8] So we're all on the same server, and I can log on to any of the managers' computers using a software called VNC.
+[09:53.8 - 09:54.3] Oh.
+[09:54.3 - 09:58.1] And that's how I take control of their computers and show them around.
+[09:58.1 - 09:59.5] And- Oh ...
+[09:59.5 - 10:07.0] like, it's just a bunch of, like, I would never, because, just because Jeremy could find out what I did, so.
+[10:07.0 - 10:07.8] Oh, yeah.
+[10:07.8 - 10:08.9] Yeah.
+[10:08.9 - 10:09.0] Yeah.
+[10:09.0 - 10:11.1] And you don't wanna go to jail.
+[10:11.1 - 10:18.6] But I, I found out recently that you can, if somebody sends you, like, a picture or, like, a little GIF...
+[10:18.6 - 10:20.0] You know what a GIF is?
+[10:20.0 - 10:21.1] Those, like, moving- Uh-huh, yes ...
+[10:21.1 - 10:22.1] or a meme- Yeah ...
+[10:22.1 - 10:32.1] or an emoji, you can plant a URL inside of that emoji, and if they click it, you can know where they are anywhere in the world
+[10:32.1 - 10:32.7] in real time.
+[10:32.7 - 10:33.8] Oh, Lord.
+[10:33.8 - 10:39.4] 'Cause that's an IP tracker, and you disguised it inside of a link or a URL or a photo.
+[10:39.4 - 10:41.9] Wow.
+[10:41.9 - 10:42.5] Wow.
+[10:42.5 - 10:44.4] Gives you, it's called real-time data.
+[10:44.4 - 10:48.6] Oh, Lord.
+[10:48.6 - 10:49.7] So these days, like- I don't know what's going on ...
+[10:49.7 - 10:51.9] with AI and stuff, like, you can hack.
+[10:51.9 - 10:55.7] It's the cyber, the cyber attacks are gonna be a real thing.
+[10:55.7 - 10:57.4] Oh, really?
+[10:57.4 - 10:58.6] Yeah.
+[10:58.6 - 11:00.3] W- So how did you stay safe?
+[11:00.3 - 11:03.6] We had to, we had to log...
+[11:03.6 - 11:06.3] None of us could get on our Tenzigs yesterday.
+[11:06.3 - 11:08.6] We had to use our local computers.
+[11:08.6 - 11:18.6] Like, so, like, at y'all's office, you mostly just use your localized computers, which is what you have in front of you pretty much, and, um, not a
+[11:18.6 - 11:19.6] virtual computer.
+[11:19.6 - 11:22.4] We all use VM virtual computers.
+[11:22.4 - 11:25.2] Uh, that's probably confusing.
+[11:25.2 - 11:30.7] But, anyway, we couldn't get on our servers because they were too hot.
+[11:30.7 - 11:32.4] They had to cool them down all day.
+[11:32.4 - 11:34.3] And our main- Oh ...
+[11:34.3 - 11:39.8] servers are located in, um, on Fairfax in this other...
+[11:39.8 - 11:42.5] It's kinda like, you know, those AI stations.
+[11:42.5 - 11:44.0] They're so big and need water- Yeah ...
+[11:44.0 - 11:44.4] and cooling.
+[11:44.4 - 11:45.6] That's what we have.
+[11:45.6 - 11:46.2] Yes.
+[11:46.2 - 11:52.2] I don't know what's gonna happen with that, when they take away water.
+[11:52.2 - 11:54.6] So I don't know.
+[11:54.6 - 11:54.7] That's lovely.
+[11:54.7 - 12:01.8] They, they can cool stuff without water probably, with, like, more carbon dioxide or something rather than water.
+[12:01.8 - 12:04.7] Well, I hope so.
+[12:04.7 - 12:06.9] But, I mean, then you'd have to, like...
+[12:06.9 - 12:08.4] Well, I don't know.
+[12:08.4 - 12:11.1] It might be good to invest in natural gas more- ...
+[12:11.1 - 12:14.4] CO2, like the CO2 plants out in, uh, Oxy.
+[12:14.4 - 12:18.7] Mm-hmm.
+[12:18.7 - 12:20.7] Well.
+[12:20.7 - 12:21.0] Well.
+[12:21.0 - 12:23.8] Oh.
+[12:23.8 - 12:26.1] So what do y'all have going on today?
+[12:26.1 - 12:28.3] Oh, nothing.
+[12:28.3 - 12:29.5] Nothing.
+[12:29.5 - 12:35.5] Um, it's been so hot here, you just, you know, I, I can't just get out in the heat.
+[12:35.5 - 12:40.6] Uh, Jackson and Luke came yesterday, and they worked for hours, hours.
+[12:40.6 - 12:41.9] Yeah.
+[12:41.9 - 12:47.2] And I usually do that by myself, and I'm like, "I'm never doing that again by myself," because I almost killed myself.
+[12:47.2 - 12:48.5] And- Uh ...
+[12:48.5 - 12:50.3] they were sweating, and they...
+[12:50.3 - 12:55.5] I looked out, and they got up on my pergola- I bet Jackson's, like, super tan ...
+[12:55.5 - 12:55.9] and they remembered.
+[12:55.9 - 13:02.2] Yeah, they remembered getting up on my pergola when they'd come over to swim.
+[13:02.2 - 13:02.8] Uh-huh.
+[13:02.8 - 13:04.3] Jump, that they got to jump off.
+[13:04.3 - 13:05.7] Well, that'd been a good few times.
+[13:05.7 - 13:12.8] And they were up there, and I said, "Did y'all remember doing that when y'all were little?" And they were like, "Oh, yeah, yeah." Wow.
+[13:12.8 - 13:17.9] And so they had big Is Jackson more outgoing now, or is he shy still, or?
+[13:17.9 - 13:19.8] No, he, um-
+[13:20.1 - 13:22.2] And he, he is if you get him going.
+[13:22.2 - 13:28.9] Um, Luke, I think to me, I think Luke can talk better.
+[13:28.9 - 13:30.8] Um- Yeah ...
+[13:30.8 - 13:33.6] but Jackson's, they're both so quiet it's unbelievable.
+[13:33.6 - 13:37.0] Well, I mean, Dustin was kind of bashful actually too.
+[13:37.0 - 13:39.5] Yeah.
+[13:39.5 - 13:39.6] Yeah.
+[13:39.6 - 13:40.8] Yeah, and then- What about Keaton?
+[13:40.8 - 13:45.5] Is she all sorted out yet or what's the, her, which one- Uh, Keaton- Which one was it?
+[13:45.5 - 13:46.6] Them, they're all...
+[13:46.6 - 13:51.9] Keaton, but I'll, I kinda got her out of her shell that other night.
+[13:51.9 - 13:52.9] Well, not the other night.
+[13:52.9 - 13:54.8] I don't, we were up at the barn for something.
+[13:54.8 - 14:05.2] And then, uh, anyway, but Karen stopped by their house the other day and she said that Jackson and Molly, all of them, were laid up in bed and it was like
+[14:05.2 - 14:09.2] 2:00 in the afternoon, and there's, the house is a wreck.
+[14:09.2 - 14:14.7] And they're just on their phone scrolling, like even couch or bed rot.
+[14:14.7 - 14:15.4] Wow.
+[14:15.4 - 14:18.4] And it just pissed Karen off so bad.
+[14:18.4 - 14:19.1] So bad.
+[14:19.1 - 14:19.6] I bet.
+[14:19.6 - 14:23.8] That they were, they're physically able to work and they don't.
+[14:23.8 - 14:24.4] Oh.
+[14:24.4 - 14:27.0] Living off the government.
+[14:27.0 - 14:27.6] Oh.
+[14:27.6 - 14:29.1] Yeah.
+[14:29.1 - 14:31.3] Uh- Whatever ...
+[14:31.3 - 14:35.6] I meant to tell you, next month I won't need to borrow money 'cause we have three payrolls.
+[14:35.6 - 14:38.0] Oh, nice.
+[14:38.0 - 14:39.0] Crazy.
+[14:39.0 - 14:39.5] Nice.
+[14:39.5 - 14:41.2] Robert told me that yesterday.
+[14:41.2 - 14:42.2] Crazy.
+[14:42.2 - 14:42.5] Okay.
+[14:42.5 - 14:46.8] I was bitching to Robert about, you know, me taking home less now 'cause my deductions.
+[14:46.8 - 14:51.0] He said, "Well, I have to pay child support and I get $500 taken out of my check- Oh ...
+[14:51.0 - 14:55.8] every month." I said, "I didn't know you had a kid." He's one of those that, like, doesn't talk about his kid, and he's like- Yeah ...
+[14:55.8 - 14:57.4] probably a terrible, you know.
+[14:57.4 - 14:59.0] What?
+[14:59.0 - 15:01.0] He's the one that went to prison- Father of the year ...
+[15:01.0 - 15:02.5] and he's gonna be running our company.
+[15:02.5 - 15:04.6] Yeah.
+[15:04.6 - 15:06.1] Father of the year.
+[15:06.1 - 15:08.3] I'm gonna take full advantage of that.
+[15:08.3 - 15:10.2] I get three hun- Yeah, but- I get...
+[15:10.2 - 15:12.5] Well, no, wait.
+[15:12.5 - 15:17.4] I can't remember what he said, 'cause I get f- 400, 300 taken out, or 400.
+[15:17.4 - 15:18.6] His was way more than that.
+[15:18.6 - 15:20.6] Hmm.
+[15:20.6 - 15:22.0] Maybe he takes- I bet he does ...
+[15:22.0 - 15:22.9] all the $500?
+[15:22.9 - 15:24.8] I bet he does.
+[15:24.8 - 15:26.0] That's probably right.
+[15:26.0 - 15:28.2] Oh, my gosh.
+[15:28.2 - 15:32.0] But apparently he's gonna increase all of our stuff whenever Nicole leaves.
+[15:32.0 - 15:34.4] Oh.
+[15:34.4 - 15:35.5] Oh.
+[15:35.5 - 15:42.2] More salaries and we're gonna have more leeway on expense accounts and- But doesn't Mark have to approve all that?
+[15:42.2 - 15:42.9] Yeah.
+[15:42.9 - 15:44.9] So I don't know what he's- Good luck.
+[15:44.9 - 15:47.6] Yeah, good luck.
+[15:47.6 - 15:48.1] Right.
+[15:48.1 - 15:50.1] He'll never let John Kim do that.
+[15:50.1 - 15:50.8] No.
+[15:50.8 - 15:53.6] Oh, Lord.
+[15:53.6 - 15:54.1] I don't know.
+[15:54.1 - 15:54.6] I don't know.
+[15:54.6 - 15:57.2] And, and I don't know.
+[15:57.2 - 15:58.3] Robert's not dumb.
+[15:58.3 - 16:00.7] He is pretty smart, but- Mm-hmm ...
+[16:00.7 - 16:04.0] I showed him how I automated stuff.
+[16:04.0 - 16:06.4] He's showed me what he was working on.
+[16:06.4 - 16:07.6] He said- Mm-hmm ...
+[16:07.6 - 16:16.6] "Well, you and I can collaborate on this project." It's like, I don't know if you've ever seen Iron Man, where it's what's his name?
+[16:16.6 - 16:17.2] What is that?
+[16:17.2 - 16:21.7] It's got, it's the red, it's the red superhero with the gold.
+[16:21.7 - 16:24.9] It's, uh, Robert D- uh- Oh.
+[16:24.9 - 16:30.3] Well, he has this- I think I might- It, it's Robert Downey Jr., right?
+[16:30.3 - 16:31.2] Yes.
+[16:31.2 - 16:31.2] Yeah.
+[16:31.2 - 16:38.0] And, um, and he has this, uh, AI, artificial intelligent assistant called Jarvis.
+[16:38.0 - 16:43.3] And basically every day he talks to Jarvis and tells him, like, "What do I have going on?
+[16:43.3 - 16:47.9] Why do I do this or do I do this?" It's a big, like, five-panel screen.
+[16:47.9 - 16:57.5] And Robert's working on the big, uh, like, overview of it, but he said, "You'll be able to program all of the details." And I said, "Yeah." Oh.
+[16:57.5 - 17:01.5] "Be way better at that than you are." I said, "Email me that." For some money.
+[17:01.5 - 17:05.8] I, I said, "Send me that on Instagram," and he didn't, so I'm not sharing anything with him anymore.
+[17:05.8 - 17:07.1] Hmm.
+[17:07.1 - 17:08.6] Like, I can't find it myself.
+[17:08.6 - 17:11.6] No, every- everybody holds onto their sec- secrets.
+[17:11.6 - 17:15.9] They're not gonna share- Yeah, they're all gatekeepers ...
+[17:15.9 - 17:16.4] what they have.
+[17:16.4 - 17:16.4] Yeah.
+[17:16.4 - 17:18.5] Unlike me just sharing everything.
+[17:18.5 - 17:19.5] Yeah.
+[17:19.5 - 17:25.3] Just thinking that I'll get a raise or something out of it or impress- No ...
+[17:25.3 - 17:27.4] you know, somebody, but- Right ...
+[17:27.4 - 17:28.3] they don't give a fuck.
+[17:28.3 - 17:38.3] Well, they do, but Ethan came into my office the other day and he was like, "Hey, I just had Manus, um, do X, Y,
+[17:38.3 - 17:39.7] and Z for me." He said, "It was amazing.
+[17:39.7 - 17:47.6] It took, saved me, like, a whole day just worth of work." I said, "Yeah, you're welcome." Yeah, that's what you said to him?
+[17:47.6 - 17:48.6] "Yeah, you're welcome." Yeah.
+[17:48.6 - 17:50.5] I said, "Yeah, I told you." Good.
+[17:50.5 - 17:53.5] Oh.
+[17:53.5 - 17:54.9] Well, I just parked- It's good to be smart ...
+[17:54.9 - 17:55.5] four minutes early.
+[17:55.5 - 17:56.6] It's fine to be smart.
+[17:56.6 - 17:57.8] It ain't bad.
+[17:57.8 - 17:58.7] I love the knowledge.
+[17:58.7 - 18:01.6] But I told myself yesterday, I'm not doing shit for people anymore.
+[18:01.6 - 18:06.8] I'm doing, I need to focus on me because I could be rich and I'm not, and it's just- I know ...
+[18:06.8 - 18:08.4] 'cause I'm making everybody else rich.
+[18:08.4 - 18:09.5] Yeah.
+[18:09.5 - 18:12.6] You just gotta fix- Sandy and Mark, and this motherfucker- ...
+[18:12.6 - 18:18.2] this motherfucker's making fucking 2 million a month almost now 'cause of my shit.
+[18:18.2 - 18:20.3] God.
+[18:20.3 - 18:22.8] Well, that's good.
+[18:22.8 - 18:23.3] That's good.
+[18:23.3 - 18:23.9] I'm proud of you.
+[18:23.9 - 18:25.3] Nobody else tells you.
+[18:25.3 - 18:26.3] Well, thank you.
+[18:26.3 - 18:28.7] Okay.
+[18:28.7 - 18:29.0] Well- Okay.
+[18:29.0 - 18:29.4] You're parking?
+[18:29.4 - 18:30.3] Yeah, I just parked.
+[18:30.3 - 18:30.8] I'm gonna get ready for the day.
+[18:30.8 - 18:34.8] I'm gonna have my espresso shot, my coffee, and my tea.
+[18:34.8 - 18:36.4] I've got a whole routine.
+[18:36.4 - 18:38.2] Okay.
+[18:38.2 - 18:38.8] All right.
+[18:38.8 - 18:39.6] Okay.
+[18:39.6 - 18:39.8] Love you, honey.
+[18:39.8 - 18:40.5] Love you too.
+[18:40.5 - 18:41.1] Bye.
+[18:41.1 - 18:43.4] Bye.
+[18:43.4 - 19:01.3] Mm-hmm.
+[19:01.3 - 19:10.9] Whoa.
+[19:10.9 - 20:42.7] What
+[20:42.7 - 20:44.2] up?
+[20:44.2 - 20:44.3] What's good?
+[20:44.3 - 20:46.9] How are y'all?
+[20:46.9 - 20:47.8] What up, man?
+[20:47.8 - 20:48.6] Top of the morning.
+[20:48.6 - 20:51.0] Fine.
+[20:51.0 - 20:51.7] Good, you?
+[20:51.7 - 20:53.3] I'm here, so.
+[20:53.3 - 20:54.3] Yeah.
+[20:54.3 - 20:56.8] There's better places.
+[20:56.8 - 20:56.9] No.
+[20:56.9 - 20:58.8] Or worse places, actually.
+[20:58.8 - 21:00.1] This is a good place to work.
+[21:00.1 - 21:00.9] Yeah.
+[21:00.9 - 21:05.5] Especially whenever, uh, the eagle's out of town.
+[21:05.5 - 21:06.4] Yeah.
+[21:06.4 - 21:07.0] I was gonna say that.
+[21:07.0 - 21:09.0] Yeah.
+[21:09.0 - 21:10.1] I was gonna say that.
+[21:10.1 - 21:15.3] I mean, I don't know if you've seen him blow up yet, so you probably think he's pretty chill.
+[21:15.3 - 21:16.8] Yeah, he hasn't seen him blow up yet.
+[21:16.8 - 21:18.9] You should've s- seen him yell at Ethan yesterday.
+[21:18.9 - 21:19.4] Fuck.
+[21:19.4 - 21:20.1] When?
+[21:20.1 - 21:21.6] How- It's the worst I've ever seen him yell.
+[21:21.6 - 21:21.9] When?
+[21:21.9 - 21:23.6] Uh, when were you...
+[21:23.6 - 21:27.3] It was, like, right before lunch almost.
+[21:27.3 - 21:28.7] You might have been out, inside or something.
+[21:28.7 - 21:30.7] But he came in...
+[21:30.7 - 21:32.6] Oh, it was right whenever we came in.
+[21:32.6 - 21:37.4] He was, he yelled at me the day before yesterday, and then he got the kids.
+[21:37.4 - 21:37.4] Yeah, yeah, yeah.
+[21:37.4 - 21:39.3] I was downstairs, and then after 25.
+[21:39.3 - 21:41.3] He's scaring you.
+[21:41.3 - 21:42.1] He's scaring you right now.
+[21:42.1 - 21:43.8] I just, I just, like, look at him.
+[21:43.8 - 21:45.5] Ethan was trying to...
+[21:45.5 - 21:52.3] It was right at, like, 11:15 or something, 'cause Ethan was trying to put the soccer game on on the TV in the living room.
+[21:52.3 - 21:54.1] How the fuck I got on here?
+[21:54.1 - 21:56.3] And, um, he's like, "What are you doing?
+[21:56.3 - 21:59.5] What are you doing?" And Ethan couldn't, like, come up with something quick.
+[21:59.5 - 22:04.4] And he wasn't mad about that, but then Ethan went down to talk to Nicole.
+[22:04.4 - 22:05.1] Oh, yeah, yeah.
+[22:05.1 - 22:06.2] I heard it.
+[22:06.2 - 22:16.2] And he's like, "Ethan, Ethan, Ethan." And then he came up, and he said, "You're not to go down there and talk to her anymore." I'm like, "Fuck." And then he's like, "I was down there sitting with Abraham like I..."
+[22:16.2 - 22:17.7] He said, "Oh, oh, okay, I'm sorry.
+[22:17.7 - 22:24.0] I'm just, I'm having a bad day." I'm like, "Damn, you could've started with that- Yeah ...
+[22:24.0 - 22:34.5] and rewound." What
+[22:34.5 - 22:38.1] do you got going on today, Santiago?
+[22:38.1 - 22:41.0] Uh, I gotta pick up Elliot at what, from his 1:20.
+[22:41.0 - 22:45.1] Yeah, I, I didn't even know if I had to teach her AI.
+[22:45.1 - 22:49.8] Well, I just have a, I program my AI to just, like, push a button and have a lesson ready for her.
+[22:49.8 - 22:52.7] Nice.
+[22:52.7 - 22:52.8] Yeah.
+[22:52.8 - 22:55.6] She had the horseback riding this weekend, right?
+[22:55.6 - 22:56.3] Yeah.
+[22:56.3 - 22:58.4] Do you, did you take her to that?
+[22:58.4 - 22:59.1] Yeah.
+[22:59.1 - 23:00.3] I like that area.
+[23:00.3 - 23:00.9] It's nice.
+[23:00.9 - 23:01.9] Yeah.
+[23:01.9 - 23:02.2] Yeah.
+[23:02.2 - 23:04.1] Yeah, but she rode really good, too.
+[23:04.1 - 23:05.5] She- Oh, I've never seen her actually ride.
+[23:05.5 - 23:05.9] Yeah.
+[23:05.9 - 23:09.7] Yeah, I just kinda, like, dropped her off and she walked around and- She won, like, four medals.
+[23:09.7 - 23:10.6] She won four ribbons.
+[23:10.6 - 23:13.0] She's, she's smart and talented.
+[23:13.0 - 23:13.1] Yeah.
+[23:13.1 - 23:13.8] That's for sure.
+[23:13.8 - 23:15.9] It's kind of unfortunate it's- She's really pretty, too.
+[23:15.9 - 23:16.6] She's really tall.
+[23:16.6 - 23:17.2] Yeah.
+[23:17.2 - 23:17.9] Even when she rode over here.
+[23:17.9 - 23:19.7] You should've seen her play, play the piano.
+[23:19.7 - 23:24.9] Like, there's two pieces, La Campanella and one of Chopin's 12 Etudes- Yeah ...
+[23:24.9 - 23:29.6] that are, like, notoriously top 10 hardest pieces to play, and sh- I saw them on YouTube.
+[23:29.6 - 23:30.5] But it was crazy.
+[23:30.5 - 23:32.6] I saw him literally, like, slap her and shit.
+[23:32.6 - 23:33.8] No way.
+[23:33.8 - 23:34.0] Yeah.
+[23:34.0 - 23:34.9] When?
+[23:34.9 - 23:37.4] When she was there in the, um- LP's ...
+[23:37.4 - 23:39.5] she's having a problem with the George, the trainer and shit.
+[23:39.5 - 23:39.8] Yeah.
+[23:39.8 - 23:41.2] Call CPS.
+[23:41.2 - 23:42.2] So she- ...
+[23:42.2 - 23:42.7] she was like...
+[23:42.7 - 23:45.9] So I was in the, I was in the, um- North parking, she says ...
+[23:45.9 - 23:46.8] I was in the truck, right?
+[23:46.8 - 23:50.4] And then I was waiting for her outside 'cause I was supposed to go open for her and shit.
+[23:50.4 - 23:55.8] And then, uh, and she's in the stairs up in the garage, like, putting her boots on and shit.
+[23:55.8 - 23:59.7] And then he was, like, standing, like, over her and shit.
+[23:59.7 - 24:05.5] And then she was, like, sitting on the thing, putting her boots on, getting her shit ready, and then- Har- like, hard?
+[24:05.5 - 24:08.9] Yeah, he, like, slapped her, and I was like, "Oh, shit." I just looked down.
+[24:08.9 - 24:10.1] I was like- Oh, that ain't cool.
+[24:10.1 - 24:10.6] Yeah.
+[24:10.6 - 24:12.0] I was like, "Damn." I'll call.
+[24:12.0 - 24:12.5] I'll call.
+[24:12.5 - 24:13.1] I don't give a fuck.
+[24:13.1 - 24:13.7] You're not gonna treat...
+[24:13.7 - 24:14.7] She's so sweet.
+[24:14.7 - 24:14.7] Yeah.
+[24:14.7 - 24:15.9] Like, the sweetest girl.
+[24:15.9 - 24:18.5] She shrugged it off like nothing.
+[24:18.5 - 24:19.3] She was- Well, yeah.
+[24:19.3 - 24:20.9] What's her o- what's her other option?
+[24:20.9 - 24:24.4] But, uh- She gonna, she gonna rush you when she gets 18, bro.
+[24:24.4 - 24:25.3] Oh, yeah.
+[24:25.3 - 24:27.4] I'm gonna teach her all sorts of shit with AI.
+[24:27.4 - 24:30.1] And she'll, like, start to like it.
+[24:30.1 - 24:30.4] Yeah.
+[24:30.4 - 24:32.3] And I've, I'm trying to make it interesting for her.
+[24:32.3 - 24:41.1] I made, like, her learning portal have, like, uh, like, horseback riding references and piano and, um, swimming.
+[24:41.1 - 24:45.2] Like, so if she's learning something it'll, like, teach her based off of examples on that.
+[24:45.2 - 24:45.3] Yeah.
+[24:45.3 - 24:48.3] But she didn't even know how to run a mouse.
+[24:48.3 - 24:50.2] Yeah.
+[24:50.2 - 24:50.6] Did I tell you that?
+[24:50.6 - 24:51.3] Yeah.
+[24:51.3 - 24:53.4] In the tech, in the group chat.
+[24:53.4 - 24:56.3] I guess 'cause she's, like, always uses the trackpad or something- Yeah ...
+[24:56.3 - 24:57.7] on the laptop, which is fine.
+[24:57.7 - 24:58.9] That's, it's pretty intuitive.
+[24:58.9 - 25:00.7] Just, you know, point and click.
+[25:00.7 - 25:01.1] Yeah.
+[25:01.1 - 25:08.5] I don't know.
+[25:08.5 - 25:20.1] It's not my business, I guess.
+[25:20.1 - 25:24.5] Horseback for 1:30, huh?
+[25:24.5 - 25:27.9] Has he gone to the doctor this week?
+[25:27.9 - 25:28.7] Are you going...
+[25:28.7 - 25:29.7] Did you tell him last night?
+[25:29.7 - 25:30.4] You have to take him.
+[25:30.4 - 25:30.7] Yeah.
+[25:30.7 - 25:31.1] What'd he say?
+[25:31.1 - 25:32.9] 'Cause that's- He said, "Fine," he goes, yeah.
+[25:32.9 - 25:37.3] He goes, "You'll deal with her tomorrow." That's what he said.
+[25:37.3 - 25:39.5] I saw him take it.
+[25:39.5 - 25:41.1] You good over there?
+[25:41.1 - 25:41.3] Yeah.
+[25:41.3 - 25:51.9] I
+[25:51.9 - 25:54.2] bought this when I had to take the watch through the airport.
+[25:54.2 - 25:55.1] It's nice.
+[25:55.1 - 25:57.6] I didn't expense it or anything.
+[25:57.6 - 25:58.6] I used my own money.
+[25:58.6 - 26:05.5] It's got, like, all sorts of, like, s- for clothes and books, and holds all sorts of shit.
+[26:05.5 - 26:07.1] It was only 40 bucks.
+[26:07.1 - 26:15.8] What part of town are you coming from when you come to work?
+[26:15.8 - 26:16.9] Where, where do you live?
+[26:16.9 - 26:18.4] Right down the street.
+[26:18.4 - 26:19.0] Oh, okay.
+[26:19.0 - 26:19.7] Yeah.
+[26:19.7 - 26:22.2] I live off of, uh, Banning and, uh, 101.
+[26:22.2 - 26:23.2] Oh, okay.
+[26:23.2 - 26:23.6] Yeah.
+[26:23.6 - 26:24.7] You're kinda close to me, though.
+[26:24.7 - 26:26.8] I'm on Kester and Camarillo, or- Oh, okay ...
+[26:26.8 - 26:27.8] where that Pavilions is.
+[26:27.8 - 26:27.9] Yeah.
+[26:27.9 - 26:29.5] I'm kinda, like, down there a block over.
+[26:29.5 - 26:29.9] Okay.
+[26:29.9 - 26:30.2] Yeah.
+[26:30.2 - 26:32.3] Yeah, I'm right off the freeway.
+[26:32.3 - 26:33.9] Right there on Banning.
+[26:33.9 - 26:34.5] Oh, okay.
+[26:34.5 - 26:39.9] I go to that gas station right there on the, uh, west side of the road 'cause-
+[26:40.1 - 26:41.3] Got the best present.
+[26:41.3 - 26:41.8] Which one?
+[26:41.8 - 26:43.7] Um, it's right there.
+[26:43.7 - 26:48.6] It's on the south side of the 101 on southwest side, so it's like...
+[26:48.6 - 26:52.0] It's got yellow and red.
+[26:52.0 - 26:57.4] I can't remember what the- Not in front of the In-N-Out?
+[26:57.4 - 26:58.5] No.
+[26:58.5 - 26:59.9] Uh, no, it's more north.
+[26:59.9 - 27:03.5] Yeah, so anyway.
+[27:03.5 - 27:05.7] I went to that, uh...
+[27:05.7 - 27:06.9] I go to that, um...
+[27:06.9 - 27:08.7] Oh, I meant to tell you.
+[27:08.7 - 27:15.4] With that car, I have a membership for it, um, at that Ocean car wash on Van Nuys.
+[27:15.4 - 27:15.8] Yeah.
+[27:15.8 - 27:17.4] So it has a barcode on the window.
+[27:17.4 - 27:19.7] You just pull up, and you don't even have to roll the window down.
+[27:19.7 - 27:21.0] It reads it, and then the thing goes up.
+[27:21.0 - 27:22.5] You can run it every day if you want.
+[27:22.5 - 27:23.9] On which one?
+[27:23.9 - 27:24.4] Van Nuys.
+[27:24.4 - 27:25.0] Van Nuys.
+[27:25.0 - 27:26.5] It's called Ocean Car Wash.
+[27:26.5 - 27:31.3] Oh, the Van Nuys and- It's across from the, um- Tire place?
+[27:31.3 - 27:32.2] There's a ti- Yeah, yeah.
+[27:32.2 - 27:33.7] There's a tire place right there.
+[27:33.7 - 27:34.2] Yeah, yeah, yeah.
+[27:34.2 - 27:34.2] Yeah.
+[27:34.2 - 27:34.9] That's the tire place.
+[27:34.9 - 27:36.6] Yeah, it's, it's Ocean Car Wash.
+[27:36.6 - 27:36.9] Yeah.
+[27:36.9 - 27:37.4] I think it's got the rip...
+[27:37.4 - 27:37.9] Yeah.
+[27:37.9 - 27:39.1] Yeah, that's one I go to all the time.
+[27:39.1 - 27:40.1] Okay.
+[27:40.1 - 27:40.6] So yeah.
+[27:40.6 - 27:43.8] And he likes it clean, so Yeah.
+[27:43.8 - 27:47.3] I mean, and you can like fuck off and waste some time if you want.
+[27:47.3 - 27:47.6] Yeah.
+[27:47.6 - 27:48.1] Go.
+[27:48.1 - 27:52.5] Hey, does he mind having like favorite fragrances in the car?
+[27:52.5 - 27:53.4] Yeah, he would mind.
+[27:53.4 - 27:54.2] I was told yes.
+[27:54.2 - 27:54.6] I don't know.
+[27:54.6 - 27:56.4] I don't have a sense of smell, so I don't know.
+[27:56.4 - 27:56.6] Yeah.
+[27:56.6 - 27:57.6] Okay.
+[27:57.6 - 27:59.2] So you'll not be doing the fragrances.
+[27:59.2 - 28:00.0] No.
+[28:00.0 - 28:00.5] Okay.
+[28:00.5 - 28:03.6] I think Nicole and you both told me like the...
+[28:03.6 - 28:06.5] before I started not to wear like a lot of cologne.
+[28:06.5 - 28:24.8] You
+[28:24.8 - 28:25.2] married?
+[28:25.2 - 28:26.0] Have kids?
+[28:26.0 - 28:26.6] Nope.
+[28:26.6 - 28:27.4] Nope.
+[28:27.4 - 28:28.5] No kids.
+[28:28.5 - 28:29.1] Girlfriend.
+[28:29.1 - 28:32.3] No dependents?
+[28:32.3 - 28:32.7] No.
+[28:32.7 - 28:37.4] No, I never had kids.
+[28:37.4 - 28:39.5] Yeah.
+[28:39.5 - 28:44.3] My twin brother, he has a, he has a, he has a 15-year-old boy.
+[28:44.3 - 28:45.0] Yeah.
+[28:45.0 - 28:46.5] And that's good enough for me.
+[28:46.5 - 28:49.5] Yeah.
+[28:49.5 - 28:51.7] No, I have two nieces and one nephew.
+[28:51.7 - 28:52.6] I phone them.
+[28:52.6 - 28:56.0] They're cool for about an hour.
+[28:56.0 - 28:56.8] Yeah, yeah.
+[28:56.8 - 29:06.9] I need to go home more and see them.
+[29:06.9 - 29:08.1] Where are you from?
+[29:08.1 - 29:10.0] Small town, Texas.
+[29:10.0 - 29:11.1] Lubbock, Texas.
+[29:11.1 - 29:11.7] Lubbock, Texas.
+[29:11.7 - 29:13.7] Well, even a smaller city.
+[29:13.7 - 29:14.9] Levelland, Texas.
+[29:14.9 - 29:17.1] That's where you grew up?
+[29:17.1 - 29:17.8] Yep.
+[29:17.8 - 29:19.1] I moved out here when I was 30.
+[29:19.1 - 29:21.9] I was here for like a year and then COVID hit.
+[29:21.9 - 29:22.7] Yeah.
+[29:22.7 - 29:30.4] So it wasn't the best of experiences.
+[29:30.4 - 29:32.2] Yeah, COVID was a weird time.
+[29:32.2 - 29:36.1] Yeah, I didn't mind it, 'cause I don't really like people that much, to be honest.
+[29:36.1 - 29:43.1] And so it's like I was in a relationship and like they were all in my business all the time.
+[29:43.1 - 29:44.7] I was like, "Oh, this, this ain't gonna work." Yeah.
+[29:44.7 - 29:50.2] "I'm gonna break up." Nicole will be gone- I can only do so much wine and cocaine.
+[29:50.2 - 29:51.1] Like, get out of here.
+[29:51.1 - 29:52.2] Yeah.
+[29:52.2 - 29:55.0] Nicole will be gone, not this Tuesday, next Tuesday.
+[29:55.0 - 29:55.6] Nicole's out.
+[29:55.6 - 29:56.8] I mean, Ethan's out today, right?
+[29:56.8 - 29:57.0] Yeah.
+[29:57.0 - 29:59.3] Nicole's leaving next...
+[29:59.3 - 30:01.2] not this, not this coming Tuesday, but the next Tuesday.
+[30:01.2 - 30:02.3] She's gone for two weeks.
+[30:02.3 - 30:03.9] Hopefully Mark will be gone this Thursday.
+[30:03.9 - 30:05.2] He never stays around here for fucking breakfast.
+[30:05.2 - 30:08.7] No, he told somebody on the phone the other day that he was gonna be there.
+[30:08.7 - 30:09.4] Yeah.
+[30:09.4 - 30:11.6] So we'll have the house to ourselves.
+[30:11.6 - 30:12.4] Hallelujah.
+[30:12.4 - 30:15.1] Free money.
+[30:15.1 - 30:24.7] Indeed.
+[30:24.7 - 30:32.7] Did you get your shower and your nap and everything this morning?
+[30:32.7 - 30:33.5] Fuck yeah.
+[30:33.5 - 30:34.1] Take a napkin?
+[30:34.1 - 30:38.4] I would too.
+[30:38.4 - 30:42.6] No, I couldn't...
+[30:42.6 - 30:44.3] I can barely even sleep in my own house.
+[30:44.3 - 30:45.6] I can't sleep anywhere else.
+[30:45.6 - 30:47.4] Never fallen asleep in a car- No?
+[30:47.4 - 30:48.4] -or on an airplane or...
+[30:48.4 - 30:50.0] I can't, I don't- I've fallen asleep.
+[30:50.0 - 30:52.2] I have to take Seroquel and trazodone to sleep.
+[30:52.2 - 30:55.2] That doesn't even work.
+[30:55.2 - 30:58.1] I used to take Ambien.
+[30:58.1 - 30:59.1] That ain't no joke.
+[30:59.1 - 31:02.2] Solid blackout.
+[31:02.2 - 31:15.0] Mark's
+[31:15.0 - 31:16.7] really trying to sell that software.
+[31:16.7 - 31:17.6] He what?
+[31:17.6 - 31:19.6] Mark's really trying to sell that software.
+[31:19.6 - 31:21.0] Property Max.
+[31:21.0 - 31:32.7] Had a meeting with a guy in the living room the other day, and that guy may start working downstairs and, uh, get an office, a little space and
+[31:32.7 - 31:35.8] probably get a hefty salary.
+[31:35.8 - 31:40.1] Like, why don't you fix the software first?
+[31:40.1 - 31:43.9] Make more sense, right?
+[31:43.9 - 31:53.3] What's the temperature?
+[31:53.3 - 31:55.8] When's his new car get here?
+[31:55.8 - 31:58.1] Hmm.
+[31:58.1 - 31:59.6] I thought it was today or something.
+[31:59.6 - 32:00.3] No.
+[32:00.3 - 32:01.3] Oh.
+[32:01.3 - 32:05.4] No, I wanna say like, I don't know, probably like in maybe by like November.
+[32:05.4 - 32:12.3] Can't believe fucking- You ever down, I'll pick you up ...
+[32:12.3 - 32:14.7] can't believe he'll slap a Victoria like that.
+[32:14.7 - 32:15.8] Yeah.
+[32:15.8 - 32:17.7] Wow.
+[32:17.7 - 32:19.4] Can't believe she did it in front of you.
+[32:19.4 - 32:21.7] No, no shame.
+[32:21.7 - 32:26.7] You're gonna die alone.
+[32:26.7 - 32:27.9] Huh?
+[32:27.9 - 32:29.1] You're gonna die alone.
+[32:29.1 - 32:29.8] Alone?
+[32:29.8 - 32:33.4] The story's gonna be year after year, gonna be like- Yeah.
+[32:33.4 - 32:35.9] On her airplane she didn't stand up in.
+[32:35.9 - 32:36.5] Yeah.
+[32:36.5 - 32:52.8] Yeah
+[32:52.8 - 32:53.5] Damn shame.
+[32:53.5 - 32:55.6] Yeah, she was saying to, uh...
+[32:55.6 - 32:57.9] 'Cause I started talking to Victoria today.
+[32:57.9 - 33:01.7] She was like, she was like, "Yeah, my mom, she's just like...
+[33:01.7 - 33:05.5] She's like, I come home and she doesn't say hi or good day or anything.
+[33:05.5 - 33:12.6] She just goes straight into yelling." And I'm- Yeah, whenever I first met him, I, like, picked up Mark from the airport.
+[33:12.6 - 33:21.3] I came home, and they were, like, sitting out front like Wednesday and Morticia Addams in The Addams Family, just, like, cold, didn't say anything.
+[33:21.3 - 33:28.6] They're, like, waiting for his arrival all weird, and she was like, "What the fuck's going on?" And, uh, Mark said, "Get that bag out of my...
+[33:28.6 - 33:35.7] The back, it's got about a million dollars worth of jewelry in it." I was like, "I didn't need to know." He said, "I don't care." And she was like, "Don't put that on the floor.
+[33:35.7 - 33:36.5] Take off your shoes.
+[33:36.5 - 33:38.7] Don't scratch the floor." I was like, that's all she said to me.
+[33:38.7 - 33:41.7] He didn't introduce me, didn't say hi.
+[33:41.7 - 33:45.4] It's just like, cool, get me out of this fucking- Yeah ...
+[33:45.4 - 33:47.7] showroom house that has no warmth to it.
+[33:47.7 - 33:50.1] Yeah.
+[33:50.1 - 34:00.5] On my first day, Mark was like, "You're gonna go, like, meet her." I got hired on a Friday, and he's like, "I need you to meet me at the Cafe Ventura that went down."
+[34:00.5 - 34:01.4] They didn't ask you.
+[34:01.4 - 34:05.4] He's like, "Yeah, and so we ate breakfast." He's like, "All right, I'm gonna get out of here.
+[34:05.4 - 34:06.6] You're gonna go.
+[34:06.6 - 34:10.8] You're gonna take this number down, and a guy's gonna call you right now, and they're gonna deliver my wife's Ferrari.
+[34:10.8 - 34:20.9] They can't drive the 18-wheeler up the hill, so you're gonna meet him somewhere." So I fucking met him on Ventura, in the middle of Ventura, right in front of CVS, and they unloaded it and parked
+[34:20.9 - 34:21.0] it.
+[34:21.0 - 34:25.5] I had to drive it into fucking, uh, Party, Party Place or wherever that place is.
+[34:25.5 - 34:27.4] And Mark was like, "Okay, get a bowl.
+[34:27.4 - 34:28.8] Put the bowl on the car.
+[34:28.8 - 34:38.8] Leave your car there and drive it to my house and give it to my wife." So I fucking did that, and she walked out, and she was like, "I hate the color," and walked back
+[34:38.8 - 34:39.3] inside.
+[34:39.3 - 34:39.8] Yeah.
+[34:39.8 - 34:40.8] Oh, wow.
+[34:40.8 - 34:41.4] I didn't know that.
+[34:41.4 - 34:42.7] Yeah, she kindly...
+[34:42.7 - 34:44.3] She, she said the same thing to me.
+[34:44.3 - 34:46.4] She was like, she was like, "I hate this car." Yeah.
+[34:46.4 - 34:49.1] She's like, "I hate this car." I thought she used to be doing nails.
+[34:49.1 - 34:50.4] Yeah.
+[34:50.4 - 34:51.3] Do I?
+[34:51.3 - 34:53.9] Yeah.
+[34:53.9 - 34:54.8] She did too.
+[34:54.8 - 34:59.3] I just don't see those, uh, like, how you would get her.
+[34:59.3 - 34:59.9] You know what I mean?
+[34:59.9 - 35:05.3] Like, what I would have been- Well, the girl that stayed upstairs was, like, just like her, just uptight, I guess.
+[35:05.3 - 35:10.7] Luciana, if you knew Luciana, you're gonna be like, complete night and day.
+[35:10.7 - 35:11.2] Oh, yeah?
+[35:11.2 - 35:13.5] That's what I keep seeing and hearing.
+[35:13.5 - 35:13.5] Yeah.
+[35:13.5 - 35:14.8] She, like, loves him, right?
+[35:14.8 - 35:15.2] Luciana's sweet.
+[35:15.2 - 35:16.1] She's, she's a sweetheart.
+[35:16.1 - 35:24.1] Yeah, I've heard multiple conversations, and she's- Yeah, she's great.
+[35:24.1 - 35:25.3] She's, she's sweet.
+[35:25.3 - 35:27.6] She just is delusional.
+[35:27.6 - 35:28.8] Well, obviously.
+[35:28.8 - 35:30.6] Like, she's super delusional.
+[35:30.6 - 35:34.2] Well, he's not a bad liar.
+[35:34.2 - 35:35.3] He's a really good liar.
+[35:35.3 - 35:36.3] I mean...
+[35:36.3 - 35:40.3] I don't know how you're with somebody fucking...
+[35:40.3 - 35:44.4] You've been with Luciana at least four or five years and you shouldn't have seen the story one time.
+[35:44.4 - 35:47.3] Well, somebody keeps putting money in my bank account.
+[35:47.3 - 35:48.9] I don't ask a lot of questions.
+[35:48.9 - 35:51.8] I hate for you to say that someone fucking tells you.
+[35:51.8 - 35:52.8] Oh, that's where she stays?
+[35:52.8 - 35:54.2] Oh, or his...
+[35:54.2 - 35:54.9] Oh.
+[35:54.9 - 35:56.2] That adds up.
+[35:56.2 - 36:13.1] What
+[36:13.1 - 36:13.6] is this?
+[36:13.6 - 36:14.9] Is this somebody's homemade...
+[36:14.9 - 36:17.0] Yeah, I made that shit.
+[36:17.0 - 36:17.8] Is that salsa or...
+[36:17.8 - 36:18.3] Yeah.
+[36:18.3 - 36:22.4] Oh my gosh, that looks- Yeah, if you want, you can take that shit home.
+[36:22.4 - 36:23.8] You can eat the rest of it today.
+[36:23.8 - 36:25.4] Yeah, I'll get some salsa, some chips and shit.
+[36:25.4 - 36:27.6] Get some chips or crackers.
+[36:27.6 - 36:28.9] Oh, yes.
+[36:28.9 - 36:34.4] Oh, yeah.
+[36:34.4 - 38:16.5] What'd
+[38:16.5 - 38:16.7] you say?
+[38:16.7 - 38:17.8] There's a party in here.
+[38:17.8 - 38:18.4] Yeah.
+[38:18.4 - 38:20.3] Let's take shots.
+[38:20.3 - 38:21.3] Okay.
+[38:21.3 - 38:36.6] Is
+[38:36.6 - 38:37.1] it playing?
+[38:37.1 - 38:38.3] Is it vertical?
+[38:38.3 - 38:39.2] Yeah, it's playing.
+[38:39.2 - 38:40.8] Yeah.
+[61:41.4 - 61:42.8] Hey, can you do the zip up?
+[61:42.8 - 61:52.0] Yeah.
+[61:52.0 - 61:55.9] Robert, we need a top-up on credits.
+[61:55.9 - 61:56.6] What?
+[61:56.6 - 61:57.7] We need a top-up.
+[61:57.7 - 61:59.0] Motherfucker.
+[61:59.0 - 62:00.9] It wasn't...
+[62:00.9 - 62:06.7] Mark did a hundred and twenty thousand on two tasks, and I did a hundred and forty on forty-two tasks.
+[62:06.7 - 62:07.5] That, that's cool.
+[62:07.5 - 62:08.4] I'll lo- I'll load it.
+[62:08.4 - 62:18.6] Um, yeah, it's not- Now that I'm done with that big project, it won't be- It's not, um, it's not an issue because the only person it would be an issue for is Nicole.
+[62:18.6 - 62:19.0] Yeah.
+[62:19.0 - 62:24.9] And I was going over the, the statement yesterday, and it's like, you know, three grand or whatever, and she didn't even blink an eye, so.
+[62:24.9 - 62:27.9] Yeah, the numbers she looks at normally, but Yeah, I don't know.
+[62:27.9 - 62:30.2] She, yeah, I was charging on that for like eighteen thousand.
+[62:30.2 - 62:30.8] VMware?
+[62:30.8 - 62:31.9] Yeah.
+[62:31.9 - 62:33.5] I think quarterly it's like eighteen grand.
+[62:33.5 - 62:35.1] Yeah.
+[62:35.1 - 62:35.8] Fucking crazy.
+[62:35.8 - 62:37.5] For all the, for every- Yeah, for all of it ...
+[62:37.5 - 62:39.0] every ten zig and everything, yeah.
+[62:39.0 - 62:39.2] Yeah.
+[62:39.2 - 62:41.4] Is that based off usage?
+[62:41.4 - 62:43.0] No, it's the licensing.
+[62:43.0 - 62:44.2] Oh, right, right.
+[62:44.2 - 66:06.2] Hello.
+[66:06.2 - 66:07.1] Hello.
+[66:07.1 - 66:08.8] Nicole?
+[66:08.8 - 66:09.7] Yes.
+[66:09.7 - 66:18.5] Um, the, uh, the Popic, uh, um, thing that's going on, do they know it's as a part of court or they already been told?
+[66:18.5 - 66:21.3] I'm reaching out to them all on which, do they know it's as a part of court?
+[66:21.3 - 66:23.1] Uh, I don't know.
+[66:23.1 - 66:28.9] Let me know.
+[70:49.9 - 70:50.2] Yes.
+[70:50.2 - 70:52.1] Yeah.
+[70:52.1 - 71:26.9] Oh,
+[71:26.9 - 71:27.8] I guess they're done.
+[71:27.8 - 71:28.5] Okay.
+[71:28.5 - 71:30.0] All of two packages.
+[71:30.0 - 71:30.8] What the fuck?
+[71:30.8 - 71:34.7] Oh, it's pulling from that REST API that takes a while sometimes.
+[71:34.7 - 71:35.2] Oh, okay.
+[71:35.2 - 71:35.7] All right.
+[71:35.7 - 71:36.4] Cool.
+[71:36.4 - 71:46.9] Yeah, it's a lot of data, and they're pulling it from that, so...
+[107:33.5 - 107:33.9] Hello.
+[107:33.9 - 109:00.1] Santiago
+[109:00.1 - 109:04.0] will need access to all the properties from the Q- the QC file.
+[109:04.0 - 109:04.5] Uh-huh.
+[109:04.5 - 109:05.2] Okay.
+[109:05.2 - 109:06.2] Can you make that happen?
+[109:06.2 - 109:06.4] Yep.
+[109:06.4 - 109:13.5] Do you not have the admin privileges or do you- I don't know how to do this.
+[109:13.5 - 109:14.1] You want me to show you real quick?
+[109:14.1 - 109:14.4] No?
+[109:14.4 - 109:14.6] Yeah.
+[109:14.6 - 109:15.8] Okay.
+[109:15.8 - 109:17.0] I was fucking with you.
+[109:17.0 - 109:17.6] No, I don't care.
+[109:17.6 - 109:18.6] I just figured you might wanna know.
+[109:18.6 - 109:20.1] You go to Admin right here.
+[109:20.1 - 109:20.6] Uh-huh.
+[109:20.6 - 109:22.4] And then you go to- I don't have that.
+[109:22.4 - 109:23.2] Oh.
+[109:23.2 - 109:23.4] Let me see.
+[109:23.4 - 109:23.5] Let me check.
+[109:23.5 - 109:25.0] That's what you'll need first.
+[109:25.0 - 109:26.5] Yeah, get me that.
+[109:26.5 - 109:27.3] Okay.
+[109:27.3 - 109:36.2] You know what?
+[109:36.2 - 109:37.4] I do, I do have it.
+[109:37.4 - 109:38.5] My bad.
+[109:38.5 - 109:39.0] No, you're good.
+[109:39.0 - 109:40.8] Let me see, uh...
+[109:40.8 - 109:46.1] I just don't know...
+[109:46.1 - 109:51.8] Like, whenever you go to User Settings, this is what pops up.
+[109:51.8 - 109:53.8] So this is where...
+[109:53.8 - 109:55.4] And I was gonna add this to yours, too.
+[109:55.4 - 109:58.4] This is the one site, like, login that we use.
+[109:58.4 - 110:02.1] I just added it as a button yesterday, but, um...
+[110:02.1 - 110:04.0] And if you want this, too.
+[110:04.0 - 110:09.4] Anyway, um, you're saying that your, um- No, he-- Santiago.
+[110:09.4 - 110:10.4] Oh, okay.
+[110:10.4 - 110:18.0] Okay, so he needed which one?
+[110:18.0 - 110:19.0] Uh, the, the...
+[110:19.0 - 110:20.8] He needs, um, the QC.
+[110:20.8 - 110:22.1] Oh, the QC button.
+[110:22.1 - 110:24.6] Oh, they're gonna have to add that.
+[110:24.6 - 110:24.9] Oh.
+[110:24.9 - 110:27.8] Yeah, 'cause I only can add these green quick access.
+[110:27.8 - 110:28.2] Okay.
+[110:28.2 - 110:28.6] All right.
+[110:28.6 - 110:28.6] Yeah.
+[110:28.6 - 110:29.3] I'll email him real quick.
+[110:29.3 - 111:48.6] Hello?
+[111:48.6 - 111:51.7] Hey, is Santiago's email just santiago@apartmentcorp?
+[111:51.7 - 111:52.8] Yeah.
+[111:52.8 - 111:54.1] Okay, thanks.
+[111:54.1 - 111:55.2] No problem.
+[111:55.2 - 111:55.5] Mm-hmm.
+[111:55.5 - 117:13.1] Bob
+[117:13.1 - 117:17.6] and Chris should be getting you set up with the QC button.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/downloads/ROSE-REC1_V2025-06-25-08-22-10_transcription_20260706_231250.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/downloads/ROSE-REC1_V2025-06-25-08-22-10_transcription_20260706_231250.txt
+[2J[H[3Jmanus-speech-to-text downloads/ROSE-REC1_V2025-06-25-08-22-10.mp3
+Starting Speech-to-Text conversion...
+Audio file size (41.2MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 41.20 MB, duration: 7200.3 seconds
+Splitting into 9 chunks (each ~800.0 seconds, max 5 MB)...
+Successfully split into 9 chunks
+Audio file split into 9 chunks for batch processing
+Transcribing audio file: downloads/ROSE-REC1_V2025-06-25-08-22-10.mp3, file size: 41.20 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 9 chunks...
+Transcribing chunk 1/9: downloads/.ROSE-REC1_V2025-06-25-08-22-10_chunks_20260706_231008/chunk_000.mp3
+Chunk 1 completed (duration: 800.0s)
+Transcribing chunk 2/9: downloads/.ROSE-REC1_V2025-06-25-08-22-10_chunks_20260706_231008/chunk_001.mp3
+Chunk 2 completed (duration: 800.0s)
+Transcribing chunk 3/9: downloads/.ROSE-REC1_V2025-06-25-08-22-10_chunks_20260706_231008/chunk_002.mp3
+Chunk 3 completed (duration: 800.0s)
+Transcribing chunk 4/9: downloads/.ROSE-REC1_V2025-06-25-08-22-10_chunks_20260706_231008/chunk_003.mp3
+Chunk 4 completed (duration: 800.0s)
+Transcribing chunk 5/9: downloads/.ROSE-REC1_V2025-06-25-08-22-10_chunks_20260706_231008/chunk_004.mp3
+Chunk 5 completed (duration: 800.0s)
+Transcribing chunk 6/9: downloads/.ROSE-REC1_V2025-06-25-08-22-10_chunks_20260706_231008/chunk_005.mp3
+Chunk 6 completed (duration: 800.0s)
+Transcribing chunk 7/9: downloads/.ROSE-REC1_V2025-06-25-08-22-10_chunks_20260706_231008/chunk_006.mp3
+Chunk 7 completed (duration: 800.0s)
+Transcribing chunk 8/9: downloads/.ROSE-REC1_V2025-06-25-08-22-10_chunks_20260706_231008/chunk_007.mp3
+Chunk 8 completed (duration: 800.0s)
+Transcribing chunk 9/9: downloads/.ROSE-REC1_V2025-06-25-08-22-10_chunks_20260706_231008/chunk_008.mp3
+Chunk 9 completed (duration: 799.7s)
+
+Snippet of transcribed content:
+[71:35.2 - 71:35.7] All right.
+[71:35.7 - 71:36.4] Cool.
+[71:36.4 - 71:46.9] Yeah, it's a lot of data, and they're pulling it from that, so...
+[107:33.5 - 107:33.9] Hello.
+[107:33.9 - 109:00.1] Santiago
+[109:00.1 - 109:04.0] will need access to all the properties from the Q- the QC file.
+[109:04.0 - 109:04.5] Uh-huh.
+[109:04.5 - 109:05.2] Okay.
+[109:05.2 - 109:06.2] Can you make that happen?
+[109:06.2 - 109:06.4] Yep.
+[109:06.4 - 109:13.5] Do you not have the admin privileges or do you- I don't know how to do this.
+[109:13.5 - 109:14.1] You want me to show you real quick?
+[109:14.1 - 109:14.4] No?
+[109:14.4 - 109:14.6] Yeah.
+[109:14.6 - 109:15.8] Okay.
+[109:15.8 - 109:17.0] I was fucking with you.
+[109:17.0 - 109:17.6] No, I don't care.
+[109:17.6 - 109:18.6] I just figured you might wanna know.
+[109:18.6 - 109:20.1] You go to Admin right here.
+[109:20.1 - 109:20.6] Uh-huh.
+[109:20.6 - 109:22.4] And then you go to- I don't have that.
+[109:22.4 - 109:23.2] Oh.
+[109:23.2 - 109:23.4] Let me see.
+[109:23.4 - 109:23.5] Let me check.
+[109:23.5 - 109:25.0] That's what you'll need first.
+[109:25.0 - 109:26.5] Yeah, get me that.
+[109:26.5 - 109:27.3] Okay.
+[109:27.3 - 109:36.2] You know what?
+[109:36.2 - 109:37.4] I do, I do have it.
+[109:37.4 - 109:38.5] My bad.
+[109:38.5 - 109:39.0] No, you're good.
+[109:39.0 - 109:40.8] Let me see, uh...
+[109:40.8 - 109:46.1] I just don't know...
+[109:46.1 - 109:51.8] Like, whenever you go to User Settings, this is what pops up.
+[109:51.8 - 109:53.8] So this is where...
+[109:53.8 - 109:55.4] And I was gonna add this to yours, too.
+[109:55.4 - 109:58.4] This is the one site, like, login that we use.
+[109:58.4 - 110:02.1] I just added it as a button yesterday, but, um...
+[110:02.1 - 110:04.0] And if you want this, too.
+[110:04.0 - 110:09.4] Anyway, um, you're saying that your, um- No, he-- Santiago.
+[110:09.4 - 110:10.4] Oh, okay.
+[110:10.4 - 110:18.0] Okay, so he needed which one?
+[110:18.0 - 110:19.0] Uh, the, the...
+[110:19.0 - 110:20.8] He needs, um, the QC.
+[110:20.8 - 110:22.1] Oh, the QC button.
+[110:22.1 - 110:24.6] Oh, they're gonna have to add that.
+[110:24.6 - 110:24.9] Oh.
+[110:24.9 - 110:27.8] Yeah, 'cause I only can add these green quick access.
+[110:27.8 - 110:28.2] Okay.
+[110:28.2 - 110:28.6] All right.
+[110:28.6 - 110:28.6] Yeah.
+[110:28.6 - 110:29.3] I'll email him real quick.
+[110:29.3 - 111:48.6] Hello?
+[111:48.6 - 111:51.7] Hey, is Santiago's email just santiago@apartmentcorp?
+[111:51.7 - 111:52.8] Yeah.
+[111:52.8 - 111:54.1] Okay, thanks.
+[111:54.1 - 111:55.2] No problem.
+[111:55.2 - 111:55.5] Mm-hmm.
+[111:55.5 - 117:13.1] Bob
+[117:13.1 - 117:17.6] and Chris should be getting you set up with the QC button.
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/downloads/ROSE-REC1_V2025-06-25-08-22-10_transcription_20260706_231250.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/downloads/ROSE-REC1_V2025-06-25-08-22-10_transcription_20260706_231250.txt

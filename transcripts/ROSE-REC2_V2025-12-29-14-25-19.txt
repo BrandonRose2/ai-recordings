@@ -1,0 +1,224 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2025-12-29-14-25-19.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: .ROSE-REC2_V2025-12-29-14-25-19_chunks_20260706_155336/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: .ROSE-REC2_V2025-12-29-14-25-19_chunks_20260706_155336/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: .ROSE-REC2_V2025-12-29-14-25-19_chunks_20260706_155336/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: .ROSE-REC2_V2025-12-29-14-25-19_chunks_20260706_155336/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: .ROSE-REC2_V2025-12-29-14-25-19_chunks_20260706_155336/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.6 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[40:31.1 - 40:31.5] Hey, Martin.
+[40:31.5 - 40:33.0] What are you working on?
+[40:33.0 - 40:34.5] Is it finish that project?
+[40:34.5 - 40:35.3] Yes.
+[40:35.3 - 40:36.7] Okay, so they got all the info?
+[40:36.7 - 40:37.2] Yes.
+[40:37.2 - 40:46.7] Um, I was looking at this, um, open source video creating thing to go back to your, um, NotebookLM video that you liked.
+[40:46.7 - 40:49.1] I was gonna try to- How come you didn't try it in NotebookLM?
+[40:49.1 - 40:51.5] Oh, we tried multiple times there.
+[40:51.5 - 40:53.5] Did you try it with the new method that I told you?
+[40:53.5 - 40:54.4] Yeah, I did.
+[40:54.4 - 40:55.3] And what happened?
+[40:55.3 - 40:57.0] It didn't come out very good.
+[40:57.0 - 41:00.4] I'll try it this way.
+[41:00.4 - 41:01.6] That's the way to go.
+[41:01.6 - 41:02.7] Jeff, can you come down for a second?
+[41:02.7 - 41:02.8] Yeah.
+[41:02.8 - 41:03.7] All right, what do you need?
+[41:03.7 - 41:04.3] Well, I...
+[41:04.3 - 41:04.5] Okay.
+[41:04.5 - 41:15.0] We got a call from SkySwitch today about a ro-- we don't have a robocall mitigation program, which is required for a communications
+[41:15.0 - 41:16.9] provider like we said that we are.
+[41:16.9 - 41:24.0] Uh, so they recommended us to a law firm that could do this registration for us.
+[41:24.0 - 41:26.1] I am in the process of filling out the form.
+[41:26.1 - 41:28.5] I just want you to make sure- Bring it up here.
+[41:28.5 - 41:29.2] I can't.
+[41:29.2 - 41:30.3] It's online.
+[41:30.3 - 41:32.6] It's an, it's an online form thing.
+[41:32.6 - 41:41.0] So I just wanna make sure it's filled out how you want it.
+[41:41.0 - 41:45.9] I could have pulled her computer up right here, but she didn't wanna go down there.
+[41:45.9 - 41:47.7] I could have pulled up her computer right here.
+[41:47.7 - 41:51.5] That would've made too much sense.
+[41:51.5 - 42:01.7] I was trying to op- use this Open Montage video creator for his, um, NotebookLM vi- An open
+[42:01.7 - 42:02.1] source.
+[42:02.1 - 42:04.7] You should use Hicksfield.
+[42:04.7 - 42:06.5] Yeah.
+[42:06.5 - 42:06.9] Manis.
+[42:06.9 - 42:08.1] Duh, I guess.
+[42:08.1 - 42:13.9] Yeah, I need to download that one and send it to you since you're quick at it now.
+[42:13.9 - 42:15.3] What?
+[42:15.3 - 42:17.6] Making videos with Hicksfield.
+[42:17.6 - 42:21.9] I guess I can practice with that one.
+[42:21.9 - 42:23.3] I'm tired.
+[42:23.3 - 42:24.5] I'm going home to take a nap.
+[42:24.5 - 42:30.8] Um, I was already logged in somehow.
+[42:30.8 - 42:35.9] Yeah, you could just-- you just say, "Create a video, a three-second video using Hick-Hicksfield.
+[42:35.9 - 42:39.3] Generate the graphic if you want with Chat." Uh-huh.
+[42:39.3 - 42:40.2] Or Manus.
+[42:40.2 - 42:46.3] Chat-- Manus uses Chat, and then you say, "Use this graphics animated." You just do that, like practice with it.
+[42:46.3 - 42:46.7] Okay.
+[42:46.7 - 42:57.6] Your HCD is connected to- I just had, um, Manus make me a rest API for that
+[42:57.6 - 42:59.1] rental comp SharePoint.
+[42:59.1 - 43:01.1] Or said it would take ten minutes.
+[43:01.1 - 43:02.0] I don't know if it's done.
+[43:02.0 - 43:04.0] Then I can give it to the developers.
+[43:04.0 - 43:04.5] I have Hicksfield.
+[43:04.5 - 43:06.0] Oh, no, no, no.
+[43:06.0 - 43:09.7] But if they do ask for anything for training videos- Okay.
+[43:09.7 - 43:10.6] Yeah, I want to...
+[43:10.6 - 43:15.7] Oh, where is it?
+[43:15.7 - 43:18.1] We'll make the training videos.
+[43:18.1 - 43:19.0] Yeah.
+[43:19.0 - 43:19.3] With Chat.
+[43:19.3 - 43:20.0] We'll make a few.
+[43:20.0 - 43:21.0] Yeah.
+[43:21.0 - 43:22.4] So they'll know.
+[43:22.4 - 43:25.7] So said, "Make a few real quick." Yeah.
+[43:25.7 - 43:27.9] Do like narratives and- Okay ...
+[43:27.9 - 43:28.9] call recording.
+[43:28.9 - 43:31.8] And just make it ac-access from Google.
+[43:31.8 - 43:33.5] Um- Our fucking...
+[43:33.5 - 43:38.0] We get-- The more ac- You know, you could just-- you could have Manus, um...
+[43:38.0 - 43:49.3] You could add your browser to Manus, and then it could go through Hicksfield, and it could do the process for you, whatever, and then just save it by programming an automation.
+[43:49.3 - 43:50.4] But that's too much.
+[43:50.4 - 43:52.3] You're like, "No, no, no, no, no.
+[43:52.3 - 45:45.9] I'm all about systems." Hey,
+[45:45.9 - 45:46.9] Mark.
+[45:46.9 - 45:50.2] Uh, I was gonna log back into your notebook, Ellen.
+[45:50.2 - 45:50.4] No.
+[45:50.4 - 45:50.8] Uh, no.
+[45:50.8 - 45:52.1] What's your password for the ARA?
+[45:52.1 - 45:52.4] You have his password.
+[45:52.4 - 45:53.6] Ramps Gmail five.
+[45:53.6 - 45:54.5] That's not...
+[48:58.4 - 49:04.8] You're not to go down there anymore.
+[49:04.8 - 56:17.0] Put
+[56:17.0 - 56:18.3] a magnet on the back of this.
+[56:18.3 - 57:15.4] I
+[57:15.4 - 57:17.8] should have brought a microphone or something better.
+[57:17.8 - 57:55.4] Turn
+[57:55.4 - 58:19.9] the volume down.
+[58:19.9 - 58:33.1] That's
+[58:33.1 - 58:33.7] not cool.
+[58:33.7 - 58:39.5] I'm not gonna be quiet about it.
+[58:39.5 - 58:40.9] That girl is a sweetheart.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-29-14-25-19_transcription_20260706_155406.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-29-14-25-19_transcription_20260706_155406.txt
+[2J[H[3Jmanus-speech-to-text ROSE-REC2_V2025-12-29-14-25-19.mp3
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2025-12-29-14-25-19.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: .ROSE-REC2_V2025-12-29-14-25-19_chunks_20260706_155336/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: .ROSE-REC2_V2025-12-29-14-25-19_chunks_20260706_155336/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: .ROSE-REC2_V2025-12-29-14-25-19_chunks_20260706_155336/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: .ROSE-REC2_V2025-12-29-14-25-19_chunks_20260706_155336/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: .ROSE-REC2_V2025-12-29-14-25-19_chunks_20260706_155336/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[41:45.9 - 41:47.7] I could have pulled up her computer right here.
+[41:47.7 - 41:51.5] That would've made too much sense.
+[41:51.5 - 42:01.7] I was trying to op- use this Open Montage video creator for his, um, NotebookLM vi- An open
+[42:01.7 - 42:02.1] source.
+[42:02.1 - 42:04.7] You should use Hicksfield.
+[42:04.7 - 42:06.5] Yeah.
+[42:06.5 - 42:06.9] Manis.
+[42:06.9 - 42:08.1] Duh, I guess.
+[42:08.1 - 42:13.9] Yeah, I need to download that one and send it to you since you're quick at it now.
+[42:13.9 - 42:15.3] What?
+[42:15.3 - 42:17.6] Making videos with Hicksfield.
+[42:17.6 - 42:21.9] I guess I can practice with that one.
+[42:21.9 - 42:23.3] I'm tired.
+[42:23.3 - 42:24.5] I'm going home to take a nap.
+[42:24.5 - 42:30.8] Um, I was already logged in somehow.
+[42:30.8 - 42:35.9] Yeah, you could just-- you just say, "Create a video, a three-second video using Hick-Hicksfield.
+[42:35.9 - 42:39.3] Generate the graphic if you want with Chat." Uh-huh.
+[42:39.3 - 42:40.2] Or Manus.
+[42:40.2 - 42:46.3] Chat-- Manus uses Chat, and then you say, "Use this graphics animated." You just do that, like practice with it.
+[42:46.3 - 42:46.7] Okay.
+[42:46.7 - 42:57.6] Your HCD is connected to- I just had, um, Manus make me a rest API for that
+[42:57.6 - 42:59.1] rental comp SharePoint.
+[42:59.1 - 43:01.1] Or said it would take ten minutes.
+[43:01.1 - 43:02.0] I don't know if it's done.
+[43:02.0 - 43:04.0] Then I can give it to the developers.
+[43:04.0 - 43:04.5] I have Hicksfield.
+[43:04.5 - 43:06.0] Oh, no, no, no.
+[43:06.0 - 43:09.7] But if they do ask for anything for training videos- Okay.
+[43:09.7 - 43:10.6] Yeah, I want to...
+[43:10.6 - 43:15.7] Oh, where is it?
+[43:15.7 - 43:18.1] We'll make the training videos.
+[43:18.1 - 43:19.0] Yeah.
+[43:19.0 - 43:19.3] With Chat.
+[43:19.3 - 43:20.0] We'll make a few.
+[43:20.0 - 43:21.0] Yeah.
+[43:21.0 - 43:22.4] So they'll know.
+[43:22.4 - 43:25.7] So said, "Make a few real quick." Yeah.
+[43:25.7 - 43:27.9] Do like narratives and- Okay ...
+[43:27.9 - 43:28.9] call recording.
+[43:28.9 - 43:31.8] And just make it ac-access from Google.
+[43:31.8 - 43:33.5] Um- Our fucking...
+[43:33.5 - 43:38.0] We get-- The more ac- You know, you could just-- you could have Manus, um...
+[43:38.0 - 43:49.3] You could add your browser to Manus, and then it could go through Hicksfield, and it could do the process for you, whatever, and then just save it by programming an automation.
+[43:49.3 - 43:50.4] But that's too much.
+[43:50.4 - 43:52.3] You're like, "No, no, no, no, no.
+[43:52.3 - 45:45.9] I'm all about systems." Hey,
+[45:45.9 - 45:46.9] Mark.
+[45:46.9 - 45:50.2] Uh, I was gonna log back into your notebook, Ellen.
+[45:50.2 - 45:50.4] No.
+[45:50.4 - 45:50.8] Uh, no.
+[45:50.8 - 45:52.1] What's your password for the ARA?
+[45:52.1 - 45:52.4] You have his password.
+[45:52.4 - 45:53.6] Ramps Gmail five.
+[45:53.6 - 45:54.5] That's not...
+[48:58.4 - 49:04.8] You're not to go down there anymore.
+[49:04.8 - 56:17.0] Put
+[56:17.0 - 56:18.3] a magnet on the back of this.
+[56:18.3 - 57:15.4] I
+[57:15.4 - 57:17.8] should have brought a microphone or something better.
+[57:17.8 - 57:55.4] Turn
+[57:55.4 - 58:19.9] the volume down.
+[58:19.9 - 58:33.1] That's
+[58:33.1 - 58:33.7] not cool.
+[58:33.7 - 58:39.5] I'm not gonna be quiet about it.
+[58:39.5 - 58:40.9] That girl is a sweetheart.
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-29-14-25-19_transcription_20260706_155406.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-29-14-25-19_transcription_20260706_155406.txt

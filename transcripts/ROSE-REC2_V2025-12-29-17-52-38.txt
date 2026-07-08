@@ -1,0 +1,559 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2025-12-29-17-52-38.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: .ROSE-REC2_V2025-12-29-17-52-38_chunks_20260706_155431/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: .ROSE-REC2_V2025-12-29-17-52-38_chunks_20260706_155431/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: .ROSE-REC2_V2025-12-29-17-52-38_chunks_20260706_155431/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: .ROSE-REC2_V2025-12-29-17-52-38_chunks_20260706_155431/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: .ROSE-REC2_V2025-12-29-17-52-38_chunks_20260706_155431/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.6 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[00:00.7 - 00:01.6] on Spotify.
+[00:01.6 - 00:23.7] Somewhere
+[00:23.7 - 00:25.6] deep inside of me.
+[00:25.6 - 00:28.3] There's a world only I see.
+[00:28.3 - 00:30.4] Only I see.
+[00:30.4 - 00:34.5] Ooh, I try to face reality.
+[00:34.5 - 00:37.1] But something is missing.
+[00:37.1 - 00:39.5] Something is missing.
+[00:39.5 - 00:42.4] When I close my eyes.
+[00:42.4 - 00:44.5] I'm lost inside.
+[00:44.5 - 00:46.0] I find you.
+[00:46.0 - 00:48.2] There I find you.
+[00:48.2 - 00:51.3] There's a door to the sky.
+[00:51.3 - 00:53.4] But I close my eyes.
+[00:53.4 - 00:55.4] I find you.
+[00:55.4 - 00:57.2] It's where I find you.
+[00:57.2 - 01:01.9] Places that I wanna be with you.
+[01:01.9 - 01:03.2] I wanna be with you.
+[01:03.2 - 01:05.7] So when I close my eyes.
+[01:05.7 - 01:08.3] I got you in my mind.
+[01:08.3 - 01:10.8] I wanna be with you.
+[01:10.8 - 01:12.5] I wanna be with you.
+[01:12.5 - 01:14.8] So when I close my eyes.
+[01:14.8 - 01:17.2] I got you in my mind.
+[01:17.2 - 01:26.2] I got you in my mind.
+[01:26.2 - 01:37.4] A
+[01:37.4 - 01:40.9] moment of love, a dream, a laugh.
+[01:40.9 - 01:44.9] A kiss, a cry, a ride, a road.
+[01:44.9 - 01:46.7] A moment of us.
+[01:46.7 - 02:22.2] Come
+[02:22.2 - 02:24.7] closer to the music.
+[02:24.7 - 02:28.6] Make me want you, make me lose it.
+[02:28.6 - 02:33.0] Oh, come closer to the music.
+[02:33.0 - 02:34.4] Hey.
+[02:34.4 - 02:44.4] When the lights go out.
+[02:44.4 - 02:48.9] You and I keep falling back into one another.
+[02:48.9 - 02:53.7] In the darkest hour.
+[02:53.7 - 02:59.4] We are always finding ways to comfort each other.
+[02:59.4 - 03:05.9] Only nothing will ever keep us apart.
+[03:05.9 - 03:09.2] That we make to forget about the broken heart.
+[03:09.2 - 03:15.3] Always standing strong to keep it for us.
+[03:15.3 - 03:19.7] And we can run away from now on.
+[03:19.7 - 03:39.0] Glory,
+[03:39.0 - 03:46.7] glory, hallelujah.
+[03:46.7 - 03:52.5] Sun is high, sun is down.
+[03:52.5 - 04:02.2] Glory, glory, hallelujah.
+[04:02.2 - 04:12.9] I'm alive and I'm feeling, feeling fine, feeling
+[04:12.9 - 04:17.1] fine, feeling fine, feeling fine, oh.
+[04:17.1 - 04:40.8] Our
+[04:40.8 - 04:42.7] love is a light.
+[04:42.7 - 04:48.9] That's how it begins.
+[04:48.9 - 04:54.0] Pulling me in and I let it in.
+[04:54.0 - 05:01.2] Oh, somebody.
+[05:01.2 - 05:08.2] I want your love, it's all on the line.
+[05:08.2 - 05:14.7] Lost in a touch, that's my goodnight.
+[05:14.7 - 05:29.6] I know you're gonna make it all right.
+[05:29.6 - 05:39.8] Push
+[05:39.8 - 05:41.3] inside the limit.
+[05:41.3 - 05:46.5] Driftin' on a river.
+[05:46.5 - 05:47.7] Callin' you.
+[05:47.7 - 05:57.9] So dip your feet in the water.
+[05:57.9 - 05:59.4] Feel like I did.
+[05:59.4 - 06:29.9] I
+[06:29.9 - 06:33.7] took a pill and it made To show us...
+[06:33.7 - 06:45.1] You're
+[06:45.1 - 06:52.4] just like my favorite song going 'round and 'round my head.
+[06:52.4 - 06:54.3] Like my favorite song going 'round and 'round my head.
+[06:54.3 - 06:57.6] Four days on the freeway, riding shotgun with you.
+[06:57.6 - 07:01.4] Two hearts in a fast lane, we had big dreams in blue.
+[07:01.4 - 07:06.0] Playing Sweet Child O' Mine, and I still feel alive.
+[07:06.0 - 07:09.5] Where are you now?
+[07:09.5 - 07:10.0] Where are you now?
+[07:10.0 - 07:11.9] Hey, it's been too long.
+[07:11.9 - 07:14.0] So long to go my love.
+[07:14.0 - 07:15.8] Where did we go wrong?
+[07:15.8 - 07:17.9] Too late to turn around.
+[07:17.9 - 07:19.2] Where are you now?
+[07:19.2 - 07:21.1] Where are you now?
+[07:21.1 - 07:23.9] Hey, it's been too long.
+[07:23.9 - 07:30.2] You're just like my favorite song going 'round and 'round my head.
+[07:30.2 - 07:34.0] Like my favorite song going 'round and 'round my head.
+[07:34.0 - 07:38.7] You're just like my favorite song going 'round and 'round my head.
+[07:38.7 - 07:46.4] Like my favorite song going 'round and 'round my head.
+[07:46.4 - 07:56.5] Hey,
+[07:56.5 - 07:59.6] it's been too long.
+[07:59.6 - 08:02.9] Some days I can feel it, but the feeling ain't all good.
+[08:02.9 - 08:05.6] You got me believing.
+[08:05.6 - 08:11.0] Playing Sweet Child O' Mine.
+[08:11.0 - 08:12.7] Where are you now?
+[08:12.7 - 08:14.7] Where are you now?
+[08:14.7 - 08:17.3] Hey, it's been too long.
+[08:17.3 - 08:19.3] So long to go my love.
+[08:19.3 - 08:21.4] Where did we go wrong?
+[08:21.4 - 08:24.5] Too late...
+[08:24.5 - 08:29.2] Hey, it's been too long.
+[08:29.2 - 08:33.7] You're just like my favorite song going 'round and 'round my head.
+[08:33.7 - 08:37.8] Like my favorite song going 'round and 'round my head.
+[08:37.8 - 11:51.1] You're just like my favorite
+[11:51.1 - 11:54.8] song going 'round and 'round my head.
+[11:54.8 - 11:59.9] Like my favorite song going 'round and 'round my head.
+[17:08.4 - 17:18.7] Did you learn some cool shit?
+[17:18.7 - 17:23.4] Yaaaas.
+[17:23.4 - 17:28.3] I was gonna see if you could share one of them that you've done, just so I can see, like, how you prompt it.
+[17:28.3 - 17:31.0] If, just say it.
+[17:31.0 - 17:33.8] Are you gonna send it to me or you come back here?
+[17:33.8 - 17:34.6] Trust me.
+[17:34.6 - 17:34.6] Okay.
+[17:34.6 - 17:35.8] I'm gonna show it to you now since- Okay.
+[17:35.8 - 17:38.7] Unless you're gonna gatekeep stuff.
+[17:38.7 - 17:40.3] Oh.
+[17:40.3 - 17:41.8] After all I've showed you.
+[17:41.8 - 17:44.7] Fuck, won't show, won't show me one fucking thing.
+[17:44.7 - 17:49.2] Give you the key, keys to the kingdom and you won't let me in.
+[17:49.2 - 18:35.1] No,
+[18:35.1 - 19:15.8] I'll
+[19:15.8 - 19:25.9] make you T-shirts
+[19:25.9 - 19:26.9] and a website.
+[19:26.9 - 19:31.2] You'll get a website, T-shirts, a hat.
+[19:31.2 - 19:47.2] I'll
+[19:47.2 - 19:58.0] backtrack
+[19:58.0 - 20:05.2] to what was what 'cause- No, the people I up in the top left kind of thing, like for landing page, what's that?
+[20:05.2 - 20:07.0] Pretty sure too.
+[20:07.0 - 20:10.3] I'm gonna talk to the girl with the lost dog thing.
+[20:10.3 - 20:15.5] I think Bill's name still pops up for you.
+[20:15.5 - 20:18.2] There's not doing something.
+[20:18.2 - 20:20.8] Yeah, hide function, I think.
+[20:20.8 - 20:23.0] Oh, yeah.
+[20:23.0 - 20:24.5] Should be over there.
+[20:24.5 - 20:31.6] But yeah, that, that was it.
+[20:31.6 - 20:33.7] I just wanted to see.
+[20:33.7 - 20:34.2] Yeah.
+[20:34.2 - 20:39.8] From what?
+[20:39.8 - 20:40.3] Yeah.
+[20:40.3 - 20:47.9] That's what I'm talking about.
+[20:47.9 - 20:47.9] Yeah.
+[20:47.9 - 20:50.7] Oh, did she put her in two weeks or what?
+[20:50.7 - 20:53.8] She's gonna cool off.
+[20:53.8 - 20:55.3] I told her to skip over this.
+[20:55.3 - 20:57.8] Like a week or whatever.
+[20:57.8 - 20:58.5] Okay.
+[20:58.5 - 21:00.2] Hey, she talked to that.
+[21:00.2 - 21:02.9] Well, she-- Oh, she wrote me.
+[21:02.9 - 21:03.7] I haven't heard that.
+[21:03.7 - 21:05.9] Yeah.
+[21:05.9 - 21:11.2] After, uh, Leslie sold the, uh, cash for all sorts of vinyls.
+[21:11.2 - 21:14.9] If they are, I'm not even gonna help her if that hurts me.
+[21:14.9 - 21:17.3] I'll let the experts do so, yeah.
+[21:17.3 - 21:20.2] That's just me being petty.
+[21:20.2 - 21:21.3] It was what?
+[21:21.3 - 21:24.5] What, uh, Mark?
+[21:24.5 - 21:27.2] Seven.
+[21:27.2 - 21:29.8] Yeah.
+[21:29.8 - 21:51.2] Yeah.
+[21:51.2 - 21:52.3] Or is it man?
+[21:52.3 - 21:57.8] You should-- No noises.
+[21:57.8 - 21:59.7] Oh, it's like it's not raining.
+[21:59.7 - 22:02.3] Noises are up here.
+[22:02.3 - 22:04.3] Even when I go downstairs, it's closed off.
+[22:04.3 - 22:05.5] I didn't hear the door.
+[22:05.5 - 22:07.6] Well, years work around here with a lot of marks.
+[22:07.6 - 22:28.8] Damn.
+[22:28.8 - 23:25.6] Hmm.
+[23:25.6 - 23:54.5] There
+[23:54.5 - 23:54.8] they are.
+[24:37.4 - 24:37.9] Who's that?
+[24:37.9 - 27:51.4] Nice.
+[27:51.4 - 27:58.3] Hey, Robert, did you send that?
+[27:58.3 - 28:02.7] Yeah.
+[36:48.5 - 36:49.0] See you.
+[36:49.0 - 36:50.3] See you Monday.
+[36:50.3 - 36:52.3] Have a day.
+[36:52.3 - 37:20.2] All
+[37:20.2 - 37:21.6] right, now I'll tart it up.
+[37:21.6 - 37:22.7] You'll what?
+[37:22.7 - 37:24.3] I said, now I'll tart it up.
+[37:24.3 - 37:25.5] Oh, please.
+[37:25.5 - 37:26.4] Or Mike- What was that again?
+[37:26.4 - 37:27.2] Or Mike and Ike's.
+[37:27.2 - 37:30.3] The classic- Mike and Ike's are, but I haven't had a Sweet Tart in...
+[37:30.3 - 37:32.1] Right.
+[37:32.1 - 37:34.9] I have to go with them if I see them, especially that box.
+[37:34.9 - 37:35.7] Or the big ones.
+[37:35.7 - 37:37.8] Fly- The chewy ones ...
+[37:37.8 - 37:40.8] Fly Shyy Classy Chill.
+[37:40.8 - 37:43.1] Oh, I haven't read one of them yet.
+[37:43.1 - 37:45.2] They have the wiggles.
+[37:45.2 - 37:46.9] What the hell are you getting them for?
+[37:46.9 - 37:47.8] 'Cause Fleifer.
+[37:47.8 - 37:51.3] I'm a s- I, I'm a Fly Shyy Classy Chill guy.
+[37:51.3 - 37:52.9] Guess so.
+[37:52.9 - 37:56.1] According to the Tarts I am.
+[50:28.1 - 50:29.6] I sent it to you.
+[50:29.6 - 50:34.5] I, I, I put it like as mu- not as much, but as much as I'm gonna do for today.
+[50:34.5 - 50:34.9] Okay.
+[50:34.9 - 50:35.8] Check it out.
+[50:35.8 - 50:37.2] I, and I...
+[50:37.2 - 50:39.2] There's a whole chat right there.
+[50:39.2 - 50:39.7] I sent it to you.
+[50:39.7 - 50:40.4] Oh, yeah.
+[50:40.4 - 50:41.1] I tried it out.
+[50:41.1 - 50:41.9] It gave me that.
+[50:41.9 - 50:42.4] What?
+[50:42.4 - 50:43.4] Didn't like it.
+[50:43.4 - 50:43.9] What?
+[50:43.9 - 50:45.1] This is Claude, though.
+[50:45.1 - 50:46.5] Oh, that's why.
+[50:46.5 - 50:49.5] And I don't have all the skills in it, so I'm doing it over here in my Manus.
+[50:49.5 - 50:52.1] It's, says it's working beautifully, so we'll see.
+[50:52.1 - 50:52.4] Yeah.
+[50:52.4 - 50:53.5] You click on it?
+[50:53.5 - 50:54.6] No.
+[50:54.6 - 50:57.4] Remember, you have to take the prompts.
+[50:57.4 - 50:58.5] We'll see if it'll...
+[50:58.5 - 51:02.1] So that's the first page.
+[51:02.1 - 51:02.8] Scroll down.
+[51:02.8 - 51:04.6] I did some electric shit across those.
+[51:04.6 - 51:05.6] Oh, yeah.
+[51:05.6 - 51:07.6] And then you go...
+[51:07.6 - 51:09.0] You see AI Solutions.
+[51:09.0 - 51:10.5] That's the I.
+[51:10.5 - 51:11.7] Oh, yeah.
+[51:11.7 - 51:16.0] Just come up, and then I did Portfolio.
+[51:16.0 - 51:17.3] Nice.
+[51:17.3 - 51:18.1] I haven't done...
+[51:18.1 - 51:20.1] I just put this little motion thing.
+[51:20.1 - 51:22.4] Oh, yeah.
+[51:22.4 - 51:25.1] Little AI irrigator.
+[51:25.1 - 51:25.3] Yeah.
+[51:25.3 - 51:25.9] Or, yeah.
+[51:25.9 - 51:27.4] Just scroll up.
+[51:27.4 - 51:30.0] And then I did About, About Me.
+[51:30.0 - 51:33.0] Nice.
+[51:33.0 - 51:34.1] And that's basically it.
+[51:34.1 - 51:37.5] Hundred and fifty plus.
+[51:37.5 - 51:40.5] That's just for, you know, there's no real...
+[51:40.5 - 51:44.0] Yeah, you should check out Upwork.com.
+[51:44.0 - 51:45.0] What's that?
+[51:45.0 - 51:46.1] It's, um...
+[51:46.1 - 51:47.7] Oh, I, I know.
+[51:47.7 - 51:50.1] I, it's like a, uh, the old, um- Freelancer?
+[51:50.1 - 51:50.5] Yeah.
+[51:50.5 - 51:51.4] Yeah, yeah, yeah.
+[51:51.4 - 51:53.3] I'm gonna perfect it, though.
+[51:53.3 - 52:01.6] You could put, like, all of your portfolio stuff, and then you could, like, you can bid on jobs for, like, website design, and people hire you.
+[52:01.6 - 52:02.5] You gotta...
+[52:02.5 - 52:07.4] If you go to Motions, motions.ai, and then you copy the prompt- Uh-huh ...
+[52:07.4 - 52:12.3] if you say, "I want this to be part of that section," it'll grab whatever you're making your website about.
+[52:12.3 - 52:15.4] It'll put that into that- Oh, motions.ai?
+[52:15.4 - 52:15.8] Motions.ai.
+[52:15.8 - 52:17.6] I think I got the GitHub.
+[52:17.6 - 52:18.7] You have to sign up for it, but you can, you can...
+[52:18.7 - 52:20.7] There's premium or you can sign up for it.
+[52:20.7 - 52:22.3] Oh, Motions Sites, right?
+[52:22.3 - 52:22.8] Yeah, Motions Sites.
+[52:22.8 - 52:22.9] Yeah.
+[52:22.9 - 52:23.3] Oh, okay.
+[52:23.3 - 52:25.1] 'Cause I sent you the GitHub for it.
+[52:25.1 - 52:26.1] I know, but it's different.
+[52:26.1 - 52:26.3] Oh, okay.
+[52:26.3 - 52:26.8] It's different.
+[52:26.8 - 52:31.9] Like, if you go down, if you just hit copy, like, if you like- Uh-huh ...
+[52:31.9 - 52:36.1] like, like, you watch them, and if you just hit copy- Oh, and then paste it ...
+[52:36.1 - 52:40.2] and then paste it, but they have a gang in there for free, and then paste that right into- Oh.
+[52:40.2 - 52:42.6] Once you see what they do, then paste that right into Manus.
+[52:42.6 - 52:43.2] Right into the task?
+[52:43.2 - 52:43.6] Oh.
+[52:43.6 - 52:45.4] Yeah, and say, "This is what I want you to do with it." That's easy.
+[52:45.4 - 52:46.8] And it'll theme that- Mark that ...
+[52:46.8 - 52:50.3] effect around what you're already- Oh, okay ...
+[52:50.3 - 52:50.9] what you're doing.
+[52:50.9 - 52:52.0] That's how I created those themes.
+[52:52.0 - 52:52.4] Oh, I see.
+[52:52.4 - 52:53.1] Does that make sense?
+[52:53.1 - 52:53.6] Yeah, yeah, yeah.
+[52:53.6 - 52:54.4] Simple.
+[52:54.4 - 52:57.0] Oh, I like this.
+[52:57.0 - 52:59.0] It's good for a vacation.
+[52:59.0 - 53:01.4] Oh, it'd be good for touring a house, like a real estate.
+[53:01.4 - 53:04.1] Nifty.
+[53:04.1 - 53:06.7] I don't know if I should pay for that, too, with the credit card, 'cause I...
+[53:06.7 - 53:08.4] What am I gonna say we use that for?
+[53:08.4 - 53:13.3] Um, build some of the AI, uh, property mics videos.
+[53:13.3 - 53:17.4] I could use it for, um, for, um, what's her name's, what's her name?
+[53:17.4 - 53:17.8] Shit.
+[53:17.8 - 53:18.8] Who's?
+[53:18.8 - 53:19.9] Um.
+[53:19.9 - 53:20.7] Ginger Minj?
+[53:20.7 - 53:20.8] No.
+[53:20.8 - 53:21.0] Oh.
+[53:21.0 - 53:23.4] Fucking, um, Victorious.
+[53:23.4 - 53:24.7] Oh, yeah.
+[53:24.7 - 53:27.9] Pay for that.
+[53:27.9 - 53:28.2] Run it.
+[53:28.2 - 54:14.5] Your
+[54:14.5 - 54:16.5] snacks are cooking I know.
+[54:16.5 - 54:18.5] I don't know who lifted the shades.
+[54:18.5 - 54:19.9] You don't know how to do it?
+[54:19.9 - 54:22.4] I do, I just didn't.
+[54:22.4 - 54:30.3] We should really keep it closed and that'll be something we'll have to do, but- Yeah, it'll really- It gets really hot in here ...
+[54:30.3 - 54:31.3] greenhouse effect in here.
+[54:31.3 - 54:35.8] At least halfway.
+[54:35.8 - 54:37.9] When does your cruise start?
+[54:37.9 - 54:39.4] July 5.
+[54:39.4 - 54:40.1] Okay.
+[54:40.1 - 54:42.7] Oh.
+[54:42.7 - 54:46.7] That one ...
+[54:46.7 - 54:49.8] Is it one, two, three, four, five?
+[54:49.8 - 54:52.2] No.
+[54:52.2 - 54:58.7] Two, three, four, five, six.
+[54:58.7 - 55:08.8] Huh,
+[55:08.8 - 55:10.8] that's weird.
+[55:10.8 - 55:21.1] Gotta let them all go all the way up to get them in sync.
+[55:21.1 - 55:23.7] Yeah, but it's ...
+[55:23.7 - 55:24.6] I have six.
+[55:24.6 - 55:27.9] One, two, three, four, five, six, seven, eight.
+[55:27.9 - 55:29.5] Oh, there in the stations?
+[55:29.5 - 55:31.2] Yeah, so- Oh, I see.
+[55:31.2 - 55:34.6] You wanna push all?
+[55:34.6 - 55:40.0] Well, all is all, but I'm wondering these back ones, what number are they?
+[55:40.0 - 55:40.7] Oh.
+[55:40.7 - 55:43.3] And- Aren't there two of those?
+[55:43.3 - 55:44.6] No.
+[55:44.6 - 55:45.4] Oh, okay.
+[55:45.4 - 55:49.2] Um, it's just those that need to be closed.
+[55:49.2 - 55:50.0] Oh, I see.
+[55:50.0 - 55:50.7] These can stay.
+[55:50.7 - 55:54.4] So what is the specialty of the day?
+[55:54.4 - 55:57.0] Oh my God, look how much stuff- Nothing really ...
+[55:57.0 - 55:59.0] Look at all the stuff you have.
+[55:59.0 - 55:59.6] I know.
+[55:59.6 - 56:00.9] I should chill.
+[56:00.9 - 56:02.7] Well, I have the granola.
+[56:02.7 - 56:04.4] That's for my yogurt in the morning.
+[56:04.4 - 56:08.8] I just brought it in here and- So you know what I just ordered?
+[56:08.8 - 56:09.9] A- What is that?
+[56:09.9 - 56:12.4] Um, it's gonna get here next week.
+[56:12.4 - 56:14.3] Hopefully, it gets here next week while we're still here.
+[56:14.3 - 56:17.5] One of those under desk treadmills.
+[56:17.5 - 56:18.3] Oh, really?
+[56:18.3 - 56:21.2] And you know what?
+[56:21.2 - 56:21.5] Interesting.
+[56:21.5 - 56:26.7] Sitting on my ass all day is- Eating snacks ...
+[56:26.7 - 56:27.7] It's, it's not that.
+[56:27.7 - 56:31.2] It's like I have a problem now in my hip flexor.
+[56:31.2 - 56:31.6] Oh, sciatica.
+[56:31.6 - 56:34.1] I've gotten sciatica before.
+[56:34.1 - 56:35.7] My mom has bad sciatica.
+[56:35.7 - 56:37.1] I had bad ...
+[56:37.1 - 56:38.1] I, it went away.
+[56:38.1 - 56:38.3] Oh.
+[56:38.3 - 56:40.0] I don't know how.
+[56:40.0 - 56:40.1] Hmm.
+[56:40.1 - 56:44.1] I didn't do anything in particular, but when I had it, it's very painful.
+[56:44.1 - 56:44.4] Yeah.
+[56:44.4 - 56:45.9] Hers sounds really painful.
+[56:45.9 - 56:46.9] It's very painful.
+[56:46.9 - 56:48.4] I tried everything including ...
+[56:48.4 - 56:51.0] What is it called?
+[56:51.0 - 56:53.5] Cryotherapy, where you- Oh gosh, that's terrible.
+[56:53.5 - 56:54.8] The worst three minutes of your life.
+[56:54.8 - 56:55.3] Yeah.
+[56:55.3 - 56:56.2] Exactly.
+[56:56.2 - 56:56.5] It's ...
+[56:56.5 - 56:59.9] I think it's more than three minutes, where you go into this- It feels like eternity ...
+[56:59.9 - 57:01.2] It feels like an eternity.
+[57:01.2 - 57:04.3] You're like so freezing in there.
+[57:04.3 - 57:04.5] Yeah.
+[57:04.5 - 57:05.2] It didn't do jack.
+[57:05.2 - 57:06.9] Never wanted time to go faster.
+[57:06.9 - 57:07.3] And maybe, and who knows?
+[57:07.3 - 57:10.0] Maybe it had some- Probably just shocked you ...
+[57:10.0 - 57:13.8] Maybe it had some delayed reaction- Oh ...
+[57:13.8 - 57:15.4] 'cause after I did that I didn't feel any different.
+[57:15.4 - 57:16.6] But even- eventually- Oh ...
+[57:16.6 - 57:17.1] it went away.
+[57:17.1 - 57:17.7] Maybe.
+[57:17.7 - 57:19.6] Maybe it was a mental thing.
+[57:19.6 - 57:20.7] I don't know.
+[57:20.7 - 57:22.4] You're like, "This is gonna-" But Blake has one of those.
+[57:22.4 - 57:23.2] Oh, really?
+[57:23.2 - 57:24.0] And he loves it.
+[57:24.0 - 57:25.6] And he had told me about it months ago.
+[57:25.6 - 57:26.5] Huh.
+[57:26.5 - 57:27.5] It just seems ...
+[57:27.5 - 57:29.7] Are you standing when you do it?
+[57:29.7 - 57:30.1] Uh, yeah.
+[57:30.1 - 57:30.5] Okay.
+[57:30.5 - 57:31.6] I mean, I didn't know if it ...
+[57:31.6 - 57:38.5] I was like picturing doing it like this, I was like, "That would be a very uncoordinated feeling." Well- Wouldn't do anything but hurt the back of your legs ...
+[57:38.5 - 57:40.4] but you're standing and you're walking really slowly.
+[57:40.4 - 57:42.7] Well, they say walking's better than running.
+[57:42.7 - 57:48.1] And my blood sugar's been going up as I have aged.
+[57:48.1 - 57:49.4] And when you- Mm ...
+[57:49.4 - 57:52.5] do that after you eat, like after lunch- Lowers it ...
+[57:52.5 - 57:53.6] I try to do it after dinner.
+[57:53.6 - 57:55.0] I have a treadmill at home, like a real one.
+[57:55.0 - 57:55.7] Yeah, you said.
+[57:55.7 - 57:59.3] So you know, every little bit helps.
+[57:59.3 - 57:59.7] Yeah.
+[57:59.7 - 58:01.9] We'll give it a whirl.
+[58:01.9 - 58:03.1] It was, you know, 80 bucks.
+[58:03.1 - 58:06.6] Especially if you're gonna w- be walking the country and, uh- Yeah, you know- ...
+[58:06.6 - 58:07.4] the world ...
+[58:07.4 - 58:09.7] I think my goal is to really get into great shape.
+[58:09.7 - 58:11.4] And I've started lifting weights again.
+[58:11.4 - 58:15.6] If you go to the Amalfi Coast, that's like the city of a million steps.
+[58:15.6 - 58:21.2] I remember whenever I went from the top to the bottom to the beach area, my legs were just like shaking.
+[58:21.2 - 58:26.6] I was like, "Oh my God, how do these old 90-year-old men do this every day?" Because they do this every day.
+[58:26.6 - 58:26.9] Yeah.
+[58:26.9 - 58:30.4] And they eat really good- Yeah ...
+[58:30.4 - 58:33.7] natural food from the soi- you can like taste the soil difference.
+[58:33.7 - 58:36.6] You ever watch that show about the blue zones?
+[58:36.6 - 58:38.2] Mm-mm.
+[58:38.2 - 58:39.4] The Blue Zone project- I've, I know what you're talking about.
+[58:39.4 - 58:40.2] I haven't seen it ...
+[58:40.2 - 58:41.6] are places ...
+[58:41.6 - 58:47.2] I, I don't know if that's something that somebody made up or if it's really a, a term that's used, but it- Okay ...
+[58:47.2 - 58:55.2] they highlighted four or five places in the world where people live well into their 100s healthy.
+[58:55.2 - 58:55.7] Right.
+[58:55.7 - 58:58.0] Healthy, alert, mobile.
+[58:58.0 - 59:00.1] Drinking wine every evening probably.
+[59:00.1 - 59:00.6] Yeah, exactly.
+[59:00.6 - 59:06.7] Like, and, and so they were like, "Well, what is it about these people and/or these places?" Wonder why they called them blue.
+[59:06.7 - 59:08.3] Don't know why- It's- ...
+[59:08.3 - 59:10.6] they were called blue zones, but it was on A- it's on Amazon.
+[59:10.6 - 59:11.7] It's a series on Amazon.
+[59:11.7 - 59:11.7] Hmm.
+[59:11.7 - 59:19.4] And they went to a town in Japan, and they went to some town in Italy or somewhere in Europe.
+[59:19.4 - 59:22.2] They also went to Loma Linda, California of all places.
+[59:22.2 - 59:26.9] Uh, but the, the key, and there's, there's ...
+[59:26.9 - 59:28.5] I mean, it's not rocket science.
+[59:28.5 - 59:35.3] All of them, like especially like the European one, they're walking all the time.
+[59:35.3 - 59:36.7] Oh, okay.
+[59:36.7 - 59:39.8] So they're very active their entire lives.
+[59:39.8 - 59:41.9] Their heart rates are always- Just, just walking ...
+[59:41.9 - 59:42.4] going a little over.
+[59:42.4 - 59:45.9] I mean, they're not hiking or you know- Just the consistency of it ...
+[59:45.9 - 59:49.6] exerci- they're just doing their daily life walking.
+[59:49.6 - 59:52.4] So it was about movement.
+[59:52.4 - 59:52.8] Mm-hmm.
+[59:52.8 - 59:54.7] Healthy food.
+[59:54.7 - 59:57.5] They don't eat a lot of processed food.
+[59:57.5 - 59:59.5] They grow their own or they go to the-
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-29-17-52-38_transcription_20260706_155657.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-29-17-52-38_transcription_20260706_155657.txt
+[2J[H[3Jmanus-speech-to-text ROSE-REC2_V2025-12-29-17-52-38.mp3
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2025-12-29-17-52-38.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: .ROSE-REC2_V2025-12-29-17-52-38_chunks_20260706_155431/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: .ROSE-REC2_V2025-12-29-17-52-38_chunks_20260706_155431/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: .ROSE-REC2_V2025-12-29-17-52-38_chunks_20260706_155431/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: .ROSE-REC2_V2025-12-29-17-52-38_chunks_20260706_155431/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: .ROSE-REC2_V2025-12-29-17-52-38_chunks_20260706_155431/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[57:42.7 - 57:48.1] And my blood sugar's been going up as I have aged.
+[57:48.1 - 57:49.4] And when you- Mm ...
+[57:49.4 - 57:52.5] do that after you eat, like after lunch- Lowers it ...
+[57:52.5 - 57:53.6] I try to do it after dinner.
+[57:53.6 - 57:55.0] I have a treadmill at home, like a real one.
+[57:55.0 - 57:55.7] Yeah, you said.
+[57:55.7 - 57:59.3] So you know, every little bit helps.
+[57:59.3 - 57:59.7] Yeah.
+[57:59.7 - 58:01.9] We'll give it a whirl.
+[58:01.9 - 58:03.1] It was, you know, 80 bucks.
+[58:03.1 - 58:06.6] Especially if you're gonna w- be walking the country and, uh- Yeah, you know- ...
+[58:06.6 - 58:07.4] the world ...
+[58:07.4 - 58:09.7] I think my goal is to really get into great shape.
+[58:09.7 - 58:11.4] And I've started lifting weights again.
+[58:11.4 - 58:15.6] If you go to the Amalfi Coast, that's like the city of a million steps.
+[58:15.6 - 58:21.2] I remember whenever I went from the top to the bottom to the beach area, my legs were just like shaking.
+[58:21.2 - 58:26.6] I was like, "Oh my God, how do these old 90-year-old men do this every day?" Because they do this every day.
+[58:26.6 - 58:26.9] Yeah.
+[58:26.9 - 58:30.4] And they eat really good- Yeah ...
+[58:30.4 - 58:33.7] natural food from the soi- you can like taste the soil difference.
+[58:33.7 - 58:36.6] You ever watch that show about the blue zones?
+[58:36.6 - 58:38.2] Mm-mm.
+[58:38.2 - 58:39.4] The Blue Zone project- I've, I know what you're talking about.
+[58:39.4 - 58:40.2] I haven't seen it ...
+[58:40.2 - 58:41.6] are places ...
+[58:41.6 - 58:47.2] I, I don't know if that's something that somebody made up or if it's really a, a term that's used, but it- Okay ...
+[58:47.2 - 58:55.2] they highlighted four or five places in the world where people live well into their 100s healthy.
+[58:55.2 - 58:55.7] Right.
+[58:55.7 - 58:58.0] Healthy, alert, mobile.
+[58:58.0 - 59:00.1] Drinking wine every evening probably.
+[59:00.1 - 59:00.6] Yeah, exactly.
+[59:00.6 - 59:06.7] Like, and, and so they were like, "Well, what is it about these people and/or these places?" Wonder why they called them blue.
+[59:06.7 - 59:08.3] Don't know why- It's- ...
+[59:08.3 - 59:10.6] they were called blue zones, but it was on A- it's on Amazon.
+[59:10.6 - 59:11.7] It's a series on Amazon.
+[59:11.7 - 59:11.7] Hmm.
+[59:11.7 - 59:19.4] And they went to a town in Japan, and they went to some town in Italy or somewhere in Europe.
+[59:19.4 - 59:22.2] They also went to Loma Linda, California of all places.
+[59:22.2 - 59:26.9] Uh, but the, the key, and there's, there's ...
+[59:26.9 - 59:28.5] I mean, it's not rocket science.
+[59:28.5 - 59:35.3] All of them, like especially like the European one, they're walking all the time.
+[59:35.3 - 59:36.7] Oh, okay.
+[59:36.7 - 59:39.8] So they're very active their entire lives.
+[59:39.8 - 59:41.9] Their heart rates are always- Just, just walking ...
+[59:41.9 - 59:42.4] going a little over.
+[59:42.4 - 59:45.9] I mean, they're not hiking or you know- Just the consistency of it ...
+[59:45.9 - 59:49.6] exerci- they're just doing their daily life walking.
+[59:49.6 - 59:52.4] So it was about movement.
+[59:52.4 - 59:52.8] Mm-hmm.
+[59:52.8 - 59:54.7] Healthy food.
+[59:54.7 - 59:57.5] They don't eat a lot of processed food.
+[59:57.5 - 59:59.5] They grow their own or they go to the-
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-29-17-52-38_transcription_20260706_155657.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-29-17-52-38_transcription_20260706_155657.txt

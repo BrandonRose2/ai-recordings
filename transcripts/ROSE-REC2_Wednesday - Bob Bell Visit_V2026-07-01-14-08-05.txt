@@ -1,0 +1,559 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-14-08-05.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-14-08-05_chunks_20260706_162022/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-14-08-05_chunks_20260706_162022/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-14-08-05_chunks_20260706_162022/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-14-08-05_chunks_20260706_162022/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-14-08-05_chunks_20260706_162022/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.6 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[00:00.1 - 00:01.1] Okay.
+[00:01.1 - 00:02.5] All right, bye.
+[00:02.5 - 00:05.3] Vessels.
+[00:05.3 - 04:11.5] Okay.
+[04:11.5 - 04:21.7] Well, now we're gonna have a zero
+[04:21.7 - 04:32.2] because we don't have, you know, last year's, uh, you know, so we shouldn't be, um, we should be, we should
+[04:32.2 - 04:46.1] have last year's,
+[04:46.1 - 04:46.1] but that's zero.
+[04:46.1 - 04:46.2] That's what it is right now.
+[04:46.2 - 04:47.1] What are you working on?
+[04:47.1 - 04:49.7] Finalizing the comps finally.
+[04:49.7 - 04:51.5] Oh, the comps?
+[04:51.5 - 04:52.6] Yeah, but they're- The comps.
+[04:52.6 - 04:53.4] They're looking great.
+[04:53.4 - 04:55.7] Um, I'm downloading it right now.
+[04:55.7 - 05:03.0] And then I had a REST API key made for it, so I'm gonna send this link to the developers with that API so they'll stay- All right.
+[05:03.0 - 05:07.3] Maybe you'll show it to me in, uh, on my computer screen so I can look at it.
+[05:07.3 - 05:07.7] Okay.
+[05:07.7 - 05:11.9] Yeah, it shouldn't take me maybe but an hour to get it all perfect.
+[05:11.9 - 05:16.9] How much, uh, time does it take to go through and run 'em, all the properties?
+[05:16.9 - 05:24.6] Um, I mean, now that it's all set up, I have it, um, scheduled once a month, probably just, uh, five or 10 minutes probably.
+[05:24.6 - 05:25.6] Okay.
+[05:25.6 - 05:25.8] Yeah.
+[05:25.8 - 05:29.8] Oh, yeah.
+[05:29.8 - 05:31.7] Mark, I have your water in the car.
+[05:31.7 - 05:34.0] Do you want me to- I what?
+[05:34.0 - 05:37.2] Your water, the water that you want me to take.
+[05:37.2 - 05:37.6] The one you bring in your house.
+[05:37.6 - 05:39.4] Yeah, yeah, yeah.
+[05:39.4 - 05:42.4] Put it in the house.
+[05:42.4 - 05:45.8] This is the thing I'm looking for, but it says twenty point six on it.
+[05:45.8 - 05:47.9] Yeah, I can't get this off of our...
+[05:47.9 - 05:49.7] You didn't see it anywhere?
+[05:49.7 - 05:50.0] I didn't.
+[05:50.0 - 05:51.1] Not there.
+[05:51.1 - 05:54.7] Go through all this stuff and see if it's here.
+[05:54.7 - 06:20.0] Okay.
+[06:20.0 - 07:17.2] Hey,
+[07:17.2 - 07:18.4] is the soccer over yet?
+[07:18.4 - 07:20.4] It's never over, dude.
+[07:20.4 - 07:21.5] God.
+[07:21.5 - 07:22.2] Don't you ever...
+[07:22.2 - 07:23.9] Hey, did you not watch Ted Lasso?
+[07:23.9 - 07:26.4] Yeah, I lo- Football is life.
+[07:26.4 - 07:27.8] I love Ted Lasso.
+[07:27.8 - 07:28.9] Football is life.
+[07:28.9 - 07:30.6] I, well, I love whatever her name is.
+[07:30.6 - 07:31.2] She's great.
+[07:31.2 - 07:33.7] Uh, the, the owner lady?
+[07:33.7 - 07:34.0] Yeah.
+[07:34.0 - 07:34.7] The owner, yeah.
+[07:34.7 - 07:35.0] She's...
+[07:35.0 - 07:38.0] I, I like, I mean, I like the show, but I like that- She's actually a great, like, performer ...
+[07:38.0 - 07:38.3] what is it?
+[07:38.3 - 07:39.5] Danny Rojas.
+[07:39.5 - 07:40.0] Yeah.
+[07:40.0 - 07:43.6] The Mexican guy, and he's like- Uh- ..."Coach, Coach." He's great.
+[07:43.6 - 07:46.6] He's like, "All right, Danny, just get out there and do your thing." He's like, "I will.
+[07:46.6 - 07:50.2] Football is life." The guy with the real raspy voice.
+[07:50.2 - 07:51.2] Yep.
+[07:51.2 - 07:51.5] Yeah.
+[07:51.5 - 07:51.8] He's great.
+[07:51.8 - 07:52.7] But, uh, what is it?
+[07:52.7 - 07:56.9] Do you know that that guy actually is now a, uh, like, semi-professional?
+[07:56.9 - 07:57.8] Like, he's playing- Oh ...
+[07:57.8 - 07:58.8] in the Mexican league.
+[07:58.8 - 07:59.5] Really?
+[07:59.5 - 08:00.3] Yeah.
+[08:00.3 - 08:05.6] He was actually a professional back in the day, and he retired 'cause he had, like, a bunch of knee injuries.
+[08:05.6 - 08:06.4] I'll be damned.
+[08:06.4 - 08:16.5] And so he couldn't really play, and then he, like, I don't know, got the passion back from doing Ted Lasso and was like, "Hey, I, I kinda can
+[08:16.5 - 08:18.7] run." So he's an athlete and an actor?
+[08:18.7 - 08:20.1] Yes, sir.
+[08:20.1 - 08:22.3] That doesn't come around very often.
+[08:22.3 - 08:26.9] This is looking beautiful, if I must say so myself.
+[08:26.9 - 08:32.2] They're out?
+[08:32.2 - 08:33.1] Yep.
+[08:33.1 - 08:33.6] All right.
+[08:33.6 - 08:39.1] Don't forget, um, probably still I call them, uh, for the prescription thing.
+[08:39.1 - 08:41.4] So tomorrow morning you're probably, you're gonna- Yeah ...
+[08:41.4 - 08:42.5] hop by here and grab that.
+[08:42.5 - 08:43.4] That's really the best thing.
+[08:43.4 - 08:44.0] And Mark?
+[08:44.0 - 08:44.2] Yeah.
+[08:44.2 - 08:45.8] Same thing with the check.
+[08:45.8 - 08:47.4] I gotta give you his prescription.
+[08:47.4 - 08:47.9] Okay.
+[08:47.9 - 08:48.2] Perfect.
+[08:48.2 - 08:50.2] These are nine point five.
+[08:50.2 - 08:51.1] All right.
+[08:51.1 - 08:52.1] Have a good rest of the day, bye.
+[08:52.1 - 08:52.9] All right, man.
+[08:52.9 - 08:53.4] Take care.
+[08:53.4 - 08:54.5] See ya.
+[08:54.5 - 08:56.1] Stay out of trouble.
+[08:56.1 - 08:57.1] I won't.
+[08:57.1 - 09:23.3] That's what my parents always told me, "Stay out of trouble." Hmm.
+[09:23.3 - 09:33.3] That works.
+[09:33.3 - 09:38.1] Did you happen to see that email I sent you yesterday, Mark?
+[09:38.1 - 09:39.2] What?
+[09:39.2 - 09:42.0] Did you happen to see that email I sent you yesterday?
+[09:42.0 - 09:44.6] Yeah, I couldn't figure out what you were doing.
+[09:44.6 - 09:46.6] That just basically controlled all the reports.
+[09:46.6 - 09:53.1] Well, I just wanted to know in one spot, like, where each report you wanted, like, what day, the frequency.
+[09:53.1 - 09:54.4] It was a way for you to edit it.
+[09:54.4 - 09:57.9] Right, so you need to go over that with me one by one so I can read through the thing.
+[09:57.9 - 09:59.2] I didn't quite understand it when I went through it.
+[09:59.2 - 10:01.1] I mean, yeah, I'll finish this, and then we'll talk about it.
+[10:01.1 - 10:02.9] All right.
+[10:02.9 - 11:59.8] Okay.
+[14:24.6 - 14:25.8] Ah, fuck.
+[14:25.8 - 14:44.4] Mm-hmm.
+[14:44.4 - 16:32.0] Can
+[16:32.0 - 16:33.2] I see the, uh, comps?
+[16:33.2 - 16:34.2] Yes.
+[16:34.2 - 16:36.5] Um, here's Boca Ciega.
+[16:36.5 - 16:41.5] These are the ones that we're gonna be actually using 'cause these are the actual rents.
+[16:41.5 - 16:45.8] And then down here- What year was this built?
+[16:45.8 - 16:49.8] Um, I had it showing, uh, two thousand and fifteen.
+[16:49.8 - 16:50.2] Didn't...
+[16:50.2 - 16:53.9] This is the one that you remodeled and updated two thousand and fifteen.
+[16:53.9 - 17:01.9] I gotta deal with the insurance company.
+[17:01.9 - 17:07.6] I'll probably be there- I have a question about the- About what?
+[17:07.6 - 17:08.5] Okay.
+[17:08.5 - 17:13.2] Um, it says direct investment, and it says AFID email to look into.
+[17:13.2 - 17:13.5] Yeah.
+[17:13.5 - 17:13.7] Is it just...
+[17:13.7 - 17:14.4] Is that empty?
+[17:14.4 - 17:18.7] Um, I put, I put your email, Nicole's, Mark's, and mine for now.
+[17:18.7 - 17:19.7] I can- Well, fine.
+[17:19.7 - 17:25.2] I just wondered how we're getting- Um, it's, it just actually, um, whenever you enter your email in, you create your own pin.
+[17:25.2 - 17:25.6] Mm-hmm.
+[17:25.6 - 17:29.2] And then it lets you in, and then it will have pulled all of Mark's stuff.
+[17:29.2 - 17:29.8] That's- From where?
+[17:29.8 - 17:30.4] Just Mark.
+[17:30.4 - 17:32.1] The data from the main page.
+[17:32.1 - 17:33.4] Oh.
+[17:33.4 - 17:34.3] Oh, okay.
+[17:34.3 - 17:34.8] Yeah, yeah, yeah.
+[17:34.8 - 17:35.2] Okay.
+[17:35.2 - 17:37.0] I didn't realize it was gonna do that, but it did.
+[17:37.0 - 17:38.2] I didn't even tell it to.
+[17:38.2 - 17:39.4] Okay.
+[17:39.4 - 17:41.6] Look what I did here.
+[17:41.6 - 17:44.2] Mm-hmm.
+[17:44.2 - 17:49.2] This is my computer at home.
+[17:49.2 - 17:49.6] Um...
+[17:49.6 - 18:02.0] Um-
+[18:02.0 - 18:11.5] This is the, um, the Manus alternative that has, that you don't, that I like did the back end and programmed through my terminal so you don't have to pay for Manus.
+[18:11.5 - 18:13.3] What do you mean?
+[18:13.3 - 18:16.0] I found an open source alternative called Agency.
+[18:16.0 - 18:18.1] It does everything Manus does.
+[18:18.1 - 18:25.2] Well, I haven't played with it yet, but I had to go through all this fucking programming and shit to do it.
+[18:25.2 - 18:26.6] Oh, yeah?
+[18:26.6 - 18:27.5] Mm-hmm.
+[18:27.5 - 18:28.6] There's all this code.
+[18:28.6 - 18:30.7] Damn.
+[18:30.7 - 18:32.3] All this code.
+[18:32.3 - 18:38.0] But I mean, in the GitHub repository, it tells you what to run in your terminal, just like run it.
+[18:38.0 - 18:45.2] And then whenever you get confused, I just ask Manus, like, "What do I do next?" And it like rewrites the code, and you just copy and paste it, and it's done.
+[18:45.2 - 18:49.1] So once it works good, I'll tell you how to do it.
+[18:49.1 - 18:49.5] Okay.
+[18:49.5 - 18:53.9] I know I'm gonna at least do it for my personal stuff.
+[18:53.9 - 19:01.7] Um- 'Cause I mean, he might wanna have, you know, a legit, so backing up files and, you know.
+[19:01.7 - 19:02.3] Yeah.
+[19:02.3 - 19:02.8] Yeah.
+[19:02.8 - 19:06.7] You don't wanna sometimes fuck with that stuff when it's Enterprise.
+[19:06.7 - 19:17.7] Yeah.
+[19:17.7 - 19:20.4] 'Cause I know all these software developers who think that they're like so bad, like they're so elite.
+[19:20.4 - 19:22.1] And they're like oxygen and stuff.
+[19:22.1 - 19:23.0] I, I don't know exactly what the...
+[19:23.0 - 19:27.4] But I just think that happens when you feel like somebody's like...
+[19:27.4 - 19:36.7] And then a lot of people just think that they know more than they actually do, so.
+[19:36.7 - 19:39.1] They're like my...
+[19:39.1 - 19:39.5] Yeah.
+[19:39.5 - 19:39.5] So.
+[19:39.5 - 19:40.0] Yeah.
+[19:40.0 - 19:47.2] I think this is just kind of a personal thing.
+[19:47.2 - 19:50.3] No, but you are just starting, right?
+[19:50.3 - 19:51.0] Yeah, I know what that's like.
+[19:51.0 - 19:52.0] Yeah.
+[19:52.0 - 19:53.3] I'll look for, uh, you know that.
+[19:53.3 - 19:55.2] I hope that there's something.
+[19:55.2 - 19:55.7] I have not.
+[19:55.7 - 19:59.7] I'm betting for sure there's something that I can build.
+[19:59.7 - 20:04.5] I don't have to install it on this laptop that I have several computers in this house.
+[20:04.5 - 20:05.4] Uh, which is one reason I'm looking at more people's laptops.
+[20:05.4 - 20:07.4] I have two other computers.
+[20:07.4 - 20:09.9] Yeah, I mean, they all kind of...
+[20:09.9 - 20:14.3] They all kind of have two or three laptops that are like, uh, standing by.
+[20:14.3 - 20:21.9] Um...
+[20:21.9 - 20:24.5] Uh, FYI- Nope ...
+[20:24.5 - 20:25.1] Bob is coming.
+[20:25.1 - 20:26.0] Who?
+[20:26.0 - 20:28.0] Bob.
+[20:28.0 - 20:28.3] Oh, okay.
+[20:28.3 - 20:28.8] Our Bob.
+[20:28.8 - 20:29.5] Bob.
+[20:29.5 - 20:31.4] Just to, what?
+[20:31.4 - 20:32.3] Save the day?
+[20:32.3 - 20:33.0] To ring the bell.
+[20:33.0 - 20:34.2] Preach.
+[20:34.2 - 20:35.1] Oh, bitch.
+[20:35.1 - 20:35.9] 'Cause Bob Bell.
+[20:35.9 - 20:36.8] Get it?
+[20:36.8 - 20:36.9] Heh.
+[20:36.9 - 20:37.5] I got you.
+[20:37.5 - 20:38.2] Why is he coming here?
+[20:38.2 - 20:38.8] We have Zoom.
+[20:38.8 - 20:41.3] What's he saying?
+[20:41.3 - 20:44.1] He needs to pick up that beefy- That- That beefcake.
+[20:44.1 - 20:45.3] What is it, a printer?
+[20:45.3 - 20:46.6] It's a computer, bro.
+[20:46.6 - 20:47.3] Oh.
+[20:47.3 - 20:49.4] It looked like one of those 3D printers you can see inside of.
+[20:49.4 - 20:50.4] Oh, that...
+[20:50.4 - 20:50.9] Fair enough.
+[20:50.9 - 20:52.0] Fair enough.
+[20:52.0 - 20:52.4] Fair enough.
+[20:52.4 - 20:53.2] Which I want one.
+[20:53.2 - 20:55.0] Do you know they're pretty reasonable, like 260?
+[20:55.0 - 20:56.2] Now they are, yeah.
+[20:56.2 - 20:58.3] They used to be not reasonable.
+[20:58.3 - 20:59.0] Oh, really?
+[20:59.0 - 20:59.8] But this is the thing.
+[20:59.8 - 21:03.1] I will give you the warning, because my friend likes that shit.
+[21:03.1 - 21:05.0] He's a, like, programmer guy.
+[21:05.0 - 21:05.4] Uh-huh.
+[21:05.4 - 21:15.6] When you get into it, you then get ma- I'm just giving you this warning, 'cause it's like he gets annoyed 'cause he has to print things in pieces and put them together
+[21:15.6 - 21:17.0] 'cause he didn't get a big enough one.
+[21:17.0 - 21:17.0] Oh.
+[21:17.0 - 21:19.0] Because once you get into it, like- Oh ...
+[21:19.0 - 21:22.6] he did a stupid thing 'cause he's, you know, we're all children at heart.
+[21:22.6 - 21:24.0] So he built like a Nerf- Oh, yeah ...
+[21:24.0 - 21:25.6] he built like a Nerf gun with it.
+[21:25.6 - 21:26.0] Of course.
+[21:26.0 - 21:27.6] Like a high-powered Nerf gun That shoots rubber bands.
+[21:27.6 - 21:31.3] And he had to build it in pieces because he had to piece it together.
+[21:31.3 - 21:31.7] Oh.
+[21:31.7 - 21:35.0] He couldn't get it to like print like the big thing- Oh ...
+[21:35.0 - 21:37.8] as it is with like the spec that he found online.
+[21:37.8 - 21:38.3] I see.
+[21:38.3 - 21:41.9] So- I have a friend who works for Mercedes and does their parts.
+[21:41.9 - 21:42.7] Oh, okay.
+[21:42.7 - 21:42.9] Yeah.
+[21:42.9 - 21:43.3] It's pretty cool.
+[21:43.3 - 21:43.8] I, so- Yeah ...
+[21:43.8 - 21:46.1] the, that one I'm sure has got- Yeah ...
+[21:46.1 - 21:46.8] like fucking a thing inside of it that's ruined.
+[21:46.8 - 21:48.0] Mercedes paid for it, yeah.
+[21:48.0 - 21:48.9] Yeah.
+[21:48.9 - 21:51.5] But, um, but just, that's just a warning that like- Okay ...
+[21:51.5 - 21:56.1] you may wanna put a little more money into it if you think you're gonna get into it and just drop 360 pound.
+[21:56.1 - 21:58.5] I don't think I'll buy, I don't think I'll build anything big.
+[21:58.5 - 22:02.5] Like little- Then, then you're gonna- Like little key chains with NFC technology or something.
+[22:02.5 - 22:02.5] Yeah.
+[22:02.5 - 22:08.8] That's just the, the thing that I noticed with him was he was like, "Oh, fuck, I wish I had a bigger one." So I was just like- Yeah ...
+[22:08.8 - 22:10.4] giving you that warning.
+[22:10.4 - 22:11.3] Men.
+[22:11.3 - 22:15.0] Always want a bigger one.
+[22:15.0 - 22:15.8] Yep.
+[22:15.8 - 22:17.2] Huh.
+[22:17.2 - 22:18.1] Size matters.
+[22:18.1 - 22:19.7] You know?
+[22:19.7 - 22:55.1] It's
+[22:55.1 - 23:48.4] not
+[23:48.4 - 23:59.6] just the motion
+[23:59.6 - 23:59.8] of the ocean.
+[23:59.8 - 23:59.9] Okay.
+[23:59.9 - 23:59.9] Mm-hmm.
+[35:21.1 - 35:26.1] So what I'm looking at here, just to see if you did it right, is where's the cur-- where's our property?
+[35:26.1 - 35:28.1] Uh, subject property's up here.
+[35:28.1 - 35:29.5] Top of everyone.
+[35:29.5 - 35:29.8] Okay.
+[35:29.8 - 35:34.2] And then, like, what are the rents are in the market rate properties?
+[35:34.2 - 35:42.1] Um, so these right here are the market rates, and these are the actual rents in the area for these six comps nearby.
+[35:42.1 - 35:43.4] Right here.
+[35:43.4 - 35:44.5] Probably so much higher than them.
+[35:44.5 - 35:46.2] And these are for what size apartments?
+[35:46.2 - 35:50.1] Um, it tells you the, um...
+[35:50.1 - 35:53.5] It tells you how far, the years, um, and then it measures...
+[35:53.5 - 35:54.6] This is two bedrooms.
+[35:54.6 - 35:55.8] It's at River Point.
+[35:55.8 - 35:57.1] Oh, so it's two bedroom here.
+[35:57.1 - 35:57.5] Yeah.
+[35:57.5 - 35:59.7] So we're getting a hund- a hundred and eighty dollars a-
+[36:00.0 - 36:10.0] More a month for them Yeah, and I did the calculations where it takes the rent that we do, and then the average of these, and then it does
+[36:10.0 - 36:10.6] a difference.
+[36:10.6 - 36:13.2] So we're 313 higher than everybody.
+[36:13.2 - 36:14.6] Can you bring up, uh, Boca Ciega?
+[36:14.6 - 36:16.0] Yes.
+[36:16.0 - 36:17.6] Boca Ciega.
+[36:17.6 - 36:19.1] So this one has...
+[36:19.1 - 36:20.2] Let me make it a little smaller.
+[36:20.2 - 36:22.4] Uh, our actual is- Two bed, three bed ...
+[36:22.4 - 36:24.3] okay, and then our, our rents are...
+[36:24.3 - 36:25.8] So we're lower than the average.
+[36:25.8 - 36:30.6] Yes, and I pulled all of our rents and put them in this, that I pulled from either one site or- Okay.
+[36:30.6 - 36:31.7] Can you go back to the other screen?
+[36:31.7 - 36:31.7] Sorry.
+[36:31.7 - 36:34.2] 'Cause you, you, if you jump around too fast, then I can't see.
+[36:34.2 - 36:34.3] Okay.
+[36:34.3 - 36:34.5] Yep.
+[36:34.5 - 36:39.8] And then also with, uh, with- So these are the six ...
+[36:39.8 - 36:42.1] if you call me, it goes to all of our cell phones.
+[36:42.1 - 36:42.4] Come here.
+[36:42.4 - 36:45.9] I wanted to show you what our rent comparable thing looks like.
+[36:45.9 - 36:48.1] Let's see.
+[36:48.1 - 36:48.2] Let's see.
+[36:48.2 - 36:48.2] Okay.
+[36:48.2 - 36:51.3] So remember I showed you that section of the thing he's working on, Brandon?
+[36:51.3 - 36:53.1] This is Brandon.
+[36:53.1 - 36:53.5] Yeah.
+[36:53.5 - 36:53.5] Yeah.
+[36:53.5 - 36:53.9] Sam.
+[36:53.9 - 36:55.5] Okay.
+[36:55.5 - 36:56.6] I don't know if you met him.
+[36:56.6 - 36:56.9] Yeah, yeah.
+[36:56.9 - 36:57.9] No.
+[36:57.9 - 36:58.3] I went around.
+[36:58.3 - 36:59.1] We did it last time.
+[36:59.1 - 37:02.5] So, like for instance, our two bedroom is 1736.
+[37:02.5 - 37:04.7] Our three bedroom is thing.
+[37:04.7 - 37:07.2] Here's what the thing is, and that's...
+[37:07.2 - 37:15.9] This is gonna be posted right in there, which is very valuable data to know if you're the manager of the building, if your rents are higher or lower than everybody else's.
+[37:15.9 - 37:23.0] And I, I build the REST API key so the developers can pull all of this from, um- Right ...
+[37:23.0 - 37:28.5] my- What I'm saying is, is there's nobody that has the kind of fucking data that we have in the system here.
+[37:28.5 - 37:31.8] We've been working on it- Is this the thing we were looking at and we were like, "How did we get this number?" What?
+[37:31.8 - 37:35.6] Is, is this the thing we were looking at where we said, "How did you get this number?" Oh, this is different.
+[37:35.6 - 37:36.5] How do we get what?
+[37:36.5 - 37:41.7] Remember we were looking at something and we're like, "Wait, how did you get this number?" Like, the one bedroom was, like, seven hun- The, this is separate from that.
+[37:41.7 - 37:42.7] This is separate from that.
+[37:42.7 - 37:42.7] Mm-hmm.
+[37:42.7 - 37:43.0] Yeah.
+[37:43.0 - 37:48.7] So yeah, AI scrubbed these from the six- So, so, so bring up the other one you showed me, uh, River Point.
+[37:48.7 - 37:50.0] Okay.
+[37:50.0 - 37:52.0] That was over here.
+[37:52.0 - 37:53.6] Oh, no.
+[37:53.6 - 37:55.1] Where- What data preset does it say?
+[37:55.1 - 37:55.9] I just want to solve it.
+[37:55.9 - 37:57.5] Um, I had AI.
+[37:57.5 - 38:01.0] This is the sources that it, that scrubbed it from the...
+[38:01.0 - 38:07.3] And these are the buildings- So in other words, we programmed it in Madden, so then we basically can run the report once a week and then upload it to the person's desktop.
+[38:07.3 - 38:07.7] Yeah.
+[38:07.7 - 38:13.2] I have it scheduled to run- So here, like, we're getting 1400, and then the average is eight- 1087 right here.
+[38:13.2 - 38:13.7] Interesting.
+[38:13.7 - 38:19.1] So- I pulled all of our rents from one site and, um, Yardi.
+[38:19.1 - 38:20.5] Okay, so we need to have...
+[38:20.5 - 38:23.4] make sure that they have the addresses, the city.
+[38:23.4 - 38:23.6] We...
+[38:23.6 - 38:29.2] I guess they should have that, and then they should put down the distance from there and then the actual rents, yeah.
+[38:29.2 - 38:29.6] Okay.
+[38:29.6 - 38:35.0] Just make sure it's enough information so the manager can look at it- And look here ...
+[38:35.0 - 38:39.9] and say, "Okay, I know the Raccoon of Creek." She should know what the Raccoon Creek Apartments are if she's the manager- Uh ...
+[38:39.9 - 38:40.5] in the area, right?
+[38:40.5 - 38:44.5] I think Boca Ciega, you could see that we could charge a lot more on these.
+[38:44.5 - 38:46.9] At Boca Ciega.
+[38:46.9 - 38:49.3] We're this much under on each unit.
+[38:49.3 - 38:49.7] Which one?
+[38:49.7 - 38:52.8] Uh, two bed, we're 600 under, and three bed- Where?
+[38:52.8 - 38:53.3] Which building?
+[38:53.3 - 38:54.1] Boca Ciega.
+[38:54.1 - 38:55.2] I know.
+[38:55.2 - 38:58.2] I've been yelling at Gennady to get a rent increase over there for years.
+[38:58.2 - 38:58.3] He says we don't qualify.
+[38:58.3 - 39:00.2] These are the averages in the area.
+[39:00.2 - 39:02.2] Um- Oh, we don't qualify.
+[39:02.2 - 39:02.5] Oh.
+[39:02.5 - 39:12.8] Go ahead and take this and send it to, um, uh, Gennady, and to-
+[39:12.8 - 39:13.4] I'll get it all.
+[39:13.4 - 39:17.8] Uh, uh, Blake, and to Todd, and to Miles.
+[39:17.8 - 39:18.2] Okay?
+[39:18.2 - 39:18.9] Okay.
+[39:18.9 - 39:21.3] Let me get it all perfect then that way it'll...
+[39:21.3 - 39:23.5] Gennady.
+[39:23.5 - 39:24.9] Blake.
+[39:24.9 - 39:25.7] Blake, Todd.
+[39:25.7 - 39:26.4] Miles.
+[39:26.4 - 39:27.4] Todd.
+[39:27.4 - 39:29.1] And to me, copy also so I can...
+[39:29.1 - 39:33.1] Okay.
+[39:33.1 - 39:43.3] Just by having information like that, they, uh, you know, for every dollar, you increase 200 bucks, so for $600, we're
+[39:43.3 - 39:44.7] gonna get a building.
+[39:44.7 - 39:48.2] So it would be 6,000 times 200.
+[39:48.2 - 40:14.9] That's 1.2 million.
+[40:14.9 - 40:41.0] So we're
+[40:41.0 - 40:49.1] looking at...
+[40:49.1 - 40:58.0] When do you think you're gonna wrap your thing up so you can work with me on getting all this?
+[40:58.0 - 41:02.7] Um, I've just got to, um- Well, let's see of Cape Coral.
+[41:02.7 - 41:04.4] I'm sure we're high on Cape Coral though.
+[41:04.4 - 41:08.9] Um, I'm hiding these percent AMI ones that we don't need to really for now.
+[41:08.9 - 41:09.8] Mm-hmm.
+[41:09.8 - 41:10.3] Okay.
+[41:10.3 - 41:16.0] So here's ours, average, and then, uh, yeah, we're pretty close.
+[41:16.0 - 41:16.7] Okay.
+[41:16.7 - 41:26.7] So what I'd like to do is get a report maybe that you can send to us showing us the differences in a nice report saying the property, the differences,
+[41:26.7 - 41:29.9] we're under or over in the area so we know what to work on.
+[41:29.9 - 41:30.4] Okay.
+[41:30.4 - 41:33.1] That would be a separate report.
+[41:33.1 - 41:43.2] And maybe we could put a link into that report directly in the property in Mack so I can click on it and then
+[41:43.2 - 41:44.3] just bring it up.
+[41:44.3 - 41:52.4] I was also gonna maybe post a hyperlink that goes to the actual rent roll of the property that the manager can see.
+[41:52.4 - 41:54.8] Well, I'm not worried about the manager seeing it.
+[41:54.8 - 41:54.8] Oh, okay.
+[41:54.8 - 42:00.5] Like, this information, I need to see, to see if it's worth going in there and fighting for a rent increase.
+[42:00.5 - 42:00.8] Mm-hmm.
+[42:00.8 - 42:04.7] You know, Blake, me, and a few other people, and Todd and Miles need to see this.
+[42:04.7 - 42:05.0] Yeah.
+[42:05.0 - 42:08.3] This is the manager, so they can see, you know, what the competition of, of apartments are in the area.
+[42:08.3 - 42:10.9] Yeah, Boca Ciega for sure is worth fighting for.
+[42:10.9 - 42:20.7] Holidays got one at, uh, the three bedrooms
+[49:22.1 - 49:26.2] Nicole, can you come here, come upstairs, please?
+[49:26.2 - 49:56.8] Where
+[49:56.8 - 50:01.9] is the, um, registration for the first honore?
+[50:01.9 - 50:03.9] I have a file.
+[50:03.9 - 50:06.7] I have all the papers in the case, and I have a- I didn't know.
+[50:06.7 - 50:10.8] Did you re-regi-- Did you re-register in Washington?
+[50:10.8 - 50:11.6] No, I haven't.
+[50:11.6 - 50:11.7] Can you look at...
+[50:11.7 - 50:14.2] Yeah, I need you to find out if hummingbirds did.
+[50:14.2 - 50:16.0] Usually everything's in this left filing.
+[50:16.0 - 50:18.9] And then if he didn't re-register, I need to register the car.
+[50:18.9 - 52:00.0] Hello.
+[52:00.0 - 52:00.5] How are you?
+[52:00.5 - 52:00.6] Thanks.
+[52:00.6 - 52:00.8] Hello.
+[52:00.8 - 52:01.3] Brandon, yeah.
+[52:01.3 - 52:02.6] Good to finally meet you in person.
+[52:02.6 - 52:03.4] Hi, Mark.
+[52:03.4 - 52:03.8] How are you?
+[52:03.8 - 52:17.8] Here's
+[52:17.8 - 52:18.4] the computer.
+[52:18.4 - 52:19.1] Okay.
+[52:19.1 - 52:19.6] Thank you.
+[52:19.6 - 52:24.1] Um, let's go over a couple of things while you're here regarding the system.
+[52:24.1 - 52:28.2] Sure.
+[52:28.2 - 52:28.3] Okay.
+[52:28.3 - 52:29.4] How long was the drive?
+[52:29.4 - 52:31.3] Did you get here okay?
+[52:31.3 - 52:35.3] Yeah, I just, I missed a couple turns coming up the hill, so I had to go around again.
+[52:35.3 - 52:35.7] Ah.
+[52:35.7 - 52:44.7] We're all done.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-14-08-05_transcription_20260706_162203.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-14-08-05_transcription_20260706_162203.txt
+[2J[H[3Jmanus-speech-to-text "ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-14-08-05.mp3"
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-14-08-05.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-14-08-05_chunks_20260706_162022/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-14-08-05_chunks_20260706_162022/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-14-08-05_chunks_20260706_162022/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-14-08-05_chunks_20260706_162022/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-14-08-05_chunks_20260706_162022/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[41:02.7 - 41:04.4] I'm sure we're high on Cape Coral though.
+[41:04.4 - 41:08.9] Um, I'm hiding these percent AMI ones that we don't need to really for now.
+[41:08.9 - 41:09.8] Mm-hmm.
+[41:09.8 - 41:10.3] Okay.
+[41:10.3 - 41:16.0] So here's ours, average, and then, uh, yeah, we're pretty close.
+[41:16.0 - 41:16.7] Okay.
+[41:16.7 - 41:26.7] So what I'd like to do is get a report maybe that you can send to us showing us the differences in a nice report saying the property, the differences,
+[41:26.7 - 41:29.9] we're under or over in the area so we know what to work on.
+[41:29.9 - 41:30.4] Okay.
+[41:30.4 - 41:33.1] That would be a separate report.
+[41:33.1 - 41:43.2] And maybe we could put a link into that report directly in the property in Mack so I can click on it and then
+[41:43.2 - 41:44.3] just bring it up.
+[41:44.3 - 41:52.4] I was also gonna maybe post a hyperlink that goes to the actual rent roll of the property that the manager can see.
+[41:52.4 - 41:54.8] Well, I'm not worried about the manager seeing it.
+[41:54.8 - 41:54.8] Oh, okay.
+[41:54.8 - 42:00.5] Like, this information, I need to see, to see if it's worth going in there and fighting for a rent increase.
+[42:00.5 - 42:00.8] Mm-hmm.
+[42:00.8 - 42:04.7] You know, Blake, me, and a few other people, and Todd and Miles need to see this.
+[42:04.7 - 42:05.0] Yeah.
+[42:05.0 - 42:08.3] This is the manager, so they can see, you know, what the competition of, of apartments are in the area.
+[42:08.3 - 42:10.9] Yeah, Boca Ciega for sure is worth fighting for.
+[42:10.9 - 42:20.7] Holidays got one at, uh, the three bedrooms
+[49:22.1 - 49:26.2] Nicole, can you come here, come upstairs, please?
+[49:26.2 - 49:56.8] Where
+[49:56.8 - 50:01.9] is the, um, registration for the first honore?
+[50:01.9 - 50:03.9] I have a file.
+[50:03.9 - 50:06.7] I have all the papers in the case, and I have a- I didn't know.
+[50:06.7 - 50:10.8] Did you re-regi-- Did you re-register in Washington?
+[50:10.8 - 50:11.6] No, I haven't.
+[50:11.6 - 50:11.7] Can you look at...
+[50:11.7 - 50:14.2] Yeah, I need you to find out if hummingbirds did.
+[50:14.2 - 50:16.0] Usually everything's in this left filing.
+[50:16.0 - 50:18.9] And then if he didn't re-register, I need to register the car.
+[50:18.9 - 52:00.0] Hello.
+[52:00.0 - 52:00.5] How are you?
+[52:00.5 - 52:00.6] Thanks.
+[52:00.6 - 52:00.8] Hello.
+[52:00.8 - 52:01.3] Brandon, yeah.
+[52:01.3 - 52:02.6] Good to finally meet you in person.
+[52:02.6 - 52:03.4] Hi, Mark.
+[52:03.4 - 52:03.8] How are you?
+[52:03.8 - 52:17.8] Here's
+[52:17.8 - 52:18.4] the computer.
+[52:18.4 - 52:19.1] Okay.
+[52:19.1 - 52:19.6] Thank you.
+[52:19.6 - 52:24.1] Um, let's go over a couple of things while you're here regarding the system.
+[52:24.1 - 52:28.2] Sure.
+[52:28.2 - 52:28.3] Okay.
+[52:28.3 - 52:29.4] How long was the drive?
+[52:29.4 - 52:31.3] Did you get here okay?
+[52:31.3 - 52:35.3] Yeah, I just, I missed a couple turns coming up the hill, so I had to go around again.
+[52:35.3 - 52:35.7] Ah.
+[52:35.7 - 52:44.7] We're all done.
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-14-08-05_transcription_20260706_162203.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-14-08-05_transcription_20260706_162203.txt

@@ -1,0 +1,517 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2025-12-27-17-53-14.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: .ROSE-REC2_V2025-12-27-17-53-14_chunks_20260706_153727/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: .ROSE-REC2_V2025-12-27-17-53-14_chunks_20260706_153727/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: .ROSE-REC2_V2025-12-27-17-53-14_chunks_20260706_153727/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: .ROSE-REC2_V2025-12-27-17-53-14_chunks_20260706_153727/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: .ROSE-REC2_V2025-12-27-17-53-14_chunks_20260706_153727/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.7 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[00:03.6 - 00:08.1] Shouldn't have count, now I'm standing here in the rain.
+[00:08.1 - 00:16.0] When your love was pulling me under.
+[00:16.0 - 00:23.7] But you won't be here to save me.
+[00:23.7 - 00:32.3] My father told me you learn it as you get older.
+[00:32.3 - 00:42.7] And one day you'll see what was meant to be, 'cause true love don't fade away.
+[00:42.7 - 01:11.9] True
+[01:11.9 - 01:14.6] love don't fade away.
+[01:14.6 - 01:15.5] True love don't fade away.
+[01:15.5 - 01:15.9] True love don't fade away.
+[01:15.9 - 01:19.1] True love don't fade away.
+[01:19.1 - 01:46.1] I
+[01:46.1 - 01:50.3] wish the demons in my head would let me handle the talking.
+[01:50.3 - 01:57.7] And I'm hoping that someday you'll set me free.
+[01:57.7 - 02:06.0] My friends keep telling me that I'm looking like a dead man walking.
+[02:06.0 - 02:13.1] Oh, one day you'll see what you've done to me.
+[02:13.1 - 02:22.4] My father told me you learn it as you get older.
+[02:22.4 - 02:33.8] And one day you'll see what was meant to be, 'cause true love don't fade away.
+[02:33.8 - 02:46.0] True love don't fade away.
+[02:46.0 - 02:49.5] True love don't fade away.
+[02:49.5 - 02:56.4] True love don't fade away.
+[02:56.4 - 03:04.6] True love don't fade away.
+[03:04.6 - 04:05.5] And
+[04:05.5 - 04:27.2] the rest of those reports actually You
+[04:27.2 - 04:40.6] know, I think I shot myself in the foot on that thing with the, rather than me just being upset about it and angry and rather than just trying to
+[04:40.6 - 04:48.8] find The sun is going down, time is running out.
+[04:48.8 - 04:51.5] No one else around but me.
+[04:51.5 - 04:56.2] Steady losing light, steady losing my mind.
+[04:56.2 - 04:59.9] All the shadows and gravity.
+[04:59.9 - 05:03.9] Without you, there ain't no place for me to hide.
+[05:03.9 - 05:07.8] Without you, ain't no way I can sleep tonight.
+[05:07.8 - 05:11.6] What I'd give for a little bit of peace and quiet.
+[05:11.6 - 05:17.4] Without you, I keep slipping into bad dreams.
+[05:17.4 - 05:20.3] There's no you and I.
+[05:20.3 - 05:24.3] No sound when I cry.
+[05:24.3 - 05:33.2] I love you and I need you to set me free from all of these bad dreams.
+[05:33.2 - 05:35.9] Waiting on the other side.
+[05:35.9 - 05:39.7] No sound when I cry.
+[05:39.7 - 05:48.7] I love you and I need you to set me free from all of these bad dreams.
+[05:48.7 - 05:53.4] Ooh, bad dreams.
+[05:53.4 - 06:05.6] Ooh, all of these
+[06:05.6 - 06:08.4] And time is up in my head.
+[06:08.4 - 06:11.0] What you waiting for?
+[06:11.0 - 06:12.8] Something physical.
+[06:12.8 - 06:16.4] I can't do this by myself.
+[06:16.4 - 06:21.0] Without you, there'd be no place for me to hide.
+[06:21.0 - 07:01.5] Without you- Been
+[07:01.5 - 07:03.7] afraid of what could happen.
+[07:03.7 - 07:06.9] Do I dare to let you go?
+[07:06.9 - 07:11.2] 'Cause to me you're like a habit.
+[07:11.2 - 07:14.7] You are all I've ever known.
+[07:14.7 - 07:23.8] But if I ruled the world for just one day, I would gather all my feelings that remain for you.
+[07:23.8 - 07:31.4] Hide them in the ocean far away 'cause I've tried to let you go, but I'm scared of what it feels like.
+[07:31.4 - 07:38.8] If I ruled the world for just one day, I would gather all my feelings that remain for you.
+[07:38.8 - 07:45.0] But if I ruled the world for just one day, I would, I would, I would, I would.
+[07:45.0 - 08:00.7] If I ruled
+[08:00.7 - 08:09.9] the world for just one day, I would gather all my feelings that remain for you.
+[08:09.9 - 09:01.1] Hide them in the
+[09:01.1 - 11:35.9] ocean far away 'cause
+[11:35.9 - 11:46.3] I've
+[11:46.3 - 11:58.0] tried to- That's good right there.
+[16:11.8 - 16:12.6] Getting hot out there.
+[16:12.6 - 16:20.9] Oh, yeah.
+[16:20.9 - 16:31.0] After all that this
+[16:31.0 - 16:33.3] morning with Alberto, he fucking called...
+[16:33.3 - 16:35.7] You saw 'cause you're on the company email, right?
+[16:35.7 - 16:37.7] Oh, I didn't, yeah, I didn't notice though.
+[16:37.7 - 16:41.0] But you saw, um, I sent the...
+[16:41.0 - 16:43.0] I'm just saying you did- You did tell me, yeah ...
+[16:43.0 - 16:43.5] the company wide, right?
+[16:43.5 - 16:44.0] Yeah, yeah, yeah.
+[16:44.0 - 16:48.0] You saw I sent the, the, uh, Real Page OneSite, uh- Yes ...
+[16:48.0 - 16:50.2] link and the email link, right?
+[16:50.2 - 16:50.5] Right.
+[16:50.5 - 16:59.0] Fucking Alberto, when Mark is in there with the investors, not talking to me yet, but it's like, you've seen how he does it, so it's like- Yeah ...
+[16:59.0 - 17:05.2] you go, "I have to, like..." I can look at my phone and stuff, but it's like, he'll get pissed if he turns and I'm on the phone.
+[17:05.2 - 17:05.6] Oh, yeah.
+[17:05.6 - 17:07.0] So I reject the call.
+[17:07.0 - 17:07.7] Yeah.
+[17:07.7 - 17:12.1] 30 seconds later, he comes and he calls me again, and I'm like, "Hey, Alberto, I can't do it right now." Right.
+[17:12.1 - 17:14.5] He says, "Da, da, da, I just need you to send me the- Oh, no ...
+[17:14.5 - 17:19.7] send me the thing for the, the email." And it's like, and then I go and check the company thing.
+[17:19.7 - 17:21.4] I'm like, "Motherfucker got one." It's all right there, yeah.
+[17:21.4 - 17:23.1] I was like, "Maybe he's not on the list.
+[17:23.1 - 17:24.2] I'll give him the benefit of the doubt." Yeah.
+[17:24.2 - 17:26.0] But it's like, "You're fucking on that email list.
+[17:26.0 - 17:27.4] So you fucking didn't call us-" Does he go to spam or something?
+[17:27.4 - 17:30.2] No, he's just being a dumbass.
+[17:30.2 - 17:32.4] He's- And then I, I find out from- He's not new though.
+[17:32.4 - 17:33.4] He's just new management.
+[17:33.4 - 17:35.3] From who, like he- In that position, right?
+[17:35.3 - 17:39.4] I think he came, I think it was like a week before you or a week after you.
+[17:39.4 - 17:39.6] Yeah.
+[17:39.6 - 17:40.9] 'Cause he- I've seen his name, yeah.
+[17:40.9 - 17:41.3] Oh, okay.
+[17:41.3 - 17:42.1] He was here.
+[17:42.1 - 17:44.1] He's the, he was the black bald dude.
+[17:44.1 - 17:45.1] Oh, yeah, okay.
+[17:45.1 - 17:45.3] So he was here when you were here.
+[17:45.3 - 17:45.4] Oh, okay.
+[17:45.4 - 17:46.4] Yeah, yeah, yeah, yeah, yeah.
+[17:46.4 - 17:47.3] He was like- I didn't put that together ...
+[17:47.3 - 17:48.9] it was like two weeks after you started.
+[17:48.9 - 17:53.6] He was like- Um, uh, give me your- Am I in trouble again?
+[17:53.6 - 17:56.9] No, give me your, uh, your cash app so I can pay you for the- Oh, yeah ...
+[17:56.9 - 17:57.5] the shipping.
+[17:57.5 - 18:06.9] Let me do the one that doesn't take out t-- Well, it's that, that, at that amount, it doesn't really matter.
+[18:06.9 - 18:13.1] Um, let me just do the- Just give me the scan thing so I can fucking, uh...
+[18:13.1 - 18:13.9] Hold on.
+[18:13.9 - 18:21.1] Smart got his ear appointment today?
+[18:21.1 - 18:22.4] I don't know, bro.
+[18:22.4 - 18:24.7] Needs a nap.
+[18:24.7 - 18:29.7] Thank you, I appreciate it.
+[18:29.7 - 18:30.1] Mm-hmm.
+[18:30.1 - 18:32.2] There wasn't anybody in there.
+[18:32.2 - 18:34.4] Well, there was one guy and he had 10 things to send.
+[18:34.4 - 18:36.6] Of course.
+[18:36.6 - 18:51.1] What
+[18:51.1 - 18:51.9] the fuck?
+[18:51.9 - 18:55.4] Oh.
+[18:55.4 - 22:41.7] Hmm.
+[22:41.7 - 22:51.8] I got the rest
+[22:51.8 - 22:54.0] of the segregation reports done.
+[22:54.0 - 22:55.7] Good.
+[22:55.7 - 22:59.6] How are you doing them with no access to Excel?
+[22:59.6 - 23:07.3] Um, I have access to Excel, um, through our co-pilot Microsoft 365 login.
+[23:07.3 - 23:12.3] Oh, all right.
+[23:12.3 - 23:12.6] Um, you could show me how to do that.
+[23:12.6 - 23:13.1] I can't even get on it.
+[23:13.1 - 23:17.1] Or I have my Google Drive I could have used, but Mark would have thrown a fit on that one.
+[23:17.1 - 23:41.7] Yeah,
+[23:41.7 - 23:55.4] I think I
+[23:55.4 - 23:60.0] used to- Uh-oh.
+[24:16.1 - 24:16.2] Hmm.
+[24:16.2 - 24:18.1] Interesting.
+[24:18.1 - 24:19.3] Give me a second.
+[24:19.3 - 24:22.5] Um- How are you getting to Excel?
+[24:22.5 - 24:24.7] Um, I'm using the Copilot.
+[24:24.7 - 24:27.3] Do you have Microsoft Copilot on yours?
+[24:27.3 - 24:28.8] I don't think so.
+[24:28.8 - 24:37.5] I don't think everyone's privy that they have a Microsoft account, but it should be your name or your email, and then- Your email, meaning Apartment Corp?- Yes ...
+[24:37.5 - 24:38.3] or your personal email?
+[24:38.3 - 24:39.5] No, your Apartment Corp.
+[24:39.5 - 24:40.9] You may have to ask Ethan.
+[24:40.9 - 24:46.7] I'm sure he has one set up for you, but then you have access to all of your- Hmm ...
+[24:46.7 - 24:47.0] apps.
+[24:47.0 - 24:52.6] Or if you have a Gmail account, I guess you could use your Google Sheets, but I know how Mark feels about that.
+[24:52.6 - 24:53.7] I hate Google Sheets.
+[24:53.7 - 24:54.4] Yeah, me too.
+[24:54.4 - 24:56.1] This one actually helps.
+[24:56.1 - 24:56.8] Excel is so much...
+[24:56.8 - 24:58.5] I don't know, it's easier.
+[24:58.5 - 25:00.7] Maybe it's just 'cause I'm used to it, but it just makes more sense.
+[25:00.7 - 25:02.6] Yeah, like the- the top- Yeah ...
+[25:02.6 - 25:03.8] toolbar and stuff.
+[25:03.8 - 25:08.7] It's just- Whenever I get something in Sheets, I copy and paste it into Excel.
+[25:08.7 - 25:13.3] So it is- Well, you're becoming a, uh, cost seg, uh, expert.
+[25:13.3 - 25:14.2] I...
+[25:14.2 - 25:16.5] In a week, I guess.
+[25:16.5 - 25:18.2] I don't know if he needs further steps.
+[25:18.2 - 25:19.4] I wrote him that email this morning.
+[25:19.4 - 25:20.8] I don't believe he responded.
+[25:20.8 - 25:23.1] So Copilot.
+[25:23.1 - 25:25.1] Yes.
+[25:25.1 - 25:27.1] Let me ask Ethan.
+[25:27.1 - 25:30.3] It would be your Microsoft 365 account, actually.
+[25:30.3 - 25:32.3] I know.
+[25:32.3 - 25:33.6] Canada lost 2-1.
+[25:33.6 - 25:34.3] What?
+[25:34.3 - 25:34.6] Sorry.
+[25:34.6 - 25:36.4] Said Canada lost 2-1.
+[25:36.4 - 25:36.7] I know.
+[25:36.7 - 25:37.2] Sorry.
+[25:37.2 - 25:40.4] I know.
+[25:40.4 - 25:41.3] They also lost 2-0.
+[25:41.3 - 25:43.1] That makes me want some poutine.
+[25:43.1 - 25:46.6] Um- You do.
+[25:46.6 - 25:46.7] You do.
+[25:46.7 - 25:47.8] Mont- Montreal.
+[25:47.8 - 25:48.6] So good.
+[25:48.6 - 25:49.1] I knew you liked poutine.
+[25:49.1 - 25:51.9] I went to Montreal on November 7th one year.
+[25:51.9 - 25:52.9] Not a good time to go.
+[25:52.9 - 25:53.6] It was freezing cold.
+[25:53.6 - 25:54.3] Yeah.
+[25:54.3 - 25:54.6] Good.
+[25:54.6 - 25:55.3] St.
+[25:55.3 - 25:56.3] Catherine Street- You know what?
+[25:56.3 - 25:56.3] ...
+[25:56.3 - 25:58.3] took a few years off my life.
+[25:58.3 - 25:58.4] I don't think I've ever had poutine.
+[25:58.4 - 25:58.5] No?
+[25:58.5 - 25:59.2] No.
+[25:59.2 - 26:04.6] There was a place called Mac Bar that we went twice, and I never go anywhere twice on vacation, but it was so good.
+[26:04.6 - 26:10.9] So, um, Brendan is using Excel through 360.
+[26:10.9 - 26:11.6] 365.
+[26:11.6 - 26:13.1] Do I have the 360?
+[26:13.1 - 26:15.1] Go for it.
+[26:15.1 - 26:15.9] Go for it?
+[26:15.9 - 26:18.0] How do I log in?
+[26:18.0 - 26:22.4] You put your username and password in.
+[26:22.4 - 26:27.7] Username and password for Microsoft 365 is the same as for Gamework?
+[26:27.7 - 26:29.6] If you have it, yeah.
+[26:29.6 - 26:30.2] Wait.
+[26:30.2 - 26:32.7] Are you gatekeeping this?
+[26:32.7 - 26:34.5] Exactly.
+[26:34.5 - 26:34.7] I'm not gatekeeping it.
+[26:34.7 - 26:38.6] I'm just not gonna help with it, 'cause I just had to go through it and it's a bitch- Oh ...
+[26:38.6 - 26:42.5] because this shit is fucked up and doesn't actually fucking work.
+[26:42.5 - 26:42.8] Oh.
+[26:42.8 - 26:47.1] And then it works, and then it breaks.
+[26:47.1 - 26:49.8] Like, it- it's, it's fucking...
+[26:49.8 - 26:51.7] The shit in here is stupid- Hmm ...
+[26:51.7 - 26:52.0] and you can't...
+[26:52.0 - 27:00.2] You probably have the computer where you could just download it if your account works, which, like I said- I don't even know what my account is ...
+[27:00.2 - 27:01.6] it would be your VM one.
+[27:01.6 - 27:02.0] Hmm.
+[27:02.0 - 27:03.4] Which I did save into place.
+[27:03.4 - 27:03.6] Okay.
+[27:03.6 - 27:07.2] So I tried to log in to Excel and it- Doesn't work ...
+[27:07.2 - 27:08.4] it didn't recognize my thing.
+[27:08.4 - 27:08.8] Hmm.
+[27:08.8 - 27:09.6] So you're fucked.
+[27:09.6 - 27:10.1] Okay.
+[27:10.1 - 27:14.5] That's all I've been saying, like, cool, you could try, but it keeps- All right.
+[27:14.5 - 27:14.5] Can I try something?
+[27:14.5 - 27:14.5] ...
+[27:14.5 - 27:16.5] spitting out 'cause shit is all fucked up.
+[27:16.5 - 27:17.7] I'm sure you could use mine if you need it.
+[27:17.7 - 27:19.1] I mean, but- Okay.
+[27:19.1 - 27:19.8] Well, then I don't need help.
+[27:19.8 - 27:23.4] And it's like, and then it lets you in here, but then- It always has something to do ...
+[27:23.4 - 27:25.6] it's in there- It is tricky, yeah ...
+[27:25.6 - 27:27.6] and then you open the web browser thing of it- There we go ...
+[27:27.6 - 27:29.0] and for me, it keeps crashing.
+[27:29.0 - 27:30.2] Well, you wanted to know.
+[27:30.2 - 27:32.1] Now let's do an information, I guess.
+[27:32.1 - 27:36.0] It's like- It's like yours is maybe working 'cause you have the Excel- It doesn't always work ...
+[27:36.0 - 27:38.1] 'cause for me, it's that- I, Robert's already in, so ...
+[27:38.1 - 27:47.3] and so for me, because I have a 10-gig, when I'm opening the file that Mark shared with me, and it open, so it opens in Chrome- Hmm ...
+[27:47.3 - 27:50.2] where it's like the actual file won't open that way, right?
+[27:50.2 - 27:50.7] Mm-hmm.
+[27:50.7 - 27:55.7] Like, if someone emailed you the actual Excel file that they have, it won't open in Chrome.
+[27:55.7 - 27:56.2] Mm-mm, 'cause you don't have it.
+[27:56.2 - 28:03.1] But if they share it with you, it does like the Google Sheets type of thing that you were talking about, which you just nodded your head in at the very wrong time.
+[28:03.1 - 28:03.7] Oh.
+[28:03.7 - 28:03.9] Yeah.
+[28:03.9 - 28:10.0] 'Cause you're right that it would work, but it was like, well, I'm not logging into my own personal Sheets, 'cause fuck that.
+[28:10.0 - 28:16.6] And then Mark also, he does this thing where you're lucky you didn't get the like, "Oh, perfect, we have Google Sheets." Yeah.
+[28:16.6 - 28:22.0] You just log in with your apartment code thing, and it's like, no, Mark, that was literally only set up for you- That's for Google ...
+[28:22.0 - 28:26.5] and it doesn't even work, and it doesn't work correctly, but Jeremy got it set up for you- Oh ...
+[28:26.5 - 28:27.2] and even that doesn't work.
+[28:27.2 - 28:34.0] But then Mark says everyone has that, so just log into Gmail with your apartment corp email, and it's like, does he tell- That's what he told people?
+[28:34.0 - 28:37.4] That's what he has done in the past before.
+[28:37.4 - 28:37.5] Hmm.
+[28:37.5 - 28:41.2] Not to everyone, but, like, to you when you make a suggestion- Mm-hmm ...
+[28:41.2 - 28:42.3] like that as an example.
+[28:42.3 - 28:43.4] He'd be like, "Oh, yeah, perfect.
+[28:43.4 - 28:45.0] Just log in with your apartment corp email.
+[28:45.0 - 28:46.1] It works." Oh.
+[28:46.1 - 28:48.2] I was like, "Are you sure, Mark?" And he's like, "Why are you questioning me?
+[28:48.2 - 28:49.0] Yeah, it works." It's Mark@gmail.com.
+[28:49.0 - 28:49.0] That's weird.
+[28:49.0 - 28:53.1] And then I just, and then it doesn't work, and then it's like, and then he gets mad.
+[28:53.1 - 28:57.6] Um, but anyways, he shared a link with me that lets me open it.
+[28:57.6 - 29:03.8] But then I had another one, and I was trying to open it this way, like you're doing, and, like, drop the file in there to upload it.
+[29:03.8 - 29:03.9] Hmm.
+[29:03.9 - 29:04.4] It would go.
+[29:04.4 - 29:08.1] I would scroll one line down on the Excel, and then it would crash the computer.
+[29:08.1 - 29:09.2] Oh, really?
+[29:09.2 - 29:12.0] Or not crash the computer, but, like, crash the window.
+[29:12.0 - 29:14.2] Yeah, 'cause it's sort of, it's like a shared type file, right?
+[29:14.2 - 29:14.3] Or the tab.
+[29:14.3 - 29:14.7] Yeah.
+[29:14.7 - 29:14.9] Yeah.
+[29:14.9 - 29:17.4] But no, because that's the thing that makes no sense.
+[29:17.4 - 29:19.4] This way it would do that.
+[29:19.4 - 29:21.6] The exact same file, right?
+[29:21.6 - 29:21.7] Mm-hmm.
+[29:21.7 - 29:32.0] Because I downloaded it locally to the 10-gig and was trying to do that to make sure it was the one that I made changes to, and not going back to his original
+[29:32.0 - 29:32.7] one that he shared.
+[29:32.7 - 29:33.0] Right.
+[29:33.0 - 29:37.1] The one that I made- The one that I saved locally, I try and drag and drop in here, it crashes it.
+[29:37.1 - 29:42.9] The SharePoint one, I can scroll through and nothing happens, and I've made changes on it- Interesting ...
+[29:42.9 - 29:44.2] and it never has crashed it.
+[29:44.2 - 29:46.5] One time it went, like, blank.
+[29:46.5 - 29:49.3] I wonder if, like, they didn't share editing access with you.
+[29:49.3 - 29:51.9] Well, he did, 'cause I've been able to edit it.
+[29:51.9 - 29:52.1] Oh.
+[29:52.1 - 29:57.9] It's only for the locally saved one, which then maybe it's, like, an accident, but I locally saved it.
+[29:57.9 - 29:58.6] Hmm.
+[29:58.6 - 29:58.7] Yeah.
+[29:58.7 - 29:59.4] So then why would it do it?
+[29:59.4 - 30:00.6] So you should be able to save your version, yeah.
+[30:00.6 - 30:02.0] And then I should be able to view it.
+[30:02.0 - 30:05.1] It just- I don't know, and that's why I gave her the answer.
+[30:05.1 - 30:06.9] I gave her, it's like, "You can try." That's why I use Apple.
+[30:06.9 - 30:08.4] It works for you, so cool.
+[30:08.4 - 30:09.6] It didn't work for me.
+[30:09.6 - 30:11.7] It worked like- That's why I use Apple.
+[30:11.7 - 30:15.7] Makes sense.
+[30:15.7 - 31:01.4] Hmm.
+[31:01.4 - 31:12.7] That's
+[31:12.7 - 31:13.3] not right.
+[31:13.3 - 31:46.4] The
+[31:46.4 - 31:46.7] fuck?
+[31:46.7 - 32:01.5] There
+[32:01.5 - 32:01.8] we go.
+[32:01.8 - 32:55.1] Why?
+[32:55.1 - 33:15.1] Uh-oh.
+[33:15.1 - 33:31.7] That's
+[33:31.7 - 33:32.3] not good.
+[33:32.3 - 34:14.6] Huh?
+[34:14.6 - 34:16.4] Oh.
+[34:16.4 - 34:35.9] I
+[34:35.9 - 34:39.7] just shared like four property websites with you that I've made- Okay ...
+[34:39.7 - 34:41.4] the past couple days just, just in case.
+[34:41.4 - 34:42.3] I'm, I'm, I'm...
+[34:42.3 - 34:45.8] They're like 99% done.
+[34:45.8 - 34:47.6] Um, I just need...
+[34:47.6 - 34:48.9] I'm, I'm updating them as I go along- Oh, okay ...
+[34:48.9 - 34:50.3] but I just shared it with you just in case.
+[34:50.3 - 34:50.7] Cool.
+[34:50.7 - 35:00.8] I made a portal for my tasks that is set up with my personal GitHub account, so every time I make a task it pushes my repo to it, so
+[35:00.8 - 35:03.2] I have all my tasks all the time.
+[35:03.2 - 35:06.1] Thought you might wanna do something similar.
+[35:06.1 - 35:06.6] Yeah.
+[35:06.6 - 35:09.2] Well, we, we should do it for apartment corp in case something happens.
+[35:09.2 - 35:09.8] Yeah.
+[35:09.8 - 35:13.7] Well, we have it in the GitHub for apartment corp, but I'll set it up where it pushes every task to it.
+[35:13.7 - 35:14.1] Okay.
+[35:14.1 - 35:14.7] Yeah.
+[35:14.7 - 35:23.2] And you can make it where it consolidates with Claude as well, just gotta share an API.
+[35:23.2 - 35:39.8] Hmm.
+[35:39.8 - 35:54.5] Huh,
+[35:54.5 - 35:55.5] well, that's weird.
+[35:55.5 - 35:57.3] Huh.
+[36:02.7 - 36:04.3] Ah, that's the problem.
+[36:04.3 - 36:19.6] There
+[36:19.6 - 36:21.5] we go.
+[36:21.5 - 36:24.9] Um, that's it.
+[36:24.9 - 38:25.8] Hey,
+[38:25.8 - 38:26.0] what's up?
+[38:26.0 - 38:26.7] Hey, how are you?
+[38:26.7 - 38:27.9] Good, and you?
+[38:27.9 - 38:29.3] Here.
+[38:29.3 - 40:04.4] What
+[40:04.4 - 41:36.1] is
+[41:36.1 - 41:36.5] this?
+[49:02.6 - 49:08.9] That's...
+[49:08.9 - 50:07.0] Just
+[50:07.0 - 50:09.5] wanna grab these before they disappear.
+[50:09.5 - 50:10.6] What are they?
+[50:10.6 - 50:14.2] These things, the prospectus thingies.
+[50:14.2 - 50:14.7] Oh.
+[50:14.7 - 50:22.5] Because if we don't grab them, they just, like, disappear into the ether, you know?
+[50:22.5 - 50:22.8] Ah.
+[50:22.8 - 50:58.6] Hmm.
+[50:58.6 - 52:36.0] Just
+[52:36.0 - 52:37.2] double-checking them all now.
+[52:37.2 - 52:37.7] What?
+[52:37.7 - 52:39.3] Just double-checking them all now.
+[52:39.3 - 52:40.7] Oh, you got them through all done?
+[52:40.7 - 52:41.7] Got them all done.
+[52:41.7 - 52:43.7] How much did the AI help?
+[52:43.7 - 52:50.5] Quite a bit, but still had to hold its hand a lot, a lot on this one.
+[52:50.5 - 52:51.6] How do you know if it's did it right?
+[52:51.6 - 52:57.4] Because I went and did the c-computations myself in Excel with the formulas.
+[52:57.4 - 53:08.5] See,
+[53:08.5 - 53:10.9] I went through here and double-checked all of them with the formulas.
+[53:10.9 - 53:16.2] Everything in green, I went and did over the formulas for.
+[53:16.2 - 53:27.4] You know, I took the car, the Ferrari, had it checked out, and
+[53:27.4 - 53:28.1] then brought it back.
+[53:28.1 - 53:39.1] Why
+[53:39.1 - 53:49.6] is it
+[53:49.6 - 53:56.5] not saving my data?
+[53:56.5 - 56:11.2] Hmm.
+[56:11.2 - 57:49.3] Hmm.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-27-17-53-14_transcription_20260706_153928.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-27-17-53-14_transcription_20260706_153928.txt
+[2J[H[3Jmanus-speech-to-text ROSE-REC2_V2025-12-27-17-53-14.mp3
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2025-12-27-17-53-14.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: .ROSE-REC2_V2025-12-27-17-53-14_chunks_20260706_153727/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: .ROSE-REC2_V2025-12-27-17-53-14_chunks_20260706_153727/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: .ROSE-REC2_V2025-12-27-17-53-14_chunks_20260706_153727/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: .ROSE-REC2_V2025-12-27-17-53-14_chunks_20260706_153727/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: .ROSE-REC2_V2025-12-27-17-53-14_chunks_20260706_153727/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[31:01.4 - 31:12.7] That's
+[31:12.7 - 31:13.3] not right.
+[31:13.3 - 31:46.4] The
+[31:46.4 - 31:46.7] fuck?
+[31:46.7 - 32:01.5] There
+[32:01.5 - 32:01.8] we go.
+[32:01.8 - 32:55.1] Why?
+[32:55.1 - 33:15.1] Uh-oh.
+[33:15.1 - 33:31.7] That's
+[33:31.7 - 33:32.3] not good.
+[33:32.3 - 34:14.6] Huh?
+[34:14.6 - 34:16.4] Oh.
+[34:16.4 - 34:35.9] I
+[34:35.9 - 34:39.7] just shared like four property websites with you that I've made- Okay ...
+[34:39.7 - 34:41.4] the past couple days just, just in case.
+[34:41.4 - 34:42.3] I'm, I'm, I'm...
+[34:42.3 - 34:45.8] They're like 99% done.
+[34:45.8 - 34:47.6] Um, I just need...
+[34:47.6 - 34:48.9] I'm, I'm updating them as I go along- Oh, okay ...
+[34:48.9 - 34:50.3] but I just shared it with you just in case.
+[34:50.3 - 34:50.7] Cool.
+[34:50.7 - 35:00.8] I made a portal for my tasks that is set up with my personal GitHub account, so every time I make a task it pushes my repo to it, so
+[35:00.8 - 35:03.2] I have all my tasks all the time.
+[35:03.2 - 35:06.1] Thought you might wanna do something similar.
+[35:06.1 - 35:06.6] Yeah.
+[35:06.6 - 35:09.2] Well, we, we should do it for apartment corp in case something happens.
+[35:09.2 - 35:09.8] Yeah.
+[35:09.8 - 35:13.7] Well, we have it in the GitHub for apartment corp, but I'll set it up where it pushes every task to it.
+[35:13.7 - 35:14.1] Okay.
+[35:14.1 - 35:14.7] Yeah.
+[35:14.7 - 35:23.2] And you can make it where it consolidates with Claude as well, just gotta share an API.
+[35:23.2 - 35:39.8] Hmm.
+[35:39.8 - 35:54.5] Huh,
+[35:54.5 - 35:55.5] well, that's weird.
+[35:55.5 - 35:57.3] Huh.
+[36:02.7 - 36:04.3] Ah, that's the problem.
+[36:04.3 - 36:19.6] There
+[36:19.6 - 36:21.5] we go.
+[36:21.5 - 36:24.9] Um, that's it.
+[36:24.9 - 38:25.8] Hey,
+[38:25.8 - 38:26.0] what's up?
+[38:26.0 - 38:26.7] Hey, how are you?
+[38:26.7 - 38:27.9] Good, and you?
+[38:27.9 - 38:29.3] Here.
+[38:29.3 - 40:04.4] What
+[40:04.4 - 41:36.1] is
+[41:36.1 - 41:36.5] this?
+[49:02.6 - 49:08.9] That's...
+[49:08.9 - 50:07.0] Just
+[50:07.0 - 50:09.5] wanna grab these before they disappear.
+[50:09.5 - 50:10.6] What are they?
+[50:10.6 - 50:14.2] These things, the prospectus thingies.
+[50:14.2 - 50:14.7] Oh.
+[50:14.7 - 50:22.5] Because if we don't grab them, they just, like, disappear into the ether, you know?
+[50:22.5 - 50:22.8] Ah.
+[50:22.8 - 50:58.6] Hmm.
+[50:58.6 - 52:36.0] Just
+[52:36.0 - 52:37.2] double-checking them all now.
+[52:37.2 - 52:37.7] What?
+[52:37.7 - 52:39.3] Just double-checking them all now.
+[52:39.3 - 52:40.7] Oh, you got them through all done?
+[52:40.7 - 52:41.7] Got them all done.
+[52:41.7 - 52:43.7] How much did the AI help?
+[52:43.7 - 52:50.5] Quite a bit, but still had to hold its hand a lot, a lot on this one.
+[52:50.5 - 52:51.6] How do you know if it's did it right?
+[52:51.6 - 52:57.4] Because I went and did the c-computations myself in Excel with the formulas.
+[52:57.4 - 53:08.5] See,
+[53:08.5 - 53:10.9] I went through here and double-checked all of them with the formulas.
+[53:10.9 - 53:16.2] Everything in green, I went and did over the formulas for.
+[53:16.2 - 53:27.4] You know, I took the car, the Ferrari, had it checked out, and
+[53:27.4 - 53:28.1] then brought it back.
+[53:28.1 - 53:39.1] Why
+[53:39.1 - 53:49.6] is it
+[53:49.6 - 53:56.5] not saving my data?
+[53:56.5 - 56:11.2] Hmm.
+[56:11.2 - 57:49.3] Hmm.
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-27-17-53-14_transcription_20260706_153928.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-27-17-53-14_transcription_20260706_153928.txt

@@ -1,0 +1,658 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: downloads/ROSE-REC2_V2026-07-03-01-19-52.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: downloads/.ROSE-REC2_V2026-07-03-01-19-52_chunks_20260706_193845/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: downloads/.ROSE-REC2_V2026-07-03-01-19-52_chunks_20260706_193845/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: downloads/.ROSE-REC2_V2026-07-03-01-19-52_chunks_20260706_193845/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: downloads/.ROSE-REC2_V2026-07-03-01-19-52_chunks_20260706_193845/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: downloads/.ROSE-REC2_V2026-07-03-01-19-52_chunks_20260706_193845/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.6 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[14:49.9 - 14:51.9] Vida, no limita el arte.
+[14:51.9 - 14:53.3] El arte a la vida.
+[14:53.3 - 14:56.0] No estás triste, estás distraída.
+[14:56.0 - 14:59.5] Estás descubriendo, no estás perdida.
+[14:59.5 - 15:03.2] La vida no limita el arte.
+[15:03.2 - 15:04.7] El arte a la vida.
+[15:04.7 - 15:07.5] No estás triste, estás distraída.
+[15:07.5 - 15:12.4] Estás descubriendo, no estás perdida.
+[15:12.4 - 15:17.2] Mañanas, soles y lunas, noches, veranos.
+[15:17.2 - 15:19.7] Soy mi fortuna y locura.
+[15:19.7 - 15:22.2] Ese motivo no tiene cura.
+[15:22.2 - 15:27.8] Mañanas, soles y lunas, noches, veranos.
+[15:27.8 - 15:30.6] Soy mi fortuna y locura.
+[15:30.6 - 15:41.5] Ese motivo no tiene cura.
+[15:41.5 - 15:46.2] Vida, no limita el arte.
+[15:46.2 - 15:47.7] El arte a la vida.
+[15:47.7 - 15:50.5] No estás triste, estás distraída.
+[15:50.5 - 15:53.8] Estás descubriendo, no estás perdida.
+[15:53.8 - 15:57.8] La vida no limita el arte.
+[15:57.8 - 15:59.1] El arte a la vida.
+[15:59.1 - 16:01.8] No estás triste, estás distraída.
+[16:01.8 - 16:05.6] Estás descubriendo, no estás perdida.
+[16:05.6 - 16:10.6] Mañanas, soles y lunas, noches, veranos.
+[16:10.6 - 16:14.2] Soy mi fortuna y locura.
+[16:14.2 - 16:14.2] Ese motivo no tiene cura.
+[16:14.2 - 16:14.3] Mañanas, soles y lunas, noches, veranos.
+[16:14.3 - 16:14.5] Soy mi fortuna y locura.
+[16:14.5 - 16:26.1] Ese motivo
+[16:26.1 - 16:28.2] no tiene cura.
+[16:28.2 - 17:12.2] You
+[17:12.2 - 17:12.8] have a shirt on?
+[17:12.8 - 17:14.3] You puta.
+[17:14.3 - 17:16.4] Come on, guy.
+[17:16.4 - 17:17.2] You said you got the heat around.
+[17:17.2 - 17:18.1] It's freezing cold in here.
+[17:18.1 - 17:19.4] Well.
+[17:19.4 - 17:20.1] I do now.
+[17:20.1 - 17:22.1] Jesus Christ, my car broke.
+[17:22.1 - 17:24.0] Gotta leave my windows open here in the heat.
+[17:24.0 - 17:27.2] Oh, I was smoking DMT, so.
+[17:27.2 - 17:28.5] Can I have some?
+[17:28.5 - 17:29.3] Mm-hmm.
+[17:29.3 - 17:30.4] Thank you.
+[17:30.4 - 17:31.4] Just had ten delivered.
+[17:31.4 - 17:32.3] What?
+[17:32.3 - 17:34.8] I just had ten delivered today to my office.
+[17:34.8 - 17:36.4] What the fuck?
+[17:36.4 - 17:38.9] Do you mind if we move a little, and I'll bring you back?
+[17:38.9 - 17:42.5] All right.
+[17:42.5 - 17:42.9] Now?
+[17:42.9 - 17:43.3] Yeah.
+[17:43.3 - 17:43.6] Cool.
+[17:43.6 - 17:46.4] Just gonna move to this parking lot over here.
+[17:46.4 - 17:47.6] Parking lot?
+[17:47.6 - 17:48.6] Yeah.
+[17:48.6 - 17:50.2] Got it.
+[17:50.2 - 17:50.7] Welcome.
+[17:50.7 - 17:52.0] How are you?
+[17:52.0 - 17:52.7] How you been?
+[17:52.7 - 17:53.5] What's up?
+[17:53.5 - 17:54.2] Good.
+[17:54.2 - 17:55.0] Freezing cold.
+[17:55.0 - 17:59.6] Now, these footage here in the back, is that you?
+[17:59.6 - 17:59.8] Is it working?
+[17:59.8 - 18:00.2] Yes.
+[18:00.2 - 18:09.0] Actually, it's fun back here.
+[18:09.0 - 18:09.9] Let's go back here.
+[18:09.9 - 18:12.5] I've never been anywhere else other than that one place before.
+[18:12.5 - 18:13.0] Really?
+[18:13.0 - 18:13.9] Oh, this one's like...
+[18:13.9 - 18:15.7] I don't know what all these people do.
+[18:15.7 - 18:17.1] Like, are they camping?
+[18:17.1 - 18:18.2] Like where?
+[18:18.2 - 18:19.1] Like a camp here?
+[18:19.1 - 18:20.8] All of these people, yeah.
+[18:20.8 - 18:22.6] There's nothing to camp in.
+[18:22.6 - 18:23.5] Watch, I'll show you.
+[18:23.5 - 18:24.8] It gets crazy back here.
+[18:24.8 - 18:25.6] I know that.
+[18:25.6 - 18:26.5] Huh?
+[18:26.5 - 18:28.8] I know that.
+[18:28.8 - 18:30.2] You want G?
+[18:30.2 - 18:31.2] Mm, G.
+[18:31.2 - 18:32.1] Mm-hmm.
+[18:32.1 - 18:32.4] Yeah.
+[18:32.4 - 18:33.0] Oh, no.
+[18:33.0 - 18:34.9] Last time you did that around me it wasn't very pretty.
+[18:34.9 - 18:35.6] Yeah, thank you very much.
+[18:35.6 - 18:36.8] Let's not do that.
+[18:36.8 - 18:39.2] No, okay.
+[18:39.2 - 18:41.9] Not a fanatic of it.
+[18:41.9 - 18:42.8] Huh?
+[18:42.8 - 18:44.1] Not a fanatic of it, I think.
+[18:44.1 - 18:48.7] Yeah, you and G don't get along too, too well.
+[18:48.7 - 18:49.9] I mean, we get along.
+[18:49.9 - 18:52.5] She just excites me a little too much.
+[18:52.5 - 18:54.0] Kinda.
+[18:54.0 - 18:55.0] I don't know.
+[18:55.0 - 18:56.9] She gives me the...
+[18:56.9 - 18:57.7] Does she?
+[18:57.7 - 19:01.0] She gives me the good and everything, I'm fine.
+[19:01.0 - 19:03.0] She's thinking that you're out here to kill you.
+[19:03.0 - 19:04.4] Oh, that's hot.
+[19:04.4 - 19:05.5] Right.
+[19:05.5 - 19:06.8] Thought so.
+[19:06.8 - 19:08.9] How you gonna kill me?
+[19:08.9 - 19:09.7] Huh?
+[19:09.7 - 19:11.1] How are you planning to kill me?
+[19:11.1 - 19:14.4] Well, with my dick.
+[19:14.4 - 19:15.7] Okay.
+[19:15.7 - 19:17.5] See, it gets real dark back here.
+[19:17.5 - 19:17.8] I like it.
+[19:17.8 - 19:20.6] I forgot even know this was a road.
+[19:20.6 - 19:21.1] Huh?
+[19:21.1 - 19:22.4] I didn't even know this was a road.
+[19:22.4 - 19:23.5] There's possums everywhere.
+[19:23.5 - 19:24.6] Oh my God, for real.
+[19:24.6 - 19:26.3] I fucking, I was into- What is that?
+[19:26.3 - 19:27.4] I was under a tree right now.
+[19:27.4 - 19:27.9] Is that police?
+[19:27.9 - 19:27.9] No.
+[19:27.9 - 19:28.4] And I...
+[19:28.4 - 19:28.7] Huh?
+[19:28.7 - 19:29.9] Is it- I'm kidding.
+[19:29.9 - 19:30.7] Oh.
+[19:30.7 - 19:35.7] I was under a tree right now, and I saw a giant ass fucking, uh, looking like rat thing.
+[19:35.7 - 19:36.5] Possum.
+[19:36.5 - 19:37.6] It looked like a rat.
+[19:37.6 - 19:38.3] Possum.
+[19:38.3 - 19:39.0] I got scared.
+[19:39.0 - 19:41.4] I was like- See, I like to come back here ...
+[19:41.4 - 19:45.3] I was like, "I'm not going back up ahead." Especially if I'm doing DMT because the lights, you know.
+[19:45.3 - 19:46.2] What?
+[19:46.2 - 19:46.9] The lights trip you out?
+[19:46.9 - 19:55.6] Like, whenever people are going by and ever so I'm like, "Oh, fuck, fuck, that's bright." Yeah, and there's a lot of that over there.
+[19:55.6 - 19:56.6] Huh?
+[19:56.6 - 19:58.2] There was a lot of lights over there, too.
+[19:58.2 - 19:59.8] I did not know it was this big.
+[19:59.8 - 20:01.0] What's that?
+[20:01.0 - 20:02.3] I did not know it was this big.
+[20:02.3 - 20:04.3] Yeah.
+[20:04.3 - 20:06.5] I hear that a lot.
+[20:06.5 - 20:08.8] You shut the fuck up.
+[20:08.8 - 20:11.6] I hear that a lot.
+[20:11.6 - 20:13.9] Damn, what are all these people at?
+[20:13.9 - 20:14.7] Exactly.
+[20:14.7 - 20:16.2] What are they doing?
+[20:16.2 - 20:17.1] Where are they?
+[20:17.1 - 20:20.6] There's a lot of, like, broken, like, wrecked cars out here.
+[20:20.6 - 20:21.5] What the fuck?
+[20:21.5 - 20:22.6] Just chilling?
+[20:22.6 - 20:23.5] Huh?
+[20:23.5 - 20:24.8] I think they might be stolen.
+[20:24.8 - 20:29.6] I don't know if they, like, impound cars and they just, like, bring them out here to, like, die.
+[20:29.6 - 20:31.7] Oh, just like a fucking graveyard?
+[20:31.7 - 20:33.2] That's what I think.
+[20:33.2 - 20:37.3] There's just one of them here?
+[20:37.3 - 20:40.0] And I like it back here because, um- They're, like, fucking in this one.
+[20:40.0 - 20:40.5] Oh, really?
+[20:40.5 - 20:41.5] Are they fucking?
+[20:41.5 - 20:43.6] I mean, they're fucking, all the fucking windows are foggy.
+[20:43.6 - 20:45.2] Are you sure?
+[20:45.2 - 20:46.7] All right.
+[20:46.7 - 20:47.0] Oh.
+[20:47.0 - 20:52.3] I'm like, "Where you going?" Are you sure, or is it, like, those covers?
+[20:52.3 - 20:53.1] Oh, I don't know.
+[20:53.1 - 20:53.6] I can't see.
+[20:53.6 - 20:59.4] I like it back here 'cause you can, like, see cars coming, like, from afar.
+[20:59.4 - 21:02.2] Oh.
+[21:02.2 - 21:08.7] We gotta find a happy medium with the heat and the cool, or else it's too hot in here.
+[21:08.7 - 21:09.7] I'm good with just it warming.
+[21:09.7 - 21:11.1] Oh, okay, good.
+[21:11.1 - 21:16.1] Here I come.
+[21:16.1 - 21:19.7] Let's see if I can dim this a bit.
+[21:19.7 - 21:21.5] It never cooperates with me, though.
+[21:21.5 - 21:25.7] See, it says all the way down, but it's not.
+[21:25.7 - 21:26.6] It's 'cause your light's on.
+[21:26.6 - 21:27.4] Hmm?
+[21:27.4 - 21:29.0] Your light's are on.
+[21:29.0 - 21:30.7] Really?
+[21:30.7 - 21:31.2] Yep.
+[21:31.2 - 21:39.3] I just, I just found out earlier when my conscious is- Oh, you're right.
+[21:39.3 - 21:40.3] Oh.
+[21:40.3 - 21:41.5] Yep.
+[21:41.5 - 21:44.7] Okay, hold, so it's not fixable.
+[21:44.7 - 21:45.8] No, I'm not.
+[21:45.8 - 21:47.8] There is technically maybe- Actually ...
+[21:47.8 - 21:48.5] Yeah, there, no.
+[21:48.5 - 21:49.5] Yeah, there.
+[21:49.5 - 21:50.3] There we go.
+[21:50.3 - 21:51.4] There you go.
+[21:51.4 - 21:51.6] There, yep.
+[21:51.6 - 21:52.8] You got it.
+[21:52.8 - 21:53.8] Brilliant.
+[21:53.8 - 21:58.5] This is not what I wanna listen to right now.
+[21:58.5 - 22:00.6] Kygo Radio, that sounds better.
+[22:00.6 - 22:01.5] What the heck?
+[22:01.5 - 22:03.8] Kygo?
+[22:03.8 - 22:04.1] Kygo.
+[22:04.1 - 22:05.5] You know who Kygo is.
+[22:05.5 - 22:06.4] No, I do not.
+[22:06.4 - 22:11.6] This is Kygo.
+[22:11.6 - 22:20.3] My what?
+[22:20.3 - 22:22.2] Ugh.
+[22:22.2 - 22:24.1] You know the drill.
+[22:24.1 - 22:25.3] The drill?
+[22:25.3 - 22:27.2] Where'd that TNT go?
+[22:27.2 - 22:29.4] Is this- Huh?
+[22:29.4 - 22:29.7] ...
+[22:29.7 - 22:30.0] my hair?
+[22:30.0 - 22:30.2] Yeah.
+[22:30.2 - 22:36.3] Tell me you love me or tell me to leave.
+[22:36.3 - 22:37.8] Don't keep me waiting all night.
+[22:37.8 - 22:39.5] Even without speech.
+[22:39.5 - 22:43.8] This is the biggest trip.
+[22:43.8 - 22:44.3] I like it.
+[22:44.3 - 22:44.9] Huh?
+[22:44.9 - 22:46.2] I said, this is a big ass trip.
+[22:46.2 - 22:46.6] I like it.
+[22:46.6 - 22:57.0] It's dark.
+[22:57.0 - 23:14.9] Tell
+[23:14.9 - 23:48.1] me you love
+[23:48.1 - 23:59.4] me or tell me to leave.
+[23:59.4 - 23:59.8] You're not even-
+[24:00.2 - 24:01.1] I already have something to hang out.
+[24:01.1 - 24:01.9] Uh-huh.
+[24:01.9 - 24:10.2] Everything going your way now?
+[24:10.2 - 24:11.5] Mm-hmm.
+[24:11.5 - 24:34.1] It's
+[24:34.1 - 24:35.4] more interesting.
+[24:35.4 - 24:36.0] Mm-hmm.
+[24:36.0 - 25:39.0] Take
+[25:39.0 - 26:08.7] my shorts
+[26:08.7 - 26:13.8] off.
+[26:13.8 - 26:17.5] Or at least get this way.
+[26:17.5 - 26:38.4] There
+[26:38.4 - 26:48.3] we go.
+[26:48.3 - 26:59.7] Fuck,
+[26:59.7 - 27:00.2] there we go.
+[27:00.2 - 27:46.2] Stop if you
+[27:46.2 - 28:59.3] want.
+[28:59.3 - 30:57.9] Oh,
+[30:57.9 - 30:58.5] this one.
+[30:58.5 - 30:59.7] It's really hot.
+[30:59.7 - 31:01.2] Oh, yeah.
+[31:01.2 - 31:03.2] How do you turn it off?
+[31:03.2 - 31:07.4] Like burning, my ass is burning.
+[31:07.4 - 31:09.1] Like what the fuck is going on?
+[31:09.1 - 31:13.2] What the hell?
+[31:13.2 - 31:18.0] And is it just me or are the lights like red out there?
+[31:18.0 - 31:22.4] Is there something like dripping like- I don't know that.
+[31:22.4 - 31:24.4] Um- You know what I mean?
+[31:24.4 - 31:26.0] Like on their car.
+[31:26.0 - 31:27.2] Let me see.
+[31:27.2 - 31:27.7] Um...
+[31:27.7 - 31:33.9] 'Cause like it's something, it's not like something my car would be doing, right?
+[31:33.9 - 31:35.1] I don't know.
+[31:35.1 - 31:36.5] It's like the tail lights.
+[31:36.5 - 31:39.8] Oh, I see.
+[31:39.8 - 31:41.5] That's how you might have got- You know what I mean?
+[31:41.5 - 31:42.8] It's 'cause the, the, the...
+[31:42.8 - 31:44.1] Oh.
+[31:44.1 - 31:44.6] Yeah.
+[31:44.6 - 31:49.9] You left- That, that's basically the, the, the lights are still on, but they're fucking with this shit.
+[31:49.9 - 31:51.6] I know how you do that.
+[31:51.6 - 31:52.1] Hold on.
+[31:52.1 - 31:54.4] Oh, my God, all the lights are just too much right now.
+[31:54.4 - 31:56.2] Yeah, yeah.
+[31:56.2 - 31:57.5] Okay, hold on.
+[31:57.5 - 31:58.3] You have a shit load of buttons.
+[31:58.3 - 31:59.7] It's too damn...
+[31:59.7 - 32:02.9] Yes, and I'm gonna turn the truck off.
+[32:02.9 - 32:04.8] But yeah.
+[32:04.8 - 32:09.6] And then, oh, my gosh.
+[32:09.6 - 32:13.4] That'll shut off in a second.
+[32:13.4 - 32:14.9] I think.
+[32:14.9 - 32:15.8] I mean...
+[32:15.8 - 32:21.7] There's so many fucking lights going on.
+[32:21.7 - 32:26.5] Right?
+[32:26.5 - 33:05.0] Hey.
+[33:05.0 - 33:05.9] Hmm.
+[33:05.9 - 33:07.8] Hey.
+[33:07.8 - 33:09.7] Yeah.
+[33:09.7 - 33:09.9] Yeah.
+[33:09.9 - 33:11.1] Do you want the drink?
+[33:11.1 - 33:11.6] Huh?
+[33:11.6 - 33:16.6] Yeah, I was just gonna like lay down so you could like eat it more if you want.
+[33:16.6 - 33:17.8] Yeah.
+[33:17.8 - 33:19.6] Huh?
+[33:19.6 - 33:20.2] Oh, yeah.
+[33:20.2 - 33:22.3] You don't have to.
+[33:22.3 - 33:25.1] I'm just, uh, if you want.
+[33:25.1 - 33:29.0] Take another breather.
+[33:29.0 - 33:33.7] You gotta move the seat forward.
+[33:33.7 - 33:34.6] Uh-huh.
+[33:34.6 - 33:36.4] For you, for you to- What's that?
+[33:36.4 - 33:37.9] You gotta move the seat forward.
+[33:37.9 - 33:40.3] Let me shift over.
+[33:40.3 - 33:41.3] Sloop this one forward.
+[33:41.3 - 33:44.4] How tall are you?
+[33:44.4 - 33:45.8] Six one.
+[33:45.8 - 33:47.0] Nice.
+[33:47.0 - 33:49.9] Hmm.
+[33:49.9 - 33:51.8] I'm short.
+[33:51.8 - 33:53.8] How tall are you again?
+[33:53.8 - 33:57.9] Uh, eight.
+[33:57.9 - 33:58.6] Yep.
+[33:58.6 - 33:59.3] Fanta.
+[33:59.3 - 34:03.9] Thank you.
+[34:03.9 - 34:10.1] Yeah, it's ready to go.
+[34:10.1 - 34:16.2] Well, sometimes, you know, that lid.
+[34:16.2 - 34:21.7] Is there a cooler button too?
+[34:21.7 - 34:22.2] Hmm?
+[34:22.2 - 34:25.6] Is there a cooler button or does this just do the heat too?
+[34:25.6 - 34:26.5] Just heat.
+[34:26.5 - 34:29.1] Mm-hmm.
+[34:29.1 - 34:34.2] Well, you don't know- You can see this does this.
+[34:34.2 - 34:34.9] It closes it.
+[34:34.9 - 34:37.0] That's what I thought you were looking for.
+[34:37.0 - 34:43.6] Okay.
+[34:43.6 - 34:44.8] Well, I'm never back here.
+[34:44.8 - 34:45.5] No.
+[34:45.5 - 34:50.9] Other than like getting head, which is actually a lot, but...
+[34:50.9 - 35:01.2] You
+[35:01.2 - 35:02.3] gonna bottom for me or no?
+[35:02.3 - 35:04.0] Am I what?
+[35:04.0 - 35:05.7] So are you gonna bottom for me or no?
+[35:05.7 - 35:06.7] Yeah.
+[35:06.7 - 35:09.1] I mean, not right now.
+[35:09.1 - 35:11.4] I'm just asking in general.
+[35:11.4 - 35:11.5] Yeah.
+[35:11.5 - 35:11.5] No.
+[35:11.5 - 35:17.0] I should lose these then.
+[35:17.0 - 35:19.3] The shorts?
+[35:19.3 - 35:20.5] Yeah.
+[35:20.5 - 35:21.1] Lose them.
+[35:21.1 - 35:33.4] All
+[35:33.4 - 35:34.3] the shelving.
+[35:34.3 - 35:44.1] I'm not gonna eat yours.
+[35:44.1 - 35:45.9] What?
+[35:45.9 - 35:47.1] I'm not eating that.
+[35:47.1 - 35:53.1] Yeah, but- You know.
+[36:01.2 - 36:01.9] Namaste.
+[36:01.9 - 36:03.1] I like this.
+[36:03.1 - 36:04.7] Fish.
+[36:04.7 - 36:05.7] Can you just hold me?
+[36:05.7 - 36:13.4] And then I wanna feel this booty.
+[36:13.4 - 36:30.0] You
+[36:30.0 - 36:30.4] okay?
+[36:30.4 - 36:31.1] Yeah.
+[36:31.1 - 36:38.0] There we go.
+[36:38.0 - 36:49.1] There's no comfort person
+[36:49.1 - 36:49.7] here.
+[36:49.7 - 37:06.0] Maybe
+[37:06.0 - 37:39.2] if
+[37:39.2 - 37:49.3] you want.
+[37:49.3 - 37:57.6] Want some?
+[37:57.6 - 37:59.6] Mm, I'm pretty good.
+[37:59.6 - 38:01.5] You're not gonna come yet?
+[38:01.5 - 38:39.4] You all
+[38:39.4 - 38:43.9] right?
+[38:43.9 - 38:44.2] Yeah.
+[38:44.2 - 38:45.7] Are you okay?
+[38:45.7 - 38:46.3] Yeah.
+[38:46.3 - 38:49.0] Wanna try the angle like you were earlier?
+[38:49.0 - 38:49.9] Oh, yeah, yeah.
+[38:49.9 - 38:53.6] That's way better.
+[38:53.6 - 38:54.8] Hmm?
+[38:54.8 - 38:56.2] It's way better.
+[38:56.2 - 39:38.9] Inside
+[39:38.9 - 39:39.0] you.
+[39:39.0 - 39:39.1] Hmm?
+[39:39.1 - 39:40.5] I wanna come inside you.
+[39:40.5 - 40:11.8] I
+[40:11.8 - 40:12.4] know, right?
+[40:12.4 - 40:15.5] Better.
+[40:15.5 - 40:16.3] What was that?
+[40:16.3 - 40:16.8] Huh?
+[40:16.8 - 40:18.5] Other than moaning.
+[40:18.5 - 40:21.8] It's a full moon, actually.
+[40:21.8 - 40:24.6] Damn.
+[40:24.6 - 40:26.8] Not sure.
+[40:26.8 - 40:28.3] Do you like cum?
+[40:28.3 - 40:29.1] Hmm?
+[40:29.1 - 40:29.9] Do you like cum?
+[40:29.9 - 40:39.2] Um, um, if I like it, it's gotta basically be deep and- Oh, yeah.
+[40:39.2 - 40:39.8] Well, the...
+[40:39.8 - 40:40.2] No.
+[40:40.2 - 40:43.8] 'Cause I come out, so.
+[40:43.8 - 40:49.6] As long as it's in the back, I have like, um, it's in...
+[40:49.6 - 40:50.3] It- I'll just come inside and you come on top.
+[40:50.3 - 40:50.3] I got it.
+[40:50.3 - 40:50.3] Huh?
+[40:50.3 - 40:50.3] I got it.
+[40:50.3 - 40:55.3] Say you come a lot.
+[40:55.3 - 40:55.6] A lot.
+[40:55.6 - 41:01.7] A lot, a lot, and I haven't in a few days.
+[41:01.7 - 41:11.7] I was gonna
+[41:11.7 - 41:17.5] take it in your stomach and sit on it.
+[41:17.5 - 41:19.8] Go.
+[41:19.8 - 41:21.1] What?
+[41:21.1 - 41:32.4] Said, "Oh, my God." You
+[41:32.4 - 41:32.7] okay?
+[41:32.7 - 41:33.5] That big are you again?
+[41:33.5 - 41:35.8] It's like nine, but it's thick.
+[41:35.8 - 41:39.4] It is not nine long.
+[41:39.4 - 41:40.0] Huh?
+[41:40.0 - 41:41.2] It's longer than nine.
+[41:41.2 - 41:42.8] Good.
+[41:42.8 - 41:44.0] I'll put it in my review.
+[41:44.0 - 41:45.6] Yuck.
+[41:45.6 - 41:47.4] Yuck.
+[41:47.4 - 41:48.7] It's bigger than nine.
+[41:48.7 - 42:10.8] Can
+[42:10.8 - 42:11.4] I hit it?
+[42:11.4 - 42:13.2] Yeah, I'll put it there so you can hit all you want.
+[42:13.2 - 42:14.7] For sure.
+[42:14.7 - 44:24.7] I'll
+[44:24.7 - 44:30.4] turn around and get other stuff done.
+[44:30.4 - 44:30.4] Scared?
+[44:30.4 - 44:30.7] Little bit.
+[44:30.7 - 44:33.0] Yeah, I don't have to.
+[44:33.0 - 44:34.3] It's up to you if you don't want.
+[44:34.3 - 46:14.1] That
+[46:14.1 - 46:16.0] ought to do it.
+[46:16.0 - 46:16.1] No?
+[46:16.1 - 46:16.4] Mm-mm.
+[46:16.4 - 46:27.9] Try.
+[52:00.8 - 52:02.9] Oh my God, this is so fucking good.
+[52:02.9 - 52:50.0] I
+[52:50.0 - 52:51.1] feel like I should have brought my car.
+[52:51.1 - 52:52.0] Huh?
+[52:52.0 - 52:54.0] I feel like I should have brought my car.
+[52:54.0 - 52:55.9] I'll be back to car soon.
+[52:55.9 - 52:56.9] I'll take you back to your car.
+[52:56.9 - 52:60.0] If that's okay.
+[52:60.0 - 53:01.3] Yeah.
+[53:01.3 - 53:04.4] 'Cause I was like, "What's this?" My bad.
+[53:04.4 - 53:05.2] No, you're good.
+[53:05.2 - 53:06.8] No, you would know.
+[53:06.8 - 54:11.5] Is
+[54:11.5 - 54:11.6] this what it is?
+[54:11.6 - 54:11.7] Mm-hmm.
+[54:11.7 - 55:00.7] I
+[55:00.7 - 55:26.8] hate drugs.
+[55:26.8 - 55:32.3] Why?
+[55:32.3 - 55:48.0] It's like whenever I do wanna cum, it's like, "Must ..." It's
+[55:48.0 - 55:48.7] gonna be a lot.
+[55:48.7 - 55:49.6] Mm-hmm.
+[55:49.6 - 55:53.6] You came on my face.
+[55:53.6 - 55:55.6] Do you want more?
+[55:55.6 - 55:56.5] Huh?
+[55:56.5 - 55:57.9] Do you want ...
+[55:57.9 - 55:59.6] Do you want more?
+[55:59.6 - 56:00.1] You can mow over my face.
+[56:00.1 - 56:00.6] There it is.
+[56:00.6 - 56:05.5] Um, well, then it won't ...
+[56:05.5 - 56:07.3] Then I can't cum.
+[56:07.3 - 56:08.8] Oh, watch me do it.
+[56:08.8 - 56:09.5] Huh?
+[56:09.5 - 56:10.7] Back at me.
+[56:10.7 - 56:11.7] Uh-huh.
+[56:11.7 - 56:12.1] Film me.
+[56:12.1 - 56:14.6] Ah.
+[56:14.6 - 56:26.8] I haven't
+[56:26.8 - 56:30.9] cum for a long time, so ...
+[56:30.9 - 56:48.2] I'm
+[56:48.2 - 56:51.9] just gonna be like that.
+[56:51.9 - 57:24.6] I
+[57:24.6 - 57:37.9] don't cum with the worst blue balls in the world.
+[57:37.9 - 57:47.3] Hold on, I'm about to give up.
+[57:47.3 - 57:48.1] What?
+[57:48.1 - 57:51.0] Said I'm about to give up, said, "Oh, you're probably tired." Mm-hmm.
+[57:51.0 - 57:55.5] It's like me in your car and you're getting ...
+[57:55.5 - 57:57.2] Technically, if I go bring my car, I could fuck me.
+[57:57.2 - 57:58.1] Huh?
+[57:58.1 - 57:59.9] If I go bring my car here, you could fuck me still.
+[57:59.9 - 58:01.7] You can fuck yourself?
+[58:01.7 - 58:06.0] I said, technically if you, if I could just go bring my car here, that you could still fuck me.
+[58:06.0 - 58:07.5] Not that.
+[58:07.5 - 58:10.0] Well, it's only a car thing.
+[58:10.0 - 58:13.0] No, it's 'cause the car fucking is full of, full ...
+[58:13.0 - 58:16.2] Basically, I'm transferring over or, uh, taking my stuff back to San Diego.
+[58:16.2 - 58:17.6] Oh, okay.
+[58:17.6 - 58:18.1] Yeah.
+[58:18.1 - 58:19.8] So basically, um, the car's full right now.
+[58:19.8 - 58:21.0] I got you.
+[58:21.0 - 58:21.3] Yeah.
+[58:21.3 - 58:21.8] Yeah.
+[58:21.8 - 58:24.3] Well, when you say it like that, let's go get it.
+[58:24.3 - 58:33.8] I mean, I don't feel like since it where it is, it's a problem, but still I don't want to feel bad if something happens, so let's go do that.
+[58:33.8 - 58:35.0] All right.
+[58:35.0 - 58:36.7] Shit, your chest looks great.
+[58:36.7 - 58:38.0] You've been working out or what?
+[58:38.0 - 58:41.6] I, I haven't worked out in nine months.
+[58:41.6 - 58:42.5] Damn.
+[58:42.5 - 58:43.8] That's pretty good.
+[58:43.8 - 58:44.3] Huh?
+[58:44.3 - 58:44.9] You're good.
+[58:44.9 - 58:47.4] I fuck a lot, so ...
+[58:47.4 - 58:48.0] Right.
+[58:48.0 - 58:49.9] That's, see, that's what I told the ...
+[58:49.9 - 58:56.1] My doctor said, uh, asked me if I worked out and I went like, "I have a lot of sex." And she was like, "Oh, that counts.
+[58:56.1 - 58:58.0] That counts." Yeah.
+[58:58.0 - 58:59.6] You work your whole mo- like, a lot of muscles.
+[58:59.6 - 58:59.9] Cardio.
+[58:59.9 - 59:03.2] I'm like, "Yeah, sure.
+[59:03.2 - 59:06.0] That adds up to it." Poppers check.
+[59:06.0 - 59:07.7] Popper check?
+[59:07.7 - 59:09.7] I was just making sure the lid was on.
+[59:09.7 - 59:10.2] Oh.
+[59:10.2 - 59:11.5] Oh my God.
+[59:11.5 - 59:18.0] I got these from Temu, and they fit so well and feel the cum, the- The cum?
+[59:18.0 - 59:19.9] I love it.
+[59:19.9 - 59:23.2] And they are, um, they're like neon.
+[59:23.2 - 59:26.3] You can't see, but once like, um- Under the light and shit?
+[59:26.3 - 59:26.9] Uh-huh.
+[59:26.9 - 59:28.6] Under the light, they fucking shine.
+[59:28.6 - 59:32.2] And the best part is they were like three for $3- So you have three of them ...
+[59:32.2 - 59:32.9] doll hairs.
+[59:32.9 - 59:34.7] Then I ordered more and more and more.
+[59:34.7 - 59:35.4] Of the color?
+[59:35.4 - 59:37.4] No, just the same set.
+[59:37.4 - 59:38.0] What?
+[59:38.0 - 59:41.1] Well, because like, whenever I was ...
+[59:41.1 - 59:43.3] Oh my God, I'm such a tweaker right now.
+[59:43.3 - 59:44.9] Damn.
+[59:44.9 - 59:46.0] Um- Damn.
+[59:46.0 - 59:47.8] Right?
+[59:47.8 - 59:53.5] You said, "I'm such a tweaker right now." Oh my God, I did that backwards.
+[59:53.5 - 59:56.3] Oh, God.
+[59:56.3 - 59:57.1] There we go.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/downloads/ROSE-REC2_V2026-07-03-01-19-52_transcription_20260706_194021.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/downloads/ROSE-REC2_V2026-07-03-01-19-52_transcription_20260706_194021.txt
+[2J[H[3Jmanus-speech-to-text downloads/ROSE-REC2_V2026-07-03-01-19-52.mp3
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: downloads/ROSE-REC2_V2026-07-03-01-19-52.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: downloads/.ROSE-REC2_V2026-07-03-01-19-52_chunks_20260706_193845/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: downloads/.ROSE-REC2_V2026-07-03-01-19-52_chunks_20260706_193845/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: downloads/.ROSE-REC2_V2026-07-03-01-19-52_chunks_20260706_193845/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: downloads/.ROSE-REC2_V2026-07-03-01-19-52_chunks_20260706_193845/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: downloads/.ROSE-REC2_V2026-07-03-01-19-52_chunks_20260706_193845/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[57:37.9 - 57:47.3] Hold on, I'm about to give up.
+[57:47.3 - 57:48.1] What?
+[57:48.1 - 57:51.0] Said I'm about to give up, said, "Oh, you're probably tired." Mm-hmm.
+[57:51.0 - 57:55.5] It's like me in your car and you're getting ...
+[57:55.5 - 57:57.2] Technically, if I go bring my car, I could fuck me.
+[57:57.2 - 57:58.1] Huh?
+[57:58.1 - 57:59.9] If I go bring my car here, you could fuck me still.
+[57:59.9 - 58:01.7] You can fuck yourself?
+[58:01.7 - 58:06.0] I said, technically if you, if I could just go bring my car here, that you could still fuck me.
+[58:06.0 - 58:07.5] Not that.
+[58:07.5 - 58:10.0] Well, it's only a car thing.
+[58:10.0 - 58:13.0] No, it's 'cause the car fucking is full of, full ...
+[58:13.0 - 58:16.2] Basically, I'm transferring over or, uh, taking my stuff back to San Diego.
+[58:16.2 - 58:17.6] Oh, okay.
+[58:17.6 - 58:18.1] Yeah.
+[58:18.1 - 58:19.8] So basically, um, the car's full right now.
+[58:19.8 - 58:21.0] I got you.
+[58:21.0 - 58:21.3] Yeah.
+[58:21.3 - 58:21.8] Yeah.
+[58:21.8 - 58:24.3] Well, when you say it like that, let's go get it.
+[58:24.3 - 58:33.8] I mean, I don't feel like since it where it is, it's a problem, but still I don't want to feel bad if something happens, so let's go do that.
+[58:33.8 - 58:35.0] All right.
+[58:35.0 - 58:36.7] Shit, your chest looks great.
+[58:36.7 - 58:38.0] You've been working out or what?
+[58:38.0 - 58:41.6] I, I haven't worked out in nine months.
+[58:41.6 - 58:42.5] Damn.
+[58:42.5 - 58:43.8] That's pretty good.
+[58:43.8 - 58:44.3] Huh?
+[58:44.3 - 58:44.9] You're good.
+[58:44.9 - 58:47.4] I fuck a lot, so ...
+[58:47.4 - 58:48.0] Right.
+[58:48.0 - 58:49.9] That's, see, that's what I told the ...
+[58:49.9 - 58:56.1] My doctor said, uh, asked me if I worked out and I went like, "I have a lot of sex." And she was like, "Oh, that counts.
+[58:56.1 - 58:58.0] That counts." Yeah.
+[58:58.0 - 58:59.6] You work your whole mo- like, a lot of muscles.
+[58:59.6 - 58:59.9] Cardio.
+[58:59.9 - 59:03.2] I'm like, "Yeah, sure.
+[59:03.2 - 59:06.0] That adds up to it." Poppers check.
+[59:06.0 - 59:07.7] Popper check?
+[59:07.7 - 59:09.7] I was just making sure the lid was on.
+[59:09.7 - 59:10.2] Oh.
+[59:10.2 - 59:11.5] Oh my God.
+[59:11.5 - 59:18.0] I got these from Temu, and they fit so well and feel the cum, the- The cum?
+[59:18.0 - 59:19.9] I love it.
+[59:19.9 - 59:23.2] And they are, um, they're like neon.
+[59:23.2 - 59:26.3] You can't see, but once like, um- Under the light and shit?
+[59:26.3 - 59:26.9] Uh-huh.
+[59:26.9 - 59:28.6] Under the light, they fucking shine.
+[59:28.6 - 59:32.2] And the best part is they were like three for $3- So you have three of them ...
+[59:32.2 - 59:32.9] doll hairs.
+[59:32.9 - 59:34.7] Then I ordered more and more and more.
+[59:34.7 - 59:35.4] Of the color?
+[59:35.4 - 59:37.4] No, just the same set.
+[59:37.4 - 59:38.0] What?
+[59:38.0 - 59:41.1] Well, because like, whenever I was ...
+[59:41.1 - 59:43.3] Oh my God, I'm such a tweaker right now.
+[59:43.3 - 59:44.9] Damn.
+[59:44.9 - 59:46.0] Um- Damn.
+[59:46.0 - 59:47.8] Right?
+[59:47.8 - 59:53.5] You said, "I'm such a tweaker right now." Oh my God, I did that backwards.
+[59:53.5 - 59:56.3] Oh, God.
+[59:56.3 - 59:57.1] There we go.
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/downloads/ROSE-REC2_V2026-07-03-01-19-52_transcription_20260706_194021.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/downloads/ROSE-REC2_V2026-07-03-01-19-52_transcription_20260706_194021.txt

@@ -1,0 +1,320 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2026-07-02-12-55-09.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: .ROSE-REC2_V2026-07-02-12-55-09_chunks_20260706_161405/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: .ROSE-REC2_V2026-07-02-12-55-09_chunks_20260706_161405/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: .ROSE-REC2_V2026-07-02-12-55-09_chunks_20260706_161405/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: .ROSE-REC2_V2026-07-02-12-55-09_chunks_20260706_161405/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: .ROSE-REC2_V2026-07-02-12-55-09_chunks_20260706_161405/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.7 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[36:01.0 - 36:38.9] But I thought they'd be like this, I thought they'd
+[36:38.9 - 36:51.9] be athletes
+[36:51.9 - 37:03.5] and not- Yeah,
+[37:03.5 - 37:08.4] I thought I noticed that when I was getting connected.
+[37:08.4 - 37:09.5] Just got to call it.
+[37:09.5 - 37:10.5] I'm not just gonna be fair.
+[37:10.5 - 37:20.1] So, it's magic.
+[37:20.1 - 37:26.4] I went down to like one seventy-five.
+[37:26.4 - 37:28.6] I want to be at half a percent on my way.
+[37:28.6 - 37:31.9] I want to be back at two hundred.
+[37:31.9 - 37:37.8] You know, I believe in shit.
+[37:37.8 - 37:38.4] I believe.
+[37:38.4 - 38:07.3] It
+[38:07.3 - 38:10.2] was holding my hand down to the bed.
+[38:10.2 - 38:16.5] She's like, "You're a little starving." Is everyone reading me off?
+[38:16.5 - 38:19.8] Are they Germans?
+[38:19.8 - 38:21.7] In the example, Germans would never come to you.
+[38:21.7 - 38:23.7] They would not.
+[38:23.7 - 38:27.1] Are they interpretations?
+[38:27.1 - 38:39.1] And if I told you...
+[38:39.1 - 38:49.3] Okay, I mean,
+[38:49.3 - 39:08.9] if I do read, I can
+[39:08.9 - 39:12.2] help you manage.
+[39:12.2 - 39:14.1] Go away.
+[39:14.1 - 39:18.1] I need a gym bro.
+[39:18.1 - 39:30.8] Can
+[39:30.8 - 39:55.3] you hear
+[39:55.3 - 40:00.1] it?
+[40:00.1 - 40:10.3] Our practice
+[40:10.3 - 40:31.7] is
+[40:31.7 - 40:42.5] normal size.
+[40:42.5 - 41:00.1] Do
+[41:00.1 - 41:10.4] you think he's on a
+[41:10.4 - 41:11.5] trip back?
+[41:11.5 - 41:11.5] You'll get a high score?
+[41:11.5 - 41:11.5] Huh?
+[41:11.5 - 41:12.7] You'll let me get a high score?
+[41:12.7 - 41:27.5] You're gonna let me, you let me get a high score.
+[41:27.5 - 41:29.0] I like that, I like that.
+[41:29.0 - 41:42.2] That's what you
+[41:42.2 - 41:45.7] put in my head.
+[41:45.7 - 41:52.7] That's what you put in my head.
+[41:52.7 - 41:57.9] I like that one.
+[41:57.9 - 42:00.1] Yeah.
+[42:00.1 - 42:10.3] Where do you
+[42:10.3 - 42:10.6] live here?
+[42:10.6 - 42:13.3] Uh, I live in, uh, Brentwood.
+[42:13.3 - 42:13.9] Oh.
+[42:13.9 - 42:15.5] So it's like twenty, twenty-two minutes.
+[42:15.5 - 42:16.6] Not too far.
+[42:16.6 - 42:17.0] Where are you at?
+[42:17.0 - 42:18.8] I mean, uh, I live at this.
+[42:18.8 - 42:20.3] Oh, right.
+[42:20.3 - 42:20.4] Where?
+[42:20.4 - 42:20.6] No.
+[42:20.6 - 42:28.2] Well, I, I, I get here like at five thirty-six 'cause I leave-- I go to zero four, and then I come in here.
+[42:28.2 - 42:32.7] If I, if I leave anytime after like six thirty-seven, it's like an hour.
+[42:32.7 - 42:33.7] Really?
+[42:33.7 - 42:34.2] I think now.
+[42:34.2 - 42:42.7] It's just like, wow, it's bad.
+[42:42.7 - 42:42.9] So I'm here.
+[42:42.9 - 42:43.7] I get here maybe like at- Yeah.
+[42:43.7 - 42:43.7] -looking shape.
+[42:43.7 - 42:44.2] I think so.
+[42:44.2 - 42:46.3] Back then, just because I, uh, we did do- Uh, crunch.
+[42:46.3 - 42:51.1] I go to all of them because I have one pack six days, so I go to all of them.
+[42:51.1 - 42:56.4] But during, um, the pandemic shit, we had a ten-year member.
+[42:56.4 - 42:57.0] Oh, shit.
+[42:57.0 - 43:03.5] We had a ten-year member.
+[43:03.5 - 43:04.1] Um, yeah.
+[43:04.1 - 43:06.0] That's it.
+[43:06.0 - 43:06.0] That's it.
+[43:06.0 - 43:08.2] That was it.
+[43:08.2 - 43:08.6] Which is...
+[43:08.6 - 43:12.8] Uh, I mean, the closest he comes to here is right here.
+[43:12.8 - 43:14.0] Here is BP.
+[43:14.0 - 43:18.4] So you guys are going that way or that way, right?
+[43:18.4 - 43:21.5] Yeah.
+[43:21.5 - 43:21.8] Um, I, I think I only went there like three times.
+[43:21.8 - 43:26.6] I didn't like that.
+[43:26.6 - 43:31.0] There's a, there's a new one though in Santa Monica called Santa Monica Beach.
+[43:31.0 - 43:31.2] Um, it's fucking sick.
+[43:31.2 - 43:31.2] It is?
+[43:31.2 - 43:36.5] It has a rooftop pool, rooftop pool plunge, uh, a sauna, and a steam room.
+[43:36.5 - 43:37.9] So- Dude.
+[43:37.9 - 43:39.6] It's super great.
+[43:39.6 - 43:43.2] Unfortunately, I, uh, I got, I got screwed out.
+[43:43.2 - 43:52.1] I have, uh, I ended up taking a role when I moved to North Carolina a few months ago, and leading up to that, going to that gym.
+[43:52.1 - 43:54.8] It's phenomenal.
+[43:54.8 - 43:56.7] Like, I see you grill right out of your car.
+[43:56.7 - 43:56.9] Right.
+[43:56.9 - 43:58.2] You do your song.
+[43:58.2 - 44:02.6] I mean, honestly, the easiest part was just singing the song, and it's a COVID song, and that was tough.
+[44:02.6 - 44:11.0] Like, 'cause you have to do your song when you're actually walking, but then there's a COVID one where it's like, oh, you're singing there, and then like walk up, and then everyone-- then you just start talking.
+[44:11.0 - 44:11.4] Yeah.
+[44:11.4 - 44:13.8] And chatting about whatever it was.
+[44:13.8 - 44:16.6] And then you exit, and now it's like, oh, like, it's all go off sometimes.
+[44:16.6 - 44:17.4] For sure.
+[44:17.4 - 44:17.7] For sure.
+[44:17.7 - 44:20.6] That's good.
+[44:20.6 - 44:22.6] That's what, that's why you pay people.
+[44:22.6 - 44:23.1] That's why you pay people.
+[44:23.1 - 44:24.4] You're not paying them to work out.
+[44:24.4 - 44:25.8] Quinton's garbage.
+[44:25.8 - 44:26.3] Yeah.
+[44:26.3 - 44:26.9] Quinton's garbage.
+[44:26.9 - 44:28.0] He's really annoying.
+[44:28.0 - 44:29.6] I fucking hate him.
+[44:29.6 - 44:30.3] Yeah.
+[44:30.3 - 44:31.1] You should check that out.
+[44:31.1 - 44:32.2] It's very chill.
+[44:32.2 - 44:36.2] I went to his house one time in Santa Monica.
+[44:36.2 - 44:36.5] That's right.
+[44:36.5 - 44:36.5] I was sick.
+[44:36.5 - 44:38.7] But I-- all the equipment is not working.
+[44:38.7 - 44:39.1] Yeah.
+[44:39.1 - 44:40.5] Not working at all.
+[44:40.5 - 44:42.1] I go in the morning.
+[44:42.1 - 44:44.3] I go in there at eight A.M.
+[44:44.3 - 44:44.3] Maybe, uh, eight P.M.
+[44:44.3 - 44:44.3] That's so good.
+[44:44.3 - 44:44.3] That's so good.
+[44:44.3 - 44:44.3] The EOS gym, is it technically an EOS gym, the new EOS gym?
+[44:44.3 - 44:44.4] Yeah.
+[44:44.4 - 44:44.5] Super nice.
+[44:44.5 - 44:45.4] Brand-new equipment.
+[44:45.4 - 44:48.7] There's one by Beverly Center which I went to.
+[44:48.7 - 44:48.7] Mm-hmm.
+[44:48.7 - 44:50.3] It was super nice, but she works there.
+[44:50.3 - 44:50.3] Okay.
+[44:50.3 - 44:54.7] It's frequently a long time to get in and out.
+[44:54.7 - 44:54.8] Yeah.
+[44:54.8 - 44:54.9] So you have to go all the way.
+[44:54.9 - 44:54.9] Yeah.
+[44:54.9 - 44:55.2] There's one by us.
+[44:55.2 - 44:55.2] But she works there.
+[44:55.2 - 44:59.2] I've been in-- I've been in there a couple times.
+[44:59.2 - 45:08.1] I mean, she, her, she works there still.
+[45:08.1 - 45:14.8] She has-- she has her results.
+[45:14.8 - 45:19.7] I know her.
+[45:19.7 - 45:23.4] I tapped her.
+[45:23.4 - 45:26.4] She has a good chest.
+[45:26.4 - 45:29.2] Her whole back, she has good legs.
+[45:29.2 - 45:37.1] I mean, her-- she just, she's just, she...
+[45:37.1 - 45:38.5] I'll guess her...
+[45:38.5 - 45:45.9] It's like one twenty, maybe even a hundred and ten.
+[45:45.9 - 45:45.9] Yeah, they could.
+[45:45.9 - 45:45.9] I shower a lot.
+[45:45.9 - 45:51.1] I shower completely sore wherever you're-- you know.
+[45:51.1 - 45:59.1] They got something there.
+[45:59.1 - 46:02.4] They got a play, a play ground.
+[46:02.4 - 46:02.6] Got a bowl.
+[46:02.6 - 46:03.3] Crunch.
+[46:03.3 - 46:04.2] Uh.
+[46:04.2 - 46:05.9] The active.
+[46:05.9 - 46:08.4] It's all, it's all, it's all, it's all...
+[46:08.4 - 46:10.2] You're gonna have to value your gym more for no reason.
+[46:10.2 - 46:10.4] No reason.
+[46:10.4 - 46:11.3] You're basically almost...
+[46:11.3 - 46:14.6] Your backup?
+[46:14.6 - 46:15.6] Ah.
+[46:15.6 - 46:27.6] I'm just, I'm just trying to figure out what I could do to up my career and just
+[46:27.6 - 46:35.9] kind of close the shop because I want to do something more on the brand side of things.
+[46:35.9 - 46:37.6] I don't know how exactly, um, to approach that.
+[46:37.6 - 46:38.8] There's an overlay of shit that needs to be done.
+[46:38.8 - 46:43.6] There's stuff in Pocket where she's working on, where she's doing some stuff back in there.
+[46:43.6 - 46:44.2] She's doing training.
+[46:44.2 - 46:46.8] She's doing a lot of different things.
+[46:46.8 - 46:50.9] So it's very interesting to see that.
+[46:50.9 - 46:51.4] She's got a business development.
+[46:51.4 - 46:58.3] There's a lot of shit that I want to take the lead on, but I don't know how the best to make this shit.
+[46:58.3 - 47:00.4] It's a lot of moving pieces.
+[47:00.4 - 47:02.0] Right.
+[47:02.0 - 47:04.8] But I do, I take management seriously.
+[47:04.8 - 47:06.2] I take management very seriously.
+[47:06.2 - 47:08.5] She takes everything to detail.
+[47:08.5 - 47:14.3] Every file, every invoice, every payment, everything is so perfect and detailed.
+[47:14.3 - 47:22.1] I have to turn management over to somebody that I can trust and that does have a folder of everything I drop in there.
+[47:22.1 - 47:25.8] They analyze it, they tell me what it's about, they tell me what actions to take.
+[47:25.8 - 47:28.6] This isn't my focus or the popcorn.
+[47:28.6 - 47:29.9] Exit a scale.
+[47:29.9 - 47:32.8] I just read down everything, take notes on everything.
+[47:32.8 - 47:33.9] So I'll meet you back at the whole dashboard.
+[47:33.9 - 47:35.1] There you go.
+[47:35.1 - 47:35.1] There you go.
+[47:35.1 - 47:36.5] That's all it is.
+[47:36.5 - 47:38.0] And then...
+[47:38.0 - 47:38.6] Yeah.
+[47:38.6 - 47:42.2] And then you show, you're gonna-- you're, you're the technical solution, and then you're technical, like, application guy.
+[47:42.2 - 47:42.3] Yeah.
+[47:42.3 - 47:45.2] Yeah, that's what I love.
+[47:45.2 - 47:56.7] It's been four or five months, so
+[47:56.7 - 47:57.1] yeah.
+[47:57.1 - 47:57.7] Yeah.
+[47:57.7 - 47:57.9] Cool.
+[47:57.9 - 47:59.9] That's, that's, that's where you said, you know
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2026-07-02-12-55-09_transcription_20260706_161506.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2026-07-02-12-55-09_transcription_20260706_161506.txt
+[2J[H[3Jmanus-speech-to-text ROSE-REC2_V2026-07-02-12-55-09.mp3
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2026-07-02-12-55-09.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: .ROSE-REC2_V2026-07-02-12-55-09_chunks_20260706_161405/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: .ROSE-REC2_V2026-07-02-12-55-09_chunks_20260706_161405/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: .ROSE-REC2_V2026-07-02-12-55-09_chunks_20260706_161405/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: .ROSE-REC2_V2026-07-02-12-55-09_chunks_20260706_161405/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: .ROSE-REC2_V2026-07-02-12-55-09_chunks_20260706_161405/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[44:55.2 - 44:59.2] I've been in-- I've been in there a couple times.
+[44:59.2 - 45:08.1] I mean, she, her, she works there still.
+[45:08.1 - 45:14.8] She has-- she has her results.
+[45:14.8 - 45:19.7] I know her.
+[45:19.7 - 45:23.4] I tapped her.
+[45:23.4 - 45:26.4] She has a good chest.
+[45:26.4 - 45:29.2] Her whole back, she has good legs.
+[45:29.2 - 45:37.1] I mean, her-- she just, she's just, she...
+[45:37.1 - 45:38.5] I'll guess her...
+[45:38.5 - 45:45.9] It's like one twenty, maybe even a hundred and ten.
+[45:45.9 - 45:45.9] Yeah, they could.
+[45:45.9 - 45:45.9] I shower a lot.
+[45:45.9 - 45:51.1] I shower completely sore wherever you're-- you know.
+[45:51.1 - 45:59.1] They got something there.
+[45:59.1 - 46:02.4] They got a play, a play ground.
+[46:02.4 - 46:02.6] Got a bowl.
+[46:02.6 - 46:03.3] Crunch.
+[46:03.3 - 46:04.2] Uh.
+[46:04.2 - 46:05.9] The active.
+[46:05.9 - 46:08.4] It's all, it's all, it's all, it's all...
+[46:08.4 - 46:10.2] You're gonna have to value your gym more for no reason.
+[46:10.2 - 46:10.4] No reason.
+[46:10.4 - 46:11.3] You're basically almost...
+[46:11.3 - 46:14.6] Your backup?
+[46:14.6 - 46:15.6] Ah.
+[46:15.6 - 46:27.6] I'm just, I'm just trying to figure out what I could do to up my career and just
+[46:27.6 - 46:35.9] kind of close the shop because I want to do something more on the brand side of things.
+[46:35.9 - 46:37.6] I don't know how exactly, um, to approach that.
+[46:37.6 - 46:38.8] There's an overlay of shit that needs to be done.
+[46:38.8 - 46:43.6] There's stuff in Pocket where she's working on, where she's doing some stuff back in there.
+[46:43.6 - 46:44.2] She's doing training.
+[46:44.2 - 46:46.8] She's doing a lot of different things.
+[46:46.8 - 46:50.9] So it's very interesting to see that.
+[46:50.9 - 46:51.4] She's got a business development.
+[46:51.4 - 46:58.3] There's a lot of shit that I want to take the lead on, but I don't know how the best to make this shit.
+[46:58.3 - 47:00.4] It's a lot of moving pieces.
+[47:00.4 - 47:02.0] Right.
+[47:02.0 - 47:04.8] But I do, I take management seriously.
+[47:04.8 - 47:06.2] I take management very seriously.
+[47:06.2 - 47:08.5] She takes everything to detail.
+[47:08.5 - 47:14.3] Every file, every invoice, every payment, everything is so perfect and detailed.
+[47:14.3 - 47:22.1] I have to turn management over to somebody that I can trust and that does have a folder of everything I drop in there.
+[47:22.1 - 47:25.8] They analyze it, they tell me what it's about, they tell me what actions to take.
+[47:25.8 - 47:28.6] This isn't my focus or the popcorn.
+[47:28.6 - 47:29.9] Exit a scale.
+[47:29.9 - 47:32.8] I just read down everything, take notes on everything.
+[47:32.8 - 47:33.9] So I'll meet you back at the whole dashboard.
+[47:33.9 - 47:35.1] There you go.
+[47:35.1 - 47:35.1] There you go.
+[47:35.1 - 47:36.5] That's all it is.
+[47:36.5 - 47:38.0] And then...
+[47:38.0 - 47:38.6] Yeah.
+[47:38.6 - 47:42.2] And then you show, you're gonna-- you're, you're the technical solution, and then you're technical, like, application guy.
+[47:42.2 - 47:42.3] Yeah.
+[47:42.3 - 47:45.2] Yeah, that's what I love.
+[47:45.2 - 47:56.7] It's been four or five months, so
+[47:56.7 - 47:57.1] yeah.
+[47:57.1 - 47:57.7] Yeah.
+[47:57.7 - 47:57.9] Cool.
+[47:57.9 - 47:59.9] That's, that's, that's where you said, you know
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2026-07-02-12-55-09_transcription_20260706_161506.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2026-07-02-12-55-09_transcription_20260706_161506.txt

@@ -1,0 +1,518 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_Monday_V2026-01-01-17-37-30.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: mp3/.ROSE-REC2_Monday_V2026-01-01-17-37-30_chunks_20260705_192303/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: mp3/.ROSE-REC2_Monday_V2026-01-01-17-37-30_chunks_20260705_192303/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: mp3/.ROSE-REC2_Monday_V2026-01-01-17-37-30_chunks_20260705_192303/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: mp3/.ROSE-REC2_Monday_V2026-01-01-17-37-30_chunks_20260705_192303/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: mp3/.ROSE-REC2_Monday_V2026-01-01-17-37-30_chunks_20260705_192303/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.7 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[07:08.6 - 07:09.3] Let's go.
+[07:09.3 - 07:15.9] I may have found a Manus alternative with no credit limit.
+[07:15.9 - 07:17.0] What?
+[07:17.0 - 07:18.4] Open source.
+[07:18.4 - 07:19.5] Oh, shit.
+[07:19.5 - 07:20.5] We'll see.
+[07:20.5 - 07:24.4] You mean they updated it and there's no credit limit?
+[07:24.4 - 07:33.1] No, I may have found a GitHub repository that has an open source LLM or- That is the dumbest thing ever.
+[07:33.1 - 07:33.6] What?
+[07:33.6 - 07:35.6] That it doesn't let you...
+[07:35.6 - 07:45.7] Like, they want you to use it all the time, but I think their way of saying, like, "We don't gouge you," is you don't just have the credit card connected to constantly
+[07:45.7 - 07:46.3] feed it.
+[07:46.3 - 07:47.1] Oh, right.
+[07:47.1 - 07:49.2] Then they can actually- And it can't auto-renew.
+[07:49.2 - 07:59.3] Like, it just seems like what they should do is like, "Hey, I want two hundred dollars worth of credits," and then they should allow you the option of like, "And when that runs out, re-up
+[07:59.3 - 08:01.5] me on two hundred dollars worth of credits." Well, they can do auto top-offs.
+[08:01.5 - 08:03.1] You can do auto top-offs.
+[08:03.1 - 08:03.6] It can.
+[08:03.6 - 08:04.1] Yeah.
+[08:04.1 - 08:09.1] I thought he was-- I thought he mentioned he had, like, looked at it and it didn't- I'm pretty sure.
+[08:09.1 - 08:10.2] I'm not positive.
+[08:10.2 - 08:11.8] I'm like ninety-five percent sure.
+[08:11.8 - 08:12.9] He just didn't-- You know, I'm hands-off.
+[08:12.9 - 08:15.2] I just, like, use it for this and that here and there.
+[08:15.2 - 08:19.1] Yeah, but I don't know if you would want it to do that 'cause then you wouldn't really know, like...
+[08:19.1 - 08:22.7] But in our case, a team, you don't know who's working on what.
+[08:22.7 - 08:22.8] Yeah.
+[08:22.8 - 08:27.3] No, this is, this is, this is my thing is I think if they allow that, we wouldn't want it because- Then it's never frozen ...
+[08:27.3 - 08:34.0] it prevents the thing of like, "Well, hey, oh, you want me to do that thing, but now I can't 'cause the credits have been used up." 'Cause...
+[08:34.0 - 08:34.2] Yeah.
+[08:34.2 - 08:38.3] It would just auto top it off, and then we just go- Yeah, but it still goes negative.
+[08:38.3 - 08:38.9] It's weird.
+[08:38.9 - 08:49.0] Yeah, but then he's also look-- Like, I know that he-- Because understandably, he just, as you would, as I would, as Mark always is when we ask
+[08:49.0 - 08:50.3] him for the...
+[08:50.3 - 08:53.6] When he's like, "Hey, I need the code that it says"- I need the code, his verification code.
+[08:53.6 - 08:54.1] And Mark's annoying.
+[08:54.1 - 08:58.8] It's like it happens so often, it's like if it were at his disposal- I'm gonna look into that and see.
+[08:58.8 - 09:05.1] He must have-- If it is available, he just must not have seen it because it's like, yeah, why wouldn't-- We're using it all the time.
+[09:05.1 - 09:05.4] Yeah.
+[09:05.4 - 09:13.9] Mark isn't hurting for money in that we can retroactively go back and be like, "Oh, hey, Ethan." Yeah.
+[09:13.9 - 09:15.8] Too, too many cre-- like- Right ...
+[09:15.8 - 09:16.8] dial it way back.
+[09:16.8 - 09:19.3] Like- Don't, don't, don't do AI porn, okay?
+[09:19.3 - 09:20.4] Like, you're not gonna get fined.
+[09:20.4 - 09:25.5] Like, where he's not gonna come and fine you for stuff and be like, "You have to pay for this now.
+[09:25.5 - 09:29.3] It was too much." But it's like, "Oh, hey, man, just that was a lot." Pump the brakes a bit.
+[09:29.3 - 09:30.0] Like, pump the brakes.
+[09:30.0 - 09:30.3] Yeah.
+[09:30.3 - 09:31.9] That's all it would be.
+[09:31.9 - 09:32.6] Yeah, yeah, yeah.
+[09:32.6 - 09:34.1] So it's like we would want the auto top-off to not auto anymore.
+[09:34.1 - 09:38.4] Yeah, I'm gonna look into that and see 'cause I'm almost certain- Simply because you can see how he's, like, raged.
+[09:38.4 - 09:45.7] It's been for you, not at you, but, like, he's been annoyed that you can't do something you're trying to do for him- Yeah, yeah, yeah ...
+[09:45.7 - 09:46.1] because of that.
+[09:46.1 - 09:54.8] And so it's like he would never-- Mark is, I'm trying to put myself in his shoes, would never be like, "Why did you put it to auto top off?" I would never want that.
+[09:54.8 - 09:59.9] Um, see subscribed users can top up add-on cre-- Oh, wait.
+[09:59.9 - 10:01.6] Add-on credits do not expire.
+[10:01.6 - 10:02.3] I mean, I don't...
+[10:02.3 - 10:04.6] Yeah, you, you- I'll just ask him.
+[10:04.6 - 10:05.6] You know what you're doing.
+[10:05.6 - 10:07.2] I don't even...
+[10:07.2 - 10:08.5] You don't need me to tell what you're doing.
+[10:08.5 - 10:13.6] Could just put, you know, five thousand in there and get one point or seven hundred and fifty thousand credits.
+[10:13.6 - 10:15.3] Yeah.
+[28:56.3 - 28:56.5] Hello?
+[28:56.5 - 29:05.3] Can you, uh, add me, share, share the, uh, summary, um, in-- the investor summary- Yes.
+[29:05.3 - 29:07.9] ...task that you did for, um, Nicole?
+[29:07.9 - 29:09.2] Just send it to me.
+[29:09.2 - 29:10.7] Um- Yeah, but I, I want the- Yeah.
+[29:10.7 - 29:11.7] I'll give you the task ...the task.
+[29:11.7 - 29:13.7] We, we build, we build tasks with each other.
+[29:13.7 - 29:14.7] That's what we, we...
+[29:14.7 - 29:50.3] This
+[29:50.3 - 34:08.0] is- Red,
+[34:08.0 - 34:08.7] yellow, green, blue.
+[34:08.7 - 34:09.4] How can I help you?
+[34:09.4 - 34:19.4] Um, you're, you're gonna need to hold off on Manus because, uh, in order for me to top it off, I gotta get the, the text code from Mark, and he's in the, in the doctor's office right
+[34:19.4 - 34:19.4] now.
+[34:19.4 - 34:20.1] Oh, okay.
+[34:20.1 - 34:21.2] We're at four hundred, so...
+[34:21.2 - 34:21.9] Okay, no worries.
+[34:21.9 - 34:22.8] Yeah, I'm, I'm- Yeah.
+[34:22.8 - 34:23.9] I don't need to right now, so.
+[34:23.9 - 34:24.8] Okay.
+[34:24.8 - 34:25.8] All righty.
+[34:25.8 - 34:27.3] All right, later.
+[34:27.3 - 34:27.7] Okay, bye.
+[39:21.9 - 39:24.2] Hello?
+[39:24.2 - 39:28.5] Execute that command that I just, uh, uh, um- Okay ...
+[39:28.5 - 39:29.1] put inside.
+[39:29.1 - 39:33.0] Just- All right, let me...
+[39:33.0 - 39:34.9] Loading.
+[39:34.9 - 39:39.6] Oh, looks like it's already going.
+[39:39.6 - 39:41.8] It says it, it says that you have to accept though.
+[39:41.8 - 39:42.4] Did you accept it?
+[39:42.4 - 39:44.1] Oh, no, it, it goes ahead and does it.
+[39:44.1 - 39:45.6] It just tells you that anyway.
+[39:45.6 - 39:47.0] Yeah, it's still working.
+[39:47.0 - 39:47.1] Oh.
+[39:47.1 - 39:47.3] Yeah.
+[39:47.3 - 39:48.8] I, I need to take that off.
+[39:48.8 - 39:55.6] I accidentally did that one time so that I could, like, save credits and checks before it did stuff, but it still does it, so yeah.
+[39:55.6 - 39:56.1] Okay, cool.
+[39:56.1 - 39:57.9] Yeah.
+[39:57.9 - 40:17.5] Uh, uh-huh.
+[40:17.5 - 40:45.0] Yeah,
+[40:45.0 - 40:45.5] they're on.
+[40:45.5 - 40:48.2] Doing good with, uh, Jeremy?
+[40:48.2 - 40:48.6] Rent rolls?
+[40:48.6 - 40:48.9] Yep.
+[40:48.9 - 40:50.6] Yeah, except for Opa-Locka.
+[40:50.6 - 40:53.1] How do I get Opa-Locka's rent roll?
+[40:53.1 - 40:55.1] Well, I don't have Opa-Locka in Jeremy.
+[40:55.1 - 40:56.6] That's probably why.
+[40:56.6 - 41:03.7] So- I will check one- Do you know, do you know how to do rent rolls in RealPage?
+[41:03.7 - 41:05.0] Yeah, off one side?
+[41:05.0 - 41:05.6] The classic?
+[41:05.6 - 41:06.3] Yeah, yeah.
+[41:06.3 - 41:06.7] Yeah, yeah.
+[41:06.7 - 41:06.7] Yeah.
+[41:06.7 - 41:06.9] Okay.
+[41:06.9 - 41:07.6] It'll be in there.
+[41:07.6 - 41:07.9] Cool.
+[41:07.9 - 41:08.4] Thank you.
+[41:08.4 - 41:09.3] That's how.
+[41:09.3 - 41:09.8] You might...
+[41:09.8 - 41:15.5] I don't know if you have trouble doing it, but I did notice, you know, on your browser- Uh-huh ...
+[41:15.5 - 41:21.9] where there's like the quick qualifies rented out, if you've still been able to do- Oh, the popups.
+[41:21.9 - 41:22.5] Yeah.
+[41:22.5 - 41:25.0] Yeah, I did, uh, enable them, that they could come in.
+[41:25.0 - 41:25.8] Okay.
+[41:25.8 - 41:30.7] But even still, if you're unable to run a certain report, which if you're not...
+[41:30.7 - 41:34.4] If you're able to run rent rolls, then this doesn't matter, but, like- Yeah ...
+[41:34.4 - 41:40.0] the classic only works fully in Edge when it's running in- Oh ...
+[41:40.0 - 41:47.7] Internet Explorer mode, which it's, like, automatically done in Microsoft Edge for us with how Jeremy- Oh ...
+[41:47.7 - 41:49.2] set it up, I'm pretty sure.
+[41:49.2 - 41:49.8] Interesting.
+[41:49.8 - 41:54.4] But you- But yeah, if, but if you were able to get other rent rolls, then that's not a thing.
+[41:54.4 - 41:55.0] Yeah, I wasn't successful at all.
+[41:55.0 - 41:59.7] But I've had managers or regionals tell me that certain reports won't run.
+[41:59.7 - 42:00.1] Oh.
+[42:00.1 - 42:00.5] So.
+[42:00.5 - 42:02.8] Well, I know that you have to enable the popups.
+[42:02.8 - 42:04.6] Well, disable them.
+[42:04.6 - 42:04.8] That, yeah.
+[42:04.8 - 42:07.5] That you do to get into classic RealPage.
+[42:07.5 - 42:07.9] Yeah.
+[42:07.9 - 42:07.9] Yeah.
+[42:07.9 - 42:09.4] Yep.
+[42:09.4 - 44:40.8] You
+[44:40.8 - 44:41.4] look grubby.
+[44:41.4 - 44:42.4] I do?
+[44:42.4 - 44:43.2] Yeah.
+[44:43.2 - 44:46.2] Uh, just, just focused.
+[44:46.2 - 44:51.2] Trying to get all these rent rolls dialed in.
+[44:51.2 - 44:57.8] I saw what you said about the short-term rental.
+[44:57.8 - 44:59.0] Totally delusional.
+[44:59.0 - 45:01.1] Just like he thinks he can...
+[45:01.1 - 45:01.7] He, he...
+[45:01.7 - 45:05.2] His, uh, condo in Florida, he thought he could get it for, for like 40K.
+[45:05.2 - 45:08.5] Right now he finally got a tenant at 27.
+[45:08.5 - 45:13.5] Maybe during, I don't know, 40K and 27 is quite the leap, yeah.
+[45:13.5 - 45:15.6] I don't know.
+[45:15.6 - 45:18.9] And the, the girl looked a lot like the other girls that I've seen.
+[45:18.9 - 45:19.7] Yeah, I know.
+[45:19.7 - 45:20.4] I mean- There's a type.
+[45:20.4 - 45:21.5] I'm not stupid.
+[45:21.5 - 45:22.9] Yeah, exactly.
+[45:22.9 - 45:23.7] There's a type.
+[45:23.7 - 45:25.1] Exactly.
+[45:25.1 - 45:25.7] And you know what?
+[45:25.7 - 45:28.2] If I was somebody that had that kind of money- Yeah ...
+[45:28.2 - 45:30.2] that is not who I would- Yeah ...
+[45:30.2 - 45:30.8] be working with.
+[45:30.8 - 45:35.1] And I mean, the easy solution would've been just sign the listing agreement.
+[45:35.1 - 45:35.9] We'd all be happy.
+[45:35.9 - 45:37.6] You told me you were going to anyway.
+[45:37.6 - 45:38.7] Problem solved.
+[45:38.7 - 45:40.3] But he's not ready to list.
+[45:40.3 - 45:40.7] Yeah.
+[45:40.7 - 45:42.3] He's putting the cart before the horse.
+[45:42.3 - 45:46.7] But it would at least have resolved my, you know, if that- But I'm telling you- ...
+[45:46.7 - 45:48.6] he's all over the place, and you know he's all over the place.
+[45:48.6 - 45:48.7] Yeah.
+[45:48.7 - 45:49.7] He's not ready to list.
+[45:49.7 - 45:50.3] Right.
+[45:50.3 - 45:51.8] We're not going anywhere yet.
+[45:51.8 - 45:52.4] I know.
+[45:52.4 - 45:53.1] So...
+[45:53.1 - 45:56.9] And besides, before he lists his house, there's some repairs that are needed.
+[45:56.9 - 45:58.1] Oh, for sure.
+[45:58.1 - 45:58.3] Yeah.
+[45:58.3 - 45:58.9] Yeah.
+[45:58.9 - 45:59.3] Every...
+[45:59.3 - 45:59.7] Yeah.
+[45:59.7 - 46:00.1] Yeah.
+[46:00.1 - 46:05.3] I mean- Deck, um- Like somewhere, you know, uh, I suppose you can leave all the wires and cracks in the walls, but- Yeah.
+[46:05.3 - 46:08.9] That would need to be an infinity pool for 40 grand a month.
+[46:08.9 - 46:12.6] And it would need to have, like, an actual view.
+[46:12.6 - 46:17.6] Yeah, it, it, it kinda is an infinity pool, but it just- Oh, right.
+[46:17.6 - 46:18.7] But- It has a rim.
+[46:18.7 - 46:20.1] You know, on the...
+[46:20.1 - 46:21.0] goes off a cliff.
+[46:21.0 - 46:22.8] Yeah, no.
+[46:22.8 - 46:24.5] There's, like, the deck needs to be redone.
+[46:24.5 - 46:26.6] The outside needs to be- Furniture and- ...
+[46:26.6 - 46:29.9] repainted and then- Pressure washed, everything Yeah.
+[46:29.9 - 46:32.1] No, it's not all fixable.
+[46:32.1 - 46:35.1] But I mean, it would need all that for a short-term rental so...
+[46:35.1 - 46:35.7] Yeah.
+[46:35.7 - 46:36.7] No, he's delusional.
+[46:36.7 - 46:39.3] He's delusional, and you know what?
+[46:39.3 - 46:42.9] He needs these- He says a very close family friend.
+[46:42.9 - 46:45.6] That's what he said about the one that stayed upstairs too.
+[46:45.6 - 46:46.2] Yeah.
+[46:46.2 - 46:47.2] I was like, "Yeah, okay.
+[46:47.2 - 46:48.6] Well-" He just likes cheap women.
+[46:48.6 - 46:49.6] The- Because you know what?
+[46:49.6 - 46:52.4] Cheap women are the only ones that'll hang out with him.
+[46:52.4 - 46:56.9] And the ones that don't speak that great of English 'cause so then they can't talk back real well.
+[46:56.9 - 46:59.3] Yeah.
+[46:59.3 - 47:01.1] Cheap foreign women.
+[47:01.1 - 47:01.7] Mm-hmm.
+[47:01.7 - 47:03.9] Well- Yeah.
+[47:03.9 - 47:07.6] We wouldn't know how to- I was already on one that day, and then that happened.
+[47:07.6 - 47:08.9] I was like, "Oh, no."
+[51:17.7 - 52:29.0] Patrick?
+[52:29.0 - 52:31.6] Yes.
+[52:31.6 - 52:40.6] Can you come here for a second?
+[52:40.6 - 52:40.7] Yeah.
+[52:40.7 - 53:02.1] Hello.
+[53:02.1 - 53:05.3] Why are you combining the investor names so that they're all in one?
+[53:05.3 - 53:07.1] Because look, come see.
+[53:07.1 - 53:11.2] In print realty, he listed five homes.
+[53:11.2 - 53:16.9] In this case, he's showing as one property, and in this case, he's showing as- I can see that as well ...
+[53:16.9 - 53:18.0] multiple properties.
+[53:18.0 - 53:23.9] So he wants to combine all of them into one without losing the detail.
+[53:23.9 - 53:26.1] Like, I don't want the detail combined.
+[53:26.1 - 53:30.2] I still wanna see the line item for each property, right?
+[53:30.2 - 53:31.0] Right.
+[53:31.0 - 53:33.8] So he's using the word combine, but I don't think that's the word you want.
+[53:33.8 - 53:35.7] I think you want- Uh, merge ...
+[53:35.7 - 53:38.5] a list or- Merge them ...
+[53:38.5 - 53:39.5] maybe merge.
+[53:39.5 - 53:49.2] Um, I mean, it's gonna be coinciding directly with the worksheet you sent me, so maybe if you edit- Is it still referencing that?
+[53:49.2 - 53:52.4] So if you edit it there, it would correct that.
+[53:52.4 - 53:54.6] So it's still referencing that?
+[53:54.6 - 53:57.0] Yes, 'cause that's the data and it's backing.
+[53:57.0 - 53:58.2] Oh.
+[53:58.2 - 54:00.3] So really, it's just- Well, that's a problem because- ...
+[54:00.3 - 54:02.2] directly pulling that from that ...
+[54:02.2 - 54:07.7] Okay, that's a problem because I, I adjusted it all here See, now they all say...
+[54:07.7 - 54:12.8] Before it said Rick Realty LP, Rick Realty LLC- Why can't we just work off of this?
+[54:12.8 - 54:16.2] You can, um, you can actually do, uh, a backup.
+[54:16.2 - 54:19.4] So you can tell it to go to the previous version.
+[54:19.4 - 54:20.1] So you could...
+[54:20.1 - 54:22.2] It's called, um, I don't even know.
+[54:22.2 - 54:30.4] No, but I don't wanna u- I don't want to reference the thing anymore because I've made changes here that don't reflect on the- Oh.
+[54:30.4 - 54:37.4] I guess I would pull them up side by side and see where you wanna, you know- Can't I just say- ...
+[54:37.4 - 54:38.0] meet in the middle, I guess.
+[54:38.0 - 54:38.4] In, no.
+[54:38.4 - 54:43.4] Can't I just say, in this result, show me just one Rick Realty and all the properties?
+[54:43.4 - 54:44.7] When does it pull from there?
+[54:44.7 - 54:46.6] I'm sorry?
+[54:46.6 - 54:48.3] How often does it pull back from there?
+[54:48.3 - 54:49.3] It only pulls one.
+[54:49.3 - 54:52.2] Okay, so it's not gonna do that.
+[54:52.2 - 54:53.8] Okay.
+[54:53.8 - 54:56.3] I, yeah, I don't want it to go back- But you can do what you're asking, yes ...
+[54:56.3 - 55:00.1] because I, I have made the changes here and not on the Excel.
+[55:00.1 - 55:07.3] So on the Excel, Rick Realty may or may not be- You could ask it to, um...
+[55:07.3 - 55:16.3] You could say, "I've made changes to the web app portal that are different from the original Excel, could you give me the differences?" That, uh- No.
+[55:16.3 - 55:17.4] Yeah, I don't want the differences.
+[55:17.4 - 55:18.4] I just want it to take...
+[55:18.4 - 55:18.8] I don't care.
+[55:18.8 - 55:18.9] I...
+[55:18.9 - 55:20.1] What the difference is.
+[55:20.1 - 55:20.6] Oh, okay.
+[55:20.6 - 55:23.3] I just want it to take what I've created here.
+[55:23.3 - 55:24.0] Mm-hmm.
+[55:24.0 - 55:31.4] And ultimately, I wanna combine all this into one and have all the properties listed just for this investor.
+[55:31.4 - 55:32.3] Okay.
+[55:32.3 - 55:32.7] That's all.
+[55:32.7 - 55:33.6] Okay.
+[55:33.6 - 55:36.8] Um, I would say- I, e- even if it wasn't that way on the original- I got it.
+[55:36.8 - 55:36.8] I got it.
+[55:36.8 - 55:37.2] You got it.
+[55:37.2 - 55:47.3] Because I did tell it that there were a lot of, um, similar but similar names that involve the same entity,
+[55:47.3 - 55:51.8] and I said for it to be able to do one thing or something.
+[55:51.8 - 55:53.0] Yeah, like this guy.
+[55:53.0 - 55:58.9] Like, it was supposed to, like, hint and, like, give you a suggestion if you hovered over it or something.
+[55:58.9 - 56:01.0] Like, "Do you want to merge them?" or something.
+[56:01.0 - 56:01.3] Okay.
+[56:01.3 - 56:02.5] Well- Like a suggestion.
+[56:02.5 - 56:03.5] But I don't know that it did that- It doesn't do that ...
+[56:03.5 - 56:03.5] yeah.
+[56:03.5 - 56:07.9] But, like, here he's got Cumberland, and here he's got, I don't know, five.
+[56:07.9 - 56:08.6] Mm-hmm.
+[56:08.6 - 56:09.6] And- Yeah.
+[56:09.6 - 56:12.3] I noticed that they weren't the same- Yeah, here there's one and- ...
+[56:12.3 - 56:13.6] but, you know, each, so.
+[56:13.6 - 56:17.0] Now, again, it's, it's because Rick Realty said...
+[56:17.0 - 56:21.2] One said Rick Realty LP, one said Rick Realty Co- Right ...
+[56:21.2 - 56:24.1] one said Rick Realty Investments LLC.
+[56:24.1 - 56:25.5] So they are different EINs?
+[56:25.5 - 56:26.3] No.
+[56:26.3 - 56:26.4] Oh.
+[56:26.4 - 56:27.4] They're all the same.
+[56:27.4 - 56:27.9] Oh.
+[56:27.9 - 56:30.1] But they were just listed on my, for my- Like doing business.
+[56:30.1 - 56:30.5] Oh, okay.
+[56:30.5 - 56:31.0] Yeah, no.
+[56:31.0 - 56:32.9] My spreadsheet was just- All right ...
+[56:32.9 - 56:37.1] like, however I inputted it when I was here, you know- For arbitration ...
+[56:37.1 - 56:38.5] after two months.
+[56:38.5 - 56:38.9] Okay.
+[56:38.9 - 56:40.4] No, it's all the same entity.
+[56:40.4 - 56:40.5] I see.
+[56:40.5 - 56:46.7] So I made it consistent here so that the AI can recognize, oh, this is all one...
+[56:46.7 - 56:48.2] It's the same.
+[56:48.2 - 56:50.4] It's the same entity.
+[56:50.4 - 56:52.2] I mean, no, it's...
+[56:52.2 - 56:53.0] I mean, you got it.
+[56:53.0 - 56:53.4] You got it.
+[56:53.4 - 56:57.9] But I would say if there's like kind entity names- See if I got that turned on ...
+[56:57.9 - 56:59.6] it can combine them accordingly.
+[56:59.6 - 57:04.3] I can take that off if you're tired of putting it in, but- No, no, it's fine.
+[57:04.3 - 57:08.5] I don't know if you saw that I added the function where you can upload the documents.
+[57:08.5 - 57:10.4] It'll, like, do all the calculations for you.
+[57:10.4 - 57:14.2] So if I uploaded- Mm-hmm.
+[57:14.2 - 57:16.0] K-1s and...
+[57:16.0 - 57:19.6] I did that as an example one, but you can, um...
+[57:19.6 - 57:22.2] Where's the upload button?
+[57:22.2 - 57:23.3] Network.
+[57:23.3 - 57:25.2] Is it in here?
+[57:25.2 - 57:27.4] Um, it would be...
+[57:27.4 - 57:27.7] Yeah.
+[57:27.7 - 57:29.2] Let's see.
+[57:29.2 - 57:31.5] Go back to the doc- Import CSV?
+[57:31.5 - 57:32.0] No.
+[57:32.0 - 57:33.5] Um, let's see.
+[57:33.5 - 57:36.0] Go, click on documents again on the left.
+[57:36.0 - 57:39.5] And then there should be an add button.
+[57:39.5 - 57:40.9] Okay.
+[57:40.9 - 57:47.0] Version 273504D is the one we're gonna roll back to if this fucks it up.
+[57:47.0 - 57:47.8] Yeah, rollback.
+[57:47.8 - 57:48.7] That's what it's called.
+[57:48.7 - 57:52.6] Um, see that top of, above, below documents?
+[57:52.6 - 57:58.0] Those are what you can, uh, you can put LP agreements, pay ones, tax forms, anything.
+[57:58.0 - 57:59.5] How do I compare more, download?
+[57:59.5 - 58:01.8] Maybe you have to go outside- Thank you ...
+[58:01.8 - 58:02.8] of the admin section.
+[58:02.8 - 58:08.9] And then go to, say, um, an investor.
+[58:08.9 - 58:13.2] And then is there an upload button?
+[58:13.2 - 58:17.0] Yes.
+[58:17.0 - 58:19.8] So- So why would I wanna upload- But- ...
+[58:19.8 - 58:22.7] a document for one investment?
+[58:22.7 - 58:32.5] Yeah, you wouldn't now that I'm thinking about it, but, but that could be, you know, moved over to the properties where it just applies, and then it breaks down for you the percentages.
+[58:32.5 - 58:34.2] 'Cause that's on the K-1, correct?
+[58:34.2 - 58:44.1] I mean, I haven't broken one down in front of me, but does it have, like, the property and then, like, the entities and their percentages or per asset?
+[58:44.1 - 58:46.8] No?
+[58:46.8 - 58:48.2] No.
+[58:48.2 - 58:52.0] Uh, K-1 is not one document for everybody.
+[58:52.0 - 58:54.1] It's one document for each person.
+[58:54.1 - 58:56.6] Have you not seen what a K-1 looks like?
+[58:56.6 - 58:59.4] So you wouldn't wanna upload a K-1 for that person?
+[58:59.4 - 59:00.2] What for?
+[59:00.2 - 59:02.9] What, what was your thinking?
+[59:02.9 - 59:05.4] Like, this, this is what a K-1 looks like.
+[59:05.4 - 59:05.9] Okay.
+[59:05.9 - 59:07.2] No, I have not looked at one, to be honest.
+[59:07.2 - 59:08.0] You've never seen a K-1?
+[59:08.0 - 59:09.2] Oh, all right.
+[59:09.2 - 59:12.2] Yeah, that's why the question probably sounded kind of silly.
+[59:12.2 - 59:13.7] This is a K-1.
+[59:13.7 - 59:14.7] Okay.
+[59:14.7 - 59:16.1] So it's a- Gotcha ...
+[59:16.1 - 59:17.3] bunch of pages in one.
+[59:17.3 - 59:18.3] This is for Todd.
+[59:18.3 - 59:20.9] This is for MT Sonora LLC.
+[59:20.9 - 59:21.6] This is...
+[59:21.6 - 59:24.4] This page- Mm-hmm ...
+[59:24.4 - 59:29.4] is what the person, in this case Todd, puts on his tax return.
+[59:29.4 - 59:35.4] Just like a, a W-2 has boxes, you know, that you fill in on your tax return.
+[59:35.4 - 59:35.8] Mm-hmm.
+[59:35.8 - 59:36.8] The same thing here.
+[59:36.8 - 59:38.3] What does it say in box A?
+[59:38.3 - 59:39.6] What does it say in box two?
+[59:39.6 - 59:42.5] And that's their percentage that they own in the property.
+[59:42.5 - 59:42.8] Yeah.
+[59:42.8 - 59:47.3] So in this case, he has 2% of this MT Sonora LLC.
+[59:47.3 - 59:57.2] Well, so here, if you uploaded the K-1 for that person, not only would it give you the percentage, but it would get what they would've earned that year on the property.
+[59:57.2 - 59:57.8] Mm-mm.
+[59:57.8 - 59:58.2] No?
+[59:58.2 - 59:58.9] No.
+[59:58.9 - 59:59.2] Okay
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Monday_V2026-01-01-17-37-30_transcription_20260705_192419.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Monday_V2026-01-01-17-37-30_transcription_20260705_192419.txt
+[2J[H[3Jmanus-speech-to-text mp3/ROSE-REC2_Monday_V2026-01-01-17-37-30.mp3
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_Monday_V2026-01-01-17-37-30.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: mp3/.ROSE-REC2_Monday_V2026-01-01-17-37-30_chunks_20260705_192303/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: mp3/.ROSE-REC2_Monday_V2026-01-01-17-37-30_chunks_20260705_192303/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: mp3/.ROSE-REC2_Monday_V2026-01-01-17-37-30_chunks_20260705_192303/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: mp3/.ROSE-REC2_Monday_V2026-01-01-17-37-30_chunks_20260705_192303/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: mp3/.ROSE-REC2_Monday_V2026-01-01-17-37-30_chunks_20260705_192303/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[57:29.2 - 57:31.5] Go back to the doc- Import CSV?
+[57:31.5 - 57:32.0] No.
+[57:32.0 - 57:33.5] Um, let's see.
+[57:33.5 - 57:36.0] Go, click on documents again on the left.
+[57:36.0 - 57:39.5] And then there should be an add button.
+[57:39.5 - 57:40.9] Okay.
+[57:40.9 - 57:47.0] Version 273504D is the one we're gonna roll back to if this fucks it up.
+[57:47.0 - 57:47.8] Yeah, rollback.
+[57:47.8 - 57:48.7] That's what it's called.
+[57:48.7 - 57:52.6] Um, see that top of, above, below documents?
+[57:52.6 - 57:58.0] Those are what you can, uh, you can put LP agreements, pay ones, tax forms, anything.
+[57:58.0 - 57:59.5] How do I compare more, download?
+[57:59.5 - 58:01.8] Maybe you have to go outside- Thank you ...
+[58:01.8 - 58:02.8] of the admin section.
+[58:02.8 - 58:08.9] And then go to, say, um, an investor.
+[58:08.9 - 58:13.2] And then is there an upload button?
+[58:13.2 - 58:17.0] Yes.
+[58:17.0 - 58:19.8] So- So why would I wanna upload- But- ...
+[58:19.8 - 58:22.7] a document for one investment?
+[58:22.7 - 58:32.5] Yeah, you wouldn't now that I'm thinking about it, but, but that could be, you know, moved over to the properties where it just applies, and then it breaks down for you the percentages.
+[58:32.5 - 58:34.2] 'Cause that's on the K-1, correct?
+[58:34.2 - 58:44.1] I mean, I haven't broken one down in front of me, but does it have, like, the property and then, like, the entities and their percentages or per asset?
+[58:44.1 - 58:46.8] No?
+[58:46.8 - 58:48.2] No.
+[58:48.2 - 58:52.0] Uh, K-1 is not one document for everybody.
+[58:52.0 - 58:54.1] It's one document for each person.
+[58:54.1 - 58:56.6] Have you not seen what a K-1 looks like?
+[58:56.6 - 58:59.4] So you wouldn't wanna upload a K-1 for that person?
+[58:59.4 - 59:00.2] What for?
+[59:00.2 - 59:02.9] What, what was your thinking?
+[59:02.9 - 59:05.4] Like, this, this is what a K-1 looks like.
+[59:05.4 - 59:05.9] Okay.
+[59:05.9 - 59:07.2] No, I have not looked at one, to be honest.
+[59:07.2 - 59:08.0] You've never seen a K-1?
+[59:08.0 - 59:09.2] Oh, all right.
+[59:09.2 - 59:12.2] Yeah, that's why the question probably sounded kind of silly.
+[59:12.2 - 59:13.7] This is a K-1.
+[59:13.7 - 59:14.7] Okay.
+[59:14.7 - 59:16.1] So it's a- Gotcha ...
+[59:16.1 - 59:17.3] bunch of pages in one.
+[59:17.3 - 59:18.3] This is for Todd.
+[59:18.3 - 59:20.9] This is for MT Sonora LLC.
+[59:20.9 - 59:21.6] This is...
+[59:21.6 - 59:24.4] This page- Mm-hmm ...
+[59:24.4 - 59:29.4] is what the person, in this case Todd, puts on his tax return.
+[59:29.4 - 59:35.4] Just like a, a W-2 has boxes, you know, that you fill in on your tax return.
+[59:35.4 - 59:35.8] Mm-hmm.
+[59:35.8 - 59:36.8] The same thing here.
+[59:36.8 - 59:38.3] What does it say in box A?
+[59:38.3 - 59:39.6] What does it say in box two?
+[59:39.6 - 59:42.5] And that's their percentage that they own in the property.
+[59:42.5 - 59:42.8] Yeah.
+[59:42.8 - 59:47.3] So in this case, he has 2% of this MT Sonora LLC.
+[59:47.3 - 59:57.2] Well, so here, if you uploaded the K-1 for that person, not only would it give you the percentage, but it would get what they would've earned that year on the property.
+[59:57.2 - 59:57.8] Mm-mm.
+[59:57.8 - 59:58.2] No?
+[59:58.2 - 59:58.9] No.
+[59:58.9 - 59:59.2] Okay
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Monday_V2026-01-01-17-37-30_transcription_20260705_192419.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Monday_V2026-01-01-17-37-30_transcription_20260705_192419.txt

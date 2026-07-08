@@ -1,0 +1,827 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2025-12-27-12-31-19.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: .ROSE-REC2_V2025-12-27-12-31-19_chunks_20260706_153310/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: .ROSE-REC2_V2025-12-27-12-31-19_chunks_20260706_153310/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: .ROSE-REC2_V2025-12-27-12-31-19_chunks_20260706_153310/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: .ROSE-REC2_V2025-12-27-12-31-19_chunks_20260706_153310/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: .ROSE-REC2_V2025-12-27-12-31-19_chunks_20260706_153310/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.7 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[01:48.1 - 01:48.5] Shit.
+[01:48.5 - 03:08.7] I
+[03:08.7 - 03:11.1] thought that's why you asked to stay home yesterday.
+[03:11.1 - 03:15.4] Yeah, it actually was.
+[03:15.4 - 03:15.9] Oh, okay.
+[03:15.9 - 03:16.3] Oh, okay.
+[03:16.3 - 03:17.8] And I was working up till...
+[03:17.8 - 03:19.4] I mean, I did a lot yesterday, actually.
+[03:19.4 - 03:24.7] Um, I didn't think about locally, though, to be honest, working locally.
+[03:24.7 - 03:25.4] But...
+[03:25.4 - 03:29.3] It's probably as good as that.
+[03:29.3 - 03:35.1] Yeah.
+[03:35.1 - 03:36.4] So what's up with the Diana?
+[03:36.4 - 03:40.9] Uh, this, the server room in Fairfax, um, was caught on fire.
+[03:40.9 - 03:41.1] Oh.
+[03:41.1 - 03:43.0] It was getting so hot that they had to- Oh ...
+[03:43.0 - 03:45.2] shut it all down and get, um- Cooling ...
+[03:45.2 - 03:47.8] put a new whole, whole system in there.
+[03:47.8 - 03:48.7] Oh, okay.
+[03:48.7 - 03:54.8] Dang, it must be, uh, quite a production over there.
+[03:54.8 - 04:45.6] No,
+[04:45.6 - 04:46.1] I'm doing...
+[04:46.1 - 04:47.0] No, I'm doing it.
+[04:47.0 - 04:47.7] I, I can do it.
+[04:47.7 - 04:49.1] I'm just making myself some coffee.
+[04:49.1 - 04:50.6] So I'll turn it in like 10 minutes.
+[04:50.6 - 04:50.9] Is that okay?
+[04:50.9 - 04:59.3] Jason, did you get your email to the Sand fleet?
+[04:59.3 - 05:00.0] You know about it.
+[05:00.0 - 05:00.0] You got that?
+[05:00.0 - 05:29.0] Go
+[05:29.0 - 05:29.5] for it.
+[05:29.5 - 05:30.5] Yeah.
+[05:30.5 - 05:32.1] Okay.
+[05:32.1 - 05:32.4] All right.
+[05:32.4 - 05:36.0] Thank you.
+[05:36.0 - 05:36.1] Bye.
+[05:36.1 - 05:36.6] Go for it.
+[05:36.6 - 05:38.9] I'm gonna drink that espresso.
+[05:38.9 - 05:39.0] All right.
+[05:39.0 - 05:40.9] Big coffee.
+[05:40.9 - 06:02.9] I
+[06:02.9 - 06:07.0] meant to check Haley Huber's inspections about the end of the day yesterday.
+[06:07.0 - 06:10.0] I will here in a minute.
+[06:10.0 - 06:21.1] Fucking
+[06:21.1 - 06:23.0] Alberto is just trying to tell me.
+[06:23.0 - 06:28.6] He's like, "Well, how am I supposed to get into my email?" I'm like, "I, I just told you, you go to the-" Who's Alberto?
+[06:28.6 - 06:30.7] The new, the new guy- The new guy at Wilmington.
+[06:30.7 - 06:31.0] And I...
+[06:31.0 - 06:34.0] He was like, "I can't get into anything." And I was like- Why isn't Blake just firing him?
+[06:34.0 - 06:34.0] ...
+[06:34.0 - 06:35.8] just go to a fucking web browser.
+[06:35.8 - 06:36.9] I don't know.
+[06:36.9 - 06:40.4] But quite frankly, he's an absolute fucking idiot.
+[06:40.4 - 06:43.0] But I think Blake likes his work ethic.
+[06:43.0 - 06:45.5] But it's like- Yeah ...
+[06:45.5 - 06:46.7] you don't...
+[06:46.7 - 06:50.5] Like, how many times do fucking dumbasses need to be explained to?
+[06:50.5 - 06:52.3] Like, this is what I don't understand.
+[06:52.3 - 07:02.9] How do you not know that VMware isn't just your computer when every single morning, always, you have to click on the icon to open a program
+[07:02.9 - 07:08.3] to get into VMware, and you don't register- If he wants me to send out an email saying, "Here's a real page URL.
+[07:08.3 - 07:12.8] Here's his email for the, for the..." They can't use a real page, really, so it doesn't matter.
+[07:12.8 - 07:14.4] Well, they can log on to the URL itself.
+[07:14.4 - 07:23.3] Yeah, but no one knows their password, so check for half the company not being able to use it, 'cause they won't be able to get the password, and they're not smart enough to reset it.
+[07:23.3 - 07:23.8] But everyone anyways, don't worry.
+[07:23.8 - 07:26.5] And then second is, um, they can't...
+[07:26.5 - 07:30.0] There's no Internet Explorer mode, and almost none of them know how...
+[07:30.0 - 07:35.3] There's like three managers who know how to use the unified platform, and a bunch of shit won't work.
+[07:35.3 - 07:36.7] Well, I would...
+[07:36.7 - 07:38.5] She just called me and she's like- She said that to you?
+[07:38.5 - 07:38.6] ...
+[07:38.6 - 07:40.4] "Can you send out an email?" I'm like, "Yeah, I can do it.
+[07:40.4 - 07:40.7] It's fine.
+[07:40.7 - 07:44.6] I'm gonna call Leslie and tell her she's an idiot." Call her and tell her.
+[07:44.6 - 07:45.4] I will.
+[07:45.4 - 07:46.7] I'm calling her right now.
+[07:46.7 - 07:54.9] Put it on speaker if you prefer.
+[07:54.9 - 08:02.7] Hey, um, you know that almost none of your managers know how to use the unified platform on one site, so Robert sending them one site...
+[08:02.7 - 08:04.7] Yes, they do.
+[08:04.7 - 08:06.3] A bunch of shit doesn't...
+[08:06.3 - 08:11.8] If, if you go into Microsoft Edge, and you go into the classic mode, a bunch of shit doesn't work.
+[08:11.8 - 08:15.9] It like write it out and blocked out.
+[08:15.9 - 08:21.2] You didn't...
+[08:21.2 - 08:23.1] Yeah, yeah, yeah, you did, but you're not...
+[08:23.1 - 08:26.7] You just, you're disregarding the other thing I just said.
+[08:26.7 - 08:31.8] It needs to be in Internet Explorer mode, which doesn't exist outside of VMware.
+[08:31.8 - 08:39.1] So when they go in there, a bunch of shit will be like blocked out and in red, and they won't be able to do it.
+[08:39.1 - 08:49.1] You can access it, but it's just the stuff you're trying to do probably isn't the things
+[08:49.1 - 08:52.5] that they don't or like didn't know to do the shit that...
+[08:52.5 - 08:54.5] I'm just telling you that that's what it is.
+[08:54.5 - 08:57.8] We can still send it out, but there's gonna be a bunch of shit they can't do.
+[08:57.8 - 09:02.2] Apparently she went ahead and sent out an email with- It reds it out and like it blocks it and whatever.
+[09:02.2 - 09:08.3] That's the whole reason when you go in in VMware, it has the Internet Explo- She already- Yeah ...
+[09:08.3 - 09:11.9] she already sent out the email Like, you know how you've never seen it where it has...
+[09:11.9 - 09:21.6] I know this isn't a section that matters, but you've never seen the tab across the top for like Quick Qualify being in red and like...
+[09:21.6 - 09:30.5] Okay.
+[09:30.5 - 09:32.3] So that has the stuff that you...
+[09:32.3 - 09:40.3] Yeah, it's cool.
+[09:40.3 - 09:53.7] Do
+[09:53.7 - 09:58.8] you want this?
+[09:58.8 - 10:02.5] Yeah.
+[10:02.5 - 10:09.6] Just telling you we're on the property so you can expect us.
+[10:09.6 - 10:10.7] What?
+[10:10.7 - 10:13.0] 'Cause they all want to know.
+[10:13.0 - 10:13.9] We all know that.
+[10:13.9 - 10:15.1] Like, it just...
+[10:15.1 - 10:15.9] You know the drill.
+[10:15.9 - 10:18.5] They, none of them know their passwords- All good ...
+[10:18.5 - 10:19.0] so they just fuck it up.
+[10:19.0 - 10:20.8] So we can send it out.
+[10:20.8 - 10:27.3] She already sent it out anyway.
+[10:27.3 - 10:39.2] More
+[10:39.2 - 10:39.9] of this fruit.
+[10:39.9 - 10:45.6] Nobody wants your fucking homegrown fucking fruit.
+[10:45.6 - 10:48.9] I will actually do this with my lemon ginger tea.
+[10:48.9 - 11:04.1] For
+[11:04.1 - 11:04.7] what?
+[11:04.7 - 11:06.0] I have no idea.
+[11:06.0 - 11:14.7] There's no, no one's ever said anything before about that.
+[11:14.7 - 11:18.2] Okay, cool.
+[11:18.2 - 11:18.8] What's the...
+[11:18.8 - 11:20.6] With what's up with our numbers?
+[11:20.6 - 11:25.4] And texting the number of...
+[11:25.4 - 11:28.2] Lorna is giving the cell phone numbers?
+[11:28.2 - 11:34.2] The credit card company?
+[11:34.2 - 11:37.0] What?
+[11:37.0 - 11:37.2] I...
+[11:37.2 - 11:42.5] Leslie, Debbie, I know you're, you're pissed about something 'cause all the managers are sitting around.
+[11:42.5 - 11:45.4] I don't know what, what number did they call?
+[11:45.4 - 11:47.4] What num- You said you did it the other day.
+[11:47.4 - 11:49.5] What number did you call that then prompted the credit card number?
+[11:49.5 - 11:52.6] It would be a great day for managers who didn't do their inspections to get 'em done.
+[11:52.6 - 11:58.3] 'Cause they s- they can still do that, right?
+[11:58.3 - 11:58.9] Yeah.
+[12:07.1 - 12:09.1] Fuck, I might not have that fucking URL.
+[12:09.1 - 12:10.1] The what?
+[12:10.1 - 12:11.7] The URL to one site.
+[12:11.7 - 12:12.2] You do?
+[12:12.2 - 12:16.6] I think I do in my Notion.
+[12:16.6 - 12:17.4] Do you?
+[12:17.4 - 12:17.7] Mm-hmm.
+[12:17.7 - 12:18.7] Can you send it to me?
+[12:18.7 - 12:20.6] I'll have to look, see if I have it.
+[12:20.6 - 12:28.0] But if I do, I will.
+[12:28.0 - 12:38.0] That
+[12:38.0 - 12:39.2] didn't ground anything, did it?
+[12:39.2 - 12:42.6] I mean, you are and it's- My ears are not trained like yours is.
+[12:42.6 - 12:47.0] You told me about this ten seconds ago, so of course I'm gonna remember.
+[12:47.0 - 12:48.1] I'll fix it.
+[12:48.1 - 12:52.5] Did you get it?
+[12:52.5 - 12:53.6] I'll, I'll fucking...
+[12:53.6 - 12:55.5] I'll- I'm about to start fresh with this coffee.
+[12:55.5 - 12:57.0] Fuck it all up ...
+[12:57.0 - 12:57.7] I'm just letting you know the...
+[12:57.7 - 13:00.5] Yeah, no, I'm just letting you know about the one site thing.
+[13:00.5 - 13:09.4] We can send it out, but you know your managers are still gonna sit there not doing shit because they don't even have the fucking password, and they're too dumb to fucking reset that.
+[13:09.4 - 13:13.9] And then you're gonna call me bitching about something being blocked out.
+[13:13.9 - 13:15.5] But we'll send it to them.
+[13:15.5 - 13:26.5] I was just letting you know at the very least that there's gonna be problems just like there-- the Internet Explorer mode thing doesn't work on the outside of the VM ware.
+[13:26.5 - 13:31.4] I'm starting over with this coffee.
+[13:31.4 - 13:32.0] Fuck it all.
+[13:32.0 - 13:34.5] Yeah.
+[13:34.5 - 13:41.0] Mark's probably going to Miami for- I know ...
+[13:41.0 - 13:42.5] uh, Fourth of July.
+[13:42.5 - 13:43.8] Yeah.
+[13:43.8 - 13:47.0] Did he say anything yet?
+[13:47.0 - 13:57.1] Yeah, and then I'll try and get in disguise like, "Yeah,"
+[13:57.1 - 14:01.0] and usually when I try to get in disguise- Did you hear me, Robert?
+[14:01.0 - 14:01.0] ...
+[14:01.0 - 14:05.0] like, staying over, uh, outside of VM ware too for some stupid ass reason.
+[14:05.0 - 14:12.2] Like, I'll do my best to get in there and switch the directory shit, um, and make it so it doesn't have your numbers.
+[14:12.2 - 14:19.1] But a lot of the time it, like, won't let me into the admin dashboard outside of VM ware for whatever stupid fucking reason.
+[14:19.1 - 14:22.0] It just needs to be...
+[14:22.0 - 14:25.8] Yeah, you can make a note about it, but like, ideally, I can just get in there.
+[14:25.8 - 14:29.6] I think it's just deleting the fact that it even announces your name.
+[14:29.6 - 14:39.7] It probably just says, "Call Leslie," or something, and they know your name and they're waiting on you, but they're kind of stealthing you, and so they hear your name, and they're
+[14:39.7 - 14:42.4] like, "I know that person," and then they just...
+[14:42.4 - 14:48.3] All it is is the same way that I call you, where it's like I just hit your extension and it rings you.
+[14:48.3 - 14:50.7] I have no idea who...
+[14:50.7 - 14:55.2] Yeah, you're saying Kiara gave them the-- some corporate number?
+[14:55.2 - 15:11.1] 'Cause I know what you're saying, where it happened when you called Mercy's number, but there's probably multiple who've called know
+[15:11.1 - 15:21.4] that because it won't get announced when they're listening to the fucking list when they type in, you know, like, "Connect me to Leslie," or someone's waiting to get
+[15:21.4 - 15:24.9] the announcement.
+[15:24.9 - 15:25.7] There we go.
+[15:25.7 - 15:30.9] I'll look it up, uh, when I can, but I just wanna let you know the, like...
+[15:30.9 - 15:39.6] I didn't want you thinking, like, the one site thing would be, like, everyone will do shit properly because it, it'll be kind of fucked up.
+[15:39.6 - 15:41.4] But we can send it out.
+[15:41.4 - 15:44.7] I just, like, you-- just so you know, you know what I mean?
+[15:44.7 - 15:47.1] It'll still have the bullshit excuse, but we'll...
+[15:47.1 - 15:47.5] Yeah.
+[15:47.5 - 15:49.7] Yeah, yeah, yeah.
+[15:49.7 - 15:54.9] Mm.
+[15:54.9 - 15:56.9] Yeah, yeah, yeah.
+[15:56.9 - 16:03.0] I just wanted you to know it too, and not be like, you know, flipping out on them if they can't do shit.
+[16:03.0 - 16:03.7] All right.
+[16:03.7 - 16:06.7] We'll send it to everybody.
+[16:06.7 - 16:07.5] It's fine.
+[16:07.5 - 16:08.1] Like...
+[16:08.1 - 16:08.7] Okay.
+[16:08.7 - 16:10.1] Yeah, you're welcome.
+[16:10.1 - 16:11.6] All right, take care.
+[16:11.6 - 16:14.6] Bye.
+[16:14.6 - 16:17.6] Oh, damn, she is pissed.
+[16:17.6 - 16:17.8] Isn't she mad?
+[16:17.8 - 16:20.1] She's just-- She's-- What she's actually pissed about- She's perma-mad ...
+[16:20.1 - 16:23.5] is her managers are sitting there not doing anything 'cause they can't...
+[16:23.5 - 16:27.6] That's why I was like, "Tell them to go do the fucking inspection," and they won't do it.
+[16:27.6 - 16:28.8] How does a computer...
+[16:28.8 - 16:29.2] How...
+[16:29.2 - 16:31.0] It doesn't matter- Yeah, but I was thinking- ...
+[16:31.0 - 16:32.1] it's a third-party app.
+[16:32.1 - 16:34.9] They could still be doing it, but they just don't.
+[16:34.9 - 16:35.0] It's so funny.
+[16:35.0 - 16:35.9] It's not like a browser thing.
+[16:35.9 - 16:38.1] But she's-- It's basically, it's the same shit as always.
+[16:38.1 - 16:40.9] They have an excuse to not work, so they're not working.
+[16:40.9 - 16:44.5] And then she was pissed at, "What do you mean website's not gonna work?
+[16:44.5 - 16:47.0] The website works," and it's like it's not that.
+[16:47.0 - 16:57.2] Sh- What I was saying where when it's not in Internet Explorer mode and you go to Classic, there's like five tabs at the top, and Click Qualify is one of them, and it's just red
+[16:57.2 - 16:59.5] and you can't interact with it.
+[16:59.5 - 17:05.2] And then there's a bunch of other random shit that you can't do when you go in there because it's not in that.
+[17:05.2 - 17:15.3] But she basically said, "And also I need to do a fucking battle if you want to fire off lists." Send the link and just tell them like, "This might work for some of you.
+[17:15.3 - 17:17.4] It might not for others.
+[17:17.4 - 17:19.3] This is, like, a quick fix.
+[17:19.3 - 17:21.3] If it works, great.
+[17:21.3 - 17:28.7] If it doesn't work for you, there's really nothing you can do to make it work, and you just have to, like-" Leslie- "...
+[17:28.7 - 17:38.1] deal with it." Leslie seems like she's perma-pissed, but- Yeah, well, I mean, you know, her manager's sitting around not doing shit.
+[17:38.1 - 17:38.6] Yeah.
+[17:38.6 - 17:39.4] Yeah, that's her.
+[17:39.4 - 17:49.6] And she-- See, that's the thing is, I think for Leslie, she's largely fucked in terms of she
+[17:49.6 - 17:53.4] has to fly to each and every one of her properties- Mm ...
+[17:53.4 - 17:57.6] to, like, get there because of the proximity between them and everything, right?
+[17:57.6 - 17:58.0] Oh, yeah.
+[17:58.0 - 18:06.8] She can drive everywhere in London, but it's like a, a day's drive She's in, um, she lives in- Matthew?
+[18:06.8 - 18:07.7] Florida Oh, Florida.
+[18:07.7 - 18:11.1] But she's from Louisiana.
+[18:11.1 - 18:21.2] Like, her mom I think still lives in Louisiana, but she lives in Florida with JR, but then she has properties from Texas all the way to Florida and shit.
+[18:21.2 - 18:21.7] Right.
+[18:21.7 - 18:24.9] So she's going all over the place.
+[18:24.9 - 18:35.0] Um, but Ginger at least has the built-in luxury, and all of her managers know this to some extent, that she can just
+[18:35.0 - 18:39.0] be driving over to them and pop in randomly.
+[18:39.0 - 18:39.8] Oh, right.
+[18:39.8 - 18:41.3] And it's kind of...
+[18:41.3 - 18:49.8] Like, Leslie can do that, not tell someone that she's going to a property, but it's less like Ginger can like randomly- Surprise visit ...
+[18:49.8 - 18:49.8] decide- Yeah.
+[18:49.8 - 18:49.8] ...
+[18:49.8 - 18:54.5] that she's going to Thibodaux, five, two hours to get there- Oh, right ...
+[18:54.5 - 18:54.7] that day.
+[18:54.7 - 18:57.5] And it's like random check almost.
+[18:57.5 - 19:07.8] Like, and so her people I think are, because of that, like forcibly more on top of things because they're like on edge of that potentially happening, 'cause Ginger
+[19:07.8 - 19:09.1] is always doing that.
+[19:09.1 - 19:09.8] Right.
+[19:09.8 - 19:11.5] And Leslie just doesn't.
+[19:11.5 - 19:14.1] Like, she has to plan a trip.
+[19:14.1 - 19:15.0] Yeah.
+[19:15.0 - 19:16.3] She can't just up and decide.
+[19:16.3 - 19:26.4] Like Ginger right now, from wherever she is, as long as it's in Louisiana, could just like go to Thibodaux and get there before the end of the day and like give Susie shit if she owes her- I
+[19:26.4 - 19:26.9] gotcha ...
+[19:26.9 - 19:27.0] stuff.
+[19:27.0 - 19:35.2] But I think that makes, uh, Leslie's life more difficult with keeping her managers in check.
+[19:35.2 - 19:39.0] And she probably has a routine kind of, so they kind of probably know when she comes.
+[19:39.0 - 19:39.0] Right.
+[19:39.0 - 19:44.8] That, and then the fact that she also has undoubtedly shittier properties.
+[19:44.8 - 19:53.7] Like, her properties, because again, everything is in Louisiana for Ginger, so it's like less middle of nowhere- Oh ...
+[19:53.7 - 19:55.3] because it's just Louisiana.
+[19:55.3 - 19:56.7] It's not like- I see ...
+[19:56.7 - 19:57.8] there's different states necessarily.
+[19:57.8 - 19:59.9] It's, at least that's, that's what I gathered.
+[19:59.9 - 20:08.2] It's like- I used to have a friend that lived in- But I don't really know the breakdown, but I do know that Leslie has shown me multiple videos of a few of the properties.
+[20:08.2 - 20:08.5] Mm-hmm.
+[20:08.5 - 20:13.3] Of like, "This is the drive in," and it's like, "Look where there's fucking nothing.
+[20:13.3 - 20:14.9] There's nothing here." Oh.
+[20:14.9 - 20:15.8] It's like, yeah.
+[20:15.8 - 20:18.3] There's just like nothing else around here.
+[20:18.3 - 20:20.8] Like, I think Silver Springs is like that, which is her.
+[20:20.8 - 20:23.3] Jefferson is definitely like that.
+[20:23.3 - 20:26.2] I think a couple other...
+[20:26.2 - 20:27.4] This dude would know a little better.
+[20:27.4 - 20:28.5] Grace was really nice.
+[20:28.5 - 20:29.0] I liked that.
+[20:29.0 - 20:29.7] 'Cause he's been to all of them.
+[20:29.7 - 20:33.6] But it's like there's stuff that's just kind of in the middle of nowhere.
+[20:33.6 - 20:33.9] Ah.
+[20:33.9 - 20:39.4] Yeah, like Grace is not in the middle- Kind of in the middle of nowhere ...
+[20:39.4 - 20:40.8] of nowhere, but it is just like way out It's kind of like...
+[20:40.8 - 20:42.5] I mean, it's in Dallas, but it's outskirts of Dallas.
+[20:42.5 - 20:44.3] It's a bunch of small towns.
+[20:44.3 - 20:44.9] Yeah.
+[20:44.9 - 20:45.8] So they're like two hours apart.
+[20:45.8 - 20:46.3] It's like where I...
+[20:46.3 - 20:48.0] I mean, it's like exactly where I'm from.
+[20:48.0 - 20:49.2] Yeah.
+[20:49.2 - 20:53.4] But I live in like a small, small town, 9,000 people.
+[20:53.4 - 20:54.5] Oof.
+[20:54.5 - 21:05.1] But yeah, so I, I think that makes Leslie's life more difficult, so she then finds herself even more so sitting in the middle of nothing.
+[21:05.1 - 21:05.7] Oh.
+[21:05.7 - 21:14.1] Thinking that another day of doing nothing, it's like, "Fuck you." Well, I feel like as a man- as a manager, she should be able to find plenty of stuff to do.
+[21:14.1 - 21:14.6] Yeah.
+[21:14.6 - 21:18.7] You, you know what they're also gonna probably do is not put shit into the bank.
+[21:18.7 - 21:21.6] It's like, uh, well- You didn't need...
+[21:21.6 - 21:24.6] Don't you fucking use VMware to do that shit?
+[21:24.6 - 21:25.6] And you're gonna not do that shit?
+[21:25.6 - 21:26.7] Do they need the scanner?
+[21:26.7 - 21:27.3] Does it work on...
+[21:27.3 - 21:28.8] They, they have Wi-Fi.
+[21:28.8 - 21:29.7] Does the scanner work?
+[21:29.7 - 21:30.3] Yeah, they have Wi-Fi.
+[21:30.3 - 21:31.4] Yeah, it works.
+[21:31.4 - 21:32.0] Yeah, they have Wi-Fi.
+[21:32.0 - 21:34.1] That's what Alberto was trying to say.
+[21:34.1 - 21:36.0] Like, I can't get into my email.
+[21:36.0 - 21:38.2] My, I don't even, uh, how would I even do that?
+[21:38.2 - 21:39.4] How do I get, what, what?
+[21:39.4 - 21:47.1] I mean, in their defense- Because, uh, I do remember the last time you were listening...
+[21:47.1 - 21:49.1] Also because this is the other thing.
+[21:49.1 - 21:52.5] He had called me three times this morning already.
+[21:52.5 - 21:53.5] Mm-hmm.
+[21:53.5 - 22:03.0] There, that was the third time, and so I answered right away, which I'm answering from everybody who I haven't talked to already, is like, "Oh, hey, I can't do anything without VMware." That's why I called.
+[22:03.0 - 22:04.8] I bet you have a lot of calls this morning.
+[22:04.8 - 22:05.2] Yeah.
+[22:05.2 - 22:11.1] And, um, and yeah, so I'm letting everybody know.
+[22:11.1 - 22:12.8] Mm-hmm.
+[22:12.8 - 22:19.3] And then after that, he was like, "He, he's being an asshole." Like, that's what he was calling about, wasn't it?
+[22:19.3 - 22:21.6] Like, I mean, uh- And it was.
+[22:21.6 - 22:22.2] Yeah.
+[22:22.2 - 22:24.9] And then I was- And it's early morning, I don't want to be making this call ...
+[22:24.9 - 22:28.3] I remember one time I, I went on his computer and it had a music browser.
+[22:28.3 - 22:30.1] Like he had a- SoundCloud or something?
+[22:30.1 - 22:30.6] Whatever.
+[22:30.6 - 22:30.7] Yeah.
+[22:30.7 - 22:36.5] SoundCloud something, even like a, it was like a webpage that was just like radio I think is what- Napster ...
+[22:36.5 - 22:37.8] he was listening to.
+[22:37.8 - 22:38.3] Maybe.
+[22:38.3 - 22:39.5] It didn't look...
+[22:39.5 - 22:42.8] Because if it was Napster or something like that, I would've noticed it.
+[22:42.8 - 22:43.1] Mm-hmm.
+[22:43.1 - 22:47.3] Like, 'cause I would recognize that name and say, "Oh." Napster, Limewire, I remember all that.
+[22:47.3 - 22:50.0] Anyways, he was listening to the radio.
+[22:50.0 - 22:51.0] Uh-huh.
+[22:51.0 - 22:52.8] And, and I heard it in the background.
+[22:52.8 - 22:57.9] I was like, "Oh, I remember one time..." I was like, "Uh, how are you listening to the music?
+[22:57.9 - 23:01.2] I remember one time, like, you had a web browser up.
+[23:01.2 - 23:02.1] Is that how you're...
+[23:02.1 - 23:04.1] " He's like, "Uh, no, thank you.
+[23:04.1 - 23:10.0] Uh, that's a little portable, uh, player thing." Like he's hooked.
+[23:10.0 - 23:12.0] I was like, "Thank you very much." Oh.
+[23:12.0 - 23:13.6] I was like, "Oh, okay." Matter of fact.
+[23:13.6 - 23:13.9] Yeah.
+[23:13.9 - 23:14.4] My bad.
+[23:14.4 - 23:14.7] I just...
+[23:14.7 - 23:24.7] You know, you, you had the web browser open last time I came in, so I was gonna say like, "So you have internet." I had to literally direct this dumb
+[23:24.7 - 23:31.4] motherfucker to like, "Okay, so on the left side of your screen, you see the icons, like all the VMware and stuff." Mm-hmm.
+[23:31.4 - 23:37.3] 'Cause he did have Chrome, like a pinned Chrome at the bottom.
+[23:37.3 - 23:38.1] Oh.
+[23:38.1 - 23:40.9] That's why he was saying he can't even go to a web browser.
+[23:40.9 - 23:44.1] Oh, he couldn't even search for Chrome or up there on the desktop.
+[23:44.1 - 23:46.7] I was like, "Motherfucker, you've never opened Microsoft Edge, and you've not gone in there?
+[23:46.7 - 23:51.7] And you can't piece together with your fucking brain?" I'm sorry but- In their defense- ...
+[23:51.7 - 23:52.0] this is fucking- ...
+[23:52.0 - 23:55.5] this is the first time I've ever really had to get on a server was whenever I worked here.
+[23:55.5 - 23:55.8] Right.
+[23:55.8 - 23:57.2] It was kind of weird at first.
+[23:57.2 - 23:59.9] You can't piece together that the, you have the i-
+[24:00.1 - 24:03.4] funds for the bank shit that you know how to go to.
+[24:03.4 - 24:05.3] You don't- Double click?
+[24:05.3 - 24:05.7] Yeah.
+[24:05.7 - 24:08.2] -put it together, put it together that that's a website.
+[24:08.2 - 24:11.6] So it's like just open that, and then put in a different...
+[24:11.6 - 24:13.5] and then go to google.com.
+[24:13.5 - 24:14.3] Yeah.
+[24:14.3 - 24:18.5] Well- I just don't- Not the sharpest tools in the shed.
+[24:18.5 - 24:21.3] Yeah.
+[24:21.3 - 24:24.5] Understatement of the century.
+[24:24.5 - 24:30.3] See you in an hour.
+[24:30.3 - 24:32.2] Two.
+[24:32.2 - 24:40.0] Pretty sure Mark's going to Miami, uh, for the fourth.
+[24:40.0 - 24:40.7] Yeah.
+[24:40.7 - 25:19.6] How's
+[25:19.6 - 25:21.4] Santiago liking things?
+[25:21.4 - 25:26.6] I think- Hasn't been, he hasn't been screamed at yet?
+[25:26.6 - 25:27.6] What?
+[25:27.6 - 25:29.3] If he hasn't been screamed at yet.
+[25:29.3 - 25:29.4] He has not.
+[25:29.4 - 25:35.9] For the reason you would have been tonight.
+[25:35.9 - 25:43.1] Starting to get a little morning routine here to suck some of the time.
+[25:43.1 - 26:50.2] Paid
+[26:50.2 - 26:50.9] at midnight, huh?
+[26:50.9 - 26:51.9] Hmm?
+[26:51.9 - 26:53.6] Paid at midnight, huh?
+[26:53.6 - 26:54.2] Who?
+[26:54.2 - 26:55.4] We did.
+[26:55.4 - 26:56.2] Andrew.
+[26:56.2 - 26:57.4] Oh, yeah, duh.
+[26:57.4 - 27:00.1] But, but, but get this.
+[27:00.1 - 27:03.4] Next month, three checks.
+[27:03.4 - 27:03.6] Yo.
+[27:03.6 - 27:04.0] 19 grand.
+[27:04.0 - 27:05.2] Run it.
+[27:05.2 - 27:08.3] Every, every two months we get an extra check.
+[27:08.3 - 27:10.3] Yeah, I remember- Yeah ...
+[27:10.3 - 27:14.6] back home whenever, like some months we'd have three payrolls.
+[27:14.6 - 27:15.2] Fuck.
+[27:15.2 - 27:16.4] Yeah.
+[27:16.4 - 27:19.3] So yeah, 19, 19 grand.
+[27:19.3 - 27:22.1] However, after taxes and shit, that's what I get.
+[27:22.1 - 27:22.4] Yeah.
+[27:22.4 - 27:23.8] It's like 1,900 net every month.
+[27:23.8 - 27:24.2] 17.
+[27:24.2 - 27:25.9] Child support and all that shit.
+[27:25.9 - 27:31.6] They take away, they take out 800 a pay period, uh, 400 a pay period for my fucking child support.
+[27:31.6 - 27:33.3] Damn, how many kids you got?
+[27:33.3 - 27:33.7] Eight?
+[27:33.7 - 27:35.1] Two.
+[27:35.1 - 27:41.3] I, I, I pay in taxes and child support at 1,200, 1,200 bucks a Oh.
+[27:41.3 - 27:48.5] That is a lot of money.
+[27:48.5 - 27:49.5] Oh, sorry.
+[27:49.5 - 27:54.7] It's all right.
+[27:54.7 - 27:56.4] Okay, I'll look for one side right now and see.
+[27:56.4 - 27:57.7] All right.
+[27:57.7 - 27:58.6] Send to me when you can.
+[27:58.6 - 27:59.1] Thank you.
+[27:59.1 - 27:59.5] Okay.
+[43:15.1 - 43:15.4] Morning.
+[43:15.4 - 43:17.3] What happened?
+[43:17.3 - 43:20.6] My glasses on the- Oh, no ...doorframe walking in.
+[43:20.6 - 43:21.4] What the hell?
+[43:21.4 - 43:22.5] Haven't been here enough times?
+[43:22.5 - 43:36.7] Did
+[43:36.7 - 43:38.0] you run down the stairs already?
+[43:38.0 - 43:38.6] Yep.
+[43:38.6 - 43:38.9] Mm-hmm.
+[49:13.9 - 49:15.5] Yeah, you're welcome.
+[49:15.5 - 49:23.2] The way I said, if someone needs a, a box.
+[49:23.2 - 49:57.4] So
+[49:57.4 - 50:01.4] I was stressing about her coming in, 'cause Jeremy called me last night.
+[50:01.4 - 50:05.8] And just saying we gave her a way to like get into her VMware, basically.
+[50:05.8 - 50:06.5] Oh, okay.
+[50:06.5 - 50:16.9] But doing that, Jeremy was like, "Hey, I know we gave her the way to do it, but like really, ideally,
+[50:16.9 - 50:24.8] nobody should be connecting." Because if she does that and runs like a CPU intensive task- Mm ...
+[50:24.8 - 50:28.1] because of the way that she's in there- Could set fire ...
+[50:28.1 - 50:30.0] it, it just, it could...
+[50:30.0 - 50:30.2] Yeah.
+[50:30.2 - 50:32.4] Basically it could overheat things- Oh ...
+[50:32.4 - 50:35.8] and blow like two $12,000 GPUs really- Wow ...
+[50:35.8 - 50:39.5] easily and stuff, because of the way everything is set up.
+[50:39.5 - 50:39.7] Uh-huh.
+[50:39.7 - 50:44.3] And so I was like, is that- Was that her who came in while I was- I was like, "Oh, is that her?" Don't want it to blow up.
+[50:44.3 - 50:44.6] You know?
+[50:44.6 - 50:48.5] So I was like, I wanted to catch her right away to just be like, "This is the full breakdown.
+[50:48.5 - 50:51.8] We both know if Mark comes in yelling, you don't have a choice.
+[50:51.8 - 50:52.4] But like- Yeah ...
+[50:52.4 - 50:54.5] when he's not here, you can get to your files.
+[50:54.5 - 50:59.6] Like, even for you, you can go into File Explorer and do backslash, backslash Africa- Oh, okay ...
+[50:59.6 - 51:00.2] and get in.
+[51:00.2 - 51:03.3] And then if you go to redirected folders- Oh, okay ...
+[51:03.3 - 51:04.9] and then look for Bran...
+[51:04.9 - 51:05.8] It has everybody's- Yeah ...
+[51:05.8 - 51:07.3] name in there amongst some other things.
+[51:07.3 - 51:08.0] I did not know that.
+[51:08.0 - 51:13.0] And you can look for Brandon, and then it'll have everything from your desktop.
+[51:13.0 - 51:14.9] Let's see here.
+[51:14.9 - 51:19.3] So I would go to- So yeah, like click in there, like click so you can type like- A new one?
+[51:19.3 - 51:20.0] Oh, got it.
+[51:20.0 - 51:21.0] There's like, right there.
+[51:21.0 - 51:21.4] Oh, no, no, no.
+[51:21.4 - 51:21.6] Oh ...
+[51:21.6 - 51:22.1] like right here.
+[51:22.1 - 51:22.6] Right here.
+[51:22.6 - 51:23.1] Yeah.
+[51:23.1 - 51:25.7] And then do backslash, backslash Africa.
+[51:25.7 - 51:29.7] That's forward.
+[51:29.7 - 51:29.9] No.
+[51:29.9 - 51:30.8] Oh, that's right.
+[51:30.8 - 51:33.5] Okay.
+[51:33.5 - 51:36.8] Okay.
+[51:36.8 - 51:37.8] It takes a minute.
+[51:37.8 - 51:38.6] Oh.
+[51:38.6 - 51:39.2] Uh- Oh ...
+[51:39.2 - 51:40.0] da, da, da, da.
+[51:40.0 - 51:41.8] You can do, yeah, more choices.
+[51:41.8 - 51:45.0] You might be able to do it with just your thing.
+[51:45.0 - 51:47.6] Like just...
+[51:47.6 - 51:49.5] And then Apartment Corp over here.
+[51:49.5 - 51:54.3] And I think you should be able to get in, but I don't know.
+[51:54.3 - 51:55.2] Maybe not.
+[51:55.2 - 51:55.4] Yeah.
+[51:55.4 - 51:55.7] Oh, cool.
+[51:55.7 - 51:58.1] And then scroll down on the left, redirected fi- Oh ...
+[51:58.1 - 51:58.5] folders.
+[51:58.5 - 51:59.9] Redirected folders.
+[51:59.9 - 52:00.5] Right there.
+[52:00.5 - 52:00.8] Okay.
+[52:00.8 - 52:04.4] And then just scroll down to find your name.
+[52:04.4 - 52:06.2] Brandon.
+[52:06.2 - 52:08.9] And then I can favorite it or whatever?
+[52:08.9 - 52:10.4] You can.
+[52:10.4 - 52:12.7] I mean, this isn't something you'll really need- Yeah ...
+[52:12.7 - 52:14.7] in another instance, so- Oh, okay ...
+[52:14.7 - 52:16.4] but if you wanna do it just for now.
+[52:16.4 - 52:19.8] And then this is like, whatever's on your desktop will be there, documents there.
+[52:19.8 - 52:21.3] You obviously- Oh ...
+[52:21.3 - 52:24.4] you know, you don't have like Word and things like that- Right ...
+[52:24.4 - 52:25.9] up here, so you can only- Um ...
+[52:25.9 - 52:28.7] you can like view them in a Chrome browser or whatever.
+[52:28.7 - 52:30.6] Well, I can log into my Copilot, right?
+[52:30.6 - 52:31.3] Or something.
+[52:31.3 - 52:32.1] Sure.
+[52:32.1 - 52:33.2] But it just, a lot of...
+[52:33.2 - 52:33.2] Yeah ...
+[52:33.2 - 52:36.1] you have to like download it, and then it's like my thing- Oh ...
+[52:36.1 - 52:38.4] for OneDrive, like my Apartment Corp email.
+[52:38.4 - 52:41.8] It's like, "You don't have an account." It's like, "Well, yes, I do." Oh, yeah.
+[52:41.8 - 52:43.3] But like, it's saying I don't, so- Because it's set up weird, yeah.
+[52:43.3 - 52:46.4] I don't know how feasible that is, but- Ah ...
+[52:46.4 - 52:48.1] you can like view the document.
+[52:48.1 - 52:49.1] You know, like a Word doc- Yeah ...
+[52:49.1 - 52:49.8] will open.
+[52:49.8 - 52:56.7] Notepad's not a good one, but they have like another one that you can open in and it's like- Like the, like the N-A-P-S- It does stupid formatting.
+[52:56.7 - 52:56.7] Right?
+[52:56.7 - 52:56.7] But- ...
+[52:56.7 - 52:58.3] N-A-P-S-2 whatever ...
+[52:58.3 - 52:58.5] yeah.
+[52:58.5 - 53:00.3] It's like, it does dumb formatting- Oh ...
+[53:00.3 - 53:04.3] but you can still largely read it and make sense of the document.
+[53:04.3 - 53:04.9] Oh, okay.
+[53:04.9 - 53:07.7] And Notepad, it always adds like random stupid shit.
+[53:07.7 - 53:08.2] Yeah.
+[53:08.2 - 53:08.4] Nobody likes Notepad.
+[53:08.4 - 53:13.2] And then Excel you can open, you know, just in a browser like I did, I'm pretty sure.
+[53:13.2 - 53:13.2] Okay.
+[53:13.2 - 53:14.8] So you can view things.
+[53:14.8 - 53:18.3] I wouldn't recommend making the document- Oh, right ...
+[53:18.3 - 53:21.0] or changing it, because then it's- Unless I save it to my OneDrive or something.
+[53:21.0 - 53:21.2] Right.
+[53:21.2 - 53:25.2] But it's just like you're probably gonna fuck up your formatting on the Word document- Well, yeah.
+[53:25.2 - 53:25.8] Going from system to system ...
+[53:25.8 - 53:26.5] if you're doing that.
+[53:26.5 - 53:27.2] Yeah.
+[53:27.2 - 53:30.4] Because, right, Excel, it's like, because it's the cells, it's easy.
+[53:30.4 - 53:30.7] Uh-huh.
+[53:30.7 - 53:34.9] But Word, you're gonna like go back in, open it in Word, and be like- Oh ...
+[53:34.9 - 53:39.1] "Why are there fucking hieroglyphics in this?" Yeah, the paragraph symbol everywhere.
+[53:39.1 - 53:39.7] Yeah.
+[53:39.7 - 53:39.7] Yeah.
+[53:39.7 - 53:42.2] So like I wouldn't edit the document- Yeah, I don't really use Word ...
+[53:42.2 - 53:43.4] for that stuff really.
+[53:43.4 - 53:45.7] But, um, but just as an FYI- Okay ...
+[53:45.7 - 53:46.5] you have stuff available.
+[53:46.5 - 53:48.8] Or I could use my Google Drive- Nicole was saying- ...
+[53:48.8 - 53:49.7] that has everything ...
+[53:49.7 - 53:58.1] Nicole was saying Mark said that he would be difficult to get ahold of today, which t- to her understandably implies that he may not be in.
+[53:58.1 - 53:58.7] Right.
+[53:58.7 - 53:59.2] So then that...
+[53:59.2 - 54:06.5] Well, that just saves us from like, cool, so we can just do regular stuff, property match, whatever- Yeah ...
+[54:06.5 - 54:10.1] and not worry about- All these documents and shit- Yeah ...
+[54:10.1 - 54:15.2] because it's like, well, that's- Yeah, I'm gonna be working on that cost segregation thing all day anyway, so.
+[54:15.2 - 54:16.9] Yeah, so exactly.
+[54:16.9 - 54:19.2] You, you- I got plenty to do without- Mm-hmm ...
+[54:19.2 - 54:20.1] Microsoft.
+[54:20.1 - 54:20.9] Cool.
+[54:20.9 - 54:26.4] I did build this app that's pretty cool yesterday through Claude, and it does, um...
+[54:26.4 - 54:35.5] it takes over my browser for, uh, one site, and it goes through and it runs all my inspections for me and gives me a portal report with all the PDFs downloaded.
+[54:35.5 - 54:37.2] Inspections in one site?
+[54:37.2 - 54:40.1] Or the inspections somewhere- Oh, uh, loan- my loan workers.
+[54:40.1 - 54:40.7] Oh, okay.
+[54:40.7 - 54:40.8] Yeah.
+[54:40.8 - 54:41.2] So yeah, I...
+[54:41.2 - 54:42.5] 'cause I was like, inspections- So- ...
+[54:42.5 - 54:46.0] I'm not aware of ones in one site, but that's why I mentioned, 'cause yeah.
+[54:46.0 - 54:47.3] So all I have to do- The inspections all ...
+[54:47.3 - 54:48.4] is go to this- Okay.
+[54:48.4 - 54:49.9] Um, yeah.
+[54:49.9 - 54:50.8] Did, did you- Let's see ...
+[54:50.8 - 54:54.1] you heard me too, 'cause I keep forgetting that it's like- It's interesting ...
+[54:54.1 - 54:54.3] you're...
+[54:54.3 - 55:00.6] Uh, not forgetting, but when I'm talking with people, I forget to think about how you're taking that stuff over.
+[55:00.6 - 55:01.4] Oh.
+[55:01.4 - 55:03.5] So I view it as like, okay, let me like...
+[55:03.5 - 55:03.8] I'm...
+[55:03.8 - 55:08.6] In my head I'm like, "Okay, I'm helping out Robert by bitching at people about this stuff." Really- ...
+[55:08.6 - 55:09.9] it's like, I'm helping out Brandon.
+[55:09.9 - 55:13.7] But so you heard me where I was like, Leslie, you could have your people who I know- Yeah ...
+[55:13.7 - 55:14.4] don't do their- Just...
+[55:14.4 - 55:15.7] And that's what I told him too ...
+[55:15.7 - 55:15.7] do inspections.
+[55:15.7 - 55:16.6] What, what are we doing?
+[55:16.6 - 55:17.1] Like- There's plenty of stuff they can do ...
+[55:17.1 - 55:18.1] they're just sitting around.
+[55:18.1 - 55:20.5] We know that none of them do their inspections.
+[55:20.5 - 55:22.3] We know that they haven't done enough.
+[55:22.3 - 55:22.6] Yeah.
+[55:22.6 - 55:29.7] And even if they've done the number that you're supposed to do, it isn't the whole property, so you could do more units and be working.
+[55:29.7 - 55:30.3] Right.
+[55:30.3 - 55:32.1] I could do plenty- But then we have the problem...
+[55:32.1 - 55:32.9] This is the thing.
+[55:32.9 - 55:35.2] If you start doing that- Uh-huh ...
+[55:35.2 - 55:36.3] then they start giving you...
+[55:36.3 - 55:40.3] And it's like, it's, it's like a f- not even a 50/50.
+[55:40.3 - 55:43.7] It's like a 70/30, which is still too large.
+[55:43.7 - 55:43.9] They...
+[55:43.9 - 55:44.5] It's like- Yeah ...
+[55:44.5 - 55:48.9] they're on this 30% where some of them, like you met Susan.
+[55:48.9 - 55:49.7] She's lovely.
+[55:49.7 - 55:53.2] If you're telling her to walk all the units or something- Probably ...
+[55:53.2 - 55:58.6] there's a reasonable, like if she has done some already for two hours that day- Oh, yeah ...
+[55:58.6 - 55:59.9] it would be reasonable.
+[55:59.9 - 56:03.9] It's not necessarily factually what ends up happening, right?
+[56:03.9 - 56:08.1] But if she's like, "Well, my, like my leg is kind of fucked up and I'm really tired." Yeah.
+[56:08.1 - 56:10.1] "I already did a bunch." And like, okay- And what's her name?
+[56:10.1 - 56:10.8] Heather, you know?
+[56:10.8 - 56:11.2] Something like that ...
+[56:11.2 - 56:12.7] I can't argue with you, right?
+[56:12.7 - 56:14.4] Like I understand that.
+[56:14.4 - 56:14.4] Yeah.
+[56:14.4 - 56:16.2] And that very well could- But she had 21 days ...
+[56:16.2 - 56:16.3] Right.
+[56:16.3 - 56:18.7] That very well could be the case, right?
+[56:18.7 - 56:19.3] Yeah.
+[56:19.3 - 56:22.3] But then there's others who just use that.
+[56:22.3 - 56:26.9] Like, there's others where it's like, "Oh no, I, I walked like four units, but I'm really...
+[56:26.9 - 56:27.4] I'm, I'm...
+[56:27.4 - 56:30.4] It hurts." And it's like, but y- you're bullshit.
+[56:30.4 - 56:30.6] Yeah.
+[56:30.6 - 56:33.8] Like, I can't call that because it would be- Yeah ...
+[56:33.8 - 56:35.5] you don't actually know But they have 21 days to do it.
+[56:35.5 - 56:36.5] But that's the thing- You know?
+[56:36.5 - 56:36.5] ...
+[56:36.5 - 56:38.0] is where it's like, well, that's bullshit.
+[56:38.0 - 56:38.2] Yeah.
+[56:38.2 - 56:43.7] You're saying that because you don't wanna keep doing that today because it's more physical than sitting around- Right ...
+[56:43.7 - 56:44.1] usually.
+[56:44.1 - 56:45.6] Not that you- It would make the day go by faster.
+[56:45.6 - 56:45.8] Right.
+[56:45.8 - 56:49.1] But it's like not that you actually are in pain and can't do it.
+[56:49.1 - 56:49.5] Yeah.
+[56:49.5 - 56:50.9] It's, it's a- ...
+[56:50.9 - 56:54.6] you know that no one can come back to that excuse- Right ...
+[56:54.6 - 56:56.9] because you're, you're saying physically- 'Cause then it's like, uh- ...
+[56:56.9 - 56:57.7] you're kind of unable ...
+[56:57.7 - 56:59.5] forcing them to do work or something whenever.
+[56:59.5 - 57:00.2] Exactly.
+[57:00.2 - 57:02.8] And so it's like that's what they fucking use- Yeah ...
+[57:02.8 - 57:04.9] and that's why they're not doing anything- Right ...
+[57:04.9 - 57:05.7] right now, is that.
+[57:05.7 - 57:10.2] Not because they can't, not because they, they don't know about it, but because they don't want to.
+[57:10.2 - 57:10.6] Yeah.
+[57:10.6 - 57:11.8] It's- Watch this real quick.
+[57:11.8 - 57:13.1] I was gonna show you the scraper.
+[57:13.1 - 57:13.9] Oh, you're gonna show me and do it.
+[57:13.9 - 57:14.2] Yeah.
+[57:14.2 - 57:14.2] Yeah.
+[57:14.2 - 57:20.6] So this is the folder, and then you download the command and everything, blah, blah, blah, the JSON.
+[57:20.6 - 57:20.6] Mm-hmm.
+[57:20.6 - 57:22.5] And then you run the scraper.
+[57:22.5 - 57:22.8] Oh, wait.
+[57:22.8 - 57:23.8] Yep.
+[57:23.8 - 57:25.1] Extract all.
+[57:25.1 - 57:27.5] Actually, I've already extracted them.
+[57:27.5 - 57:29.2] I think I just wanna run it.
+[57:29.2 - 57:30.6] It maybe...
+[57:30.6 - 57:32.3] But...
+[57:32.3 - 57:33.2] Oh, it's just going.
+[57:33.2 - 57:37.4] Yeah, I was gonna say, it maybe isn't gonna work 'cause it's outside VMware, but...
+[57:37.4 - 57:39.4] It did a second ago.
+[57:39.4 - 57:39.7] Hold on.
+[57:39.7 - 57:43.0] I think I just have to do this.
+[57:43.0 - 57:47.4] And then I need to do this.
+[57:47.4 - 57:49.1] Extract all.
+[57:49.1 - 57:54.2] And now I go in here and do run scraper.
+[57:54.2 - 57:58.6] See, it goes in the website, checks them all, sees if they have...
+[57:58.6 - 58:02.6] I gave it where to navigate to and how to put in the dates.
+[58:02.6 - 58:02.9] It's funny, I'm...
+[58:02.9 - 58:07.1] I didn't do this, but I did notice a lot of missing coming up.
+[58:07.1 - 58:08.2] Yeah.
+[58:08.2 - 58:10.5] I saw missing like 15 to 20 times.
+[58:10.5 - 58:10.9] And then it will...
+[58:10.9 - 58:19.6] Then it opens the dashboard, which opens up this that I had it build, and then it puts all the PDFs, which I need to fix, into it, so then I have the full report.
+[58:19.6 - 58:20.5] Nice.
+[58:20.5 - 58:23.7] And then I schedule it to do every 21st of the month, so I don't have to do it.
+[58:23.7 - 58:24.8] Nice.
+[58:24.8 - 58:26.0] Nice, yeah.
+[58:26.0 - 58:26.4] Nifty, right?
+[58:26.4 - 58:26.9] Yeah.
+[58:26.9 - 58:29.1] Nothing wrong with that.
+[58:29.1 - 58:29.7] Keep it down.
+[58:29.7 - 58:31.0] Shut the fuck up.
+[58:31.0 - 58:31.2] Yeah.
+[58:31.2 - 58:34.3] Put some earmuffs on if I'm hurting your ears.
+[58:34.3 - 58:35.6] Keep it down up there.
+[58:35.6 - 58:38.6] That's why nobody likes you.
+[58:38.6 - 58:49.0] Hmm.
+[58:49.0 - 58:51.7] Hmm.
+[58:51.7 - 59:41.9] Hey.
+[59:41.9 - 59:50.6] If I could walk down the hall.
+[59:50.6 - 59:51.2] No, I did.
+[59:51.2 - 59:52.0] That's...
+[59:52.0 - 59:52.8] I am over here ...
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-27-12-31-19_transcription_20260706_153546.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-27-12-31-19_transcription_20260706_153546.txt
+[2J[H[3Jmanus-speech-to-text ROSE-REC2_V2025-12-27-12-31-19.mp3
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2025-12-27-12-31-19.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: .ROSE-REC2_V2025-12-27-12-31-19_chunks_20260706_153310/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: .ROSE-REC2_V2025-12-27-12-31-19_chunks_20260706_153310/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: .ROSE-REC2_V2025-12-27-12-31-19_chunks_20260706_153310/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: .ROSE-REC2_V2025-12-27-12-31-19_chunks_20260706_153310/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: .ROSE-REC2_V2025-12-27-12-31-19_chunks_20260706_153310/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[56:44.1 - 56:45.6] Not that you- It would make the day go by faster.
+[56:45.6 - 56:45.8] Right.
+[56:45.8 - 56:49.1] But it's like not that you actually are in pain and can't do it.
+[56:49.1 - 56:49.5] Yeah.
+[56:49.5 - 56:50.9] It's, it's a- ...
+[56:50.9 - 56:54.6] you know that no one can come back to that excuse- Right ...
+[56:54.6 - 56:56.9] because you're, you're saying physically- 'Cause then it's like, uh- ...
+[56:56.9 - 56:57.7] you're kind of unable ...
+[56:57.7 - 56:59.5] forcing them to do work or something whenever.
+[56:59.5 - 57:00.2] Exactly.
+[57:00.2 - 57:02.8] And so it's like that's what they fucking use- Yeah ...
+[57:02.8 - 57:04.9] and that's why they're not doing anything- Right ...
+[57:04.9 - 57:05.7] right now, is that.
+[57:05.7 - 57:10.2] Not because they can't, not because they, they don't know about it, but because they don't want to.
+[57:10.2 - 57:10.6] Yeah.
+[57:10.6 - 57:11.8] It's- Watch this real quick.
+[57:11.8 - 57:13.1] I was gonna show you the scraper.
+[57:13.1 - 57:13.9] Oh, you're gonna show me and do it.
+[57:13.9 - 57:14.2] Yeah.
+[57:14.2 - 57:14.2] Yeah.
+[57:14.2 - 57:20.6] So this is the folder, and then you download the command and everything, blah, blah, blah, the JSON.
+[57:20.6 - 57:20.6] Mm-hmm.
+[57:20.6 - 57:22.5] And then you run the scraper.
+[57:22.5 - 57:22.8] Oh, wait.
+[57:22.8 - 57:23.8] Yep.
+[57:23.8 - 57:25.1] Extract all.
+[57:25.1 - 57:27.5] Actually, I've already extracted them.
+[57:27.5 - 57:29.2] I think I just wanna run it.
+[57:29.2 - 57:30.6] It maybe...
+[57:30.6 - 57:32.3] But...
+[57:32.3 - 57:33.2] Oh, it's just going.
+[57:33.2 - 57:37.4] Yeah, I was gonna say, it maybe isn't gonna work 'cause it's outside VMware, but...
+[57:37.4 - 57:39.4] It did a second ago.
+[57:39.4 - 57:39.7] Hold on.
+[57:39.7 - 57:43.0] I think I just have to do this.
+[57:43.0 - 57:47.4] And then I need to do this.
+[57:47.4 - 57:49.1] Extract all.
+[57:49.1 - 57:54.2] And now I go in here and do run scraper.
+[57:54.2 - 57:58.6] See, it goes in the website, checks them all, sees if they have...
+[57:58.6 - 58:02.6] I gave it where to navigate to and how to put in the dates.
+[58:02.6 - 58:02.9] It's funny, I'm...
+[58:02.9 - 58:07.1] I didn't do this, but I did notice a lot of missing coming up.
+[58:07.1 - 58:08.2] Yeah.
+[58:08.2 - 58:10.5] I saw missing like 15 to 20 times.
+[58:10.5 - 58:10.9] And then it will...
+[58:10.9 - 58:19.6] Then it opens the dashboard, which opens up this that I had it build, and then it puts all the PDFs, which I need to fix, into it, so then I have the full report.
+[58:19.6 - 58:20.5] Nice.
+[58:20.5 - 58:23.7] And then I schedule it to do every 21st of the month, so I don't have to do it.
+[58:23.7 - 58:24.8] Nice.
+[58:24.8 - 58:26.0] Nice, yeah.
+[58:26.0 - 58:26.4] Nifty, right?
+[58:26.4 - 58:26.9] Yeah.
+[58:26.9 - 58:29.1] Nothing wrong with that.
+[58:29.1 - 58:29.7] Keep it down.
+[58:29.7 - 58:31.0] Shut the fuck up.
+[58:31.0 - 58:31.2] Yeah.
+[58:31.2 - 58:34.3] Put some earmuffs on if I'm hurting your ears.
+[58:34.3 - 58:35.6] Keep it down up there.
+[58:35.6 - 58:38.6] That's why nobody likes you.
+[58:38.6 - 58:49.0] Hmm.
+[58:49.0 - 58:51.7] Hmm.
+[58:51.7 - 59:41.9] Hey.
+[59:41.9 - 59:50.6] If I could walk down the hall.
+[59:50.6 - 59:51.2] No, I did.
+[59:51.2 - 59:52.0] That's...
+[59:52.0 - 59:52.8] I am over here ...
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-27-12-31-19_transcription_20260706_153546.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-27-12-31-19_transcription_20260706_153546.txt

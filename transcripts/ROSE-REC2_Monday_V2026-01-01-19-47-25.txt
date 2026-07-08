@@ -1,0 +1,844 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_Monday_V2026-01-01-19-47-25.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: mp3/.ROSE-REC2_Monday_V2026-01-01-19-47-25_chunks_20260705_192419/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: mp3/.ROSE-REC2_Monday_V2026-01-01-19-47-25_chunks_20260705_192419/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: mp3/.ROSE-REC2_Monday_V2026-01-01-19-47-25_chunks_20260705_192419/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: mp3/.ROSE-REC2_Monday_V2026-01-01-19-47-25_chunks_20260705_192419/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: mp3/.ROSE-REC2_Monday_V2026-01-01-19-47-25_chunks_20260705_192419/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.7 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[00:02.2 - 00:05.5] As I told you before, the earnings are in theoretical.
+[00:05.5 - 00:06.5] Oh.
+[00:06.5 - 00:07.6] They're not actual.
+[00:07.6 - 00:09.5] K-1 deals in actuality.
+[00:09.5 - 00:10.4] Oh, okay.
+[00:10.4 - 00:15.1] What Mark's saying about how much money did I make is theoretical.
+[00:15.1 - 00:15.7] Mm-hmm.
+[00:15.7 - 00:17.3] Property made a million dollars.
+[00:17.3 - 00:18.8] I have 10% of the property.
+[00:18.8 - 00:20.1] I made $100,000.
+[00:20.1 - 00:20.7] I understand.
+[00:20.7 - 00:24.6] But he's really made zero because nothing has been distributed.
+[00:24.6 - 00:28.9] Once it's been distributed, it shows up here.
+[00:28.9 - 00:35.8] But what also shows up here is the investor's share of the profit or loss of the property.
+[00:35.8 - 00:44.2] So let's say this investor owned 10% and it was a million dollar distribution and he got 10 million do- 10, uh, $100,000.
+[00:44.2 - 00:47.0] Uh, but the property had a loss.
+[00:47.0 - 00:49.6] Had a lot of expenses or Whatever.
+[00:49.6 - 00:55.8] It had a lot of, you know, like he's like, "Today we have a lot of money and we did distribution," and tomorrow, "Oh my God, the roof blew off." Okay.
+[00:55.8 - 00:58.2] So now we have- we're in the red.
+[00:58.2 - 01:01.0] We've already given the distribution, we can't take back.
+[01:01.0 - 01:11.2] But now we're in the red, so at the end of the year, the property is in the red, which means the K-1 is going to reflect his 2% of the loss.
+[01:11.2 - 01:12.9] Hmm.
+[01:12.9 - 01:13.6] Okay.
+[01:13.6 - 01:14.2] Okay?
+[01:14.2 - 01:17.8] So the K-1, it sounds like it's less- It's like a- ...
+[01:17.8 - 01:20.3] theoretical, the theoretical- It's not theoretical at all.
+[01:20.3 - 01:21.1] It's actual.
+[01:21.1 - 01:21.4] It's actual.
+[01:21.4 - 01:23.1] So, okay.
+[01:23.1 - 01:24.1] It's actual.
+[01:24.1 - 01:34.1] But you said something about having it calculate how much that investor made, and I said, "That's not how it
+[01:34.1 - 01:41.0] works," because just because he owns 2% of the property doesn't mean he made 2% of the pro- maybe it was a loss.
+[01:41.0 - 01:47.8] Does it give a number on the K-1 of, like, what the property's, like, total was at the moment?
+[01:47.8 - 01:49.5] That is in the tax return itself.
+[01:49.5 - 01:50.0] Oh.
+[01:50.0 - 01:56.5] The K-1 is a- Well, then that would correspond with the tax return you would also upload, right?
+[01:56.5 - 01:57.2] Yeah, but no.
+[01:57.2 - 01:57.2] Okay.
+[01:57.2 - 01:58.6] I'm not uploading tax returns here.
+[01:58.6 - 02:01.3] This is not the pur- the purpose of this- Okay ...
+[02:01.3 - 02:07.1] is just to have a list of investors so that when we need to contact them about a property.
+[02:07.1 - 02:14.1] Like for example, K-1s, they're coming out now, 2025 tax returns are being finalized now.
+[02:14.1 - 02:14.3] Mm-hmm.
+[02:14.3 - 02:16.9] I need to send K-1s to all these investors.
+[02:16.9 - 02:17.3] Okay.
+[02:17.3 - 02:20.1] Well, this is an easy way for me to see, well, who- I see ...
+[02:20.1 - 02:21.3] who is it and where did it go?
+[02:21.3 - 02:22.4] I was going too deep.
+[02:22.4 - 02:23.5] Yeah, you were going way too deep.
+[02:23.5 - 02:23.8] Okay.
+[02:23.8 - 02:25.1] But anyways, this is a K-1.
+[02:25.1 - 02:26.1] So really- Yeah, we'll look at it.
+[02:26.1 - 02:26.9] Yeah.
+[02:26.9 - 02:30.6] This, the rest of this is- There's some in, uh, PF, I see.
+[02:30.6 - 02:32.2] Yeah, there's a bunch of them.
+[02:32.2 - 02:32.2] Oh, okay.
+[02:32.2 - 02:35.7] But, like, all of this- Okay, check it out ...
+[02:35.7 - 02:39.0] I, I do my own taxes, or I have done my own taxes.
+[02:39.0 - 02:39.7] Oh, I see.
+[02:39.7 - 02:43.1] Uh, and I don't want to do them anymore 'cause it's getting complicated.
+[02:43.1 - 02:45.7] Uh, but anyways, this is a K-1.
+[02:45.7 - 02:45.8] Okay.
+[02:45.8 - 02:52.8] It's only pertinent to Todd, this property, and his 2%.
+[02:52.8 - 02:53.4] Okay.
+[02:53.4 - 02:54.2] That's it.
+[02:54.2 - 03:02.3] Now, Mark and Ellie have also a K-1.
+[03:02.3 - 03:02.8] Okay.
+[03:02.8 - 03:04.0] So let's look at...
+[03:04.0 - 03:08.7] Gates on Manhattan has a lot of investors.
+[03:08.7 - 03:09.3] Mm-hmm.
+[03:09.3 - 03:11.0] So here's the actual return.
+[03:11.0 - 03:14.8] All of these K-1s are contained in the return.
+[03:14.8 - 03:16.6] Uh, Robert, you should be listening to this.
+[03:16.6 - 03:17.2] I am listening.
+[03:17.2 - 03:18.0] I know what K-1s are.
+[03:18.0 - 03:19.9] You broke this down to me already.
+[03:19.9 - 03:21.2] So what is a K-1?
+[03:21.2 - 03:29.3] A K-1 is the, a W, uh, it's the, the, the, um, W-2 of an investment that you have.
+[03:29.3 - 03:31.4] Yeah, but it's not a W-2.
+[03:31.4 - 03:32.7] That is just- It's, uh, it's a K- ...
+[03:32.7 - 03:32.7] an analogy ...
+[03:32.7 - 03:33.5] it's a K-1.
+[03:33.5 - 03:35.3] You never wanna say W-2.
+[03:35.3 - 03:36.8] I use that as an analogy.
+[03:36.8 - 03:43.7] It has nothing to do with W-2, which are wage- I mean, it's for w- it's like a W-2, but it's a, it's for investment, your percentage in the investment.
+[03:43.7 - 03:46.9] Again, I want you to be specific in your language.
+[03:46.9 - 03:56.9] A K-1 tells, is broken down by the percentage of ownership in the property, and it tells
+[03:56.9 - 04:04.2] you your pers- your, your piece of the loss or the profit for that property.
+[04:04.2 - 04:06.5] That's an umbrella under the tax return.
+[04:06.5 - 04:09.8] It is contained within the tax return.
+[04:09.8 - 04:12.8] The tax return will say this property made $20 million.
+[04:12.8 - 04:14.1] And then you break it down.
+[04:14.1 - 04:19.2] And then it'll show the income and expenses, and then it'll show the distributions.
+[04:19.2 - 04:22.0] These are distributions of equity in the property.
+[04:22.0 - 04:22.9] Makes sense.
+[04:22.9 - 04:25.4] Equity being cash in the property.
+[04:25.4 - 04:31.3] So in this case, there's all of these investors, and they each get a K-1.
+[04:31.3 - 04:32.7] So let's look at this guy.
+[04:32.7 - 04:39.7] So this guy has .87% of Gates on Manhattan.
+[04:39.7 - 04:40.2] Mm-hmm.
+[04:40.2 - 04:51.0] What's his tax- And he has, on his tax return, he's going to show income of $3,458.
+[04:51.0 - 04:55.8] That is his share of the profit.
+[04:55.8 - 04:59.7] In a minus number, it would be his share of the loss.
+[04:59.7 - 05:03.4] And that's what the royalties distribution says.
+[05:03.4 - 05:09.6] No, and actually, what's interesting about K-1s, so he got a $7,000 distribution.
+[05:09.6 - 05:11.8] That's not what he puts on his tax return.
+[05:11.8 - 05:12.2] Oh.
+[05:12.2 - 05:20.4] What he puts on his tax return is the 3458, which is his share of the profit or loss of the property.
+[05:20.4 - 05:24.3] So the royalties are his return, is what you're saying?
+[05:24.3 - 05:25.0] Royalties?
+[05:25.0 - 05:25.1] What are royalties?
+[05:25.1 - 05:26.5] I don't know the difference.
+[05:26.5 - 05:27.0] No.
+[05:27.0 - 05:27.8] Uh, no.
+[05:27.8 - 05:28.1] Oh.
+[05:28.1 - 05:29.1] This is line 20.
+[05:29.1 - 05:29.9] Oh, I'm looking at the wrong thing.
+[05:29.9 - 05:30.6] It's a completely different thing.
+[05:30.6 - 05:31.5] You're reading it wrong.
+[05:31.5 - 05:31.9] Seven.
+[05:31.9 - 05:33.4] Okay.
+[05:33.4 - 05:34.3] I see.
+[05:34.3 - 05:37.3] So A, N, and Z have...
+[05:37.3 - 05:40.8] You can look at, uh, I don't know if it's on here.
+[05:40.8 - 05:43.5] Yeah, the codes.
+[05:43.5 - 05:46.0] A is other portfolio income.
+[05:46.0 - 05:52.2] N is, uh, gain eligible for Section 1045 rollover.
+[05:52.2 - 05:53.3] I don't even know what that is.
+[05:53.3 - 05:54.7] Z is other.
+[05:54.7 - 06:04.8] So, but I just know from experience, 'cause I've done my own tax returns, the only part that gets put on the tax
+[06:04.8 - 06:05.7] return is this.
+[06:05.7 - 06:11.6] Now, let me show you, um- How'd that outcome come?
+[06:11.6 - 06:14.4] It did some of them, but it still, still did.
+[06:14.4 - 06:16.8] Uh, let's go to ...
+[06:16.8 - 06:19.0] Where is River Garden?
+[06:19.0 - 06:25.3] I just got done with the granite bridge one, so ...
+[06:25.3 - 06:28.2] Well, I really So we'll look at my K-1.
+[06:28.2 - 06:29.8] I'm an investor in River Garden.
+[06:29.8 - 06:32.3] I have a teeny-tiny less than 1%.
+[06:32.3 - 06:33.3] Okay?
+[06:33.3 - 06:33.8] Mm-hmm.
+[06:33.8 - 06:37.1] This is what I put on my tax return.
+[06:37.1 - 06:40.1] -$17,000.
+[06:40.1 - 06:42.3] Yeah, it did not do very well that year, huh?
+[06:42.3 - 06:42.6] No.
+[06:42.6 - 06:44.5] What ha- You know what this all came from?
+[06:44.5 - 06:46.7] Accelerated depreciation.
+[06:46.7 - 06:49.7] It wasn't a tr- an actual paper loss.
+[06:49.7 - 06:53.4] No, that's the loss percentage is higher, right?
+[06:53.4 - 06:55.3] No, I don't know what you're saying.
+[06:55.3 - 06:55.8] Oh, okay.
+[06:55.8 - 06:58.0] This is my, this is my ...
+[06:58.0 - 07:00.7] I have .88% of the pro- of the property.
+[07:00.7 - 07:06.1] But it was the first year in which we owned the property.
+[07:06.1 - 07:06.5] Mm.
+[07:06.5 - 07:09.8] And the accountant took accelerated depreciation.
+[07:09.8 - 07:16.7] So he took this huge amount of depreciation to the point where even though I had less than 1%- Wow ...
+[07:16.7 - 07:19.7] I got a $17,000 write-off on my taxes.
+[07:19.7 - 07:20.5] Wow.
+[07:20.5 - 07:24.6] 'Cause it depreciates it for over, like, a 30-year thing?
+[07:24.6 - 07:27.1] Mm, because he accelerated- Accelerated it from- ...
+[07:27.1 - 07:27.9] the depreciation ...
+[07:27.9 - 07:29.0] one to seven and a half, two.
+[07:29.0 - 07:31.2] To whatever- Five or seven ...
+[07:31.2 - 07:31.9] something like that.
+[07:31.9 - 07:32.1] Yeah.
+[07:32.1 - 07:34.6] I think they go with the number seven, is what he kind of told me.
+[07:34.6 - 07:35.3] I, I don't know.
+[07:35.3 - 07:36.1] Mm.
+[07:36.1 - 07:40.6] Uh, so I was very happy- Yeah ...
+[07:40.6 - 07:44.4] to get this K-1, because it reduced my income by $17,000.
+[07:44.4 - 07:46.1] So you claimed that.
+[07:46.1 - 07:50.7] So these cost seg studies are all about accelerated depreciation.
+[07:50.7 - 07:51.6] Right, right, right.
+[07:51.6 - 08:00.9] Which means for the properties where those studies were done, the K-1s should reflect a nice minus number there.
+[08:00.9 - 08:00.9] Minus thing.
+[08:00.9 - 08:01.6] A low amount.
+[08:01.6 - 08:02.0] Yeah.
+[08:02.0 - 08:02.4] Yeah.
+[08:02.4 - 08:03.4] You ...
+[08:03.4 - 08:09.1] Now, as an investor, I don't wanna lose money, but this, I didn't lose $17,000.
+[08:09.1 - 08:11.5] 'Cause it was a write-off, basically.
+[08:11.5 - 08:12.8] It was just a write-off to me- Yeah ...
+[08:12.8 - 08:16.8] because the property didn't lose 17 ...
+[08:16.8 - 08:20.4] You know, like, let's say this was 1%, it didn't lose $1.7 million.
+[08:20.4 - 08:20.9] Mm.
+[08:20.9 - 08:25.6] Or 100, whatever the- So this is better than the straight line depreciation.
+[08:25.6 - 08:30.1] For tax purposes, yes.
+[08:30.1 - 08:33.0] But for income purposes- For income purposes- But again, now- ...
+[08:33.0 - 08:33.0] no.
+[08:33.0 - 08:36.2] I mean, but this is not ...
+[08:36.2 - 08:41.7] The property did not lose so much money that my .8 was $17,000.
+[08:41.7 - 08:46.8] That $17,000 came strictly from accelerated depreciation.
+[08:46.8 - 08:49.1] Did the property make a lot of money that year?
+[08:49.1 - 08:50.3] No.
+[08:50.3 - 08:58.8] It probably broke even, because it was the first year we owned it, and we were paying a lot of fees and whatever.
+[08:58.8 - 09:04.5] Do you think that that number on the loss is a little bit larger because of the accelerated depreciation, you think?
+[09:04.5 - 09:05.6] Yeah, I don't know what that 1.17 is.
+[09:05.6 - 09:08.0] Because normally the ones you showed me, they were all even.
+[09:08.0 - 09:10.2] But maybe those, that property wasn't accelerated.
+[09:10.2 - 09:11.4] That is unclear to me.
+[09:11.4 - 09:12.8] Okay.
+[09:12.8 - 09:15.1] This is the amount that I put in.
+[09:15.1 - 09:15.5] Mm-hmm.
+[09:15.5 - 09:17.5] Capital, .8.
+[09:17.5 - 09:19.5] Okay?
+[09:19.5 - 09:19.9] Mm-hmm.
+[09:19.9 - 09:25.9] But, so I'm hoping that this year it's gonna look a lot like last year.
+[09:25.9 - 09:26.5] Right.
+[09:26.5 - 09:29.3] 'Cause then I get a really nice- Study that accelerated- ...
+[09:29.3 - 09:30.0] deduction ...
+[09:30.0 - 09:30.9] depreciation.
+[09:30.9 - 09:31.8] You can probably count on that.
+[09:31.8 - 09:33.2] But what were you ...
+[09:33.2 - 09:33.8] Uh, yeah.
+[09:33.8 - 09:39.8] So I have rental properties, right?
+[09:39.8 - 09:40.1] Mm-hmm.
+[09:40.1 - 09:48.2] So when I do my taxes, I say I collected $10,000 in rent, and I have $7,000 in expenses.
+[09:48.2 - 09:50.3] That gives me net 3,000.
+[09:50.3 - 09:50.9] Mm.
+[09:50.9 - 09:56.9] But I get to write off $1,500 in depreciation- Okay ...
+[09:56.9 - 10:02.7] because I'm depreciating straight line 27 and a half years, land, um, improvements only, no land.
+[10:02.7 - 10:07.4] So now my tax, instead of being on $3,000, it's on $1,500.
+[10:07.4 - 10:09.1] If you do, like, a building, any improvement.
+[10:09.1 - 10:09.4] Yeah.
+[10:09.4 - 10:11.8] The same way that you do the assets of your tax return.
+[10:11.8 - 10:20.2] And that is a, a, um, um, a standard IRS thing, 27 and a half years for the improvement for the house itself.
+[10:20.2 - 10:20.6] Okay.
+[10:20.6 - 10:22.6] I learned something.
+[10:22.6 - 10:27.7] However, when I sell the property, guess what happens?
+[10:27.7 - 10:29.8] You're not gonna guess, so I'm just gonna tell you.
+[10:29.8 - 10:30.4] Yeah, please.
+[10:30.4 - 10:32.1] When I sell the property ...
+[10:32.1 - 10:33.3] Robert, you should be listening to this.
+[10:33.3 - 10:34.5] I'm f- trying to fix this.
+[10:34.5 - 10:35.0] Yeah.
+[10:35.0 - 10:36.3] Well, I mean, you should be listening to this- Okay ...
+[10:36.3 - 10:39.0] 'cause I'm giving a very, uh, important education here.
+[10:39.0 - 10:40.5] Okay.
+[10:40.5 - 10:44.5] What you're fixing is not- It's important to me ...
+[10:44.5 - 10:48.1] it, it, no, but it's, it's an aesthetic convenience thing.
+[10:48.1 - 10:49.1] Okay.
+[10:49.1 - 10:55.8] When I sell the house, I have to recapture all my depreciation.
+[10:55.8 - 10:56.0] Right.
+[10:56.0 - 10:58.8] Do you know what a 1031 exchange is?
+[10:58.8 - 10:59.5] I do.
+[10:59.5 - 11:00.4] Yes, actually.
+[11:00.4 - 11:03.1] Why do people do 1031 exchange?
+[11:03.1 - 11:03.3] To defer the capital gains.
+[11:03.3 - 11:04.2] Because- To defer the capital gains tax ...
+[11:04.2 - 11:07.4] and to also defer the re- the, the depreciation recapture.
+[11:07.4 - 11:07.7] Yeah.
+[11:07.7 - 11:07.7] Mm-hmm.
+[11:07.7 - 11:09.2] That's the biggest reason.
+[11:09.2 - 11:09.8] I find that.
+[11:09.8 - 11:11.2] All those lunches I went to.
+[11:11.2 - 11:11.7] Yeah.
+[11:11.7 - 11:11.8] Mm.
+[11:11.8 - 11:14.4] It's the biggest reason people do 1031 exchanges- To swap- ...
+[11:14.4 - 11:15.0] it's so they don't- ...
+[11:15.0 - 11:16.2] swap like kind properties.
+[11:16.2 - 11:16.6] Yeah ...
+[11:16.6 - 11:19.1] so that you don't have to recapture the depreciation.
+[11:19.1 - 11:20.0] Yeah.
+[11:20.0 - 11:30.2] So when I sell my rental properties that I've depreciated, I don't know, let's say $2,000 a month for the last 25 years that I've owned them-
+[11:30.2 - 11:32.5] You have to own it at least two years, right?
+[11:32.5 - 11:34.1] Or more than that.
+[11:34.1 - 11:36.2] There's like a minimum- For what?
+[11:36.2 - 11:36.5] ...
+[11:36.5 - 11:38.8] amount for, to qualify for a exchange.
+[11:38.8 - 11:41.5] Oh, that, maybe.
+[11:41.5 - 11:41.9] I don't know.
+[11:41.9 - 11:42.0] Yeah.
+[11:42.0 - 11:43.3] I don't know the rules of that.
+[11:43.3 - 11:50.2] But let's say I've depre- let's say I bought the house for 100 and I sell it for 300.
+[11:50.2 - 11:51.0] Mm-hmm.
+[11:51.0 - 11:53.2] So I have 200,000 in net gain.
+[11:53.2 - 11:54.0] Mm.
+[11:54.0 - 11:55.4] Long-term capital gains.
+[11:55.4 - 11:59.9] But let's say I owned it for 30 years, and during those 30 years-
+[12:00.0 - 12:02.4] There's, I depreciated 80,000.
+[12:02.4 - 12:02.9] Mm-hmm.
+[12:02.9 - 12:03.6] Guess what?
+[12:03.6 - 12:06.3] I owe tax on 280,000.
+[12:06.3 - 12:07.0] Right.
+[12:07.0 - 12:08.8] Yeah.
+[12:08.8 - 12:12.2] That's why- 1031 ...
+[12:12.2 - 12:15.9] depreciation is why real estate investors pay no taxes.
+[12:15.9 - 12:18.5] That's why Donald Trump pays no taxes.
+[12:18.5 - 12:18.8] Right.
+[12:18.8 - 12:23.5] That's why Mark Minowitz pays no taxes, because he has huge amounts of depreciation.
+[12:23.5 - 12:26.0] Wonder how Netflix gets away with it.
+[12:26.0 - 12:28.5] What does Netflix have to do with anything?
+[12:28.5 - 12:32.9] Well, well they just don't pay any taxes either, but I don't see how they could do swap or do any kind of exchanging.
+[12:32.9 - 12:37.0] They may own their offices throughout the world.
+[12:37.0 - 12:38.4] They may own the real estate.
+[12:38.4 - 12:40.2] That's true, yeah.
+[12:40.2 - 12:42.1] They also own a lot of intellectual property.
+[12:42.1 - 12:45.4] Intellectual property doesn't get depreciated, so I don't quite know how that works.
+[12:45.4 - 12:46.8] Yeah, I know with 1031 you have to swap oil wells for oil wells.
+[12:46.8 - 12:49.4] But here's, so here is what rich people do.
+[12:49.4 - 12:52.0] They don't sell their properties.
+[12:52.0 - 12:54.9] They refinance them, and they take money out.
+[12:54.9 - 12:56.9] The Mark Minowitz School of- Right ...
+[12:56.9 - 12:58.3] of, of Real Estate Investment.
+[12:58.3 - 13:04.3] So he has a property that he bought for a million dollars and now it's worth $2 million.
+[13:04.3 - 13:08.0] He takes that extra million out as cash.
+[13:08.0 - 13:10.0] No, it doesn't raise the income.
+[13:10.0 - 13:11.1] No, he goes in and raises the income.
+[13:11.1 - 13:14.7] He goes in and raises the NOI, not the income.
+[13:14.7 - 13:16.1] The net operating expense.
+[13:16.1 - 13:17.7] It could be either through- The net operating income ...
+[13:17.7 - 13:22.5] increasing income or d- uh, reducing expenses, right?
+[13:22.5 - 13:22.7] Yeah.
+[13:22.7 - 13:31.2] So go back to me, my little houses that I bought for 100 and that are now worth 300.
+[13:31.2 - 13:37.3] If I sell them, I pay capital gains on the 200, plus I recapture all the depreciation.
+[13:37.3 - 13:39.6] So now I would owe taxes on 280,000.
+[13:39.6 - 13:43.3] Or I can refinance it.
+[13:43.3 - 13:44.2] They're free and clear.
+[13:44.2 - 13:49.7] I can refinance the properties, and I can't take out 100%, but let's say I take out 70%.
+[13:49.7 - 13:50.0] Mm-hmm.
+[13:50.0 - 13:53.4] Let's say that's, uh, 250,000.
+[13:53.4 - 13:55.5] No, they're worth 300.
+[13:55.5 - 13:57.7] Yeah, let's say I could take 240,000.
+[13:57.7 - 14:03.8] If I take 240,000, that is tax-free.
+[14:03.8 - 14:05.1] No capital gains.
+[14:05.1 - 14:06.7] No, no, uh, it's a loan.
+[14:06.7 - 14:07.2] Mm-hmm.
+[14:07.2 - 14:09.7] My tenants are still paying the rent.
+[14:09.7 - 14:17.6] And then in theory, I hold the houses until I die, and then my heirs get the property.
+[14:17.6 - 14:18.1] Mm.
+[14:18.1 - 14:20.4] I have no kids, so it'd be my n- nieces and nephews.
+[14:20.4 - 14:21.2] Guess what?
+[14:21.2 - 14:24.1] They get what's called a stepped-up basis.
+[14:24.1 - 14:26.2] Yeah, to farmer, to fair market value.
+[14:26.2 - 14:27.7] To fair market value.
+[14:27.7 - 14:27.8] Mm-hmm.
+[14:27.8 - 14:31.4] All the cap- depreciation goes away.
+[14:31.4 - 14:34.3] All the capital gains goes away.
+[14:34.3 - 14:36.5] This is what rich people do.
+[14:36.5 - 14:36.9] Right.
+[14:36.9 - 14:38.1] Mm-hmm.
+[14:38.1 - 14:46.0] The only problem is, for me, I have to make a decision because I could do that, but then I have to keep managing the properties.
+[14:46.0 - 14:47.0] Right.
+[14:47.0 - 14:48.5] You're not gonna be heirs.
+[14:48.5 - 14:51.1] Yeah, and I don't have heirs, but- You can put me in there.
+[14:51.1 - 15:01.2] You know, when you're Mark Minowitz, and you have staff that manages your properties, you can keep taking money out and putting it in your pocket and going on your merry
+[15:01.2 - 15:04.7] way, and you don't care because you don't need to manage them yourself, right?
+[15:04.7 - 15:07.1] Refinance and over and over and over.
+[15:07.1 - 15:07.4] Yeah.
+[15:07.4 - 15:09.1] And take the cash out.
+[15:09.1 - 15:10.6] So I will likely...
+[15:10.6 - 15:12.8] Well, I don't know what I'll do.
+[15:12.8 - 15:13.8] I'll have to just see.
+[15:13.8 - 15:15.2] But I mean, I have options.
+[15:15.2 - 15:25.8] I can either refinance and get the cash, and give the nicely appreciated house that is highly mortgaged to my nieces and nephews.
+[15:25.8 - 15:27.4] There you go.
+[15:27.4 - 15:28.9] Well, they'll still get at least 30%.
+[15:28.9 - 15:29.3] Yeah.
+[15:29.3 - 15:30.0] Right?
+[15:30.0 - 15:30.6] I'll take it, yeah.
+[15:30.6 - 15:31.1] Yeah.
+[15:31.1 - 15:31.6] All day.
+[15:31.6 - 15:34.0] Because I can't take 100% loan to value.
+[15:34.0 - 15:34.6] Right.
+[15:34.6 - 15:36.9] I'll take like a 70% loan to value.
+[15:36.9 - 15:38.0] Yeah.
+[15:38.0 - 15:40.9] So when they inherit the property, they still get 30%.
+[15:40.9 - 15:42.4] That's pretty good for doing nothing.
+[15:42.4 - 15:42.5] Mm-hmm.
+[15:42.5 - 15:44.1] Yeah.
+[15:44.1 - 15:45.6] And they'll, and they won't- And then they can fight about it.
+[15:45.6 - 15:46.3] Yeah, exactly.
+[15:46.3 - 15:49.9] That's what they always joked about in the 1031 exchange.
+[15:49.9 - 15:50.9] Yeah, I could do that- And the terrible fees ...
+[15:50.9 - 15:54.1] or I could just sell the properties- The tenant spoils trash ...
+[15:54.1 - 15:55.7] and, and bite the bullet and pay the taxes.
+[15:55.7 - 15:56.5] Mm-hmm.
+[15:56.5 - 15:59.7] So I think I'm probably gonna do a combination of both.
+[15:59.7 - 16:05.7] I will probably sell some and just take the cash and be done with the management aspect.
+[16:05.7 - 16:09.9] And like I have a condo here in Sherman Oaks.
+[16:09.9 - 16:10.6] Oh, okay.
+[16:10.6 - 16:12.1] That one I will probably never sell.
+[16:12.1 - 16:14.0] No, 'cause that's gonna always go up.
+[16:14.0 - 16:21.7] It's gonna always go up, and it's, it's already appreciated significantly- Mm-hmm ...
+[16:21.7 - 16:24.3] where I'd have to pay a lot of taxes if I were to sell it.
+[16:24.3 - 16:24.6] Oh, yeah.
+[16:24.6 - 16:26.2] Because it's no longer- What is your capital gains ...
+[16:26.2 - 16:29.0] my primary residence, so I don't get that $500,000.
+[16:29.0 - 16:31.2] What is capital gains, like 52%?
+[16:31.2 - 16:31.7] No.
+[16:31.7 - 16:32.4] Like way up there.
+[16:32.4 - 16:33.6] No, no, no, no, no, no.
+[16:33.6 - 16:36.5] Short-term capital gains is, I think, 35%.
+[16:36.5 - 16:37.4] Long-term is 15.
+[16:37.4 - 16:40.2] Oh, I don't know why I thought it was so much higher.
+[16:40.2 - 16:42.2] So 15- Or maybe they were going to raise it when Trump got in ...
+[16:42.2 - 16:42.6] you know what?
+[16:42.6 - 16:45.5] 15%, I'm okay with that.
+[16:45.5 - 16:47.0] But- 30 now ...
+[16:47.0 - 16:50.4] but it would be 15% plus the recaptured depreciation.
+[16:50.4 - 16:50.7] Mm.
+[16:50.7 - 16:51.2] That makes it...
+[16:51.2 - 16:54.1] But, and, and I don't, I don't think it's 15% on that.
+[16:54.1 - 16:56.3] I think that's a regular ordinary income.
+[16:56.3 - 16:56.8] Hmm.
+[16:56.8 - 17:00.1] So depending what my tax rate is at the time I sell the property.
+[17:00.1 - 17:01.3] I don't know.
+[17:01.3 - 17:04.8] But, um, so that's a K-1.
+[17:04.8 - 17:09.1] Now I'm gonna look at it So tell me again, Robert, what is a K-1?
+[17:09.1 - 17:13.1] A K-1 is the gains and the...
+[17:13.1 - 17:15.9] What's the other word for gain?
+[17:15.9 - 17:18.1] Opposite of gain.
+[17:18.1 - 17:24.5] A loss that you got on your investment record for the year.
+[17:24.5 - 17:27.7] That's better than a W-2.
+[17:27.7 - 17:29.8] You might as well put 1099 on that.
+[17:29.8 - 17:34.6] It's better than W-2 and better than 1099 because it's none, neither of those.
+[17:34.6 - 17:35.3] Zero sectors.
+[17:35.3 - 17:45.3] It is a document that states your share of the profit or loss in the
+[17:45.3 - 17:46.6] property you invested in.
+[17:46.6 - 17:48.2] Yeah, but it doesn't have your wage, your salary.
+[17:48.2 - 17:53.3] Now, as I, as we've said, sometimes the loss is just on paper.
+[17:53.3 - 17:53.9] Mm-hmm.
+[17:53.9 - 17:57.1] This property didn't lose $1.7 million.
+[17:57.1 - 17:58.2] Right.
+[17:58.2 - 17:59.8] It probably broke even.
+[17:59.8 - 18:04.8] But because we got that accelerated depreciation, it gave me a $17,000 loss.
+[18:04.8 - 18:06.7] Which I'll only do that on the tenant properties.
+[18:06.7 - 18:08.4] Isn't that worth the investment?
+[18:08.4 - 18:10.9] Did, did you expect that to happen?
+[18:10.9 - 18:12.6] Did you have no idea that was gonna happen?
+[18:12.6 - 18:21.4] When I saw the K-one, I'm like, "What?" Now I'm hoping it's gonna happen in '25 too, because we did do the cost seg before.
+[18:21.4 - 18:21.9] Oh, yeah.
+[18:21.9 - 18:26.0] Well, there's a little slider thing on there that you...
+[18:26.0 - 18:31.0] I don't think I shared the actual website I built for it, 'cause that would have been like, "Why did he do this?
+[18:31.0 - 18:33.1] There's too much of it." You know how Manis is.
+[18:33.1 - 18:35.3] Oh, Manis.
+[18:35.3 - 18:35.5] Yeah.
+[18:35.5 - 18:36.8] There's so many.
+[18:36.8 - 18:38.0] It's all Gail.
+[18:38.0 - 18:39.2] Yeah.
+[18:39.2 - 18:42.1] So yeah, that was like bonus.
+[18:42.1 - 18:47.6] So but the K-ones can go either way.
+[18:47.6 - 18:55.0] If a property does really, really well, like makes millions of dollars- Mm-hmm ...
+[18:55.0 - 18:58.6] maybe even depreciation is not enough to matter.
+[18:58.6 - 19:03.1] There's some sort of like tell or kind of- There, there, but there, it is what it is.
+[19:03.1 - 19:04.1] It's not like you- Yeah.
+[19:04.1 - 19:05.7] You're, you're writing it off or you're making money.
+[19:05.7 - 19:06.9] Like either way, you win.
+[19:06.9 - 19:07.8] Either be happy.
+[19:07.8 - 19:12.3] Because if it was making millions and millions of dollars, I would've gotten a lot of distributions.
+[19:12.3 - 19:12.4] Yeah.
+[19:12.4 - 19:12.7] Right.
+[19:12.7 - 19:14.7] So who cares either way?
+[19:14.7 - 19:15.3] Yeah.
+[19:15.3 - 19:17.0] It is what it is.
+[19:17.0 - 19:17.3] Yeah.
+[19:17.3 - 19:27.6] The only thing is when I, when I'm not working anymore, and I'm trying to plan for tax purposes, it's gonna be a little tough 'cause I never know what these- Less income,
+[19:27.6 - 19:28.2] more write-off.
+[19:28.2 - 19:38.4] I, I, I don't know what these things are gonna say, and I, and, you know, I need to plan how much money am I taking, and what tax bracket does that put me into, and which bucket am I taking
+[19:38.4 - 19:42.8] from because some is long-term capital gains, some is ordinary income.
+[19:42.8 - 19:46.2] There should be a little Nicole button on there that'll actually calculate it all.
+[19:46.2 - 19:47.1] Yeah, I know.
+[19:47.1 - 19:49.6] But it, but I don't know how the, um...
+[19:49.6 - 19:58.3] I, I don't know how it's, uh, the, the depreciation is the thing that I don't know.
+[19:58.3 - 20:02.9] I mean, I could look at the income and expenses, but even then...
+[20:02.9 - 20:09.1] Well, also, when I'm not here anymore, I can't look at any of it, but regardless, anyways, that's how a K-one works.
+[20:09.1 - 20:16.8] So in this case, uh, yeah, there was no distribution this year 'cause we had only owned the property.
+[20:16.8 - 20:22.5] In '25, we did get some distributions, and now we're about to get...
+[20:22.5 - 20:25.8] Actually, I got, uh, it's still here for Mark to sign.
+[20:25.8 - 20:29.3] They did a refi, so I got a very nice check.
+[20:29.3 - 20:33.8] Still not the total of what I put in, but- But you got to write all that off.
+[20:33.8 - 20:35.2] No.
+[20:35.2 - 20:36.3] Oh, that was a gift.
+[20:36.3 - 20:36.3] Well, okay.
+[20:36.3 - 20:38.2] You don't write off what you put in.
+[20:38.2 - 20:39.7] Right, right, right.
+[20:39.7 - 20:42.8] An investment is not a deductible expense.
+[20:42.8 - 20:43.1] Oh, no.
+[20:43.1 - 20:44.5] It's a gamble pretty much.
+[20:44.5 - 20:45.6] Right.
+[20:45.6 - 20:54.0] But when I get money back, it's not income if it's a return of capital.
+[20:54.0 - 20:56.3] Does that make sense?
+[20:56.3 - 20:57.5] Say that again.
+[20:57.5 - 21:05.5] If, if I put, I put $50,000 in, and I get $40,000 back, that's a return of capital.
+[21:05.5 - 21:06.5] Oh, okay.
+[21:06.5 - 21:06.9] Yeah.
+[21:06.9 - 21:08.5] Return on investment.
+[21:08.5 - 21:10.6] It, it's not a return on investment.
+[21:10.6 - 21:13.9] It's a return on ca- Well, it is return on investment, yes.
+[21:13.9 - 21:19.7] But for tax purposes, it's a return of capital 'cause I haven't yet made money over and above what I put in.
+[21:19.7 - 21:20.9] Oh, I see.
+[21:20.9 - 21:24.6] And you al- you always have a cost basis in an investment.
+[21:24.6 - 21:29.7] Like you buy a stock for $100, and now it's worth 300, and you sell it.
+[21:29.7 - 21:31.0] You don't pay tax on 300.
+[21:31.0 - 21:33.5] You pay tax on two because your cost basis was one.
+[21:33.5 - 21:33.9] Mm-hmm.
+[21:33.9 - 21:35.2] Okay?
+[21:35.2 - 21:37.3] Too much math.
+[21:37.3 - 21:42.6] Well, thanks for the class.
+[21:42.6 - 21:44.0] Yeah.
+[21:44.0 - 21:47.6] Let me know if, um, y'all need that sorted.
+[21:47.6 - 21:49.3] Okay.
+[21:49.3 - 21:50.6] Again, not important.
+[21:50.6 - 21:52.1] It's just- Okay ...
+[21:52.1 - 21:53.5] purely aesthetics.
+[24:29.6 - 24:30.8] Okay, where was I?
+[24:30.8 - 24:52.1] Okay.
+[24:52.1 - 24:54.7] Progress.
+[24:54.7 - 25:20.2] Leave
+[25:20.2 - 27:10.0] me alone.
+[27:10.0 - 27:50.8] Those
+[27:50.8 - 27:51.9] pretzels are yours.
+[27:51.9 - 27:52.9] Yeah, have 'em.
+[27:52.9 - 27:54.3] Have at it.
+[27:54.3 - 27:55.0] It's cool?
+[27:55.0 - 27:55.6] Yeah, it's cool.
+[27:55.6 - 27:56.2] Can I have that?
+[27:56.2 - 27:56.9] Yeah, go for it.
+[27:56.9 - 27:57.8] Please.
+[27:57.8 - 28:04.8] I didn't wanna not check 'cause I was-- I looked and I was like, "Oh, let me..." And it was like- I didn't count them, so ...
+[28:04.8 - 28:10.5] I think these are Brandon's I remember him offering the Rice Krispies, and those are- Yeah, you can have some of those too.
+[28:10.5 - 28:11.0] I don't care.
+[28:11.0 - 28:14.3] Well, All, all is fair game.
+[28:14.3 - 28:18.7] I mean- I don't like to just, you know- But I do appreciate you asking ...
+[28:18.7 - 28:24.4] you giving me free reign of, like, this stuff, but you see how a lot of the time I still ask, I just- Yeah.
+[28:24.4 - 28:25.8] Very thoughtful of you.
+[28:25.8 - 28:26.0] Yeah.
+[28:26.0 - 28:27.1] I like to run it by you first.
+[28:27.1 - 28:27.6] Like, I don't wanna...
+[28:27.6 - 28:31.6] I know you're being generous, but, like- No, always- ...
+[28:31.6 - 28:40.3] just wanna make sure it's like, "Hey, this isn't the end of it, and you were safe in the " I mean, maybe if there's one left, you know, "Brandon, do you want this?" Yeah.
+[28:40.3 - 28:42.3] Well, I like to thank you, check, you know?
+[28:42.3 - 28:43.7] Thank you, thank you.
+[28:43.7 - 28:54.3] Oh,
+[28:54.3 - 28:54.7] shit.
+[28:54.7 - 29:55.5] Forward.
+[36:19.0 - 36:19.0] Nine.
+[36:19.0 - 36:19.0] One.
+[36:19.0 - 37:54.7] Thirteen eighty-four.
+[37:54.7 - 37:57.8] Okay.
+[37:57.8 - 38:01.6] Fucking shit.
+[38:01.6 - 39:33.4] Okay.
+[39:33.4 - 39:37.3] Now I want to...
+[39:37.3 - 41:14.8] There
+[41:14.8 - 41:15.0] we go.
+[41:15.0 - 41:16.7] Fifty-one hundred.
+[41:16.7 - 41:24.0] Okay, at this point in time, I'm hoping you have all the comparables finished.
+[41:24.0 - 41:28.5] Well, I've got them all double-checked with the rent rolls finally, so.
+[41:28.5 - 41:30.8] The comparables or the rent rolls?
+[41:30.8 - 41:32.8] Um- You know what I'm saying, what a comparable is.
+[41:32.8 - 41:35.1] It shows you me what they're charging in the other apartment buildings.
+[41:35.1 - 41:42.7] Yes, but, you know, in the rent, in the comparables that I'm providing, it has the actual rents of our, all of our units, so I'm just double-checking that those are right.
+[41:42.7 - 41:47.5] But all the comparables are, are- Is this gonna go in there and make it so that it's automated in the future- Yes ...
+[41:47.5 - 41:50.5] so that every month we update the thing and the manager can see it?
+[41:50.5 - 41:50.6] Yeah.
+[41:50.6 - 41:54.9] I have it scheduled, uh, the tenth of every month, unless you want a different day.
+[41:54.9 - 41:56.5] I think you said the tenth in the past, so.
+[41:56.5 - 41:59.8] We'll probably change it, but I'm sure that's easy.
+[41:59.8 - 42:03.2] Just making sure it's all right.
+[42:03.2 - 42:08.3] I went and downloaded everything out of Yardi and out of, um, OneSite.
+[42:08.3 - 42:13.1] Now I got the Yardi properties out of Yardi obviously, and just, just been double-checking and stuff.
+[42:13.1 - 42:15.9] But it's looking good.
+[42:15.9 - 42:18.3] I'm almost done with these.
+[42:18.3 - 42:19.5] So I'm at Thomasville.
+[42:19.5 - 42:20.9] I just have Thomasville and Crossings.
+[42:20.9 - 42:31.1] What I'd like to know is, and I didn't ask you this beforehand, if you look at the affordable rents compared
+[42:31.1 - 42:34.5] to what we're charging, are any of the buildings where we're charging too little?
+[42:34.5 - 42:43.6] Um, I haven't looked at it total like that yet, but I, I think that there are quite a few, but I don't know the specifics yet.
+[42:43.6 - 42:44.9] But- Good ...
+[42:44.9 - 42:46.6] I should know by tomorrow.
+[42:46.6 - 42:48.7] I can have a full list of- All right ...
+[42:48.7 - 42:52.3] exactly your loss to what your leasing is.
+[42:52.3 - 42:53.6] What are you doing?
+[42:53.6 - 42:54.9] Just gonna work with the car.
+[42:54.9 - 42:56.9] Stop eating his food.
+[42:56.9 - 42:57.5] No, I'm not.
+[42:57.5 - 43:01.6] The guy was saying, "I don't care." That's what it's here for.
+[43:01.6 - 43:04.4] There's ice cream in there too.
+[43:04.4 - 43:06.5] He said, "Stop eating his food," as he's eating his food.
+[43:06.5 - 43:09.5] He's, he's writing my checks, though.
+[43:09.5 - 43:16.1] Okay.
+[43:16.1 - 43:18.4] But these need to be updated down here I think.
+[43:18.4 - 43:19.5] A lot of these.
+[43:19.5 - 43:20.0] Yeah.
+[43:20.0 - 43:21.3] So I'm gonna show you where to update them.
+[43:21.3 - 43:24.0] And eventually what we'll do is we'll automate it so those get updated automatically.
+[43:24.0 - 43:24.2] Yeah.
+[43:24.2 - 43:26.4] I know h- I know where to do it, I just was letting you know.
+[43:26.4 - 43:35.6] You hear any better today?
+[43:35.6 - 43:38.0] Nope.
+[43:38.0 - 43:41.7] Do me a favor.
+[43:41.7 - 43:43.9] I need you to look in every one of my cars.
+[43:43.9 - 43:45.8] I can find this one, but no one.
+[43:45.8 - 43:56.2] Pull the car key and figure out where it
+[43:56.2 - 43:59.6] is.
+[43:59.6 - 44:01.1] Okay.
+[44:01.1 - 44:06.8] Hey, Mark?
+[44:06.8 - 44:14.0] And I would look in the trunk of the, uh, um, of the, uh, old boy's first.
+[44:14.0 - 44:14.6] Hey, Mark.
+[44:14.6 - 44:15.8] What?
+[44:15.8 - 44:18.5] I was gonna show you something real quick, if you had time.
+[44:18.5 - 44:19.7] What?
+[44:19.7 - 44:21.6] I was gonna show you something real quick.
+[44:21.6 - 44:29.0] I don't know if you had a chance to see this automation that I built for the inspections, monthly inspections.
+[44:29.0 - 44:35.9] We check every 21, on the 21st, so I have it where it, uh, runs a scraper and it logs in- What is a scraper?
+[44:35.9 - 44:40.3] It logs into OneSite with the credentials I gave it, and it checks everybody's profile.
+[44:40.3 - 44:47.4] And if it has a PDF, and if it gives ac- uh, information that they did their inspections, then it grabs that PDF.
+[44:47.4 - 44:48.3] Well, how do you know...
+[44:48.3 - 44:48.5] What do...
+[44:48.5 - 44:52.7] Well, okay, let me ask you the dumb questions.
+[44:52.7 - 44:54.7] What are you checking against?
+[44:54.7 - 44:55.9] Inspecting for what?
+[44:55.9 - 44:59.0] Um, their monthly inspections of the property.
+[44:59.0 - 45:02.3] If they're going in, they're scanning, and they're doing...
+[45:02.3 - 45:06.6] They're My Loan Workers on, on the- Is it going in and checking the inspection software that we have?
+[45:06.6 - 45:06.9] Yeah.
+[45:06.9 - 45:09.3] I gave it the credentials and the access and programmed it.
+[45:09.3 - 45:11.0] You have the keys to his- Yeah.
+[45:11.0 - 45:16.4] So then it comes up and- Have you checked with him to make sure it's doing kind of what he wants it to do?
+[45:16.4 - 45:16.9] It...
+[45:16.9 - 45:19.5] I, I explained to him the disconnect.
+[45:19.5 - 45:22.4] It, there's a very minor disconnect, but we can probably fine-tune it.
+[45:22.4 - 45:28.5] The only thing is, is that it doesn't actually give us i- it gives us eyes on if they're doing inspections.
+[45:28.5 - 45:33.0] It doesn't give us eyes really on if the inspections are kind of, you know...
+[45:33.0 - 45:36.9] So you're still gonna have to go through those one by one until he tells us- Okay.
+[45:36.9 - 45:47.0] The first inspections I want you to work on right now, is I want you to send out Ashley over at La Promesa to go walk around the property and tell her to get her big fat ass-
+[45:47.0 - 45:50.7] And see, it already- Give her 20 units to inspect- One more thing ...
+[45:50.7 - 45:51.8] as well as the building.
+[45:51.8 - 45:52.9] Okay.
+[45:52.9 - 45:53.6] One more thing.
+[45:53.6 - 45:54.2] What?
+[45:54.2 - 45:57.6] I was gonna show you, it's already done, and I was gonna show you what it, the results are.
+[45:57.6 - 45:58.6] Oh, okay.
+[45:58.6 - 46:01.7] So you hit the- Just so you know, I just had three Valium.
+[46:01.7 - 46:03.0] I'm not all here.
+[46:03.0 - 46:03.6] I'm jealous.
+[46:03.6 - 46:06.9] So this is the summary.
+[46:06.9 - 46:07.9] It tells you who it is.
+[46:07.9 - 46:10.8] I had it program their extension, and then- Okay.
+[46:10.8 - 46:11.8] So what is it telling me?
+[46:11.8 - 46:13.8] Um, that these people didn't...
+[46:13.8 - 46:16.4] There was no inspections in My Loan Workers for these.
+[46:16.4 - 46:16.7] Good.
+[46:16.7 - 46:17.9] Go call them up now and yell at them.
+[46:17.9 - 46:20.3] And then I also had it, it will draft an email.
+[46:20.3 - 46:21.2] How about sending an email?
+[46:21.2 - 46:22.4] You didn't do the inspections.
+[46:22.4 - 46:23.6] Make it come from me- Yeah.
+[46:23.6 - 46:23.9] It already has- ...
+[46:23.9 - 46:26.0] saying, "Why aren't you doing your inspections?" Yeah.
+[46:26.0 - 46:29.9] I already programmed it to do an email, and it gives the building of...
+[46:29.9 - 46:35.2] It already associates their building with their name, and then, uh, it does compare.
+[46:35.2 - 46:36.5] So it'll do- Will you do me a favor?
+[46:36.5 - 46:36.5] ...
+[46:36.5 - 46:37.3] repeat offenders.
+[46:37.3 - 46:39.4] Send the nasty email from Todd.
+[46:39.4 - 46:40.7] Okay?
+[46:40.7 - 46:44.6] Saying, "Why aren't you doing your inspections?" You know you can send as an alias, right?
+[46:44.6 - 46:45.7] Yeah.
+[46:45.7 - 46:47.5] Send it to him.
+[46:47.5 - 46:49.7] I can do that through, uh, Mannex actually.
+[46:49.7 - 46:50.1] All right.
+[46:50.1 - 46:50.8] Well, do it.
+[46:50.8 - 46:59.7] And, and, um, uh, come here for a second.
+[46:59.7 - 47:01.0] O- okay.
+[47:01.0 - 47:15.2] You
+[47:15.2 - 47:26.8] need
+[47:26.8 - 47:29.3] me to go out somewhere and...
+[47:29.3 - 47:32.3] What?
+[47:32.3 - 47:32.7] What?
+[47:32.7 - 47:33.4] I was just joking.
+[47:33.4 - 47:34.9] What are you asking me?
+[47:34.9 - 47:38.1] Oh, I was just gonna say you need me to go out somewhere and do something.
+[47:38.1 - 47:38.9] No, no.
+[47:38.9 - 47:39.2] Him.
+[47:39.2 - 47:39.9] Okay.
+[47:39.9 - 47:41.4] I was talking to him.
+[47:41.4 - 47:44.3] Oh, you didn't need me at all?
+[47:44.3 - 47:45.1] No.
+[47:45.1 - 47:45.6] No, no.
+[47:45.6 - 47:46.5] I can handle it.
+[47:46.5 - 47:47.2] Okay.
+[52:01.7 - 52:02.7] The what?
+[52:02.7 - 52:05.3] He's looking for that, um, the handicap sticker.
+[52:05.3 - 52:07.4] Oh, I have no idea where he keeps those.
+[52:07.4 - 52:10.6] I never even been in the Ferrari .
+[52:10.6 - 52:13.4] It's probably right where he left it.
+[52:13.4 - 52:13.9] Yeah.
+[52:13.9 - 52:16.7] It's, it's probably how he has so many cars.
+[52:16.7 - 53:25.8] Hi.
+[53:25.8 - 53:27.1] Hi, quick question.
+[53:27.1 - 53:35.9] I've checked, um, one site, and I've checked Yardi both for the rent rolls for Opa-locka, but I haven't been able to locate them.
+[53:35.9 - 53:39.5] Do you know where- Opa-locka is a weird one.
+[53:39.5 - 53:41.4] I remember you saying that a few times.
+[53:41.4 - 53:42.2] Yeah, it's...
+[53:42.2 - 53:44.4] I, I, I don't know how to direct you.
+[53:44.4 - 53:47.3] It's like managed out of Menowitz Management.
+[53:47.3 - 53:47.7] Mm.
+[53:47.7 - 53:50.7] Like, even their payroll is out of Menowitz Management.
+[53:50.7 - 53:53.7] Um- Are rent rolls in PSI Safe maybe?
+[53:53.7 - 53:56.2] No.
+[53:56.2 - 53:56.3] Okay.
+[53:56.3 - 53:56.7] No.
+[53:56.7 - 53:59.0] Well, I'll just- New York never files anything in Safe.
+[53:59.0 - 54:00.9] I would reach out to New York.
+[54:00.9 - 54:11.0] Okay, I'll, I'll just call the manager of- Honestly, but she's been here
+[54:11.0 - 54:21.6] recently, but yeah, so she would know how those book guys set up and- Maybe I'll, maybe I'll reach out to Opa's manager because I try not to, uh- It's Rosa.
+[54:21.6 - 54:22.1] Right.
+[54:22.1 - 54:22.4] Yeah.
+[54:22.4 - 54:22.6] Yeah.
+[54:22.6 - 54:23.1] Mm-hmm.
+[54:23.1 - 54:23.2] Okay.
+[54:23.2 - 54:31.9] So I'll do that tomorrow since they're not
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Monday_V2026-01-01-19-47-25_transcription_20260705_192613.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Monday_V2026-01-01-19-47-25_transcription_20260705_192613.txt
+[2J[H[3Jmanus-speech-to-text mp3/ROSE-REC2_Monday_V2026-01-01-19-47-25.mp3
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_Monday_V2026-01-01-19-47-25.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: mp3/.ROSE-REC2_Monday_V2026-01-01-19-47-25_chunks_20260705_192419/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: mp3/.ROSE-REC2_Monday_V2026-01-01-19-47-25_chunks_20260705_192419/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: mp3/.ROSE-REC2_Monday_V2026-01-01-19-47-25_chunks_20260705_192419/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: mp3/.ROSE-REC2_Monday_V2026-01-01-19-47-25_chunks_20260705_192419/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: mp3/.ROSE-REC2_Monday_V2026-01-01-19-47-25_chunks_20260705_192419/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[46:22.4 - 46:23.6] Make it come from me- Yeah.
+[46:23.6 - 46:23.9] It already has- ...
+[46:23.9 - 46:26.0] saying, "Why aren't you doing your inspections?" Yeah.
+[46:26.0 - 46:29.9] I already programmed it to do an email, and it gives the building of...
+[46:29.9 - 46:35.2] It already associates their building with their name, and then, uh, it does compare.
+[46:35.2 - 46:36.5] So it'll do- Will you do me a favor?
+[46:36.5 - 46:36.5] ...
+[46:36.5 - 46:37.3] repeat offenders.
+[46:37.3 - 46:39.4] Send the nasty email from Todd.
+[46:39.4 - 46:40.7] Okay?
+[46:40.7 - 46:44.6] Saying, "Why aren't you doing your inspections?" You know you can send as an alias, right?
+[46:44.6 - 46:45.7] Yeah.
+[46:45.7 - 46:47.5] Send it to him.
+[46:47.5 - 46:49.7] I can do that through, uh, Mannex actually.
+[46:49.7 - 46:50.1] All right.
+[46:50.1 - 46:50.8] Well, do it.
+[46:50.8 - 46:59.7] And, and, um, uh, come here for a second.
+[46:59.7 - 47:01.0] O- okay.
+[47:01.0 - 47:15.2] You
+[47:15.2 - 47:26.8] need
+[47:26.8 - 47:29.3] me to go out somewhere and...
+[47:29.3 - 47:32.3] What?
+[47:32.3 - 47:32.7] What?
+[47:32.7 - 47:33.4] I was just joking.
+[47:33.4 - 47:34.9] What are you asking me?
+[47:34.9 - 47:38.1] Oh, I was just gonna say you need me to go out somewhere and do something.
+[47:38.1 - 47:38.9] No, no.
+[47:38.9 - 47:39.2] Him.
+[47:39.2 - 47:39.9] Okay.
+[47:39.9 - 47:41.4] I was talking to him.
+[47:41.4 - 47:44.3] Oh, you didn't need me at all?
+[47:44.3 - 47:45.1] No.
+[47:45.1 - 47:45.6] No, no.
+[47:45.6 - 47:46.5] I can handle it.
+[47:46.5 - 47:47.2] Okay.
+[52:01.7 - 52:02.7] The what?
+[52:02.7 - 52:05.3] He's looking for that, um, the handicap sticker.
+[52:05.3 - 52:07.4] Oh, I have no idea where he keeps those.
+[52:07.4 - 52:10.6] I never even been in the Ferrari .
+[52:10.6 - 52:13.4] It's probably right where he left it.
+[52:13.4 - 52:13.9] Yeah.
+[52:13.9 - 52:16.7] It's, it's probably how he has so many cars.
+[52:16.7 - 53:25.8] Hi.
+[53:25.8 - 53:27.1] Hi, quick question.
+[53:27.1 - 53:35.9] I've checked, um, one site, and I've checked Yardi both for the rent rolls for Opa-locka, but I haven't been able to locate them.
+[53:35.9 - 53:39.5] Do you know where- Opa-locka is a weird one.
+[53:39.5 - 53:41.4] I remember you saying that a few times.
+[53:41.4 - 53:42.2] Yeah, it's...
+[53:42.2 - 53:44.4] I, I, I don't know how to direct you.
+[53:44.4 - 53:47.3] It's like managed out of Menowitz Management.
+[53:47.3 - 53:47.7] Mm.
+[53:47.7 - 53:50.7] Like, even their payroll is out of Menowitz Management.
+[53:50.7 - 53:53.7] Um- Are rent rolls in PSI Safe maybe?
+[53:53.7 - 53:56.2] No.
+[53:56.2 - 53:56.3] Okay.
+[53:56.3 - 53:56.7] No.
+[53:56.7 - 53:59.0] Well, I'll just- New York never files anything in Safe.
+[53:59.0 - 54:00.9] I would reach out to New York.
+[54:00.9 - 54:11.0] Okay, I'll, I'll just call the manager of- Honestly, but she's been here
+[54:11.0 - 54:21.6] recently, but yeah, so she would know how those book guys set up and- Maybe I'll, maybe I'll reach out to Opa's manager because I try not to, uh- It's Rosa.
+[54:21.6 - 54:22.1] Right.
+[54:22.1 - 54:22.4] Yeah.
+[54:22.4 - 54:22.6] Yeah.
+[54:22.6 - 54:23.1] Mm-hmm.
+[54:23.1 - 54:23.2] Okay.
+[54:23.2 - 54:31.9] So I'll do that tomorrow since they're not
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Monday_V2026-01-01-19-47-25_transcription_20260705_192613.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Monday_V2026-01-01-19-47-25_transcription_20260705_192613.txt

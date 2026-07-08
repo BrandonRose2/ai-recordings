@@ -1,0 +1,1106 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: downloads/ROSE-REC2_V2026-07-06-09-00-33.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: downloads/.ROSE-REC2_V2026-07-06-09-00-33_chunks_20260706_232714/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: downloads/.ROSE-REC2_V2026-07-06-09-00-33_chunks_20260706_232714/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: downloads/.ROSE-REC2_V2026-07-06-09-00-33_chunks_20260706_232714/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: downloads/.ROSE-REC2_V2026-07-06-09-00-33_chunks_20260706_232714/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: downloads/.ROSE-REC2_V2026-07-06-09-00-33_chunks_20260706_232714/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.7 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[00:06.1 - 00:39.2] I fucking
+[00:39.2 - 00:40.9] always do.
+[00:40.9 - 00:48.5] Up in the morning.
+[00:48.5 - 01:01.6] I
+[01:01.6 - 01:02.7] brought bought yogurt.
+[01:02.7 - 01:06.5] I didn't bring any.
+[01:06.5 - 01:08.7] Amateur move.
+[01:08.7 - 02:06.5] It's
+[02:06.5 - 02:14.4] fucking hot this year.
+[02:14.4 - 02:16.5] Yeah, it's starting to get hot out.
+[02:16.5 - 02:18.1] June gloom is over.
+[02:18.1 - 03:00.4] Full-blown
+[03:00.4 - 03:10.2] summertime.
+[03:10.2 - 03:10.9] Putting this right here.
+[03:10.9 - 03:18.1] Gotta do a training call with Info Parks in like ten minutes.
+[03:18.1 - 03:21.9] She wasn't asking the golden questions.
+[03:21.9 - 03:22.8] What size?
+[03:22.8 - 03:27.5] Um, yep.
+[03:27.5 - 03:51.1] You
+[03:51.1 - 03:52.1] ever had matcha before?
+[03:52.1 - 03:52.5] Matcha?
+[03:52.5 - 03:53.9] Yeah.
+[03:53.9 - 03:53.9] No.
+[03:53.9 - 03:55.6] The one on Amazon.
+[03:55.6 - 03:58.0] They have the regular ones, too.
+[03:58.0 - 04:11.8] If
+[04:11.8 - 04:17.5] y'all have a banana, those are on its last day or two.
+[04:17.5 - 04:35.9] So.
+[04:35.9 - 04:42.7] So did anything cool this weekend?
+[04:42.7 - 04:45.1] Yeah, I went to the beach.
+[04:45.1 - 04:47.3] I shouldn't have invited you, bro.
+[04:47.3 - 04:48.5] Sorry, bro.
+[04:48.5 - 04:52.3] You get this house and kick your fucking totally forgot, dude.
+[04:52.3 - 04:52.6] Sorry.
+[04:52.6 - 04:54.7] You know, next time, next time.
+[04:54.7 - 04:57.5] You come to my house and drink and hang out.
+[04:57.5 - 05:00.4] I drink beer.
+[05:00.4 - 05:00.7] Well.
+[05:00.7 - 05:00.9] Not really.
+[05:00.9 - 05:03.8] Those little things.
+[05:03.8 - 05:06.9] But when I do .
+[05:06.9 - 05:07.9] I brought a shit taste.
+[05:07.9 - 05:08.2] Yeah?
+[05:08.2 - 05:09.1] What's that for her?
+[05:09.1 - 05:10.5] Cran-Apple Foji.
+[05:10.5 - 05:16.3] Not the oatmeal.
+[05:16.3 - 05:18.0] What's, it's tequila or what?
+[05:18.0 - 05:20.1] She made this punch.
+[05:20.1 - 05:21.2] Oh, for real?
+[05:21.2 - 05:22.5] Trash can punch?
+[05:22.5 - 05:23.1] Yeah.
+[05:23.1 - 05:23.5] Everclear?
+[05:23.5 - 05:26.6] It had lemonade, vodka, Kool-Aid, and Sprite.
+[05:26.6 - 05:31.9] I used to make trash can punch in high school and I'd keep a big cooler in the back of my Tahoe.
+[05:31.9 - 05:37.8] Fucked up.
+[05:37.8 - 05:39.0] I think it's the other one.
+[05:39.0 - 05:40.4] I th- I thought the other was green.
+[05:40.4 - 05:40.7] Oh, yeah.
+[05:40.7 - 05:42.2] Yeah, that's it.
+[05:42.2 - 05:43.0] Yeah, the red one, the blue one.
+[05:43.0 - 05:47.3] Red one, the blue one.
+[05:47.3 - 05:49.5] There's red buttons, right?
+[05:49.5 - 05:55.1] You wear one with that mark or these ones?
+[05:55.1 - 05:59.5] Uh, I think the red one.
+[05:59.5 - 05:59.6] Like this?
+[05:59.6 - 05:59.7] Like a, like a breakout?
+[05:59.7 - 06:58.7] All
+[06:58.7 - 06:58.9] right.
+[06:58.9 - 07:02.2] That smart print comp thing.
+[07:02.2 - 07:03.1] Beautiful.
+[07:03.1 - 07:05.9] Did that yesterday, actually.
+[07:05.9 - 07:09.4] One of these things.
+[07:09.4 - 07:12.1] You want one of those too?
+[07:12.1 - 07:12.5] One of those.
+[07:12.5 - 07:12.7] One of those.
+[07:12.7 - 07:14.0] The one eighty-three?
+[07:14.0 - 07:16.8] One eighty-three.
+[07:16.8 - 07:24.6] You heard all of these before, except for these ones.
+[07:24.6 - 07:25.2] These two.
+[07:25.2 - 08:34.7] These
+[08:34.7 - 09:18.6] two are One
+[09:18.6 - 09:20.6] thing I can take my time with here.
+[09:20.6 - 09:21.3] One.
+[09:21.3 - 09:33.9] God,
+[09:33.9 - 09:35.0] I'm making such a mess.
+[09:35.0 - 10:15.0] Hey.
+[10:15.0 - 10:53.5] Oh
+[10:53.5 - 10:57.5] my gosh.
+[10:57.5 - 10:59.7] She's up here?
+[10:59.7 - 11:04.2] No.
+[11:04.2 - 11:07.7] Ah, it's gone.
+[11:07.7 - 11:10.9] I gotta finish that cost segregation thing now they updated it.
+[11:10.9 - 11:16.9] All right, gotta turn this first.
+[11:16.9 - 11:20.4] This cost seg- Marketing goals project.
+[11:20.4 - 11:27.9] Hey, you need a coffee, huh?
+[11:27.9 - 11:29.4] Yeah.
+[11:29.4 - 11:36.2] You get tired of- Well, it's normally the coffee, but- Yeah, I got all these- I had to have tea this morning.
+[11:36.2 - 11:41.0] Okay.
+[11:41.0 - 11:42.8] Figure out that QR code thing I did.
+[11:42.8 - 11:43.6] Hmm.
+[11:43.6 - 11:47.2] Or- Ten bucks.
+[11:47.2 - 11:51.6] Eleven bucks?
+[20:55.0 - 20:55.0] Fuck.
+[20:55.0 - 20:56.5] Hello?
+[20:56.5 - 20:57.6] Hey, Jennifer.
+[20:57.6 - 20:58.4] It's Brandon again.
+[20:58.4 - 20:58.9] How are you?
+[20:58.9 - 21:00.1] Good.
+[21:00.1 - 21:00.7] How are you?
+[21:00.7 - 21:01.7] I'm doing well.
+[21:01.7 - 21:02.6] Did you have a good 4th?
+[21:02.6 - 21:04.3] Yeah.
+[21:04.3 - 21:05.1] Good.
+[21:05.1 - 21:08.0] Weekend's still never long enough, is it?
+[21:08.0 - 21:09.4] Nope.
+[21:09.4 - 21:14.4] Um, um, so Leslie said that y'all have been super swamped over there.
+[21:14.4 - 21:15.2] How's it going?
+[21:15.2 - 21:18.4] Well, I'm super swamped all the time.
+[21:18.4 - 21:19.0] It doesn't...
+[21:19.0 - 21:21.3] Okay.
+[21:21.3 - 21:31.3] Well, um, so as you know, Mark goes into everyone's dashboard periodically just to check on things, and he was saying that regarding your
+[21:31.3 - 21:36.5] golden questions, that you were not asking the five golden questions.
+[21:36.5 - 21:45.9] So I just wanted to kind of call and touch it- base and see, um, that you were, and that you knew what they were, and just to kind of keep you out of hot water a little bit.
+[21:45.9 - 21:48.4] So, um- Right.
+[21:48.4 - 21:50.4] So yeah, do you want me to...
+[21:50.4 - 21:50.9] I'll...
+[21:50.9 - 21:52.3] I'm gonna go into my Property Max.
+[21:52.3 - 21:53.0] Okay.
+[21:53.0 - 21:57.7] And I'm gonna log into your computer as well so I can see, um, your screen.
+[21:57.7 - 21:58.6] One second.
+[21:58.6 - 22:01.3] Okay.
+[22:01.3 - 22:05.3] And then I saw that you did put ask rent, so that's good, right?
+[22:05.3 - 22:06.8] Um- I put what?
+[22:06.8 - 22:07.4] I'm sorry.
+[22:07.4 - 22:09.8] The ask rents for your units.
+[22:09.8 - 22:11.9] Well- Yeah ...
+[22:11.9 - 22:14.1] we'll, we'll go in there and I'll, I'll kind of show you what I'm talking about.
+[22:14.1 - 22:19.1] Okay, Crossroads Manager.
+[22:19.1 - 22:24.5] I'm sorry.
+[22:24.5 - 22:26.1] Oh, no, no, you're fine.
+[22:26.1 - 22:26.8] I didn't mean to do that.
+[22:26.8 - 22:27.2] Go for it.
+[22:27.2 - 22:27.4] No.
+[22:27.4 - 22:27.9] Go for it.
+[22:27.9 - 22:29.3] I, I keep forgetting that it's...
+[22:29.3 - 22:31.6] Whenever it pops up, I forget, oh, this is your screen now.
+[22:31.6 - 22:33.2] Oh, it's okay.
+[22:33.2 - 22:33.7] You're good.
+[22:33.7 - 22:34.6] You can click on it.
+[22:34.6 - 22:35.5] I let go.
+[22:35.5 - 22:36.4] Okay, cool.
+[22:36.4 - 22:38.2] All righty.
+[22:38.2 - 22:39.7] Let's see here.
+[22:39.7 - 22:46.5] So here's your Property Max, and got a lot of stuff going on here.
+[22:46.5 - 22:47.6] Looks like my screen.
+[22:47.6 - 22:49.5] Yeah.
+[22:49.5 - 22:53.4] And so the golden questions, let's go are in yours.
+[22:53.4 - 22:54.9] Let's go to your dashboard.
+[22:54.9 - 22:55.3] Good.
+[22:55.3 - 23:01.1] Looks like you have everything cleared, so that's good to me, and your golden questions is 100.
+[23:01.1 - 23:06.4] So I think that he was referring to, I guess, whenever he was listening to a few of your calls, maybe.
+[23:06.4 - 23:08.2] Let's go to some- Okay ...
+[23:08.2 - 23:09.0] some of them.
+[23:09.0 - 23:13.2] Um, I mean, they wouldn't really pertain to maintenance.
+[23:13.2 - 23:15.7] They wouldn't pertain to rent.
+[23:15.7 - 23:21.6] They're really marketing calls, because those are prospects or people calling in and, um- Uh-huh ...
+[23:21.6 - 23:31.7] you know, you're asking like, "How did you hear about us?" Or, "What kind of bedroom, you know, count structure are you looking for?" And what, uh, like
+[23:31.7 - 23:33.1] expected move-in date.
+[23:33.1 - 23:34.1] How'd you hear about us?
+[23:34.1 - 23:37.3] So, um, you do know which five questions they are, correct?
+[23:37.3 - 23:44.6] Um, I know I need to get everyone's name and callback number.
+[23:44.6 - 23:46.1] Yeah.
+[23:46.1 - 23:52.5] Then I ask them when their move-in date is, what, you know, if they want a two bedroom or a three bedroom.
+[23:52.5 - 23:52.9] Mm-hmm.
+[23:52.9 - 23:56.2] Um, I ask...
+[23:56.2 - 23:59.9] It's gonna get weird 'cause some people will laugh at me-
+[24:00.1 - 24:01.4] People without a voucher.
+[24:01.4 - 24:04.7] Yeah So- No, I, I do understand where you're coming from there.
+[24:04.7 - 24:14.8] Yeah, the voucher people I have to ask what housing authority, because sometimes people port from out of state and they think that Felton, that we accept
+[24:14.8 - 24:15.0] that.
+[24:15.0 - 24:15.9] We cannot accept that.
+[24:15.9 - 24:16.8] That's Cap County.
+[24:16.8 - 24:18.4] We can only accept Jackson County.
+[24:18.4 - 24:18.8] Mm-hmm.
+[24:18.8 - 24:21.1] So, I always have to ask weird stuff like that.
+[24:21.1 - 24:31.1] And then if they don't have a voucher, I have to ask weird stuff about their money, because I go through the point, because I'm so
+[24:31.1 - 24:35.4] busy in the time that people come in in tumor that don't qualify.
+[24:35.4 - 24:36.0] I see.
+[24:36.0 - 24:46.0] Well, I guess a helpful- And, um, they do not- I guess just a helpful tip is probably, in my mind, I think that he went in and he was listening to some of your calls, and maybe there was one or two that
+[24:46.0 - 24:47.1] you didn't answer.
+[24:47.1 - 24:54.7] Like, "Hi, this is Crossroad." Like, say the name, your name, and I think that that's kind of what was maybe talked about.
+[24:54.7 - 24:56.7] But I haven't gotten through and listened to all your calls.
+[24:56.7 - 24:59.0] I can't listen to everybody's all day, you know, every day.
+[24:59.0 - 25:01.3] I, I don't ask where they hear about us.
+[25:01.3 - 25:02.3] I know that one.
+[25:02.3 - 25:03.1] I don't ask that one.
+[25:03.1 - 25:04.3] I forget to ask that one.
+[25:04.3 - 25:04.7] Okay.
+[25:04.7 - 25:04.8] Yeah.
+[25:04.8 - 25:14.8] Well, and after this call I'm gonna, I'm gonna send you the, the, like, PropertyMax training again, and maybe I forgot last time, but it will have the phone excellence training,
+[25:14.8 - 25:16.5] and it will have the five golden questions.
+[25:16.5 - 25:19.7] So, you can review all of that again, just- Okay ...
+[25:19.7 - 25:25.8] for your, I know that you're very busy, but you know, maybe on a five minutes of your downtime, just kinda skim through it.
+[25:25.8 - 25:26.6] Yeah.
+[25:26.6 - 25:27.3] Um- Yeah.
+[25:27.3 - 25:29.4] But I mean, I always answer the phone the same way.
+[25:29.4 - 25:31.6] Thank you for calling Crossroad Village, this is Jennifer.
+[25:31.6 - 25:33.0] How may I help you?
+[25:33.0 - 25:33.3] Right.
+[25:33.3 - 25:33.6] Yeah.
+[25:33.6 - 25:35.7] I do- I can tell that you say it a lot.
+[25:35.7 - 25:37.4] Yeah.
+[25:37.4 - 25:40.1] That way every time I answer it, unless it's one of you guys.
+[25:40.1 - 25:41.1] Right.
+[25:41.1 - 25:44.2] But I don't ask where they hear about us.
+[25:44.2 - 25:47.6] I always forget to ask that, so I know I don't ask that one.
+[25:47.6 - 25:48.2] Yeah.
+[25:48.2 - 25:51.5] I mean, yeah, I mean, I, I understand.
+[25:51.5 - 25:51.9] I get it.
+[25:51.9 - 25:55.2] So um, I'm not trying to sit here and harp on you.
+[25:55.2 - 25:56.2] But I- It's just, you know ...
+[25:56.2 - 25:56.5] call here.
+[25:56.5 - 26:02.5] And then it also gets weird, because I have a lot of people that doesn't understand their own vouchers.
+[26:02.5 - 26:03.3] Mm-hmm.
+[26:03.3 - 26:08.0] So, I get a lot of calls that are like, "Hey, I, I want the two bedroom." You're explaining the voucher stuff to them?
+[26:08.0 - 26:10.7] But they only have a one-bedroom voucher.
+[26:10.7 - 26:15.0] They cannot live here because a one-bedroom voucher only pays, like, 1,000 a month.
+[26:15.0 - 26:15.4] Mm-hmm.
+[26:15.4 - 26:16.9] I'm over in my life paying for it.
+[26:16.9 - 26:17.7] Right.
+[26:17.7 - 26:17.9] Right.
+[26:17.9 - 26:19.4] Yeah.
+[26:19.4 - 26:20.7] I, I- That makes sense ...
+[26:20.7 - 26:23.5] explain weird stuff, and then the calls do get weird.
+[26:23.5 - 26:25.7] I'm not even gonna lie about it, so I'm gonna screen.
+[26:25.7 - 26:27.4] Yeah, I mean, I know.
+[26:27.4 - 26:37.6] And then I get people that also, for some reason, I don't know whose website it is, I've been trying to figure that out this whole time anyone asks about Dan Royer, but somebody has us on their website
+[26:37.6 - 26:39.8] listed as income-based.
+[26:39.8 - 26:41.5] We're not income based.
+[26:41.5 - 26:42.8] Income based- Yeah ...
+[26:42.8 - 26:45.6] charges rents according to the people's incomes.
+[26:45.6 - 26:46.5] Okay.
+[26:46.5 - 26:46.6] That's why I get calls.
+[26:46.6 - 26:50.5] Do you have any more information on that website e- um, that you're talking about?
+[26:50.5 - 26:55.1] I, I've been trying to figure out whose website it is.
+[26:55.1 - 26:58.6] At one point it was, I was being told a halfway house was doing it.
+[26:58.6 - 26:59.5] Interesting.
+[26:59.5 - 27:03.4] But when I would contact the halfway house, they were claiming they weren't doing it.
+[27:03.4 - 27:11.7] I, so I, I've been getting conflicting information on trying to pinpoint who has this, this weird ad running for Crossroad.
+[27:11.7 - 27:12.7] Well, I will find it.
+[27:12.7 - 27:14.5] But- Don't you worry about that ...
+[27:14.5 - 27:18.8] it did something since Dan Royer was in charge.
+[27:18.8 - 27:19.0] Mm.
+[27:19.0 - 27:27.2] Um, so I do get a lot of income-based people calling, and a lot of them do get upset because I'm like, "We are affordable housing.
+[27:27.2 - 27:29.6] That is different program," you know, kind of thing.
+[27:29.6 - 27:29.9] Yeah.
+[27:29.9 - 27:31.7] I mean, that's good information to know.
+[27:31.7 - 27:31.8] Yeah.
+[27:31.8 - 27:34.1] So, I'm gonna do my research and try to figure that out.
+[27:34.1 - 27:35.6] Yeah.
+[27:35.6 - 27:43.6] But there is somebody that's advertising us through their system as income based, and it's been going on for quite a little while now.
+[27:43.6 - 27:44.5] Right.
+[27:44.5 - 27:46.8] Um- So ...
+[27:46.8 - 27:47.8] I see that.
+[27:47.8 - 27:48.2] Okay.
+[27:48.2 - 27:50.6] So, um, narratives, let's go to narratives.
+[27:50.6 - 27:52.6] Um, do you have any problem with that?
+[27:52.6 - 27:53.7] Are you doing your narratives?
+[27:53.7 - 27:56.4] I c- I could look, but how are those going for you?
+[27:56.4 - 27:56.7] I...
+[27:56.7 - 27:58.8] Yeah.
+[27:58.8 - 28:00.4] You want me to, can I pull this back?
+[28:00.4 - 28:01.1] Yeah, go for it.
+[28:01.1 - 28:02.6] Okay.
+[28:02.6 - 28:03.9] 'Cause I can't see it real well.
+[28:03.9 - 28:04.5] Okay.
+[28:04.5 - 28:06.6] So, we can go to my narratives.
+[28:06.6 - 28:08.6] Um- And those are due when?
+[28:08.6 - 28:11.7] Every Thursday of the week.
+[28:11.7 - 28:12.2] Yes.
+[28:12.2 - 28:12.6] Perfect.
+[28:12.6 - 28:17.7] So, I got seven twos, 6/25, 6/18, and 6/11.
+[28:17.7 - 28:18.3] Great.
+[28:18.3 - 28:28.3] Um, on my narratives, I was just told you put in your, um, right here, this section.
+[28:28.3 - 28:28.8] Mm-hmm.
+[28:28.8 - 28:32.8] The, those numbers you put in, and then you write a summary.
+[28:32.8 - 28:33.7] And you know- That's what I've been doing ...
+[28:33.7 - 28:35.2] and you know how to put those in, correct?
+[28:35.2 - 28:35.8] Yeah.
+[28:35.8 - 28:36.5] Yeah.
+[28:36.5 - 28:37.1] Okay.
+[28:37.1 - 28:37.8] Yeah.
+[28:37.8 - 28:37.9] Yep.
+[28:37.9 - 28:39.4] And then that- Make sure you do the summary ...
+[28:39.4 - 28:40.6] that's all I'm con...
+[28:40.6 - 28:47.0] I, I, on the summary I was just told, just kind of put a quick list of what you did, and that's what I've been doing.
+[28:47.0 - 28:47.3] Yeah.
+[28:47.3 - 28:48.5] What about the collections?
+[28:48.5 - 28:50.8] Are you putting the collections and delinquencies in here?
+[28:50.8 - 28:52.2] No.
+[28:52.2 - 28:54.6] I'm having issues with collections and delinquencies.
+[28:54.6 - 28:55.0] Hmm.
+[28:55.0 - 28:56.6] What's the issue?
+[28:56.6 - 28:58.2] Maybe I can help you resolve it.
+[28:58.2 - 29:00.0] Well, I'm trying to...
+[29:00.0 - 29:05.1] Okay, I'm not 100% super fabulous with one site.
+[29:05.1 - 29:06.2] That never happens.
+[29:06.2 - 29:06.7] Okay.
+[29:06.7 - 29:17.0] I am trying to figure out where I can get the accurate collections and delinquencies, because I found, like, three different numbers
+[29:17.0 - 29:19.3] on three different things in one s- in one site.
+[29:19.3 - 29:20.7] Interesting.
+[29:20.7 - 29:21.2] Okay.
+[29:21.2 - 29:31.2] Well, I'm gonna do, you know, I, not being a manager, have not used one site as much either, so I will figure out how to- Can I close this out and show you what I'm
+[29:31.2 - 29:31.6] talking about?
+[29:31.6 - 29:32.0] Yeah, please.
+[29:32.0 - 29:34.3] Okay.
+[29:34.3 - 29:40.7] So, when I go into one site, you see on my screen, where are you?
+[29:40.7 - 29:42.0] The financial summary.
+[29:42.0 - 29:44.0] It will go.
+[29:44.0 - 29:45.4] Yeah.
+[29:45.4 - 29:48.1] My, my internet's not the greatest for some weird reason.
+[29:48.1 - 29:51.0] The internet always knows whenever you're on a phone call too, I feel like.
+[29:51.0 - 29:52.5] Yeah.
+[29:52.5 - 29:53.8] You go here.
+[29:53.8 - 29:58.7] See where it says bill, collected, delinquent, prepaid- Mm-hmm ...
+[29:58.7 - 29:59.8] yada, yada, yada.
+[29:59.8 - 30:09.9] But when you go into things like your reports- I'm gonna have slightly different numbers, and that's where I'm like, I'm
+[30:09.9 - 30:11.4] kinda confused.
+[30:11.4 - 30:11.9] Hmm.
+[30:11.9 - 30:21.9] Like, o- on the cash distribution, that's what I, what people pay up to a certain point, and then on, uh, there was
+[30:21.9 - 30:24.4] another one that she was showing me and I can't remember.
+[30:24.4 - 30:25.1] I was at work.
+[30:25.1 - 30:28.2] But you are, like, scanning in every, you know, deposit.
+[30:28.2 - 30:30.0] Are you excusing- Yeah ...
+[30:30.0 - 30:30.7] just, okay.
+[30:30.7 - 30:30.9] Yeah.
+[30:30.9 - 30:33.8] Every time you get something to collect, you put in collections?
+[30:33.8 - 30:39.1] I've been sending the spreadsheet to Lori, and unfortunately I, I...
+[30:39.1 - 30:43.5] she had to teach me some things 'cause I was doing things not correct on that spreadsheet.
+[30:43.5 - 30:46.9] Well, you know, you can't do it perfect when you start, so it's understandable.
+[30:46.9 - 30:51.2] So the spreadsheet's been a h- a little bit of a hot mess- ...
+[30:51.2 - 30:53.9] but I'm trying to get this month correct, correct.
+[30:53.9 - 30:55.2] Which spreadsheet are you...
+[30:55.2 - 30:56.3] Can you show me the spreadsheet?
+[30:56.3 - 30:57.9] Yeah.
+[30:57.9 - 30:58.5] It's right here.
+[30:58.5 - 30:59.6] That's what I was working on.
+[30:59.6 - 31:00.8] This right here.
+[31:00.8 - 31:03.0] Hmm.
+[31:03.0 - 31:04.2] So I gotta delete these.
+[31:04.2 - 31:05.5] These are from last month.
+[31:05.5 - 31:15.5] But see, last month we put in the batches or the numbers from the cash distribution, the dates that they were paid, what, how they were paid, like the type
+[31:15.5 - 31:17.8] of payment, and the total.
+[31:17.8 - 31:19.1] Will you email me this?
+[31:19.1 - 31:29.1] I'm gonna try to make your life easier, um, 'cause I love spreadsheets, and I can turn this into something that's makes more sense
+[31:29.1 - 31:31.1] to you, uh, makes it flow easily.
+[31:31.1 - 31:32.6] Okay.
+[31:32.6 - 31:35.6] Um, I am having problems, I ain't gonna lie about that.
+[31:35.6 - 31:41.3] I've been putting in things incorrectly 'cause I don't quite fully get it, but- Mm-hmm.
+[31:41.3 - 31:44.3] Can you give me an example of one that you do?
+[31:44.3 - 31:47.2] Okay.
+[31:47.2 - 31:47.2] Right here is June.
+[31:47.2 - 31:51.3] You're like, "Oh, shoot." June was a mess.
+[31:51.3 - 31:52.3] June was a mess.
+[31:52.3 - 31:56.3] So when I put in, it's a case scene- Oh, wait.
+[31:56.3 - 32:00.5] Can I go, can you go up and so I can see the column headers, the titles of each column?
+[32:00.5 - 32:01.6] Okay.
+[32:01.6 - 32:01.7] Yeah.
+[32:01.7 - 32:03.8] So batch is, is that the unit number?
+[32:03.8 - 32:04.6] What's batch?
+[32:04.6 - 32:09.7] Batch is on the cash distribution sheet.
+[32:09.7 - 32:10.7] Mm-hmm.
+[32:10.7 - 32:14.0] The batch number is the period control number.
+[32:14.0 - 32:18.0] So it gives you a number, 400, 401.
+[32:18.0 - 32:21.6] Batch one is the ones that I manually put in.
+[32:21.6 - 32:23.4] The 400s- Hmm ...
+[32:23.4 - 32:26.3] are what the resident paid online.
+[32:26.3 - 32:27.3] Oh, okay.
+[32:27.3 - 32:36.3] So the batch one here, I manually did that one in the one site and in the bank.
+[32:36.3 - 32:40.6] It was, uh, money orders or it was the bank roll- Mm-hmm ...
+[32:40.6 - 32:41.8] from housing.
+[32:41.8 - 32:42.6] Okay.
+[32:42.6 - 32:43.3] Does that make sense?
+[32:43.3 - 32:43.7] Yep.
+[32:43.7 - 32:48.0] And then sometimes there's security deposits.
+[32:48.0 - 32:50.3] They're not even rent or anything, it's just a security deposit.
+[32:50.3 - 32:57.0] Or sometimes right here under the miscellaneous, that's where you'll get an app fee or a late fee that got paid.
+[32:57.0 - 32:58.8] So it kind of breaks it down.
+[32:58.8 - 32:59.4] I see.
+[32:59.4 - 33:06.2] On the cash distribution report, it breaks it down on what is rent and what isn't rent.
+[33:06.2 - 33:07.4] Can you also- That's the breakdown for- ...
+[33:07.4 - 33:09.9] send me the cash distribution report?
+[33:09.9 - 33:13.3] Well, I'll, I'll send a follow-up email after this, and I'll ask- Yeah ...
+[33:13.3 - 33:13.9] what all I'm...
+[33:13.9 - 33:14.3] Yeah.
+[33:14.3 - 33:14.7] It's right here.
+[33:14.7 - 33:15.4] Okay.
+[33:15.4 - 33:16.1] On this.
+[33:16.1 - 33:18.4] You generate it and print it.
+[33:18.4 - 33:24.4] Um, the problem with the cash distribution report though, I get a lot of money that comes through, right?
+[33:24.4 - 33:31.1] It doesn't always, it doesn't tell you on the miscellaneous if that was late fee, deposit.
+[33:31.1 - 33:31.6] Hmm.
+[33:31.6 - 33:36.6] I kinda either have to remember or I have to go back and look stuff up, and it doesn't tell you the unit.
+[33:36.6 - 33:37.4] You see what I'm saying?
+[33:37.4 - 33:37.8] Yeah, yeah.
+[33:37.8 - 33:38.5] It's kind of vague.
+[33:38.5 - 33:40.1] It's very vague.
+[33:40.1 - 33:46.8] So right here, this is an issue I had that I caught on, that we all caught last month.
+[33:46.8 - 33:51.7] Right here where it says HAKC and it has this number- Okay ...
+[33:51.7 - 34:01.9] that number does not match the bank deposit because I was in the middle of putting in people's money, got distracted, had to go to stop and do something
+[34:01.9 - 34:02.7] else- Mm-hmm ...
+[34:02.7 - 34:11.6] 100 times over, come back, and I didn't realize when you come back, it kicks your subsidy off and puts it under resident.
+[34:11.6 - 34:14.5] The tab didn't stay how I had it.
+[34:14.5 - 34:15.0] Oh.
+[34:15.0 - 34:21.3] So I paid the money to the residents ledger and not the s- the subsidy ledger.
+[34:21.3 - 34:29.3] Well, then it messed it up because then it threw in electric bills that people owed, and it was a hot mess.
+[34:29.3 - 34:35.7] I did fix it with Lori verbally because we can't fix it on the cash report.
+[34:35.7 - 34:37.2] You can't go in the system.
+[34:37.2 - 34:43.0] Even after I fixed it on the ledger, it doesn't go back on one side and fixes it in the report.
+[34:43.0 - 34:43.1] Oh.
+[34:43.1 - 34:46.5] It keeps it messed up in the report, which is awful.
+[34:46.5 - 34:49.9] That's a one-side bad- Malfunction ...
+[34:49.9 - 34:50.8] programing.
+[34:50.8 - 34:54.9] Well, I could write a book on that.
+[34:54.9 - 34:56.7] But one time, it's awful.
+[34:56.7 - 34:58.1] I'm not gonna lie about it.
+[34:58.1 - 34:58.8] It's not the best.
+[34:58.8 - 34:59.2] Yeah.
+[34:59.2 - 35:06.7] You shouldn't have to go to an old-fashioned view to get the good view, and then the new one's like garbage and it's just like a whole bunch of different things wrong.
+[35:06.7 - 35:06.7] Yeah.
+[35:06.7 - 35:08.1] It doesn't make any sense.
+[35:08.1 - 35:09.7] It locks me out of things.
+[35:09.7 - 35:15.6] I'm like, "Why am I getting locked out of things I have to put in?" Uh, yeah.
+[35:15.6 - 35:16.0] Okay.
+[35:16.0 - 35:19.1] Well, I will see what I can do to help you on that front.
+[35:19.1 - 35:22.2] So I did meet with Lori on this.
+[35:22.2 - 35:23.8] She knew I was messing it up.
+[35:23.8 - 35:25.4] She, we talked about it.
+[35:25.4 - 35:35.5] She has hers fixed on her end 'cause she's taking my one-side money and putting it into Yardi, 'cause Yardi's a better, um, program,
+[35:35.5 - 35:36.0] I guess.
+[35:36.0 - 35:36.8] Yeah.
+[35:36.8 - 35:37.5] That's so fact.
+[35:37.5 - 35:44.2] And that's, yeah, that's what she's doing, and that's why she wants it in this spreadsheet, so she can get it in the Yardi.
+[35:44.2 - 35:45.8] Okay.
+[35:45.8 - 35:51.2] But, but I, I had a lot of issues last time.
+[35:51.2 - 35:52.5] Well- It was a mess ...
+[35:52.5 - 35:59.8] uh, it's understandable, so we'll just try to get you all sorted out and see how we can get your flow going better, 'cause I know you got-
+[36:00.9 - 36:03.2] Other things to do than worry about softwares, so.
+[36:03.2 - 36:09.6] And then we have a lot of issues at this site because of how housing's set up in Missouri.
+[36:09.6 - 36:10.1] Mm-hmm.
+[36:10.1 - 36:16.3] So as you can see on here, I'm gonna go back to that Excel, returned money from HAK.
+[36:16.3 - 36:24.7] They will sometimes take money that they overpaid, and it's just random, and sometimes they give it back, and- Hmm ...
+[36:24.7 - 36:30.6] so it causes a lot of back and forth on the ledgers, the collection.
+[36:30.6 - 36:30.8] Yeah.
+[36:30.8 - 36:34.0] They also change the breakdowns.
+[36:34.0 - 36:35.9] So they make their own breakdowns.
+[36:35.9 - 36:42.4] Like, we charge our rent, but housing determines who pays what between them and the resident.
+[36:42.4 - 36:43.4] I see.
+[36:43.4 - 36:43.8] Okay.
+[36:43.8 - 36:45.7] That goes back and forth a lot, too.
+[36:45.7 - 36:48.9] I'll get, um, a ledger in the mail, or a...
+[36:48.9 - 36:56.9] I'm sorry, a breakdown in the mail saying the pa- the resident's now paying this much, and we're paying this for starting June 1st.
+[36:56.9 - 36:58.6] I go in, I correct it all.
+[36:58.6 - 37:03.3] Literally a week later, I get another one saying, "Oh, our bad." Oh.
+[37:03.3 - 37:05.6] "It should have been July 1st.
+[37:05.6 - 37:07.8] Now it's, it is- What's their reasoning?
+[37:07.8 - 37:09.2] Just like, "Oops," or what?
+[37:09.2 - 37:16.1] They have a lot of, "Oops," I guess, because it's constant, and it's from all three housing authorities.
+[37:16.1 - 37:17.1] They all do that.
+[37:17.1 - 37:17.4] Hmm.
+[37:17.4 - 37:18.0] It's awful.
+[37:18.0 - 37:18.8] That's frustrating.
+[37:18.8 - 37:25.6] There's a lot of back and forth, a lot of me changing ledgers, a lot of me updating money, because they...
+[37:25.6 - 37:27.0] That's just how they operate.
+[37:27.0 - 37:29.0] I, I'm not sure why.
+[37:29.0 - 37:29.2] Boy.
+[37:29.2 - 37:35.4] I know we have, um, landlord meetings with housing out here, and a friend of mine went to the last one.
+[37:35.4 - 37:38.9] I was unable to, 'cause I'm just in chaos right now.
+[37:38.9 - 37:39.5] Chaos.
+[37:39.5 - 37:45.7] Um, and she said it was nothing but landlords screaming and yelling, and she ended up leaving- Wow ...
+[37:45.7 - 37:47.3] because she said nothing was getting resolved.
+[37:47.3 - 37:48.0] Wow.
+[37:48.0 - 37:50.1] Okay.
+[37:50.1 - 37:55.8] So, so we're not alone in this psychotic back and forth with housing.
+[37:55.8 - 37:59.2] Everybody in the area apparently has issues.
+[37:59.2 - 37:59.4] I see.
+[37:59.4 - 38:00.4] She said it was pretty bad.
+[38:00.4 - 38:01.6] Okay.
+[38:01.6 - 38:02.6] Well, that's good to know.
+[38:02.6 - 38:04.9] Mm-hmm.
+[38:04.9 - 38:05.2] Um, okay.
+[38:05.2 - 38:07.4] Well, let's go on to...
+[38:07.4 - 38:11.8] So we talked about narratives and the collections, and delinquencies.
+[38:11.8 - 38:13.0] What about delinquencies?
+[38:13.0 - 38:17.4] Um, how are you entering those, and are you good on them, or do you need help, or?
+[38:17.4 - 38:17.7] I don't...
+[38:17.7 - 38:19.0] Here we go.
+[38:19.0 - 38:19.6] Uh-oh.
+[38:19.6 - 38:20.9] Did I click something wrong?
+[38:20.9 - 38:22.5] Oh, wait a minute.
+[38:22.5 - 38:27.9] Let me go back to my Property Max.
+[38:27.9 - 38:30.0] Did I log out?
+[38:30.0 - 38:30.9] Oh, my goodness.
+[38:30.9 - 38:31.9] No, it's not you.
+[38:31.9 - 38:35.5] It's, it's, it's du- it's computer.
+[38:35.5 - 38:36.0] I clicked...
+[38:36.0 - 38:37.1] I didn't mean to click on that.
+[38:37.1 - 38:38.5] Just trying to bring it back over.
+[38:38.5 - 38:39.8] Just hit that log in right there.
+[38:39.8 - 38:40.7] It'll probably go.
+[38:40.7 - 38:42.5] There we go.
+[38:42.5 - 38:43.0] Okay.
+[38:43.0 - 38:45.3] All right.
+[38:45.3 - 38:54.8] And if you do that website right there, and you just do, uh, uh, backslash app, like propertymax.app/app, A-P-P, then it'll bring it up for you, but.
+[38:54.8 - 38:56.8] Oh, okay.
+[38:56.8 - 38:58.9] 'Cause see, look at it up there now in the toolbar.
+[38:58.9 - 39:00.3] Right here.
+[39:00.3 - 39:00.7] Yeah.
+[39:00.7 - 39:01.6] Yeah, so.
+[39:01.6 - 39:02.2] Okay.
+[39:02.2 - 39:03.5] Or I would bookmark that- Okay ...
+[39:03.5 - 39:06.0] and I'd put it right here in your bookmarks if I were you.
+[39:06.0 - 39:06.3] Yeah.
+[39:06.3 - 39:07.5] Yeah.
+[39:07.5 - 39:08.4] We can do that.
+[39:08.4 - 39:10.3] I can do that for you right now if you want.
+[39:10.3 - 39:10.8] Oh, okay.
+[39:10.8 - 39:13.0] But, okay.
+[39:13.0 - 39:16.5] So delinquencies.
+[39:16.5 - 39:19.5] I haven't put any in.
+[39:19.5 - 39:20.6] I must've...
+[39:20.6 - 39:21.8] I, I thought I'm supposed to.
+[39:21.8 - 39:22.8] I misunderstood.
+[39:22.8 - 39:33.1] Somebody, I thought somebody had said that, um, those are being done by someone else
+[39:33.1 - 39:33.7] or something.
+[39:33.7 - 39:36.0] I, see, I got confused on that one.
+[39:36.0 - 39:37.3] Oh, okay.
+[39:37.3 - 39:43.2] I still- Well, that doesn't add up to me, for sure.
+[39:43.2 - 39:44.8] Right here.
+[39:44.8 - 39:46.4] You talking about this collections one?
+[39:46.4 - 39:46.9] Wait.
+[39:46.9 - 39:47.7] No, no, no, no.
+[39:47.7 - 39:48.2] Not that.
+[39:48.2 - 39:48.4] Right here.
+[39:48.4 - 39:51.0] Well, I'm talking about tenants that haven't paid on time.
+[39:51.0 - 39:51.9] It needs to be...
+[39:51.9 - 39:53.3] You know, you have to serve them- Yeah, right here ...
+[39:53.3 - 39:57.4] an eviction notice if they're delinquent, so that, how are you doing that system?
+[39:57.4 - 39:59.1] Yeah.
+[39:59.1 - 40:09.1] Um, right now we have people that are delinquent that technically are not delinquent, because Van ROI did some interesting things that they should not
+[40:09.1 - 40:09.7] have done.
+[40:09.7 - 40:12.2] Elaborate.
+[40:12.2 - 40:13.3] On housing.
+[40:13.3 - 40:17.4] That's what they're all trying to figure out with the housing rent, uh, increases.
+[40:17.4 - 40:18.1] Hmm.
+[40:18.1 - 40:25.6] So on the, the rent increases, Van ROI, without them approving the rent...
+[40:25.6 - 40:27.2] Housing has to approve them.
+[40:27.2 - 40:28.3] Yeah.
+[40:28.3 - 40:32.3] You're never allowed to put them on the re- resident, because that's illegal in Missouri.
+[40:32.3 - 40:33.1] They're not- And who's Roy?
+[40:33.1 - 40:34.8] Huh?
+[40:34.8 - 40:35.4] Roy.
+[40:35.4 - 40:36.1] Did you say Roy?
+[40:36.1 - 40:39.3] Van ROI, the last company that was- Oh.
+[40:39.3 - 40:39.8] Oh, okay.
+[40:39.8 - 40:40.3] Okay.
+[40:40.3 - 40:40.5] Yeah.
+[40:40.5 - 40:45.9] They cause delinquencies that technically are not existing delinquencies.
+[40:45.9 - 40:46.8] I don't know how to put it.
+[40:46.8 - 40:47.1] Okay.
+[40:47.1 - 40:48.7] Okay.
+[40:48.7 - 40:54.6] Housing, in Missouri, housing, we ask for rent increases annually.
+[40:54.6 - 40:55.8] Mm-hmm.
+[40:55.8 - 40:59.3] We send off the paperwork that we're supposed to fill out, that was given us by housing.
+[40:59.3 - 40:59.7] I have it all.
+[40:59.7 - 41:00.5] I know how to do it.
+[41:00.5 - 41:03.3] Um, we send it off to them.
+[41:03.3 - 41:04.1] Okay.
+[41:04.1 - 41:05.7] They have to approve it.
+[41:05.7 - 41:06.3] Oh, yeah.
+[41:06.3 - 41:10.8] Um, the problem with these housing authorities, they ignore it.
+[41:10.8 - 41:13.0] You won't get an approval or a denial.
+[41:13.0 - 41:14.6] They just flat out ignore you.
+[41:14.6 - 41:15.8] Hmm.
+[41:15.8 - 41:17.7] So- What if you follow up?
+[41:17.7 - 41:18.5] I mean, do you ever...
+[41:18.5 - 41:21.4] Is it one of those automated systems that's difficult?
+[41:21.4 - 41:22.8] Like- Nope.
+[41:22.8 - 41:24.6] We followed up so many times.
+[41:24.6 - 41:25.4] I actually love it.
+[41:25.4 - 41:30.6] We did, like, over 10, 12 times of follow-ups, and they still ignored us.
+[41:30.6 - 41:31.2] Oh.
+[41:31.2 - 41:40.9] So what Van ROI did, 'cause they got upset about it, was they just went ahead and put it on the ledger on the subsidy.
+[41:40.9 - 41:44.8] But it messed up delinquencies in one side's system.
+[41:44.8 - 41:45.3] Oh, boy.
+[41:45.3 - 41:46.9] Yeah.
+[41:46.9 - 41:50.6] And that's what everybody's trying to figure out right now.
+[41:50.6 - 41:54.8] I think Blake and Mark and Miles are going...
+[41:54.8 - 41:57.1] Or not Mark, I'm sorry, Todd- Yeah ...
+[41:57.1 - 42:03.3] and Miles are going through, um, is trying to figure that out, because that's a nightmare.
+[42:03.3 - 42:04.4] Okay.
+[42:04.4 - 42:09.7] Well, I'm gonna get with, uh, Robert and, and- Talk to him about what's going on there.
+[42:09.7 - 42:15.7] But I can put, on this here, this delinquent account- Mm-hmm.
+[42:15.7 - 42:17.9] I can put in the resident side.
+[42:17.9 - 42:20.7] Yes, I have that, what the residents are paying.
+[42:20.7 - 42:21.8] I see that you have that.
+[42:21.8 - 42:22.0] Okay.
+[42:22.0 - 42:24.5] Well, yeah, that's what, we're expected of you to do on that end.
+[42:24.5 - 42:24.8] Yeah.
+[42:24.8 - 42:27.2] But this is not updated.
+[42:27.2 - 42:30.3] I didn't really know how to do it, 'cause someone else did it last time and didn't show me.
+[42:30.3 - 42:34.7] Um, it looks like you would need to go to new right here, and then let's- Uh-huh ...
+[42:34.7 - 42:35.0] see.
+[42:35.0 - 42:42.4] Um, then you would select the unit number, and then you would do, I mean, obviously pay.
+[42:42.4 - 42:47.0] I mean, the amount number, the promised to pay, I guess is a good place.
+[42:47.0 - 42:51.6] Um, and then have the evictions proceeding started.
+[42:51.6 - 42:55.1] Do you know how to do evictions, like proceeding?
+[42:55.1 - 42:55.6] Like how- I do.
+[42:55.6 - 42:55.9] Okay.
+[42:55.9 - 42:56.8] I do.
+[42:56.8 - 42:57.3] I have...
+[42:57.3 - 43:00.4] In the state of Missouri you have, they won't let you come to court on your own.
+[43:00.4 - 43:07.4] You have to have a lawyer, which I, I have a law firm that I'm, I'm familiar with and, and Leslie said it was okay to use them.
+[43:07.4 - 43:09.6] Um- Okay ...
+[43:09.6 - 43:19.3] so they, there's paperwork that you fill out for them, and you send it in an email over to them with who you want and evicting, the mon- money amounts and the ledgers.
+[43:19.3 - 43:20.8] You know, gotta do this whole process.
+[43:20.8 - 43:21.2] Mm-hmm.
+[43:21.2 - 43:25.4] Then, um, they file it.
+[43:25.4 - 43:30.9] They end up giving me the court date, 'cause I have to go to court while we do an eviction.
+[43:30.9 - 43:32.4] This, this area makes us.
+[43:32.4 - 43:33.4] Okay.
+[43:33.4 - 43:37.3] So they give me a court date that I have to be there.
+[43:37.3 - 43:39.4] Honestly, I don't even say anything.
+[43:39.4 - 43:40.3] I'm not allowed to.
+[43:40.3 - 43:44.3] Judges won't let landlords talk, managers, property managers, whoever.
+[43:44.3 - 43:46.3] They won't let you talk in Jackson County.
+[43:46.3 - 43:46.9] Hmm.
+[43:46.9 - 43:50.1] But we have to, they're That's why we have to go.
+[43:50.1 - 43:51.9] So we just literally go and sit.
+[43:51.9 - 43:52.8] Right.
+[43:52.8 - 44:02.9] And then, in the courtroom, and then they, the lawyer usually pulls me out when we're done, after the judge did whatever verdicts, pulls
+[44:02.9 - 44:10.6] me out in the hall, in the hallway, and then they tell me, "Okay, well, we're gonna contact for a writ," which is through the sheriff's office.
+[44:10.6 - 44:13.8] Sheriff's department, because in Missouri you can't just throw people out.
+[44:13.8 - 44:15.3] You have to have the sheriff do that.
+[44:15.3 - 44:16.1] Okay.
+[44:16.1 - 44:16.9] It's called a writ.
+[44:16.9 - 44:23.7] So they file the writ, and then the sheriff's office contacts me with a date.
+[44:23.7 - 44:29.8] They have 10 days by law out here to come remove somebody after a writ was filed.
+[44:29.8 - 44:39.8] Because Missouri is a right to cure state, so if a resident owes you money and you're trying to evict, Missouri, still the law, the courthouse, will give
+[44:39.8 - 44:47.7] them, and court, that's what the lawyer's debating, gives them a right to pay it in full and stay.
+[44:47.7 - 44:48.0] Hmm.
+[44:48.0 - 44:49.3] Okay.
+[44:49.3 - 44:49.9] Uh-huh.
+[44:49.9 - 44:51.2] The right to cure state.
+[44:51.2 - 44:55.8] So they have, so the lawyer will sit and debate all that.
+[44:55.8 - 45:06.0] Our lawyers at our law firm, we just tell them, "Hey, we just want them out." Usually they have tricks up their sleeves that they pull, 'cause I've watched them do it, where they talk
+[45:06.0 - 45:08.3] somebody into not fighting it and just leave.
+[45:08.3 - 45:12.5] Oh, well, you'd, you'd be amazed at how California works.
+[45:12.5 - 45:16.0] You can just pretty much squat anywhere and just not pay, but.
+[45:16.0 - 45:20.1] Uh, well, we have right to cure and we don't have squatter rights.
+[45:20.1 - 45:22.3] We don't have that, but we have a process we have to follow.
+[45:22.3 - 45:26.0] That's good, 'cause that's about $40,000 a head to get somebody out here.
+[45:26.0 - 45:29.5] Yeah, no, we have a process though, that we do have to follow.
+[45:29.5 - 45:37.7] Um, so the lawyers can usually talk people out of trying to fight us or whatever.
+[45:37.7 - 45:37.7] Uh-huh.
+[45:37.7 - 45:38.7] They're pretty good at it.
+[45:38.7 - 45:39.7] That's why I like that law firm.
+[45:39.7 - 45:49.7] Um, so but if they don't and they say, "No, I'm paying it," then the judge in Missouri will give them so many days to
+[45:49.7 - 45:52.2] pay it, and yeah, sometimes people just pay it.
+[45:52.2 - 45:55.3] And then it's ca- case closed, no more evictions.
+[45:55.3 - 45:55.8] Well, yeah.
+[45:55.8 - 45:56.2] They get to stay.
+[45:56.2 - 45:60.0] That's how it sh- I feel like if they resolved it, then they should have the chance to pay.
+[45:60.0 - 46:00.3] Yeah.
+[46:00.3 - 46:01.4] Yeah.
+[46:01.4 - 46:09.2] And if they don't do that, then they get 10 days before a writ can even be filed.
+[46:09.2 - 46:12.3] Then the writ gets filed.
+[46:12.3 - 46:18.4] At the time of writ getting filed, the sheriff's office has another additional 10 days- Mm-hmm ...
+[46:18.4 - 46:27.4] to set an appointment, and then they let you know when they're coming, and then they come and they physically with guns drawn.
+[46:27.4 - 46:32.2] So usually I just give them the key and leave because I'm not getting shot.
+[46:32.2 - 46:33.1] Yeah.
+[46:33.1 - 46:34.3] That's smart.
+[46:34.3 - 46:34.5] Yeah.
+[46:34.5 - 46:38.4] They all have guns drawn, SWAT team style, when they come.
+[46:38.4 - 46:40.3] They usually unlock the door.
+[46:40.3 - 46:40.8] They don't kick it.
+[46:40.8 - 46:41.6] They knock on the...
+[46:41.6 - 46:49.8] They unlock the door, they let the sheriff's office, they go in with guns drawn, and they clear it and force whoever's in there to leave.
+[46:49.8 - 46:53.5] Wow, that's cool.
+[46:53.5 - 46:59.3] So, so then I get, that's when they tell me, "Okay, you are now in possession of your property again.
+[46:59.3 - 47:03.0] Have at it." And then that's when I get to change the locks and do all that fun stuff.
+[47:03.0 - 47:03.6] Okay.
+[47:03.6 - 47:06.1] Well, I'm glad they take care of it so well there.
+[47:06.1 - 47:06.9] Yeah.
+[47:06.9 - 47:09.2] Yeah, the sheriff handles all that.
+[47:09.2 - 47:11.2] 'Cause I, it could be, um, deadly.
+[47:11.2 - 47:11.3] Mm-hmm.
+[47:11.3 - 47:17.3] A lot of, there's a lot of people who've been shot trying to remove, um- Well, yes, please take care of yourself first and foremost.
+[47:17.3 - 47:18.3] It is.
+[47:18.3 - 47:20.9] In this area, it's very common in this area.
+[47:20.9 - 47:22.5] So the sheriff handles it all.
+[47:22.5 - 47:23.4] Well, good.
+[47:23.4 - 47:24.5] I'm glad.
+[47:24.5 - 47:30.1] Um, and then- So you- But I got an issue with that Okay.
+[47:30.1 - 47:36.6] I have a person that is evicted, and I have a writ put in, and I've been calling the sheriff's office 'cause I have their phone number.
+[47:36.6 - 47:41.2] They can't give me a date because the county clerk didn't file it.
+[47:41.2 - 47:42.6] Hmm.
+[47:42.6 - 47:50.2] Uh, so a person was already, was supposed to have been out on the 1st of July and they're still here because I haven't gotten a date.
+[47:50.2 - 47:53.6] Um- And- What unit number is that?
+[47:53.6 - 47:54.6] Every time I call...
+[47:54.6 - 47:57.3] 14-0-four or 5.
+[47:57.3 - 47:58.6] Cl- Timothy Cline.
+[47:58.6 - 47:59.9] I gotta look real quick to give you the-
+[48:01.5 - 48:06.4] Timothy Klein Okay I did-- Let me just pull it up real quick.
+[48:06.4 - 48:10.1] This word was fourteen oh four, but I could be wrong.
+[48:10.1 - 48:11.5] Could be oh five.
+[48:11.5 - 48:13.2] Oh, not four oh four.
+[48:13.2 - 48:17.0] Fourteen oh four.
+[48:17.0 - 48:21.7] Um, no, fourteen oh five.
+[48:21.7 - 48:27.5] Timothy Klein.
+[48:27.5 - 48:32.1] He is fully evicted.
+[48:32.1 - 48:32.8] It went to court.
+[48:32.8 - 48:35.8] I went to the court date on the twenty-ninth of May.
+[48:35.8 - 48:37.6] How old this is?
+[48:37.6 - 48:43.0] Um, went-- So this is the eviction with them.
+[48:43.0 - 48:45.2] Trying to put eviction status on here.
+[48:45.2 - 48:45.4] Yeah.
+[48:45.4 - 48:48.7] I- It's not on the- -show that you don't have any evictions in your system.
+[48:48.7 - 48:49.3] Is that true?
+[48:49.3 - 48:53.0] I have this one eviction.
+[48:53.0 - 48:56.0] Um, I have to...
+[48:56.0 - 48:58.5] I'm playing a huge catch-up game.
+[48:58.5 - 49:08.8] I have to, um, go through the rents, see who hasn't paid, and, and start the eviction process, get my notices out, get
+[49:08.8 - 49:13.2] all that going, contact the lawyer, and start all that process.
+[49:13.2 - 49:15.2] I'm just behind a little bit on that.
+[49:15.2 - 49:16.2] Okay.
+[49:16.2 - 49:18.2] This one, though, is eviction.
+[49:18.2 - 49:23.1] Um, and it was completed, but they are squat-ing.
+[49:23.1 - 49:24.8] They're here squatting.
+[49:24.8 - 49:27.0] What day did you start again?
+[49:27.0 - 49:28.1] That's where I need- I can't, um...
+[49:28.1 - 49:34.2] I was just doing like a little- I started this edition- No, no, like in general, your start date- I did- -for work or...
+[49:34.2 - 49:35.6] I was just gonna look at, like, the report.
+[49:35.6 - 49:36.7] May twenty-seventh.
+[49:36.7 - 49:37.2] Okay, cool.
+[49:37.2 - 49:40.4] May twenty-seventh is when I was, uh, started.
+[49:40.4 - 49:47.0] This eviction was already in process with Van Rook, and since it was already paid for and everything, Van Rook said, "Finish it.
+[49:47.0 - 49:48.2] We already paid for it.
+[49:48.2 - 49:50.9] Finish it." So May twenty-ninth was the court date.
+[49:50.9 - 49:53.7] I finished it with us, though.
+[49:53.7 - 49:54.9] Does that make sense?
+[49:54.9 - 49:55.4] Yes.
+[49:55.4 - 49:56.7] Yeah.
+[49:56.7 - 50:01.5] But they're squatting on me, and I can't get the sheriff to give me a date yet.
+[50:01.5 - 50:02.9] I'm still working on it, though.
+[50:02.9 - 50:03.8] I call them a lot.
+[50:03.8 - 50:04.4] Right.
+[50:04.4 - 50:07.4] Bet they have you on speed dial, or you have them on speed dial.
+[50:07.4 - 50:08.2] Yeah.
+[50:08.2 - 50:09.5] They're, they're irritated with me.
+[50:09.5 - 50:13.7] So, um, so that's where I'm at on that one.
+[50:13.7 - 50:15.0] That's why they're not out yet.
+[50:15.0 - 50:15.8] That's what...
+[50:15.8 - 50:17.6] Go on to one.
+[50:17.6 - 50:27.7] Rest of my people, I'm just behind on a lot of things, so I, I gotta get in there in the system, get the rent roll, and see who
+[50:27.7 - 50:29.8] owes and start that process.
+[50:29.8 - 50:30.5] Okay.
+[50:30.5 - 50:32.1] So I was planning on doing it this month.
+[50:32.1 - 50:32.6] I was planning on...
+[50:32.6 - 50:34.6] So I'm getting things more caught up.
+[50:34.6 - 50:42.3] I'm trying to get all the, the things that usually are done, uh, you know, back, back to being- Up to date ...
+[50:42.3 - 50:43.0] doing again.
+[50:43.0 - 50:43.9] All right.
+[50:43.9 - 50:54.0] So is there anything you're confused on how to do, or is it just that you're so busy that you're having a hard time keeping up, or is there stuff that you need additional attention on
+[50:54.0 - 50:54.3] or?
+[50:54.3 - 50:58.2] A lot of it is I'm just too busy and it's hard to keep up.
+[50:58.2 - 50:58.7] Yeah.
+[50:58.7 - 51:02.3] I know that Liz- Um, and that's where finding my- I know that they're looking to, you know, might need some help.
+[51:02.3 - 51:03.3] Yeah.
+[51:03.3 - 51:06.4] I am having an issue finding my collected and billed.
+[51:06.4 - 51:08.2] My billed and collected.
+[51:08.2 - 51:10.1] Okay.
+[51:10.1 - 51:12.1] Yeah, I see that.
+[51:12.1 - 51:15.3] Um, okay.
+[51:15.3 - 51:18.8] I did a- I mean, I can go off the one on- I did a complete audit here.
+[51:18.8 - 51:18.8] Yeah ...
+[51:18.8 - 51:25.4] I can go off the one on the main page of one site, but I don't know how accurate that is.
+[51:25.4 - 51:26.4] That's my issue.
+[51:26.4 - 51:28.3] Which one's the most accurate?
+[51:28.3 - 51:30.0] And what was your- I think that one's fine ...
+[51:30.0 - 51:32.3] what was your question again?
+[51:32.3 - 51:41.0] On the info to put in the collections overview, on one site it's not always...
+[51:41.0 - 51:43.0] Okay.
+[51:43.0 - 51:45.2] On, on one site I have...
+[51:45.2 - 51:48.2] Let me put, go back here.
+[51:48.2 - 51:52.8] I have that place I showed you.
+[51:52.8 - 51:57.0] I gotta finish updating the date, but I got that place on here.
+[51:57.0 - 52:01.6] That shows me delinquency financial summary, but I don't know how accurate that is.
+[52:01.6 - 52:04.3] I don't think it's very accurate.
+[52:04.3 - 52:08.2] I'm gonna look into that and see where it's gonna be your best.
+[52:08.2 - 52:08.9] This here, this...
+[52:08.9 - 52:09.6] Do you see the...
+[52:09.6 - 52:10.8] Do, are you still on my computer?
+[52:10.8 - 52:11.3] Yeah, I can see.
+[52:11.3 - 52:11.6] Do you see it?
+[52:11.6 - 52:12.0] Mm-hmm.
+[52:12.0 - 52:13.0] Yeah.
+[52:13.0 - 52:17.2] This billed, this collected, this delinquent, the prepaid.
+[52:17.2 - 52:20.8] I'm not too sure how accurate that little box is.
+[52:20.8 - 52:24.8] And you think, and this is being pulled from where?
+[52:24.8 - 52:26.8] I don't know where this comes from.
+[52:26.8 - 52:29.4] This is just something that's always been on here.
+[52:29.4 - 52:31.3] But, but see- Okay ...
+[52:31.3 - 52:34.2] right here, like this is accurate.
+[52:34.2 - 52:34.6] I'm gonna find out.
+[52:34.6 - 52:37.1] I'm past doing eleven- This is just for you ...
+[52:37.1 - 52:38.4] certifications, right?
+[52:38.4 - 52:39.0] Mm-hmm.
+[52:39.0 - 52:40.9] Which I'm working on them.
+[52:40.9 - 52:44.2] I'm just, it's just a lot of stuff, lot of components.
+[52:44.2 - 52:46.0] So this is accurate.
+[52:46.0 - 52:47.7] I know this box is accurate.
+[52:47.7 - 52:49.9] I just don't know because I never messed with this box.
+[52:49.9 - 52:52.3] Accounting from the last company used to do that.
+[52:52.3 - 52:53.3] Okay.
+[52:53.3 - 52:58.4] So I don't know if somebody knows this better than me and can tell me, "Yes, that's accurate.
+[52:58.4 - 53:00.3] Put those numbers in." Well, I'm gonna find out for you.
+[53:00.3 - 53:01.7] I've got it all written down here.
+[53:01.7 - 53:06.6] I'm gonna make sure to get all these answers for you whenever we- And then it's weird because I got...
+[53:06.6 - 53:10.9] We billed two hundred and thirty-five- Mm-hmm ...
+[53:10.9 - 53:11.5] on here.
+[53:11.5 - 53:16.4] So why are we deliqent- delinquent more than what we billed?
+[53:16.4 - 53:17.4] See that?
+[53:17.4 - 53:17.9] Yeah.
+[53:17.9 - 53:19.9] It's 'cause you've only collected- It don't make sense.
+[53:19.9 - 53:20.1] Yeah.
+[53:20.1 - 53:23.0] So that's why I'm like, I don't think it's accurate.
+[53:23.0 - 53:24.1] It doesn't make sense.
+[53:24.1 - 53:25.7] Um, go to your...
+[53:25.7 - 53:27.3] Let's go to your, uh...
+[53:27.3 - 53:27.8] One second.
+[53:27.8 - 53:30.8] And then yeah, like send the code again, just do your thing.
+[53:30.8 - 53:31.7] Let's see.
+[53:31.7 - 53:32.5] Where is your...
+[53:32.5 - 53:33.0] Oh.
+[53:33.0 - 53:38.0] I have it forwarded to you right now 'cause she told me to do that.
+[53:38.0 - 53:40.7] Oh, you gotta go to the other one.
+[53:40.7 - 53:42.0] Oh.
+[53:42.0 - 53:44.0] Oh, it worked on this one.
+[53:44.0 - 53:44.5] Never mind.
+[53:44.5 - 53:45.4] No.
+[53:45.4 - 53:45.8] Oh.
+[53:45.8 - 53:47.4] So you gotta go to the- Okay.
+[53:47.4 - 53:48.5] Go- You gotta go to- Yeah, go for it.
+[53:48.5 - 53:50.3] Yeah ...
+[53:50.3 - 53:52.6] you gotta go to this one here for Property Match.
+[53:52.6 - 53:53.7] I have to do them on two different.
+[53:53.7 - 53:55.3] They don't sync with the current...
+[53:55.3 - 53:55.8] I don't know.
+[53:55.8 - 53:56.3] Mm.
+[53:56.3 - 53:57.8] But it's, I got it opened over here.
+[53:57.8 - 53:58.3] Okay.
+[53:58.3 - 54:00.5] So which one are we?
+[54:00.5 - 54:03.3] I was gonna go to your va-vacancy tab.
+[54:03.3 - 54:05.6] Vacancy tab.
+[54:05.6 - 54:10.4] Yep Let me see here.
+[54:10.4 - 54:13.7] So- Sorry ...
+[54:13.7 - 54:14.9] let's see.
+[54:14.9 - 54:18.8] You know how to add and change the...
+[54:18.8 - 54:20.6] I'm just double-checking that everything is like...
+[54:20.6 - 54:22.4] I see that there's not...
+[54:22.4 - 54:24.3] Okay.
+[54:24.3 - 54:29.3] Mm-hmm.
+[54:29.3 - 54:30.4] You can take that if you need to.
+[54:30.4 - 54:33.1] It's okay.
+[54:33.1 - 54:33.9] They can leave a message.
+[54:33.9 - 54:35.3] We got answering machines.
+[54:35.3 - 54:36.2] Okay.
+[54:36.2 - 54:36.8] Uh-huh.
+[54:36.8 - 54:39.4] But I'll listen, I'll listen and call them back if I need to.
+[54:39.4 - 54:41.2] Well, go ahead 'cause I'm just looking around for a second.
+[54:41.2 - 54:41.8] Go ahead and take it.
+[54:41.8 - 54:42.7] Okay.
+[54:42.7 - 54:42.9] Yeah.
+[54:42.9 - 54:46.1] Thank you for calling the Crossroads Release Center.
+[54:46.1 - 54:46.8] This is Jennifer.
+[54:46.8 - 54:47.4] How may I help you?
+[54:47.4 - 54:56.2] Your tour date?
+[54:56.2 - 54:56.6] Yeah.
+[54:56.6 - 54:58.9] Can I get your name?
+[54:58.9 - 55:05.4] Oh, okay.
+[55:05.4 - 55:06.7] 'Cause it doesn't say.
+[55:06.7 - 55:07.1] I don't see one.
+[55:07.1 - 55:09.1] You did an application, correct?
+[55:09.1 - 55:12.7] Have you done that?
+[55:12.7 - 55:15.4] Okay.
+[55:15.4 - 55:16.5] I don't...
+[55:16.5 - 55:20.8] Yeah, I don't have one just yet.
+[55:20.8 - 55:25.3] So my guess is gonna be towards the end of the month.
+[55:25.3 - 55:30.7] Mm-hmm.
+[55:30.7 - 55:38.3] Yeah, we did, but it's not ready yet.
+[55:38.3 - 55:48.1] When you applied, I did say I did not have an available unit, and that I should have one coming up around the 15th.
+[55:48.1 - 55:51.0] Unfortunately, I don't think I will.
+[55:51.0 - 55:53.3] I think it will be more later in the month.
+[55:53.3 - 56:03.7] Mm-hmm.
+[56:03.7 - 56:05.2] Yeah, I have a unit.
+[56:05.2 - 56:06.5] That's not the issue.
+[56:06.5 - 56:07.7] The unit's just not ready.
+[56:07.7 - 56:08.9] It's not ready yet.
+[56:08.9 - 56:13.2] Yeah.
+[56:13.2 - 56:17.8] Yes.
+[56:17.8 - 56:18.5] Mm-hmm.
+[56:18.5 - 56:24.4] I don't...
+[56:24.4 - 56:27.0] What I'm thinking...
+[56:27.0 - 56:32.2] Yeah.
+[56:32.2 - 56:36.0] Um, when was your lease, um...
+[56:36.0 - 56:37.5] When is your lease up?
+[56:37.5 - 56:41.8] August 1st.
+[56:41.8 - 56:44.0] Okay.
+[56:44.0 - 56:54.2] Yeah, I would leave your move out for August 1st, 'cause it doesn't hurt you to s- to, to finalize here at the Crossroads.
+[56:54.2 - 56:56.6] It's not gonna affect your current lease.
+[56:56.6 - 56:58.1] Does that make sense?
+[56:58.1 - 57:02.9] Uh-huh.
+[57:02.9 - 57:03.9] Yeah.
+[57:03.9 - 57:07.7] Oh, I see what you're saying.
+[57:07.7 - 57:08.1] Yeah.
+[57:08.1 - 57:09.5] Yeah, you have to communicate that one then.
+[57:09.5 - 57:11.1] Um, let me...
+[57:11.1 - 57:12.5] Um, here's what I'm gonna do.
+[57:12.5 - 57:13.7] I...
+[57:13.7 - 57:14.8] Let me get your...
+[57:14.8 - 57:16.6] this callback number real quick.
+[57:16.6 - 57:20.4] You go ahead.
+[57:20.4 - 57:30.5] Eight seven seven
+[57:30.5 - 57:30.8] eight.
+[57:30.8 - 57:31.2] Perfect.
+[57:31.2 - 57:34.0] So, uh, what I'm gonna do, Ms.
+[57:34.0 - 57:44.2] Wilds, is on the 24th, um, I'm going to call Moving and
+[57:44.2 - 57:52.1] let you know the status of everything, and then we can go either with the tour, I can give you a date, I can see if you need to extend.
+[57:52.1 - 57:53.3] Would that give you enough time?
+[57:53.3 - 57:58.1] Okay, perfect.
+[57:58.1 - 58:11.3] Yeah.
+[58:11.3 - 58:18.3] Well, actually call me on the 24th if you haven't heard from me around 1:00, because I'm not here on the 25th.
+[58:18.3 - 58:21.4] Mm-hmm.
+[58:21.4 - 58:24.1] All right, perfect.
+[58:24.1 - 58:26.3] And I...
+[58:26.3 - 58:26.8] All right.
+[58:26.8 - 58:28.0] Thank you for talking.
+[58:28.0 - 58:30.6] Bye.
+[58:30.6 - 58:33.6] Hello?
+[58:33.6 - 58:34.3] Okay.
+[58:34.3 - 58:35.7] Sorry.
+[58:35.7 - 58:36.7] No, you're fine.
+[58:36.7 - 58:46.7] I'm actually just writing an email to you, um, a follow-up one, and I'm gonna include the phone excellence with the golden questions and the Property Max, like, training overview, so you'll
+[58:46.7 - 58:47.4] have all of that.
+[58:47.4 - 58:49.0] And then- Yeah ...
+[58:49.0 - 58:53.7] I also did, like, an audit on your profile in Property Max, and I'm just gonna...
+[58:53.7 - 58:55.6] If you scroll down, it'll give the report.
+[58:55.6 - 59:05.7] And I'm also going to look into the delinquency and collections data as far as, like, which one's most accurate and where it's being pulled from,
+[59:05.7 - 59:07.6] if it's one side- Yeah ...
+[59:07.6 - 59:13.3] is already and, um- Yeah, 'cause that just doesn't make sense.
+[59:13.3 - 59:16.4] Well, I'm sure it's an easy solution.
+[59:16.4 - 59:18.6] It's just I don't have the direct answer for you.
+[59:18.6 - 59:21.3] I don't wanna misspeak, so, um- Yeah.
+[59:21.3 - 59:22.2] Yep ...
+[59:22.2 - 59:23.4] so we'll do that.
+[59:23.4 - 59:33.7] And then, um, it shows on here that you have, uh, units 2001, 1105, 2104, 2006 stuck at 90%.
+[59:33.7 - 59:34.1] Okay.
+[59:34.1 - 59:35.7] Well, that's just, like, a...
+[59:35.7 - 59:37.3] It's just a market type thing.
+[59:37.3 - 59:42.3] And then unit 1403, only 20% ready after four days.
+[59:42.3 - 59:45.0] 19 a month at risk.
+[59:45.0 - 59:45.8] I don't have maintenance.
+[59:45.8 - 59:47.9] The maintenance guy quit.
+[59:47.9 - 59:48.8] Mm.
+[59:48.8 - 59:50.6] Wesley's working on it.
+[59:50.6 - 59:51.4] Okay.
+[59:51.4 - 59:54.7] And then vacancy ticked back up to...
+[59:54.7 - 59:55.0] Okay.
+[59:55.0 - 59:57.2] Well, that's just a timing thing.
+[59:57.2 - 59:59.5] And then net cash flow, that's negative
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/downloads/ROSE-REC2_V2026-07-06-09-00-33_transcription_20260706_232923.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/downloads/ROSE-REC2_V2026-07-06-09-00-33_transcription_20260706_232923.txt
+[2J[H[3Jmanus-speech-to-text downloads/ROSE-REC2_V2026-07-06-09-00-33.mp3
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: downloads/ROSE-REC2_V2026-07-06-09-00-33.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: downloads/.ROSE-REC2_V2026-07-06-09-00-33_chunks_20260706_232714/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: downloads/.ROSE-REC2_V2026-07-06-09-00-33_chunks_20260706_232714/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: downloads/.ROSE-REC2_V2026-07-06-09-00-33_chunks_20260706_232714/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: downloads/.ROSE-REC2_V2026-07-06-09-00-33_chunks_20260706_232714/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: downloads/.ROSE-REC2_V2026-07-06-09-00-33_chunks_20260706_232714/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[56:54.2 - 56:56.6] It's not gonna affect your current lease.
+[56:56.6 - 56:58.1] Does that make sense?
+[56:58.1 - 57:02.9] Uh-huh.
+[57:02.9 - 57:03.9] Yeah.
+[57:03.9 - 57:07.7] Oh, I see what you're saying.
+[57:07.7 - 57:08.1] Yeah.
+[57:08.1 - 57:09.5] Yeah, you have to communicate that one then.
+[57:09.5 - 57:11.1] Um, let me...
+[57:11.1 - 57:12.5] Um, here's what I'm gonna do.
+[57:12.5 - 57:13.7] I...
+[57:13.7 - 57:14.8] Let me get your...
+[57:14.8 - 57:16.6] this callback number real quick.
+[57:16.6 - 57:20.4] You go ahead.
+[57:20.4 - 57:30.5] Eight seven seven
+[57:30.5 - 57:30.8] eight.
+[57:30.8 - 57:31.2] Perfect.
+[57:31.2 - 57:34.0] So, uh, what I'm gonna do, Ms.
+[57:34.0 - 57:44.2] Wilds, is on the 24th, um, I'm going to call Moving and
+[57:44.2 - 57:52.1] let you know the status of everything, and then we can go either with the tour, I can give you a date, I can see if you need to extend.
+[57:52.1 - 57:53.3] Would that give you enough time?
+[57:53.3 - 57:58.1] Okay, perfect.
+[57:58.1 - 58:11.3] Yeah.
+[58:11.3 - 58:18.3] Well, actually call me on the 24th if you haven't heard from me around 1:00, because I'm not here on the 25th.
+[58:18.3 - 58:21.4] Mm-hmm.
+[58:21.4 - 58:24.1] All right, perfect.
+[58:24.1 - 58:26.3] And I...
+[58:26.3 - 58:26.8] All right.
+[58:26.8 - 58:28.0] Thank you for talking.
+[58:28.0 - 58:30.6] Bye.
+[58:30.6 - 58:33.6] Hello?
+[58:33.6 - 58:34.3] Okay.
+[58:34.3 - 58:35.7] Sorry.
+[58:35.7 - 58:36.7] No, you're fine.
+[58:36.7 - 58:46.7] I'm actually just writing an email to you, um, a follow-up one, and I'm gonna include the phone excellence with the golden questions and the Property Max, like, training overview, so you'll
+[58:46.7 - 58:47.4] have all of that.
+[58:47.4 - 58:49.0] And then- Yeah ...
+[58:49.0 - 58:53.7] I also did, like, an audit on your profile in Property Max, and I'm just gonna...
+[58:53.7 - 58:55.6] If you scroll down, it'll give the report.
+[58:55.6 - 59:05.7] And I'm also going to look into the delinquency and collections data as far as, like, which one's most accurate and where it's being pulled from,
+[59:05.7 - 59:07.6] if it's one side- Yeah ...
+[59:07.6 - 59:13.3] is already and, um- Yeah, 'cause that just doesn't make sense.
+[59:13.3 - 59:16.4] Well, I'm sure it's an easy solution.
+[59:16.4 - 59:18.6] It's just I don't have the direct answer for you.
+[59:18.6 - 59:21.3] I don't wanna misspeak, so, um- Yeah.
+[59:21.3 - 59:22.2] Yep ...
+[59:22.2 - 59:23.4] so we'll do that.
+[59:23.4 - 59:33.7] And then, um, it shows on here that you have, uh, units 2001, 1105, 2104, 2006 stuck at 90%.
+[59:33.7 - 59:34.1] Okay.
+[59:34.1 - 59:35.7] Well, that's just, like, a...
+[59:35.7 - 59:37.3] It's just a market type thing.
+[59:37.3 - 59:42.3] And then unit 1403, only 20% ready after four days.
+[59:42.3 - 59:45.0] 19 a month at risk.
+[59:45.0 - 59:45.8] I don't have maintenance.
+[59:45.8 - 59:47.9] The maintenance guy quit.
+[59:47.9 - 59:48.8] Mm.
+[59:48.8 - 59:50.6] Wesley's working on it.
+[59:50.6 - 59:51.4] Okay.
+[59:51.4 - 59:54.7] And then vacancy ticked back up to...
+[59:54.7 - 59:55.0] Okay.
+[59:55.0 - 59:57.2] Well, that's just a timing thing.
+[59:57.2 - 59:59.5] And then net cash flow, that's negative
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/downloads/ROSE-REC2_V2026-07-06-09-00-33_transcription_20260706_232923.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/downloads/ROSE-REC2_V2026-07-06-09-00-33_transcription_20260706_232923.txt

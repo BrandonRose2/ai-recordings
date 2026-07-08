@@ -1,0 +1,202 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-10-08-01.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: mp3/.ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-10-08-01_chunks_20260705_194520/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: mp3/.ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-10-08-01_chunks_20260705_194520/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: mp3/.ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-10-08-01_chunks_20260705_194520/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: mp3/.ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-10-08-01_chunks_20260705_194520/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: mp3/.ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-10-08-01_chunks_20260705_194520/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.7 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[00:09.1 - 00:11.9] Yeah, I was just kind of basically clarifying.
+[00:11.9 - 00:23.6] All
+[00:23.6 - 00:24.5] right.
+[00:24.5 - 00:25.7] We're almost there.
+[00:25.7 - 02:41.2] Sam's
+[02:41.2 - 02:42.5] email is all set up, right?
+[02:42.5 - 02:43.5] Mm-hmm.
+[02:43.5 - 02:44.0] Okay, cool.
+[02:44.0 - 02:47.4] Oh, what, uh, what are you bombarding him with?
+[02:47.4 - 02:49.0] I thought you just said the one thing.
+[02:49.0 - 02:49.3] Oh.
+[02:49.3 - 02:52.6] Oh, I just told him that I would send those, like, training videos that- Oh.
+[02:52.6 - 02:53.2] You know what I mean?
+[02:53.2 - 02:54.8] I'm gonna go- I'm just messing.
+[02:54.8 - 02:56.2] Yeah, no, obviously, but- Yeah.
+[02:56.2 - 02:56.4] Yeah.
+[02:56.4 - 03:02.8] I know, right?
+[03:02.8 - 03:04.4] It's gonna make all of our lives easier.
+[03:04.4 - 03:06.7] Um, I'm gonna go move my truck.
+[03:06.7 - 03:08.1] I thought the flight was today, so.
+[03:08.1 - 03:09.5] We also can't, uh...
+[03:09.5 - 03:10.4] Oh yeah, you change it.
+[03:10.4 - 03:20.6] But, uh, we also can't be too honest with him because he's in Mark's cuckold, so he's gonna tell Mark because he's more friends with Mark than he is-
+[03:20.6 - 03:21.1] Sure, yeah ...
+[03:21.1 - 03:21.9] like, a word about us.
+[03:21.9 - 03:24.9] Yeah, I'm being very- So just- Cognizant.
+[03:24.9 - 03:33.2] Like, just in case you weren't aware, 'cause I didn't have time to go, uh, just bombard it at the end of the day, then I had to go do Mark's prescription and stuff- Yeah ...
+[03:33.2 - 03:33.7] which is why.
+[03:33.7 - 03:39.5] And then fortunately, it's lovely that part of the phone system is down, so I can't fucking do shit to get him set up.
+[03:39.5 - 03:41.2] And I accidentally purchased- There's always something ...
+[03:41.2 - 03:45.6] I accidentally purchased three different phone numbers because it wasn't going through as a purchase.
+[03:45.6 - 03:48.1] They're a dollar each, so it doesn't matter.
+[03:48.1 - 03:48.3] Oh.
+[03:48.3 - 03:49.8] But it was just like- Even later, yeah ...
+[03:49.8 - 03:52.0] fake going through, but not going through.
+[03:52.0 - 03:52.1] Oh, yeah.
+[03:52.1 - 03:54.9] And then I was like, "Well, I can't assign it, so I guess it's not- Oh.
+[03:54.9 - 03:58.1] "It's, it's in the purchase confirmation window." So you can just, like, hold onto those.
+[03:58.1 - 04:01.4] And it wouldn't let me click anything, so I was like, "Okay, I guess it didn't work." Oh.
+[04:01.4 - 04:07.5] And then they sent me an email like, "Hey, you successfully purchased these three numbers." And I was like, "That, that's weird." Oopsie.
+[04:07.5 - 04:08.6] Guess you can hold onto them.
+[04:08.6 - 04:11.1] Yeah, they're three two three area codes.
+[04:11.1 - 04:12.7] It's really not, like, a problem.
+[04:12.7 - 04:12.8] Yeah.
+[04:12.8 - 04:14.8] Again, they're literally a dollar- Yeah ...
+[04:14.8 - 04:15.6] from what I've been told.
+[04:15.6 - 04:18.0] It's like, even if calling 10, like- He's one per person.
+[04:18.0 - 04:21.1] No one's gonna get mad, but it's just like, why?
+[04:21.1 - 04:22.3] What the hell?
+[04:22.3 - 04:23.1] Yeah.
+[04:23.1 - 05:00.6] Good
+[05:00.6 - 05:01.0] luck.
+[05:01.0 - 05:11.2] You're really wasting your time.
+[05:11.2 - 05:17.5] And I thought it, happening, going.
+[05:17.5 - 05:22.3] And you said...
+[05:22.3 - 05:22.6] Oh.
+[05:22.6 - 05:32.9] 'Cause when you met my family, everybody knows
+[05:32.9 - 05:33.6] you.
+[05:33.6 - 05:39.9] I ain't never loved no one like that.
+[05:39.9 - 05:47.0] And when I said I loved you, I didn't care who seen.
+[05:47.0 - 05:53.4] I ain't never loved no one like that.
+[05:53.4 - 06:00.7] If you did, you just kept walking.
+[06:00.7 - 06:11.2] And-
+[06:11.2 - 06:17.9] Go on existing, not knowing what I was missing.
+[06:17.9 - 06:27.2] Well, you said goodbye when you stopped by to say hello.
+[06:27.2 - 06:33.9] When you met my family, everybody knew that we were meant to be.
+[06:33.9 - 06:36.4] I ain't never loved no one like you.
+[38:47.1 - 38:57.2] It's not a question of, it's not a question of small, it's just a question of, you know, and generally you put the PTAC unit in the be-- in the bedroom, and you put the transfer unit
+[38:57.2 - 38:59.7] so that the living room is cooler.
+[38:59.7 - 39:02.9] 'Cause the people wanna sleep in a cool environment.
+[39:02.9 - 39:07.3] They don't wanna sleep in, in, in a hot room.
+[39:07.3 - 39:23.5] So
+[39:23.5 - 39:28.5] why don't you put the PTAC unit inside the master bedroom and then run the transfer into the living room?
+[39:28.5 - 39:58.2] Yeah,
+[39:58.2 - 40:03.0] and I'm gonna have to be honest with you, if I, I...
+[40:03.0 - 40:05.7] Um, yeah, you charged this myself there.
+[40:05.7 - 40:08.0] Uh, I'll try to keep trying to do this.
+[40:08.0 - 40:22.4] Well,
+[40:22.4 - 41:51.9] how much did-- do you think it
+[41:51.9 - 41:58.5] would be a hundred thousand dollars to add this building or something like that?
+[41:58.5 - 41:59.1] Yeah.
+[41:59.1 - 43:56.3] Brandon?
+[43:56.3 - 43:56.9] Yes, sir.
+[43:56.9 - 43:58.2] I want you up here.
+[43:58.2 - 44:02.5] Oh, thank God.
+[44:02.5 - 44:05.7] Asshole.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-10-08-01_transcription_20260705_194551.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-10-08-01_transcription_20260705_194551.txt
+[2J[H[3Jmanus-speech-to-text "mp3/ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-10-08-01.mp3"
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-10-08-01.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: mp3/.ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-10-08-01_chunks_20260705_194520/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: mp3/.ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-10-08-01_chunks_20260705_194520/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: mp3/.ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-10-08-01_chunks_20260705_194520/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: mp3/.ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-10-08-01_chunks_20260705_194520/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: mp3/.ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-10-08-01_chunks_20260705_194520/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[03:49.8 - 03:52.0] fake going through, but not going through.
+[03:52.0 - 03:52.1] Oh, yeah.
+[03:52.1 - 03:54.9] And then I was like, "Well, I can't assign it, so I guess it's not- Oh.
+[03:54.9 - 03:58.1] "It's, it's in the purchase confirmation window." So you can just, like, hold onto those.
+[03:58.1 - 04:01.4] And it wouldn't let me click anything, so I was like, "Okay, I guess it didn't work." Oh.
+[04:01.4 - 04:07.5] And then they sent me an email like, "Hey, you successfully purchased these three numbers." And I was like, "That, that's weird." Oopsie.
+[04:07.5 - 04:08.6] Guess you can hold onto them.
+[04:08.6 - 04:11.1] Yeah, they're three two three area codes.
+[04:11.1 - 04:12.7] It's really not, like, a problem.
+[04:12.7 - 04:12.8] Yeah.
+[04:12.8 - 04:14.8] Again, they're literally a dollar- Yeah ...
+[04:14.8 - 04:15.6] from what I've been told.
+[04:15.6 - 04:18.0] It's like, even if calling 10, like- He's one per person.
+[04:18.0 - 04:21.1] No one's gonna get mad, but it's just like, why?
+[04:21.1 - 04:22.3] What the hell?
+[04:22.3 - 04:23.1] Yeah.
+[04:23.1 - 05:00.6] Good
+[05:00.6 - 05:01.0] luck.
+[05:01.0 - 05:11.2] You're really wasting your time.
+[05:11.2 - 05:17.5] And I thought it, happening, going.
+[05:17.5 - 05:22.3] And you said...
+[05:22.3 - 05:22.6] Oh.
+[05:22.6 - 05:32.9] 'Cause when you met my family, everybody knows
+[05:32.9 - 05:33.6] you.
+[05:33.6 - 05:39.9] I ain't never loved no one like that.
+[05:39.9 - 05:47.0] And when I said I loved you, I didn't care who seen.
+[05:47.0 - 05:53.4] I ain't never loved no one like that.
+[05:53.4 - 06:00.7] If you did, you just kept walking.
+[06:00.7 - 06:11.2] And-
+[06:11.2 - 06:17.9] Go on existing, not knowing what I was missing.
+[06:17.9 - 06:27.2] Well, you said goodbye when you stopped by to say hello.
+[06:27.2 - 06:33.9] When you met my family, everybody knew that we were meant to be.
+[06:33.9 - 06:36.4] I ain't never loved no one like you.
+[38:47.1 - 38:57.2] It's not a question of, it's not a question of small, it's just a question of, you know, and generally you put the PTAC unit in the be-- in the bedroom, and you put the transfer unit
+[38:57.2 - 38:59.7] so that the living room is cooler.
+[38:59.7 - 39:02.9] 'Cause the people wanna sleep in a cool environment.
+[39:02.9 - 39:07.3] They don't wanna sleep in, in, in a hot room.
+[39:07.3 - 39:23.5] So
+[39:23.5 - 39:28.5] why don't you put the PTAC unit inside the master bedroom and then run the transfer into the living room?
+[39:28.5 - 39:58.2] Yeah,
+[39:58.2 - 40:03.0] and I'm gonna have to be honest with you, if I, I...
+[40:03.0 - 40:05.7] Um, yeah, you charged this myself there.
+[40:05.7 - 40:08.0] Uh, I'll try to keep trying to do this.
+[40:08.0 - 40:22.4] Well,
+[40:22.4 - 41:51.9] how much did-- do you think it
+[41:51.9 - 41:58.5] would be a hundred thousand dollars to add this building or something like that?
+[41:58.5 - 41:59.1] Yeah.
+[41:59.1 - 43:56.3] Brandon?
+[43:56.3 - 43:56.9] Yes, sir.
+[43:56.9 - 43:58.2] I want you up here.
+[43:58.2 - 44:02.5] Oh, thank God.
+[44:02.5 - 44:05.7] Asshole.
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-10-08-01_transcription_20260705_194551.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-10-08-01_transcription_20260705_194551.txt

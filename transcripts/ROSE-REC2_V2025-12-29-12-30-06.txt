@@ -1,0 +1,444 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2025-12-29-12-30-06.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: .ROSE-REC2_V2025-12-29-12-30-06_chunks_20260706_155209/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: .ROSE-REC2_V2025-12-29-12-30-06_chunks_20260706_155209/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: .ROSE-REC2_V2025-12-29-12-30-06_chunks_20260706_155209/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: .ROSE-REC2_V2025-12-29-12-30-06_chunks_20260706_155209/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: .ROSE-REC2_V2025-12-29-12-30-06_chunks_20260706_155209/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.6 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[00:09.5 - 00:17.4] I'm always saying I'll make it right, my dear.
+[00:17.4 - 00:27.8] Because you send you my greatest
+[00:27.8 - 00:28.8] fears.
+[00:28.8 - 00:42.6] I know I found all the blame inside.
+[00:42.6 - 00:45.0] Yes.
+[00:45.0 - 00:51.4] Send me yourself the alternative.
+[00:51.4 - 00:59.8] You make me right, but I could never.
+[00:59.8 - 01:01.7] You were gone and I tried.
+[01:01.7 - 01:07.8] I look up, you make me want to.
+[01:07.8 - 01:11.2] You make me right, but I could never.
+[01:11.2 - 01:13.0] Try, I go, try.
+[01:13.0 - 01:13.7] I look up, you make me want to.
+[01:13.7 - 01:41.5] Oh, who says
+[01:41.5 - 01:43.0] it's easy?
+[01:43.0 - 01:45.2] It's true.
+[01:45.2 - 01:52.2] When you look over your shoulder to see another sea.
+[01:52.2 - 01:56.2] You just got to carry the weight.
+[01:56.2 - 02:01.5] I have the heart of a giant.
+[02:01.5 - 02:03.5] But no, you're a man.
+[02:03.5 - 02:06.1] I have the heart of a giant.
+[02:06.1 - 02:09.0] But no, you're a man.
+[02:09.0 - 02:19.7] Darkness grows
+[02:19.7 - 02:22.3] up.
+[02:22.3 - 04:19.0] Dark-
+[04:19.0 - 06:35.1] Oh,
+[06:35.1 - 06:35.5] okay.
+[12:56.1 - 12:57.1] You have Instagram, bro?
+[12:57.1 - 12:57.9] Yeah.
+[12:57.9 - 12:59.2] Let me send you this.
+[12:59.2 - 13:00.7] Brandon Rose two.
+[13:00.7 - 13:02.0] This is the one you need.
+[13:02.0 - 13:04.8] It's, uh, Brandon Rose two.
+[13:04.8 - 13:13.0] Oh, yeah.
+[13:13.0 - 13:19.0] Got it.
+[13:19.0 - 13:29.1] Clodcode plus Nano Banana
+[13:29.1 - 13:31.8] 2 basically replaced expensive custom websites.
+[13:31.8 - 13:36.3] Six steps, and you've got a fully branded animated site, no coding needed.
+[13:36.3 - 13:39.2] So step one, we run Firecrawl on the company site.
+[13:39.2 - 13:42.3] It pulls every logo, color, and font automatically.
+[13:42.3 - 13:47.2] Step two, pop into Clodcode and run an asset prompt to map out all your visuals.
+[13:47.2 - 13:49.9] Step three, take that into Nano Banana 2.
+[13:49.9 - 13:54.7] Generate a clean hero image and an exploded version, then turn it into a short transition video.
+[13:54.7 - 13:55.5] Pretty freaking cool.
+[13:55.5 - 14:00.1] Step four, drop that video back into Clodcode and run a website builder workflow.
+[14:00.1 - 14:02.0] Branding, layout, mobile, done.
+[14:02.0 - 14:04.6] Step five, paste the client's existing HTML in.
+[14:04.6 - 14:06.6] Same structure, ten times better.
+[14:06.6 - 14:07.7] Super, super cool.
+[14:07.7 - 14:10.0] Last step, connect GitHub and Vercel.
+[14:10.0 - 14:10.6] Push it live.
+[14:10.6 - 14:12.2] Real site, real URL.
+[14:12.2 - 14:17.1] If you want the full setup with every prompt, just drop custom in the comments, and I'll send it over.
+[14:17.1 - 14:21.7] Clodcode plus Nano Banana 2 basically replaced expensive custom websites.
+[14:21.7 - 22:22.5] Six steps, and you've got a fully branded an- Hello.
+[22:22.5 - 22:24.6] You're basically missing out on ninety percent of the fun.
+[22:24.6 - 22:26.6] Skills are like superpowers for AI.
+[22:26.6 - 22:32.7] So instead of writing the same long prompts over and over again, you just install a skill once, and then your AI becomes an expert at that task forever.
+[22:32.7 - 22:39.6] A massive new library just dropped that has over one thousand pre-made Claude skills that you can install and use instantly for completely free.
+[22:39.6 - 22:47.3] These skills turn Claude into a specialist for whatever task you have, like UI design, app testing, SEO, content writing, and much more.
+[22:47.3 - 22:54.1] And the best part, you can also run them inside of Antigravity, Codex, the Claude desktop app, and basically any AI code editor out there.
+[22:54.1 - 22:59.8] Just select the skill you want, copy its command, paste it into your terminal, choose your AI agent, and that's it.
+[22:59.8 - 23:01.3] Your new skill is ready to use.
+[23:01.3 - 23:02.8] So go try it yourself.
+[23:02.8 - 23:05.3] Just comment Claude down below, and I'll send you the link directly.
+[23:05.3 - 23:09.5] If you're using Claude Code but not using skills, you're basically missing out on ninety percent of the fun.
+[23:09.5 - 23:17.2] Skills are like super pow- If you're not using these five Claude skills, install them right now because most people don't know even they exist.
+[23:17.2 - 23:18.9] The first one is Find Skill.
+[23:18.9 - 23:26.0] You tell what you're trying to build, and it searches thousands of skills on its own, pick the right one for your job, and install that for you.
+[23:26.0 - 23:32.3] The setup only took me one line, and now no more scrolling through whole catalog of skills trying to find the right one.
+[23:32.3 - 23:37.9] Now, once that's set up, your next move is going to connect Claude to all the tools that you're already using.
+[23:37.9 - 23:40.5] That's why LCD Builder Skill will help you.
+[23:40.5 - 23:48.4] You just describe whatever tools that you want to work with, it figures out the connection, and links that to your Claude without you having to write a single line of code.
+[23:48.4 - 23:54.9] So Claude can work with all of your tools right inside this chat without you having to open different apps in different tabs.
+[23:54.9 - 23:57.4] But Claude still cannot see internet on its own.
+[23:57.4 - 23:59.9] So we're going to install Direct MP Skill and it-
+[24:00.0 - 24:03.1] You want a real browser to research live websites for you.
+[24:03.1 - 24:09.3] It can own page, read source, actually own them, and fetch web coordinate instead of guessing from old training data.
+[24:09.3 - 24:11.7] Then we have got UIUX Pro skills.
+[24:11.7 - 24:17.5] Once your app is built, the design is usually where it falls apart and start looking like purple AI slop.
+[24:17.5 - 24:27.6] But this skill will scan through all of your interface and tighten up your spacing, fonts, colors, everything quietly that signals your app is wipe coded and turn it into something
+[24:27.7 - 24:29.4] professional and look intentional.
+[24:29.4 - 24:31.9] And the last one is Everything Claude Code.
+[24:31.9 - 24:32.9] This is my favorite one.
+[24:32.9 - 24:40.2] It is full setup that gives Claude proper coding habits, memory across your project, security checks, and a research-first way of building.
+[24:40.2 - 24:45.8] So instead of guessing and making a mess, it plans before it writes and cleans up the code itself.
+[24:45.8 - 24:50.7] So if you want all of these five skills, just comment the word "skills" and I will send it your way.
+[24:50.7 - 24:60.0] If you're not using these five Claude skills, install them right now because most people don't but- What are the top Claude skills to install to get ten times more work done than everyone else?
+[24:60.0 - 25:02.3] Let me show you my top three favorites and how to set them up.
+[25:02.3 - 25:04.9] Welcome back to day twenty-three of the Actionable AI series.
+[25:04.9 - 25:06.3] First one is called Superdata.
+[25:06.3 - 25:09.8] This lets Claude transcribe any social media video and pull metrics from it in seconds.
+[25:09.8 - 25:14.9] I use this literally every- Here are five Claude skills every beginner need now.
+[25:14.9 - 25:18.7] These are all free, and you call each one by just telling Claude to do it.
+[25:18.7 - 25:23.4] Number one is front-end DevOps Claude for building generic AI-looking website.
+[25:23.4 - 25:25.1] Type /plugin zero.
+[25:25.1 - 25:26.8] Number two is Simplify.
+[25:26.8 - 25:30.3] After Claude writes code, this will spot quality and try to fix things.
+[25:30.3 - 25:31.8] Number three is Skill Grade.
+[25:31.8 - 25:37.1] This builds skill zero and doing eval so you know whether changing the skill actually improved or not.
+[25:37.1 - 25:39.9] So tell it what workflow you're trying to automate, it'll create the skill for you.
+[25:39.9 - 25:40.6] Type slash.
+[25:40.6 - 25:44.0] Number four, App Testing, so it can actually test your app.
+[25:44.0 - 25:45.5] Number five is MCP.
+[25:45.5 - 25:51.5] This teaches Claude- Claude skills that make you dangerous, part forty-nine.
+[25:51.5 - 25:56.9] I'm gonna give you forty-thousand Claude skills you can use today for free in one file.
+[25:56.9 - 26:01.1] This is everything Claude code, battle-tested, and Anthropic-awarded.
+[26:01.1 - 26:02.8] You're definitely gonna wanna bookmark this.
+[26:02.8 - 26:05.1] This is called Everything Claude.
+[26:05.1 - 26:11.0] This is an Anthropic hackathon winner where you get the shorthand guide, the long-form guide, and even the security guide.
+[26:11.0 - 26:12.7] This is where you can find it.
+[26:12.7 - 26:14.8] But I have something way more valuable.
+[26:14.8 - 26:18.5] These are over forty Claude skills I use every day to give you dangerous super powers.
+[26:18.5 - 26:20.2] Comment the word "Claude" and I'll send it to you free.
+[26:20.2 - 26:23.0] Claude skills that make you dangerous, part forty-nine.
+[26:23.0 - 26:28.0] I'm gonna give you forty thousand Claude skills you can use today for free in one file.
+[26:28.0 - 26:31.9] This is everything Claude code, battle-tested, and Anthropic-awarded.
+[26:31.9 - 26:33.7] You're definitely gonna wanna bookmark this.
+[26:33.7 - 26:36.3] This is called Everything Claude Code.
+[26:36.3 - 26:42.7] This is an Anthropic hackathon winner where you get the shorthand guide, the long-form guide, and even the security guide.
+[26:42.7 - 26:44.6] This is where you can find it.
+[26:44.6 - 28:04.5] See
+[28:04.5 - 28:10.2] what I sent you?
+[28:10.2 - 28:11.7] Where?
+[28:11.7 - 28:12.0] This.
+[28:12.0 - 28:13.4] Where'd you send it?
+[28:13.4 - 28:14.6] To your Instagram.
+[28:14.6 - 28:15.2] Well, about...
+[28:15.2 - 28:15.6] Hold on.
+[28:15.6 - 28:16.1] Look at this.
+[28:16.1 - 28:18.0] Oh, yeah.
+[28:18.0 - 28:18.6] He's great.
+[28:18.6 - 28:22.6] I sent you his, his- I've been watching him for a couple of years.
+[28:22.6 - 28:23.6] I- I sent you...
+[28:23.6 - 28:25.4] I DM'd him, and he sent me all the shit.
+[28:25.4 - 28:27.2] I just emailed it to you, so I don't gotta DM him.
+[28:27.2 - 28:28.0] Oh, sweet.
+[28:28.0 - 28:28.6] It's the same message.
+[28:28.6 - 28:29.1] Okay.
+[28:29.1 - 28:30.8] But I'm gonna pay for this website.
+[28:30.8 - 28:32.9] It's called, um, um, where you...
+[28:32.9 - 28:35.8] Websites.ai, and you give us all the premium codes for it.
+[28:35.8 - 28:36.3] So let me see.
+[28:36.3 - 28:36.7] Let me see.
+[28:36.7 - 28:39.3] I think, uh, there's ten thousand that he had.
+[28:39.3 - 28:40.0] Don't lie, bro.
+[28:40.0 - 28:41.0] I showed you before.
+[28:41.0 - 28:43.2] This guy's great too.
+[28:43.2 - 28:47.9] I go-- I just went to his GitHub repository right here and forked it.
+[28:47.9 - 28:49.6] I'm gonna, um...
+[28:49.6 - 28:50.0] Where'd it go?
+[28:50.0 - 28:56.7] I screenshotted the GitHub, and I put it right here, so you can just, um...
+[28:56.7 - 29:07.0] Whenever you see his, like, well, well- These are over forty- It'll say, like, the little screenshot, and I just copied it right here, and then I forked it, so it goes to mine as a repository.
+[29:07.0 - 29:07.5] Claude skills that make you dangerous, part forty-nine.
+[29:07.5 - 29:08.8] That's how you, like, rip these.
+[29:08.8 - 29:12.8] I'm gonna give you forty thousand- I'm gonna check the one you just sent.
+[29:12.8 - 29:13.9] What was the website called?
+[29:13.9 - 29:15.7] websites.ai.
+[29:15.7 - 29:16.4] Nvidia.
+[29:16.4 - 29:16.7] Mm.
+[29:16.7 - 29:34.4] Nvidia.
+[29:34.4 - 29:42.6] Just- Hello.
+[29:42.6 - 29:43.7] Top of the morning.
+[29:43.7 - 29:53.8] Here's how you can build a premium three-D
+[29:53.8 - 29:56.9] animated website just like this without writing a single line of code.
+[29:56.9 - 30:05.2] First, go to this website just packed with ready-to-use prompts- For SaaS or agency websites, which I'll give you an issue to start with.
+[30:05.2 - 30:09.9] Just pick the one you like, copy the prompt, and then go into your AI tool and paste the site that you want.
+[30:09.9 - 30:16.0] And the AI will instantly build a full animated website with a sleek UI, clean layouts, and smooth animations across a bunch of different sites.
+[30:16.0 - 31:38.0] There, just continue refining the design, build up the rest of your pages, and once you're ready to deploy, you can pursue Netlify- Ben?
+[31:38.0 - 32:00.0] Yes.
+[32:00.0 - 32:01.9] Yep.
+[32:01.9 - 33:18.2] Oh,
+[33:18.2 - 33:20.4] I don't know what to say.
+[33:20.4 - 33:20.4] I didn't even answer your question.
+[33:20.4 - 33:20.4] I'm sorry.
+[33:20.4 - 33:20.4] Oh.
+[33:20.4 - 33:22.9] I don't even remember what the question was right now.
+[33:22.9 - 33:26.3] What is it?
+[33:26.3 - 33:28.8] I don't even remember your question.
+[33:28.8 - 33:29.3] So...
+[33:29.3 - 33:52.2] Are
+[33:52.2 - 34:02.9] we needing to register with the IRS to file for taxes or that's something
+[34:02.9 - 34:17.9] we can do ourselves?
+[34:17.9 - 34:26.3] Yeah, we can watch.
+[34:26.3 - 34:38.5] So we create these
+[34:38.5 - 34:49.0] tax accounts and information, but- The question is, um, just making sure I got the question and the answer.
+[34:49.0 - 34:59.5] I wonder
+[34:59.5 - 35:08.6] if my hair was a lot different before I got here.
+[35:08.6 - 35:10.5] Here's a good example.
+[35:10.5 - 35:49.5] So like I said, um, with the point in the spreadsheet that I had a model on, it-
+[36:14.9 - 36:15.1] Hello?
+[36:15.1 - 36:19.2] I don't know why it's saying on the Hicks field, uh, couldn't find your account.
+[36:19.2 - 36:20.6] All right, let me go over there.
+[36:20.6 - 36:21.0] Okay.
+[36:21.0 - 36:27.1] Sure.
+[36:27.1 - 36:36.4] It's getting some paid.
+[36:36.4 - 36:38.3] Design@gmail.com.
+[36:38.3 - 36:39.1] What the fuck?
+[36:39.1 - 36:39.8] Huh?
+[36:39.8 - 36:42.4] Oh, 'cause you put fucking sixty-nine.
+[36:42.4 - 36:43.3] It's sixty-eight.
+[36:43.3 - 36:46.1] Oh, well yeah, that's what you put.
+[36:46.1 - 36:47.3] Oh, shit.
+[36:47.3 - 36:50.8] The code, um...
+[36:50.8 - 36:55.5] Oh, here, I'll just do it.
+[36:55.5 - 37:10.0] There
+[37:10.0 - 37:10.5] you go, buddy.
+[37:10.5 - 37:11.0] Thank you.
+[37:11.0 - 37:11.3] Thank you.
+[37:11.3 - 37:12.7] You know how to plug in the API, right?
+[37:12.7 - 37:14.1] Yeah.
+[37:14.1 - 37:17.0] Uh-huh.
+[37:17.0 - 38:27.6] Hmm?
+[48:04.5 - 48:06.3] What's up?
+[48:06.3 - 48:07.4] We just upped each other's game by like ten grand.
+[48:07.4 - 48:08.0] Oh, yeah.
+[48:08.0 - 48:10.4] Easy.
+[48:10.4 - 48:12.0] Fuck yeah, dude.
+[48:12.0 - 48:18.6] Watch him roll up on a bike and you're gonna be like, "Where'd you get that?" Yeah.
+[48:18.6 - 48:20.2] Oh, must be nice.
+[48:20.2 - 48:23.1] Those API tokens.
+[48:23.1 - 48:42.0] Yeah.
+[48:42.0 - 48:45.4] Oh, thank you.
+[48:45.4 - 48:46.9] Appreciate it.
+[48:46.9 - 48:51.7] Huh?
+[48:51.7 - 54:59.9] How
+[54:59.9 - 55:00.5] was the game?
+[55:00.5 - 55:02.5] I was really out of here.
+[55:02.5 - 55:02.8] Let me...
+[55:02.8 - 55:05.2] I'm gonna grab the mail and show you some pictures.
+[55:05.2 - 55:05.7] Oh, yeah.
+[55:05.7 - 55:08.8] But it was, it was so fucking awesome.
+[55:08.8 - 55:12.3] It sucks that we ended up losing in the last second.
+[55:12.3 - 55:13.1] Oh, we did?
+[55:13.1 - 55:16.5] Yeah, we lost it to, uh, Turkey A.
+[55:16.5 - 55:16.5] Oh.
+[55:16.5 - 55:17.7] They call it Fat Turkey.
+[55:17.7 - 55:18.2] Oh.
+[55:18.2 - 55:20.6] We've been saying it wrong our whole lives, apparently.
+[55:20.6 - 55:20.8] Oh.
+[55:20.8 - 55:22.7] I had no idea.
+[55:22.7 - 55:24.8] And they go, "It's World Cup," and I didn't know.
+[55:24.8 - 55:26.2] Oh, okay.
+[55:26.2 - 55:31.6] Or, or we were very American about it, and we decided to listen for the first time- That sounds- ...
+[55:31.6 - 55:32.2] it's World Cup.
+[55:32.2 - 55:33.8] That sounds more like it ...
+[55:33.8 - 55:34.3] right.
+[55:34.3 - 55:41.1] But they-- we, we were, uh, tied two-two, and then they scored, like, literally the last kick of the game.
+[55:41.1 - 55:41.9] Oh, wow.
+[55:41.9 - 55:43.5] And then they went three-two.
+[55:43.5 - 55:44.6] So- The worst ...
+[55:44.6 - 55:50.7] that was a bummer, but we, we still got to see two goals, and, like, everyone went absolutely insane.
+[55:50.7 - 55:52.8] So...
+[55:52.8 - 55:54.6] Well, as long as it was fun.
+[55:54.6 - 56:05.3] Junk
+[56:05.3 - 56:05.9] mail.
+[56:05.9 - 56:16.1] But yeah, I mean, it was-- the stadium's really nice.
+[56:16.1 - 56:19.8] I don't know if you're, like, a sports person at all, but- Yeah, I've been over there ...
+[56:19.8 - 56:23.8] the stadium, I was like, "This is-" I went for a soccer game actually one time.
+[56:23.8 - 56:28.1] "This is incredible." Um, Venezuela versus Costa Rica maybe.
+[56:28.1 - 56:29.0] I can't remember who it was.
+[56:29.0 - 56:30.0] Oh, nice.
+[56:30.0 - 56:31.8] Last year, uh, last year or the year before.
+[56:31.8 - 56:35.4] So it's like those were the-- that's the view from the seats.
+[56:35.4 - 56:35.8] Yeah.
+[56:35.8 - 56:36.8] So we had a good one.
+[56:36.8 - 56:37.3] Really good.
+[56:37.3 - 56:42.4] That's just me and my brother in front of a World Cup sign, bunch of pictures and all.
+[56:42.4 - 56:42.7] Yeah.
+[56:42.7 - 56:46.5] We just, you know, had random people, so they took a million.
+[56:46.5 - 56:49.0] Yeah.
+[56:49.0 - 56:53.6] Uh, that's when they're going out on the field for, like, right before national anthem stuff.
+[56:53.6 - 56:54.3] Oh, yeah.
+[56:54.3 - 56:56.6] They do some, like, World Cu- I don't know what that is.
+[56:56.6 - 56:59.0] Like, the world, world peace something.
+[56:59.0 - 56:59.1] Oh, okay.
+[56:59.1 - 57:00.3] You know, some whatever.
+[57:00.3 - 57:00.7] Right.
+[57:00.7 - 57:02.8] I just snap pictures of it.
+[57:02.8 - 57:04.9] This was here.
+[57:04.9 - 57:07.3] So this is right before the national anthems.
+[57:07.3 - 57:07.3] Wow.
+[57:07.3 - 57:15.3] They bring out, like, massive flags, and then coming up was, like, the picture me and my brother were dying to get is these with us.
+[57:15.3 - 57:15.9] Oh, it's a really good photo.
+[57:15.9 - 57:21.4] Yeah, it was, like, right before the national anthem starts, so we're not-- but could you imagine, like, you're at the game.
+[57:21.4 - 57:23.4] It's like you're going, paying all the money.
+[57:23.4 - 57:23.8] Right.
+[57:23.8 - 57:26.1] Everybody wants to do the national anthem shit.
+[57:26.1 - 57:30.3] But they're bringing that out, and they walk out from the tunnel all the way over here.
+[57:30.3 - 57:30.7] Uh-huh.
+[57:30.7 - 57:35.4] And so we're like, "Hey, dude, can you, like, grab some pictures of us really quick?" Oh, nice.
+[57:35.4 - 57:40.5] And so we got the perfect ones, like, right in front of the fucking- Yeah ...
+[57:40.5 - 57:41.9] the flags and stuff.
+[57:41.9 - 57:42.9] It's good photos.
+[57:42.9 - 57:44.2] Cool.
+[57:44.2 - 57:44.8] Yeah.
+[57:44.8 - 57:49.2] Uh, this was, like, an opening ceremony kind of thing?
+[57:49.2 - 57:55.3] It's, it's-- They do the national anthems with the flags, and it was, it was right when the players were walking- That's a good picture ...
+[57:55.3 - 57:56.0] out of the tunnel.
+[57:56.0 - 58:03.9] That was, like, the one my brother, like, and I really wanted, but it's hard because it's like, well, you have to time it just down right.
+[58:03.9 - 58:04.3] The timing.
+[58:04.3 - 58:14.3] We had to, like-- They're coming out, and because they have to walk all the way down and then into the middle to where they stand, we, like, had already had a guy take our pictures and we were, "Hey man,
+[58:14.3 - 58:14.8] I'm so sorry.
+[58:14.8 - 58:21.1] Can you take our pictures really quick one more time?" And he snapped a bunch for us, but then we didn't ruin his, you know- Experience ...
+[58:21.1 - 58:21.9] national anthem experience.
+[58:21.9 - 58:24.1] He was just photographer.
+[58:24.1 - 58:24.1] All right.
+[58:24.1 - 58:33.2] So, you know, so I left a message for that lawyer company, and also I filled out the thing online, and it says, "Okay, your account is being set up." Okay.
+[58:33.2 - 58:34.5] It's just like name, number, phone number.
+[58:34.5 - 58:35.7] Yeah, it was very basic.
+[58:35.7 - 58:36.4] Your account is being set up.
+[58:36.4 - 58:38.2] We'll send you an email when it's set up.
+[58:38.2 - 58:39.2] Okay.
+[58:39.2 - 58:40.0] And I'm still waiting.
+[58:40.0 - 58:41.8] And you did Access Systems is the name?
+[58:41.8 - 58:42.9] I did Access Systems.
+[58:42.9 - 58:43.6] I'm still waiting.
+[58:43.6 - 58:43.7] Oh.
+[58:43.7 - 58:47.3] I got a notification that said, "Okay, we set up your account.
+[58:47.3 - 58:55.0] We'll send you a-" Can we just all periodically check on the spam filter for your- I, I don't think it's going to spam, but I got the initial email that said- Oh, okay.
+[58:55.0 - 58:56.6] Then Okay.
+[58:56.6 - 58:57.6] I was concerned timeline.
+[58:57.6 - 58:60.0] She said it needs to be done today.
+[58:60.0 - 59:03.7] Well, you can-- I mean, do you wanna just call her back and be like, "Hey, I filled it out.
+[59:03.7 - 59:05.3] I'm just waiting for the email back-" Yeah.
+[59:05.3 - 59:05.3] "...
+[59:05.3 - 59:07.3] so we have the ball rolling." Yeah.
+[59:07.3 - 59:12.2] We've already apparently put in that we have the ball rolling, so we're working on it.
+[59:12.2 - 59:22.1] I, I mean, in fairness, the fact that you actually filled it out, like, you literally did it, and it's not your fault that email instantly- Yeah.
+[59:22.1 - 59:22.4] I mean, I just want to make sure we get it soon.
+[59:22.4 - 59:24.2] I agree fully.
+[59:24.2 - 59:43.7] That's why I was suggesting maybe just calling her and telling her, like, "Hey, I actually filled it out." Well,
+[59:43.7 - 59:53.6] I got the email.
+[59:53.6 - 59:59.6] Let me give it a few more minutes because she told me- Yeah.
+[59:59.6 - 59:59.6] Okay.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-29-12-30-06_transcription_20260706_155336.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-29-12-30-06_transcription_20260706_155336.txt
+[2J[H[3Jmanus-speech-to-text ROSE-REC2_V2025-12-29-12-30-06.mp3
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2025-12-29-12-30-06.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: .ROSE-REC2_V2025-12-29-12-30-06_chunks_20260706_155209/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: .ROSE-REC2_V2025-12-29-12-30-06_chunks_20260706_155209/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: .ROSE-REC2_V2025-12-29-12-30-06_chunks_20260706_155209/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: .ROSE-REC2_V2025-12-29-12-30-06_chunks_20260706_155209/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: .ROSE-REC2_V2025-12-29-12-30-06_chunks_20260706_155209/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[57:30.3 - 57:30.7] Uh-huh.
+[57:30.7 - 57:35.4] And so we're like, "Hey, dude, can you, like, grab some pictures of us really quick?" Oh, nice.
+[57:35.4 - 57:40.5] And so we got the perfect ones, like, right in front of the fucking- Yeah ...
+[57:40.5 - 57:41.9] the flags and stuff.
+[57:41.9 - 57:42.9] It's good photos.
+[57:42.9 - 57:44.2] Cool.
+[57:44.2 - 57:44.8] Yeah.
+[57:44.8 - 57:49.2] Uh, this was, like, an opening ceremony kind of thing?
+[57:49.2 - 57:55.3] It's, it's-- They do the national anthems with the flags, and it was, it was right when the players were walking- That's a good picture ...
+[57:55.3 - 57:56.0] out of the tunnel.
+[57:56.0 - 58:03.9] That was, like, the one my brother, like, and I really wanted, but it's hard because it's like, well, you have to time it just down right.
+[58:03.9 - 58:04.3] The timing.
+[58:04.3 - 58:14.3] We had to, like-- They're coming out, and because they have to walk all the way down and then into the middle to where they stand, we, like, had already had a guy take our pictures and we were, "Hey man,
+[58:14.3 - 58:14.8] I'm so sorry.
+[58:14.8 - 58:21.1] Can you take our pictures really quick one more time?" And he snapped a bunch for us, but then we didn't ruin his, you know- Experience ...
+[58:21.1 - 58:21.9] national anthem experience.
+[58:21.9 - 58:24.1] He was just photographer.
+[58:24.1 - 58:24.1] All right.
+[58:24.1 - 58:33.2] So, you know, so I left a message for that lawyer company, and also I filled out the thing online, and it says, "Okay, your account is being set up." Okay.
+[58:33.2 - 58:34.5] It's just like name, number, phone number.
+[58:34.5 - 58:35.7] Yeah, it was very basic.
+[58:35.7 - 58:36.4] Your account is being set up.
+[58:36.4 - 58:38.2] We'll send you an email when it's set up.
+[58:38.2 - 58:39.2] Okay.
+[58:39.2 - 58:40.0] And I'm still waiting.
+[58:40.0 - 58:41.8] And you did Access Systems is the name?
+[58:41.8 - 58:42.9] I did Access Systems.
+[58:42.9 - 58:43.6] I'm still waiting.
+[58:43.6 - 58:43.7] Oh.
+[58:43.7 - 58:47.3] I got a notification that said, "Okay, we set up your account.
+[58:47.3 - 58:55.0] We'll send you a-" Can we just all periodically check on the spam filter for your- I, I don't think it's going to spam, but I got the initial email that said- Oh, okay.
+[58:55.0 - 58:56.6] Then Okay.
+[58:56.6 - 58:57.6] I was concerned timeline.
+[58:57.6 - 58:60.0] She said it needs to be done today.
+[58:60.0 - 59:03.7] Well, you can-- I mean, do you wanna just call her back and be like, "Hey, I filled it out.
+[59:03.7 - 59:05.3] I'm just waiting for the email back-" Yeah.
+[59:05.3 - 59:05.3] "...
+[59:05.3 - 59:07.3] so we have the ball rolling." Yeah.
+[59:07.3 - 59:12.2] We've already apparently put in that we have the ball rolling, so we're working on it.
+[59:12.2 - 59:22.1] I, I mean, in fairness, the fact that you actually filled it out, like, you literally did it, and it's not your fault that email instantly- Yeah.
+[59:22.1 - 59:22.4] I mean, I just want to make sure we get it soon.
+[59:22.4 - 59:24.2] I agree fully.
+[59:24.2 - 59:43.7] That's why I was suggesting maybe just calling her and telling her, like, "Hey, I actually filled it out." Well,
+[59:43.7 - 59:53.6] I got the email.
+[59:53.6 - 59:59.6] Let me give it a few more minutes because she told me- Yeah.
+[59:59.6 - 59:59.6] Okay.
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-29-12-30-06_transcription_20260706_155336.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-29-12-30-06_transcription_20260706_155336.txt

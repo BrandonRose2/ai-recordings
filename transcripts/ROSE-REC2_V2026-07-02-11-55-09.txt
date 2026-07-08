@@ -1,0 +1,277 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.2 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2026-07-02-11-55-09.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: .ROSE-REC2_V2026-07-02-11-55-09_chunks_20260706_161114/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: .ROSE-REC2_V2026-07-02-11-55-09_chunks_20260706_161114/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: .ROSE-REC2_V2026-07-02-11-55-09_chunks_20260706_161114/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: .ROSE-REC2_V2026-07-02-11-55-09_chunks_20260706_161114/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: .ROSE-REC2_V2026-07-02-11-55-09_chunks_20260706_161114/chunk_004.mp3
+Chunk 5 completed (duration: 719.8s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.8 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[00:07.8 - 00:08.6] How's it going down there?
+[00:08.6 - 00:10.4] Oh, man.
+[00:10.4 - 00:11.1] How's it going up here?
+[00:11.1 - 00:12.2] Got everything going your way?
+[00:12.2 - 00:15.0] Usually not.
+[00:15.0 - 00:18.8] Well, yeah, well, it's-- today's technically Friday, so...
+[00:18.8 - 00:20.3] What about that?
+[00:20.3 - 00:21.8] No work tomorrow.
+[00:21.8 - 00:23.2] It's a holiday.
+[00:23.2 - 00:23.6] Yeah.
+[00:23.6 - 00:24.6] Yeah?
+[00:24.6 - 00:24.6] Oh, really?
+[00:24.6 - 00:26.1] Yeah, if you come, you'll be the only one here, so.
+[00:26.1 - 00:27.0] Oh, shit.
+[00:27.0 - 00:29.9] Well, so am I not.
+[00:29.9 - 00:30.4] Yeah.
+[00:30.4 - 00:31.1] Okay.
+[00:31.1 - 00:35.5] See you.
+[00:35.5 - 02:36.7] Oh,
+[02:36.7 - 02:46.7] you
+[02:46.7 - 03:06.1] saw
+[03:06.1 - 03:24.9] that video that he got in the car
+[03:24.9 - 03:35.3] wash,
+[03:35.3 - 03:49.0] right?
+[03:49.0 - 04:02.9] I saw that.
+[04:02.9 - 04:30.5] I wasn't sure.
+[04:30.5 - 04:45.3] I figured
+[04:45.3 - 04:47.3] you were on that.
+[04:47.3 - 04:54.4] I was like- Yeah.
+[04:54.4 - 04:56.2] Yeah.
+[04:56.2 - 04:56.5] Yeah.
+[04:56.5 - 05:02.5] To relax.
+[05:02.5 - 05:03.7] Yeah.
+[05:03.7 - 05:11.3] A little-- I said a little.
+[05:11.3 - 05:12.2] It was still cold.
+[05:12.2 - 05:12.7] Yeah.
+[05:12.7 - 05:16.6] At least these shoes are a little more happy than the other ones I had.
+[05:16.6 - 05:16.8] Sure.
+[05:16.8 - 05:20.3] It's more relaxed if I can turn down the top a little bit.
+[05:20.3 - 05:24.3] I actually go down there to tour the town on the podcast.
+[05:24.3 - 05:25.1] Yeah?
+[05:25.1 - 05:28.4] And he wanted me to go look at the clog dance with the goat.
+[05:28.4 - 05:30.6] Oh, yeah, I was not bad.
+[05:30.6 - 05:33.5] It wasn't bad, but it had pretty slow parts.
+[05:33.5 - 05:38.0] I looked at the drainage system, and he says, "Pretty much been correct what they did." Oh.
+[05:38.0 - 05:42.2] Only some of their drains are undersized for the kind of rain they're taking is what's happening.
+[05:42.2 - 05:44.0] Oh, that's not any good.
+[05:44.0 - 05:45.8] No, it wasn't good.
+[05:45.8 - 05:46.7] I looked at his cabinets the other day.
+[05:46.7 - 05:56.9] He says, "Oh, you can put it on the book." I said, "Well, yeah, I can bury you alive in there." Oh,
+[05:56.9 - 05:56.9] boy.
+[05:56.9 - 05:57.7] And, uh, the sunlight came out.
+[05:57.7 - 05:59.6] Two and a half hour drive.
+[05:59.6 - 06:11.1] But
+[06:11.1 - 06:13.1] anyways, so I slept down there.
+[06:13.1 - 06:13.8] I told the truth.
+[06:13.8 - 06:16.9] I finally got to the job site Saturday morning.
+[06:16.9 - 06:20.5] Jack told me to go to work and stuff.
+[06:20.5 - 06:24.4] I didn't leave until like ten thirty, two.
+[06:24.4 - 06:29.5] And then I didn't get down there until like three or whatever that time was.
+[06:29.5 - 06:31.0] And I jacked up on the drive.
+[06:31.0 - 06:32.3] Measured up his boat and everything.
+[06:32.3 - 06:34.1] By then it was freaking late.
+[06:34.1 - 06:41.4] I thought about like, do I stay here or drive back out to Michigan?
+[06:41.4 - 06:41.4] Uh, it's not...
+[06:41.4 - 06:44.7] I mean, at least you knocked it out, but- Jack got it done.
+[06:44.7 - 06:46.2] That's definitely not a good time.
+[06:46.2 - 06:47.1] I get it.
+[06:47.1 - 07:03.9] Oh,
+[07:03.9 - 07:17.8] sorry.
+[07:17.8 - 07:17.9] Yeah.
+[07:17.9 - 09:36.2] Um, I
+[09:36.2 - 09:36.2] tried to come by.
+[09:36.2 - 09:37.3] Yeah, I think he did.
+[09:37.3 - 09:38.2] Like, it's, it's been a on all sides.
+[09:38.2 - 09:40.1] And all those together.
+[09:40.1 - 09:40.6] No, no, no.
+[09:40.6 - 09:43.0] You gotta talk straight and then- Mark said, "Yeah, yeah." He walked away and then- Said, said Instagram.
+[09:43.0 - 09:43.1] Instagram.
+[09:43.1 - 09:43.6] That's another thing.
+[09:43.6 - 09:50.9] Like, not directly to the eyes and you just have to like, you know, from afar.
+[09:50.9 - 10:00.2] You're setting up a mother watching it from like us, and we kind of tried this trend where people would just like, put like a little thing down on like my face and then just scroll down through it.
+[10:00.2 - 10:03.6] And then some people just got really...
+[10:03.6 - 10:10.2] But there's a reason we're putting here.
+[10:10.2 - 10:13.9] Like, a lot of times people would just look to the other.
+[10:13.9 - 10:17.9] Like, even what you're saying, it's funny like how we're wearing it in the eye and we're walking there walking.
+[10:17.9 - 10:28.2] People look to the other way and they're like, "Do you like
+[10:28.2 - 10:30.7] that?" And it's really harder to actually get people to look up stuff.
+[10:30.7 - 10:35.2] So you get an opportunity to do some cool stuff with things and like, "Do you like that?" But then that other people look that way.
+[10:35.2 - 10:40.9] The problem with doing that kind of like Instagram stuff, you have like a run of tape and you can see it from every angle.
+[10:40.9 - 10:43.6] On Instagram, you just scroll past like...
+[10:43.6 - 10:60.0] There's four things in front of your eyes, but you
+[10:60.0 - 11:20.6] scroll,
+[11:20.6 - 11:43.2] scroll,
+[11:43.2 - 11:47.0] scroll.
+[11:47.0 - 11:49.0] One flash scroll.
+[11:49.0 - 11:50.4] Do you like it?
+[11:50.4 - 11:52.4] And so it's a real kind of thing.
+[11:52.4 - 11:53.1] Great, if that works for you, do it because I would bore you to tears.
+[11:53.1 - 11:53.1] But a lot of people said, "Hey, I'm very, uh...
+[11:53.1 - 11:56.5] Maybe don't have the best like acting abilities to be able to do something." We tried different ways of like telling things maybe that or that, and it's always interesting to like look at that idea and maybe take it.
+[11:56.5 - 11:56.5] Yeah.
+[11:56.5 - 11:56.5] And like if you-- we both love going out.
+[11:56.5 - 11:57.1] I actually hired somebody.
+[11:57.1 - 11:57.1] Oh, that's good.
+[11:57.1 - 11:57.1] That's like a- Like managing these accounts and all of that.
+[11:57.1 - 11:59.9] But you clearly have, have a network of-
+[24:07.6 - 24:09.9] I'm trying to do that in a way that makes sense.
+[24:09.9 - 24:11.4] There's a lot of properties being built right now.
+[24:11.4 - 24:11.4] There are a lot that are rough and ready.
+[24:11.4 - 24:14.8] There are a bunch of, uh, properties that have all these stuff and they need a master answer to that.
+[24:14.8 - 24:25.0] There's a really good one, but then there's a
+[24:25.0 - 26:42.3] lot
+[26:42.3 - 26:53.0] of stuff that just needs to be
+[26:53.0 - 27:03.4] worked on because they're building stuff
+[27:03.4 - 27:08.9] so much that it's just not...
+[27:08.9 - 27:19.3] And then if I keep doing that, then that'll just bite
+[27:19.3 - 27:20.4] me in the rear end.
+[27:20.4 - 27:32.2] And then I'll kind of be
+[27:32.2 - 27:42.5] saying, "Well, where can they go?" So there's just stuff you can do with that, but even us trying to walk into some of these properties and then harvest it down to the last detail where it's
+[27:42.5 - 27:53.1] like, "Let's do ten, maybe fifty cycles on it and let's just take what's actually gonna work with it." But okay, we'll get those in like five months and then we can go from there.
+[27:53.1 - 27:58.6] Yeah, exactly.
+[27:58.6 - 27:58.6] Sure.
+[27:58.6 - 28:06.9] A lot of walking and a lot of doing that.
+[28:06.9 - 28:19.9] Or
+[28:19.9 - 29:06.3] that quality
+[29:06.3 - 29:20.7] is gone and there's maybe even that tension between
+[29:20.7 - 29:33.6] the cheap
+[29:33.6 - 29:43.7] and the bad, which I think is something
+[29:43.7 - 29:48.6] that we have to talk about.
+[29:48.6 - 29:53.6] There's a compromise between cheap and bad, and I think that's something that we have to...
+[29:53.6 - 29:59.7] Like, you can see why people are confused and scared, but it also scares me because I'm like, "Man, this is crazy." Like, we have to walk into these things and be like, "Okay, we're gonna do this." And then I follow it with, "Hey, guys, can you do it?" You can make a little bit of that home.
+[29:59.7 - 30:00.1] Yeah, that's also one of our biggest things that we talk about is like, one of our biggest things, um, when we're doing these properties is like, "Okay, how much of this is cheap and how much of this is bad?" And then on top of that, we have to figure out how to market it because obviously, we can't just put it on Zillow.
+[30:00.1 - 30:00.1] We play, play on the, yeah, the same marketing that we use on the articles that we write and stuff like that.
+[30:00.1 - 30:00.1] It's like, "Well, we're adding this property.
+[30:00.1 - 30:00.1] What are we doing with this property?" And it's just not...
+[30:00.1 - 30:00.1] It's always a standard that I just respond to how we're going to create these blogs and stuff like that to change.
+[30:00.1 - 30:00.1] But then finally, the competition is just insane.
+[39:31.0 - 39:44.3] All of them.
+[39:44.3 - 39:59.0] And .
+[39:59.0 - 40:09.0] The charter .
+[40:09.0 - 40:22.1] Regarding the current health situation
+[40:22.1 - 40:22.8] .
+[40:22.8 - 40:26.6] That's really the question.
+[40:26.6 - 40:37.5] How much can we change and how long can we sustain that change?
+[40:37.5 - 40:51.3] And once those changes
+[40:51.3 - 41:44.1] happen,
+[41:44.1 - 41:56.3] can we actually maintain
+[41:56.3 - 41:56.4] them?
+[41:56.4 - 41:57.3] That's the real question behind everything.
+[41:57.3 - 41:57.3] What do you think?
+[41:57.3 - 42:00.0] That's why I packed my order and also bring it today because I had it.
+[42:00.0 - 42:00.1] I made sure.
+[42:00.1 - 42:26.3] I
+[42:26.3 - 42:28.1] told you I got, I told you I got, oh geez.
+[42:28.1 - 42:29.2] No, no.
+[42:29.2 - 42:31.6] See the way they are?
+[42:31.6 - 42:33.5] Yeah.
+[42:33.5 - 42:36.1] I told you, I have every color.
+[42:36.1 - 42:39.0] I have the last ones, I have the original Jordans.
+[42:39.0 - 42:39.1] Yeah.
+[42:39.1 - 42:41.3] And then the off-white.
+[42:41.3 - 42:41.4] Yeah.
+[42:41.4 - 42:42.4] With the laces.
+[42:42.4 - 42:48.8] Ah, fuck!
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2026-07-02-11-55-09_transcription_20260706_161405.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2026-07-02-11-55-09_transcription_20260706_161405.txt
+[2J[H[3Jmanus-speech-to-text ROSE-REC2_V2026-07-02-11-55-09.mp3
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.2 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2026-07-02-11-55-09.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: .ROSE-REC2_V2026-07-02-11-55-09_chunks_20260706_161114/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: .ROSE-REC2_V2026-07-02-11-55-09_chunks_20260706_161114/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: .ROSE-REC2_V2026-07-02-11-55-09_chunks_20260706_161114/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: .ROSE-REC2_V2026-07-02-11-55-09_chunks_20260706_161114/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: .ROSE-REC2_V2026-07-02-11-55-09_chunks_20260706_161114/chunk_004.mp3
+Chunk 5 completed (duration: 719.8s)
+
+Snippet of transcribed content:
+[27:19.3 - 27:20.4] me in the rear end.
+[27:20.4 - 27:32.2] And then I'll kind of be
+[27:32.2 - 27:42.5] saying, "Well, where can they go?" So there's just stuff you can do with that, but even us trying to walk into some of these properties and then harvest it down to the last detail where it's
+[27:42.5 - 27:53.1] like, "Let's do ten, maybe fifty cycles on it and let's just take what's actually gonna work with it." But okay, we'll get those in like five months and then we can go from there.
+[27:53.1 - 27:58.6] Yeah, exactly.
+[27:58.6 - 27:58.6] Sure.
+[27:58.6 - 28:06.9] A lot of walking and a lot of doing that.
+[28:06.9 - 28:19.9] Or
+[28:19.9 - 29:06.3] that quality
+[29:06.3 - 29:20.7] is gone and there's maybe even that tension between
+[29:20.7 - 29:33.6] the cheap
+[29:33.6 - 29:43.7] and the bad, which I think is something
+[29:43.7 - 29:48.6] that we have to talk about.
+[29:48.6 - 29:53.6] There's a compromise between cheap and bad, and I think that's something that we have to...
+[29:53.6 - 29:59.7] Like, you can see why people are confused and scared, but it also scares me because I'm like, "Man, this is crazy." Like, we have to walk into these things and be like, "Okay, we're gonna do this." And then I follow it with, "Hey, guys, can you do it?" You can make a little bit of that home.
+[29:59.7 - 30:00.1] Yeah, that's also one of our biggest things that we talk about is like, one of our biggest things, um, when we're doing these properties is like, "Okay, how much of this is cheap and how much of this is bad?" And then on top of that, we have to figure out how to market it because obviously, we can't just put it on Zillow.
+[30:00.1 - 30:00.1] We play, play on the, yeah, the same marketing that we use on the articles that we write and stuff like that.
+[30:00.1 - 30:00.1] It's like, "Well, we're adding this property.
+[30:00.1 - 30:00.1] What are we doing with this property?" And it's just not...
+[30:00.1 - 30:00.1] It's always a standard that I just respond to how we're going to create these blogs and stuff like that to change.
+[30:00.1 - 30:00.1] But then finally, the competition is just insane.
+[39:31.0 - 39:44.3] All of them.
+[39:44.3 - 39:59.0] And .
+[39:59.0 - 40:09.0] The charter .
+[40:09.0 - 40:22.1] Regarding the current health situation
+[40:22.1 - 40:22.8] .
+[40:22.8 - 40:26.6] That's really the question.
+[40:26.6 - 40:37.5] How much can we change and how long can we sustain that change?
+[40:37.5 - 40:51.3] And once those changes
+[40:51.3 - 41:44.1] happen,
+[41:44.1 - 41:56.3] can we actually maintain
+[41:56.3 - 41:56.4] them?
+[41:56.4 - 41:57.3] That's the real question behind everything.
+[41:57.3 - 41:57.3] What do you think?
+[41:57.3 - 42:00.0] That's why I packed my order and also bring it today because I had it.
+[42:00.0 - 42:00.1] I made sure.
+[42:00.1 - 42:26.3] I
+[42:26.3 - 42:28.1] told you I got, I told you I got, oh geez.
+[42:28.1 - 42:29.2] No, no.
+[42:29.2 - 42:31.6] See the way they are?
+[42:31.6 - 42:33.5] Yeah.
+[42:33.5 - 42:36.1] I told you, I have every color.
+[42:36.1 - 42:39.0] I have the last ones, I have the original Jordans.
+[42:39.0 - 42:39.1] Yeah.
+[42:39.1 - 42:41.3] And then the off-white.
+[42:41.3 - 42:41.4] Yeah.
+[42:41.4 - 42:42.4] With the laces.
+[42:42.4 - 42:48.8] Ah, fuck!
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2026-07-02-11-55-09_transcription_20260706_161405.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2026-07-02-11-55-09_transcription_20260706_161405.txt

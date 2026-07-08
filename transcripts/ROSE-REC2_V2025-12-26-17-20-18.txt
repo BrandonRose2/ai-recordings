@@ -1,0 +1,129 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.5MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.47 MB, duration: 3577.8 seconds
+Splitting into 5 chunks (each ~715.6 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2025-12-26-17-20-18.mp3, file size: 20.47 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: .ROSE-REC2_V2025-12-26-17-20-18_chunks_20260706_153035/chunk_000.mp3
+Chunk 1 completed (duration: 715.5s)
+
+Transcribing chunk 2/5: .ROSE-REC2_V2025-12-26-17-20-18_chunks_20260706_153035/chunk_001.mp3
+Chunk 2 completed (duration: 715.5s)
+
+Transcribing chunk 3/5: .ROSE-REC2_V2025-12-26-17-20-18_chunks_20260706_153035/chunk_002.mp3
+Chunk 3 completed (duration: 715.5s)
+
+Transcribing chunk 4/5: .ROSE-REC2_V2025-12-26-17-20-18_chunks_20260706_153035/chunk_003.mp3
+Chunk 4 completed (duration: 715.5s)
+
+Transcribing chunk 5/5: .ROSE-REC2_V2025-12-26-17-20-18_chunks_20260706_153035/chunk_004.mp3
+Chunk 5 completed (duration: 715.3s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3577.4 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[01:23.0 - 01:32.6] I'm not.
+[01:32.6 - 01:38.3] I was like thinking that you ate already, so I wanted to get it out.
+[01:38.3 - 01:38.7] Like, oh.
+[01:38.7 - 01:39.8] Oh, well this is perfect.
+[01:39.8 - 01:40.5] So I got some from everywhere.
+[01:40.5 - 01:41.2] Oh, thank you.
+[01:41.2 - 01:41.7] I knew for me to try it.
+[01:41.7 - 01:42.5] Oh, wow.
+[01:42.5 - 01:43.3] Woo!
+[01:43.3 - 01:44.2] Very exciting.
+[01:44.2 - 01:45.3] It looks delicious.
+[01:45.3 - 01:49.9] Yeah, so the, um, the little thing is the sauce for the, the pork, which is- Oh, okay.
+[01:49.9 - 01:50.9] Which is this one?
+[01:50.9 - 01:51.2] Yeah.
+[01:51.2 - 01:51.8] Okay.
+[01:51.8 - 01:52.5] So enjoy.
+[01:52.5 - 01:53.9] Well, thank you very much.
+[01:53.9 - 01:57.6] I'll come back here and eat it while I whip out this project that...
+[01:57.6 - 02:00.5] You may need it.
+[02:00.5 - 02:01.3] Oh, no, I'm gonna be fine.
+[02:01.3 - 02:02.2] It's not as hot as it seems.
+[02:02.2 - 02:03.9] No, I don't have scorching.
+[02:03.9 - 02:04.9] Thank you so much.
+[02:04.9 - 02:06.1] You're welcome.
+[02:06.1 - 02:07.2] Let me know what you think.
+[02:07.2 - 02:07.6] I will.
+[02:07.6 - 02:07.9] Okay.
+[02:07.9 - 04:26.8] Mm-hmm.
+[35:56.2 - 35:56.8] Mhm.
+[35:56.8 - 36:29.0] 20,
+[36:29.0 - 36:30.5] 22, 23, 25.
+[39:26.1 - 39:26.3] Hmm.
+[39:26.3 - 41:34.4] Hmm.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-26-17-20-18_transcription_20260706_153302.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-26-17-20-18_transcription_20260706_153302.txt
+[2J[H[3Jmanus-speech-to-text ROSE-REC2_V2025-12-26-17-20-18.mp3
+Starting Speech-to-Text conversion...
+Audio file size (20.5MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.47 MB, duration: 3577.8 seconds
+Splitting into 5 chunks (each ~715.6 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2025-12-26-17-20-18.mp3, file size: 20.47 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: .ROSE-REC2_V2025-12-26-17-20-18_chunks_20260706_153035/chunk_000.mp3
+Chunk 1 completed (duration: 715.5s)
+Transcribing chunk 2/5: .ROSE-REC2_V2025-12-26-17-20-18_chunks_20260706_153035/chunk_001.mp3
+Chunk 2 completed (duration: 715.5s)
+Transcribing chunk 3/5: .ROSE-REC2_V2025-12-26-17-20-18_chunks_20260706_153035/chunk_002.mp3
+Chunk 3 completed (duration: 715.5s)
+Transcribing chunk 4/5: .ROSE-REC2_V2025-12-26-17-20-18_chunks_20260706_153035/chunk_003.mp3
+Chunk 4 completed (duration: 715.5s)
+Transcribing chunk 5/5: .ROSE-REC2_V2025-12-26-17-20-18_chunks_20260706_153035/chunk_004.mp3
+Chunk 5 completed (duration: 715.3s)
+
+Snippet of transcribed content:
+[01:23.0 - 01:32.6] I'm not.
+[01:32.6 - 01:38.3] I was like thinking that you ate already, so I wanted to get it out.
+[01:38.3 - 01:38.7] Like, oh.
+[01:38.7 - 01:39.8] Oh, well this is perfect.
+[01:39.8 - 01:40.5] So I got some from everywhere.
+[01:40.5 - 01:41.2] Oh, thank you.
+[01:41.2 - 01:41.7] I knew for me to try it.
+[01:41.7 - 01:42.5] Oh, wow.
+[01:42.5 - 01:43.3] Woo!
+[01:43.3 - 01:44.2] Very exciting.
+[01:44.2 - 01:45.3] It looks delicious.
+[01:45.3 - 01:49.9] Yeah, so the, um, the little thing is the sauce for the, the pork, which is- Oh, okay.
+[01:49.9 - 01:50.9] Which is this one?
+[01:50.9 - 01:51.2] Yeah.
+[01:51.2 - 01:51.8] Okay.
+[01:51.8 - 01:52.5] So enjoy.
+[01:52.5 - 01:53.9] Well, thank you very much.
+[01:53.9 - 01:57.6] I'll come back here and eat it while I whip out this project that...
+[01:57.6 - 02:00.5] You may need it.
+[02:00.5 - 02:01.3] Oh, no, I'm gonna be fine.
+[02:01.3 - 02:02.2] It's not as hot as it seems.
+[02:02.2 - 02:03.9] No, I don't have scorching.
+[02:03.9 - 02:04.9] Thank you so much.
+[02:04.9 - 02:06.1] You're welcome.
+[02:06.1 - 02:07.2] Let me know what you think.
+[02:07.2 - 02:07.6] I will.
+[02:07.6 - 02:07.9] Okay.
+[02:07.9 - 04:26.8] Mm-hmm.
+[35:56.2 - 35:56.8] Mhm.
+[35:56.8 - 36:29.0] 20,
+[36:29.0 - 36:30.5] 22, 23, 25.
+[39:26.1 - 39:26.3] Hmm.
+[39:26.3 - 41:34.4] Hmm.
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-26-17-20-18_transcription_20260706_153302.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-26-17-20-18_transcription_20260706_153302.txt

@@ -1,0 +1,134 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: mp3/ROSE-REC2_Tuesday_V2026-06-30-08-40-29.mp3, file size: 1.93 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 337.7 seconds
+Language: eng
+Timestamped segments:
+[00:01.7 - 00:03.8] I'm on the dark side of the road.
+[00:03.8 - 00:13.2] And I wish there was something you would do or say, to try and make me change my mind and stay.
+[00:13.2 - 00:17.5] We never did too much talking anyway.
+[00:17.5 - 00:21.0] Don't think twice, it's all right.
+[00:21.0 - 00:33.7] Like
+[00:33.7 - 00:36.4] the pine trees lining the winding road.
+[00:36.4 - 00:40.6] I've got a name.
+[00:40.6 - 00:42.1] I've got a name.
+[00:42.1 - 00:48.0] Like the singing bird and the croaking toad.
+[00:48.0 - 00:50.6] I've got a name.
+[00:50.6 - 00:53.5] I've got a name.
+[00:53.5 - 00:59.7] And I carry it with me like my daddy did.
+[00:59.7 - 01:05.0] But I'm living the dream, that he kept hid.
+[01:05.0 - 01:09.2] Moving me down the highway.
+[01:09.2 - 01:11.8] Rolling me down the highway.
+[01:11.8 - 01:55.2] I
+[01:55.2 - 01:57.8] took my love, I took it down.
+[01:57.8 - 02:00.2] Oh, my gosh.
+[02:00.2 - 02:04.2] I climbed a mountain and I turned around.
+[02:04.2 - 02:08.5] And I saw my reflection.
+[02:08.5 - 02:33.9] Slow
+[02:33.9 - 02:36.4] down, you crazy child.
+[02:36.4 - 02:40.1] You're so ambitious for a juvenile.
+[02:40.1 - 02:45.1] But then if you're so smart, tell me why are you still so afraid?
+[02:45.1 - 02:46.7] Mm.
+[02:46.7 - 02:51.6] Where's the fire, what's the hurry about?
+[02:51.6 - 02:55.1] You better cool it off before you burn it out.
+[02:55.1 - 03:00.8] You got so much to do and only so many hours in a day.
+[03:00.8 - 03:02.8] Hey.
+[03:02.8 - 03:06.9] But you know that when the truth is told.
+[03:06.9 - 03:10.6] That you can get what you want or you can just get old.
+[03:10.6 - 03:16.0] You're gonna kick off before you even get halfway through.
+[03:16.0 - 03:23.4] Oh, when will you realize, Vienna waits for you?
+[03:23.4 - 03:29.7] Slow down, you're doing fine.
+[03:29.7 - 03:34.1] You can't be everything you wanna be before your time.
+[03:34.1 - 03:41.2] Although it's so romantic on the borderline tonight, tonight.
+[03:41.2 - 03:48.9] Hey Siri, play Kygo Radio on my Spotify.
+[03:48.9 - 03:54.2] Now playing Kygo Radio Radio on Spotify.
+[03:54.2 - 04:12.3] Emotions
+[04:12.3 - 04:13.5] like summer.
+[04:13.5 - 04:18.1] We'll wake to a blue sky.
+[04:18.1 - 04:22.3] And I turn and hold you.
+[04:22.3 - 04:26.3] As we watch the sun rise.
+[04:26.3 - 04:30.7] 'Cause this is amazing.
+[04:30.7 - 04:34.6] Running wild with you.
+[04:34.6 - 04:39.1] And my thoughts are hazy.
+[04:39.1 - 04:42.6] We may be way too soon.
+[04:42.6 - 04:49.1] But I will never let you go, never let you go.
+[04:49.1 - 04:50.4] Oh, no.
+[04:50.4 - 04:57.3] I will never let you go, never let you go.
+[04:57.3 - 04:58.5] Oh, no.
+[04:58.5 - 05:02.7] No, no, no, no, oh.
+[05:02.7 - 05:08.1] Oh, oh.
+[05:08.1 - 05:14.2] Oh, oh.
+[05:14.2 - 05:32.1] Soul
+[05:32.1 - 05:33.9] lost in this summer night.
+[05:33.9 - 05:37.6] Soul lasting in your kiss good-
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-08-40-29_transcription_20260705_192912.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-08-40-29_transcription_20260705_192912.txt
+[2J[H[3Jmanus-speech-to-text mp3/ROSE-REC2_Tuesday_V2026-06-30-08-40-29.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: mp3/ROSE-REC2_Tuesday_V2026-06-30-08-40-29.mp3, file size: 1.93 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:01.7 - 00:03.8] I'm on the dark side of the road.
+[00:03.8 - 00:13.2] And I wish there was something you would do or say, to try and make me change my mind and stay.
+[00:13.2 - 00:17.5] We never did too much talking anyway.
+[00:17.5 - 00:21.0] Don't think twice, it's all right.
+[00:21.0 - 00:33.7] Like
+[00:33.7 - 00:36.4] the pine trees lining the winding road.
+[00:36.4 - 00:40.6] I've got a name.
+[00:40.6 - 00:42.1] I've got a name.
+[00:42.1 - 00:48.0] Like the singing bird and the croaking toad.
+[00:48.0 - 00:50.6] I've got a name.
+[00:50.6 - 00:53.5] I've got a name.
+[00:53.5 - 00:59.7] And I carry it with me like my daddy did.
+[00:59.7 - 01:05.0] But I'm living the dream, that he kept hid.
+[01:05.0 - 01:09.2] Moving me down the highway.
+[01:09.2 - 01:11.8] Rolling me down the highway.
+[01:11.8 - 01:55.2] I
+[01:55.2 - 01:57.8] took my love, I took it down.
+[01:57.8 - 02:00.2] Oh, my gosh.
+[02:00.2 - 02:04.2] I climbed a mountain and I turned around.
+[02:04.2 - 02:08.5] And I saw my reflection.
+[02:08.5 - 02:33.9] Slow
+[02:33.9 - 02:36.4] down, you crazy child.
+[02:36.4 - 02:40.1] You're so ambitious for a juvenile.
+[02:40.1 - 02:45.1] But then if you're so smart, tell me why are you still so afraid?
+[02:45.1 - 02:46.7] Mm.
+[02:46.7 - 02:51.6] Where's the fire, what's the hurry about?
+[02:51.6 - 02:55.1] You better cool it off before you burn it out.
+[02:55.1 - 03:00.8] You got so much to do and only so many hours in a day.
+[03:00.8 - 03:02.8] Hey.
+[03:02.8 - 03:06.9] But you know that when the truth is told.
+[03:06.9 - 03:10.6] That you can get what you want or you can just get old.
+[03:10.6 - 03:16.0] You're gonna kick off before you even get halfway through.
+[03:16.0 - 03:23.4] Oh, when will you realize, Vienna waits for you?
+[03:23.4 - 03:29.7] Slow down, you're doing fine.
+[03:29.7 - 03:34.1] You can't be everything you wanna be before your time.
+[03:34.1 - 03:41.2] Although it's so romantic on the borderline tonight, tonight.
+[03:41.2 - 03:48.9] Hey Siri, play Kygo Radio on my Spotify.
+[03:48.9 - 03:54.2] Now playing Kygo Radio Radio on Spotify.
+[03:54.2 - 04:12.3] Emotions
+[04:12.3 - 04:13.5] like summer.
+[04:13.5 - 04:18.1] We'll wake to a blue sky.
+[04:18.1 - 04:22.3] And I turn and hold you.
+[04:22.3 - 04:26.3] As we watch the sun rise.
+[04:26.3 - 04:30.7] 'Cause this is amazing.
+[04:30.7 - 04:34.6] Running wild with you.
+[04:34.6 - 04:39.1] And my thoughts are hazy.
+[04:39.1 - 04:42.6] We may be way too soon.
+[04:42.6 - 04:49.1] But I will never let you go, never let you go.
+[04:49.1 - 04:50.4] Oh, no.
+[04:50.4 - 04:57.3] I will never let you go, never let you go.
+[04:57.3 - 04:58.5] Oh, no.
+[04:58.5 - 05:02.7] No, no, no, no, oh.
+[05:02.7 - 05:08.1] Oh, oh.
+[05:08.1 - 05:14.2] Oh, oh.
+[05:14.2 - 05:32.1] Soul
+[05:32.1 - 05:33.9] lost in this summer night.
+[05:33.9 - 05:37.6] Soul lasting in your kiss good-
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-08-40-29_transcription_20260705_192912.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-08-40-29_transcription_20260705_192912.txt

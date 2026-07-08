@@ -1,0 +1,223 @@
+Starting Speech-to-Text conversion...
+Audio file size (21.8MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 64 kbps
+Audio file size: 21.75 MB, duration: 2851.2 seconds
+Splitting into 5 chunks (each ~570.2 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_V2026-07-02-16-55-11.mp3, file size: 21.75 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: mp3/.ROSE-REC2_V2026-07-02-16-55-11_chunks_20260706_165632/chunk_000.mp3
+Chunk 1 completed (duration: 570.2s)
+
+Transcribing chunk 2/5: mp3/.ROSE-REC2_V2026-07-02-16-55-11_chunks_20260706_165632/chunk_001.mp3
+Chunk 2 completed (duration: 570.2s)
+
+Transcribing chunk 3/5: mp3/.ROSE-REC2_V2026-07-02-16-55-11_chunks_20260706_165632/chunk_002.mp3
+Chunk 3 completed (duration: 570.2s)
+
+Transcribing chunk 4/5: mp3/.ROSE-REC2_V2026-07-02-16-55-11_chunks_20260706_165632/chunk_003.mp3
+Chunk 4 completed (duration: 570.2s)
+
+Transcribing chunk 5/5: mp3/.ROSE-REC2_V2026-07-02-16-55-11_chunks_20260706_165632/chunk_004.mp3
+Chunk 5 completed (duration: 569.9s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 2850.7 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[00:40.6 - 00:41.5] Got the swarm.
+[00:41.5 - 00:58.8] Huh.
+[00:58.8 - 02:33.1] Oh
+[02:33.1 - 02:34.1] my gosh.
+[02:34.1 - 03:09.6] There
+[03:09.6 - 03:10.1] it is.
+[03:10.1 - 03:11.0] Fuck, finally.
+[03:11.0 - 03:57.1] No.
+[03:57.1 - 04:08.2] Hmm?
+[04:08.2 - 04:42.1] Yeah.
+[04:42.1 - 04:45.0] One sec.
+[04:45.0 - 06:56.5] Pretty
+[06:56.5 - 06:57.0] neat.
+[06:57.0 - 07:01.3] I'm almost done with this project, finally.
+[07:01.3 - 07:24.8] Midtown,
+[07:24.8 - 07:25.5] okay.
+[07:25.5 - 07:37.5] This
+[07:37.5 - 07:38.2] one.
+[07:38.2 - 07:42.1] Oh, dude, it's so heavy.
+[07:42.1 - 07:52.7] You always do it.
+[07:52.7 - 07:58.9] See you on Monday.
+[07:58.9 - 08:01.8] Is this for real this time?
+[08:01.8 - 08:03.2] Okay.
+[08:03.2 - 08:06.8] Don't blow your hand off with the fireworks.
+[08:06.8 - 09:07.5] Any
+[09:07.5 - 09:08.7] big plans this weekend?
+[09:08.7 - 09:10.3] Yeah.
+[09:10.3 - 09:10.5] Same.
+[09:10.5 - 09:12.1] Not doing a damn thing.
+[09:12.1 - 09:13.4] Yeah.
+[09:13.4 - 09:13.7] Nothing.
+[09:13.7 - 09:18.3] Probably some house stuff I've neglected, but that's about it.
+[09:18.3 - 09:20.6] Heroin.
+[09:20.6 - 09:21.3] What was that?
+[09:21.3 - 09:21.8] Heroin.
+[09:21.8 - 09:23.9] Oh, I mouth-heard heroin.
+[09:23.9 - 09:28.7] I was like, "That doesn't seem like you." I don't know.
+[09:28.7 - 09:30.2] Yeah, I'm like, "Oh, that's nice."
+[09:30.2 - 09:31.4] Seeing what that glass does.
+[09:31.4 - 12:03.4] Macedonia.
+[12:03.4 - 12:06.5] No?
+[12:06.5 - 12:09.0] Damn.
+[12:09.0 - 12:15.8] I thought I already had it.
+[12:15.8 - 14:10.3] Okay.
+[14:10.3 - 14:24.9] I
+[14:24.9 - 14:29.5] need Opa Locka, and I need Macedonia.
+[14:29.5 - 14:34.6] Be done.
+[14:34.6 - 15:30.2] Okay.
+[24:01.0 - 24:06.9] Okay.
+[24:06.9 - 24:19.0] Shit.
+[24:19.0 - 24:50.9] Yes.
+[24:50.9 - 24:51.8] Okay.
+[30:40.3 - 30:50.7] Okay.
+[39:21.0 - 39:21.0] Ooh.
+[39:21.0 - 39:22.9] Motherfucker.
+[39:22.9 - 40:42.3] I
+[40:42.3 - 40:43.2] don't like this.
+[40:43.2 - 46:04.7] I'm
+[46:04.7 - 46:05.3] getting out of here.
+[46:05.3 - 46:06.1] Enjoy your trip.
+[46:06.1 - 46:07.1] Thank you so much.
+[46:07.1 - 46:07.4] Yeah.
+[46:07.4 - 46:08.8] Let me know if you need anything while you're gone.
+[46:08.8 - 46:10.5] Appreciate that.
+[46:10.5 - 46:11.3] Thank you.
+[46:11.3 - 46:11.8] All right.
+[46:11.8 - 46:13.8] I need to finish my work here before I go.
+[46:13.8 - 46:15.1] I know, of course, so- Do that for me?
+[46:15.1 - 46:18.4] Well, whatever you want to email me, send it over.
+[46:18.4 - 46:19.8] I don't mind.
+[46:19.8 - 46:21.0] I appreciate that.
+[46:21.0 - 46:21.6] Of course.
+[46:21.6 - 46:22.7] I know I need to do it.
+[46:22.7 - 46:25.3] Well, let me know.
+[46:25.3 - 46:26.2] Have a good one.
+[46:26.2 - 46:26.9] Make good memories.
+[46:26.9 - 46:27.7] Thank you.
+[46:27.7 - 46:28.2] See you.
+[46:28.2 - 47:29.2] It's
+[47:29.2 - 47:30.0] so warm.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2026-07-02-16-55-11_transcription_20260706_165657.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2026-07-02-16-55-11_transcription_20260706_165657.txt
+[2J[H[3Jmanus-speech-to-text mp3/ROSE-REC2_V2026-07-02-16-55-11.mp3
+Starting Speech-to-Text conversion...
+Audio file size (21.8MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 64 kbps
+Audio file size: 21.75 MB, duration: 2851.2 seconds
+Splitting into 5 chunks (each ~570.2 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_V2026-07-02-16-55-11.mp3, file size: 21.75 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: mp3/.ROSE-REC2_V2026-07-02-16-55-11_chunks_20260706_165632/chunk_000.mp3
+Chunk 1 completed (duration: 570.2s)
+Transcribing chunk 2/5: mp3/.ROSE-REC2_V2026-07-02-16-55-11_chunks_20260706_165632/chunk_001.mp3
+Chunk 2 completed (duration: 570.2s)
+Transcribing chunk 3/5: mp3/.ROSE-REC2_V2026-07-02-16-55-11_chunks_20260706_165632/chunk_002.mp3
+Chunk 3 completed (duration: 570.2s)
+Transcribing chunk 4/5: mp3/.ROSE-REC2_V2026-07-02-16-55-11_chunks_20260706_165632/chunk_003.mp3
+Chunk 4 completed (duration: 570.2s)
+Transcribing chunk 5/5: mp3/.ROSE-REC2_V2026-07-02-16-55-11_chunks_20260706_165632/chunk_004.mp3
+Chunk 5 completed (duration: 569.9s)
+
+Snippet of transcribed content:
+[00:40.6 - 00:41.5] Got the swarm.
+[00:41.5 - 00:58.8] Huh.
+[00:58.8 - 02:33.1] Oh
+[02:33.1 - 02:34.1] my gosh.
+[02:34.1 - 03:09.6] There
+[03:09.6 - 03:10.1] it is.
+[03:10.1 - 03:11.0] Fuck, finally.
+[03:11.0 - 03:57.1] No.
+[03:57.1 - 04:08.2] Hmm?
+[04:08.2 - 04:42.1] Yeah.
+[04:42.1 - 04:45.0] One sec.
+[04:45.0 - 06:56.5] Pretty
+[06:56.5 - 06:57.0] neat.
+[06:57.0 - 07:01.3] I'm almost done with this project, finally.
+[07:01.3 - 07:24.8] Midtown,
+[07:24.8 - 07:25.5] okay.
+[07:25.5 - 07:37.5] This
+[07:37.5 - 07:38.2] one.
+[07:38.2 - 07:42.1] Oh, dude, it's so heavy.
+[07:42.1 - 07:52.7] You always do it.
+[07:52.7 - 07:58.9] See you on Monday.
+[07:58.9 - 08:01.8] Is this for real this time?
+[08:01.8 - 08:03.2] Okay.
+[08:03.2 - 08:06.8] Don't blow your hand off with the fireworks.
+[08:06.8 - 09:07.5] Any
+[09:07.5 - 09:08.7] big plans this weekend?
+[09:08.7 - 09:10.3] Yeah.
+[09:10.3 - 09:10.5] Same.
+[09:10.5 - 09:12.1] Not doing a damn thing.
+[09:12.1 - 09:13.4] Yeah.
+[09:13.4 - 09:13.7] Nothing.
+[09:13.7 - 09:18.3] Probably some house stuff I've neglected, but that's about it.
+[09:18.3 - 09:20.6] Heroin.
+[09:20.6 - 09:21.3] What was that?
+[09:21.3 - 09:21.8] Heroin.
+[09:21.8 - 09:23.9] Oh, I mouth-heard heroin.
+[09:23.9 - 09:28.7] I was like, "That doesn't seem like you." I don't know.
+[09:28.7 - 09:30.2] Yeah, I'm like, "Oh, that's nice."
+[09:30.2 - 09:31.4] Seeing what that glass does.
+[09:31.4 - 12:03.4] Macedonia.
+[12:03.4 - 12:06.5] No?
+[12:06.5 - 12:09.0] Damn.
+[12:09.0 - 12:15.8] I thought I already had it.
+[12:15.8 - 14:10.3] Okay.
+[14:10.3 - 14:24.9] I
+[14:24.9 - 14:29.5] need Opa Locka, and I need Macedonia.
+[14:29.5 - 14:34.6] Be done.
+[14:34.6 - 15:30.2] Okay.
+[24:01.0 - 24:06.9] Okay.
+[24:06.9 - 24:19.0] Shit.
+[24:19.0 - 24:50.9] Yes.
+[24:50.9 - 24:51.8] Okay.
+[30:40.3 - 30:50.7] Okay.
+[39:21.0 - 39:21.0] Ooh.
+[39:21.0 - 39:22.9] Motherfucker.
+[39:22.9 - 40:42.3] I
+[40:42.3 - 40:43.2] don't like this.
+[40:43.2 - 46:04.7] I'm
+[46:04.7 - 46:05.3] getting out of here.
+[46:05.3 - 46:06.1] Enjoy your trip.
+[46:06.1 - 46:07.1] Thank you so much.
+[46:07.1 - 46:07.4] Yeah.
+[46:07.4 - 46:08.8] Let me know if you need anything while you're gone.
+[46:08.8 - 46:10.5] Appreciate that.
+[46:10.5 - 46:11.3] Thank you.
+[46:11.3 - 46:11.8] All right.
+[46:11.8 - 46:13.8] I need to finish my work here before I go.
+[46:13.8 - 46:15.1] I know, of course, so- Do that for me?
+[46:15.1 - 46:18.4] Well, whatever you want to email me, send it over.
+[46:18.4 - 46:19.8] I don't mind.
+[46:19.8 - 46:21.0] I appreciate that.
+[46:21.0 - 46:21.6] Of course.
+[46:21.6 - 46:22.7] I know I need to do it.
+[46:22.7 - 46:25.3] Well, let me know.
+[46:25.3 - 46:26.2] Have a good one.
+[46:26.2 - 46:26.9] Make good memories.
+[46:26.9 - 46:27.7] Thank you.
+[46:27.7 - 46:28.2] See you.
+[46:28.2 - 47:29.2] It's
+[47:29.2 - 47:30.0] so warm.
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2026-07-02-16-55-11_transcription_20260706_165657.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2026-07-02-16-55-11_transcription_20260706_165657.txt

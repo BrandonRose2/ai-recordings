@@ -1,0 +1,680 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_Tuesday_V2026-06-30-11-11-13.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-11-11-13_chunks_20260705_193631/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-11-11-13_chunks_20260705_193631/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-11-11-13_chunks_20260705_193631/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-11-11-13_chunks_20260705_193631/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-11-11-13_chunks_20260705_193631/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.6 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[06:16.5 - 06:16.9] Hello?
+[06:16.9 - 06:24.7] Oh, shit.
+[06:24.7 - 06:26.4] Why?
+[06:26.4 - 06:55.3] Damn.
+[06:55.3 - 06:55.8] Okay.
+[06:55.8 - 06:56.6] All right, say less.
+[06:56.6 - 06:57.9] It's done.
+[06:57.9 - 07:06.9] I will-- I'll put-- we'll, we'll try to put a fire under that.
+[07:06.9 - 07:09.1] All right, bye.
+[07:09.1 - 07:13.6] Well, take Asia off 'cause she just quit.
+[07:13.6 - 07:16.8] Asia just quit?
+[07:16.8 - 07:17.3] Yeah.
+[07:17.3 - 07:25.9] Um, Blake, I guess, was telling Nicole, like, "Well, now Mark is gonna come in and just take it all out on Robert" .
+[07:25.9 - 07:28.2] Yeah, he told me too.
+[07:28.2 - 07:32.3] And I was like, "Yeah, well- I said, "It is what it is.
+[07:32.3 - 07:42.4] I don't care." I was like, "Yeah, but you know he would be doing that anyway, so it doesn't-- that doesn't really matter." I, I was just telling her, like, it would matter if you,
+[07:42.4 - 07:43.9] like, maliciously, like- Yeah ...
+[07:43.9 - 07:46.4] you went and did it on purpose to have that be- Yeah ...
+[07:46.4 - 07:46.8] resolved.
+[07:46.8 - 07:49.3] But like, fucking you know the drill.
+[07:49.3 - 07:51.4] He was bound to do that to us anyways.
+[07:51.4 - 07:55.0] So Asia just quit for getting written up?
+[07:55.0 - 07:55.8] Yeah.
+[07:55.8 - 08:03.4] Like she, uh, Katora had sent that to you, um, with like, "This is what I'm gonna give her"?
+[08:03.4 - 08:05.4] Yeah.
+[08:05.4 - 08:10.4] No, Katora just said she texted her, so she put it in the system right now.
+[08:10.4 - 08:14.0] Oh, because, uh, 'cause what do you call it?
+[08:14.0 - 08:15.2] She's out today.
+[08:15.2 - 08:15.5] Mm-hmm.
+[08:15.5 - 08:18.6] And that was like, "No, this isn't cool." Yeah.
+[08:18.6 - 08:19.9] I don't know.
+[08:19.9 - 08:20.7] She just texted her.
+[08:20.7 - 08:23.3] That's, that's, that's all she- Well, if she texted...
+[08:23.3 - 08:24.1] You know what I mean.
+[08:24.1 - 08:24.2] Yeah.
+[08:24.2 - 08:30.6] Like the implication if she texted her is that she's not in today to get given it, so...
+[08:30.6 - 11:29.0] Hello.
+[11:29.0 - 11:30.5] Um, I just...
+[11:30.5 - 11:37.9] The, the RMD was accepted and they said, "I just forwarded you the email," 'cause it says on there that it only came to me.
+[11:37.9 - 11:42.5] So I just wanted to keep you in the loop for the, uh, Sky Switch thing.
+[11:42.5 - 11:47.6] Yep, and they're applying that five hundred dollar, like, credit to our bill.
+[11:47.6 - 11:52.0] You, you'll see in the email, but it just says they're applying it to the next bill and everything.
+[11:52.0 - 11:53.4] So yeah, what he said.
+[11:53.4 - 11:53.9] You're welcome.
+[11:53.9 - 11:54.4] Bye.
+[14:13.6 - 14:15.8] Uh, did you send Jennifer her login?
+[14:15.8 - 14:16.5] Oh, fuck.
+[14:16.5 - 14:18.1] I'm so sorry.
+[14:18.1 - 14:18.2] I forgot.
+[14:18.2 - 14:18.8] You're good.
+[14:18.8 - 14:22.6] I just, I figured with everything happening this morning that you might have forgotten.
+[14:22.6 - 14:24.2] That's the only reason I reminded you.
+[14:24.2 - 14:27.2] Not trying to be a fucking- Is she at, um...
+[14:27.2 - 14:28.4] Oh, shit.
+[14:28.4 - 14:30.0] She's Crossroads, yeah.
+[14:30.0 - 14:36.1] And it's Jennifer Parks, 'cause we have another Jennifer now somewhere.
+[14:36.1 - 14:37.3] I can't remember.
+[14:37.3 - 14:39.7] I think it's, like, an assistant.
+[24:07.6 - 24:09.2] We're waiting to have a meeting right now.
+[24:09.2 - 24:10.3] Just grab a piece of paper.
+[24:10.3 - 24:15.4] I just wanna- Okay.
+[24:15.4 - 24:25.4] I wanna create a dashboard inside the Property Max on the upper top that keeps track of
+[24:25.4 - 24:27.3] the following.
+[24:27.3 - 24:30.6] Right?
+[24:30.6 - 24:31.3] Left-hand side?
+[24:31.3 - 24:31.8] Or does it matter?
+[24:31.8 - 24:32.8] Just- Probably in the middle.
+[24:32.8 - 24:33.3] Middle?
+[24:33.3 - 24:33.7] Okay.
+[24:33.7 - 24:35.0] We'll figure out where to go in a minute.
+[24:35.0 - 24:36.1] Okay.
+[24:36.1 - 24:37.4] I'll just give you the data first.
+[24:37.4 - 24:37.8] Okay.
+[24:37.8 - 24:42.6] The number of move-ins this week, since Monday.
+[24:42.6 - 24:45.9] Move-ins per week?
+[24:45.9 - 24:47.1] Monday- No, no.
+[24:47.1 - 24:48.8] You have to be very ex...
+[24:48.8 - 24:50.9] Am I not talking clearly?
+[24:50.9 - 24:52.5] Yeah, you said this week, Monday.
+[24:52.5 - 24:54.5] So what hap- This week So what happens for next week?
+[24:54.5 - 24:56.6] Okay.
+[24:56.6 - 24:57.7] This week, Monday.
+[24:57.7 - 25:00.2] How many people moved in since the follow...
+[25:00.2 - 25:00.7] this Monday?
+[25:00.7 - 25:01.5] Okay.
+[25:01.5 - 25:06.0] Okay.
+[25:06.0 - 25:13.9] The number of, uh, move-ins since the beginning of the month.
+[25:13.9 - 25:22.3] All right.
+[25:22.3 - 25:25.6] The number of move-ins in the last thirty days.
+[25:25.6 - 25:33.8] All right.
+[25:33.8 - 25:39.2] The number of the move-ins at the same time last year for the thirty day...
+[25:39.2 - 25:40.3] done for January.
+[25:40.3 - 25:46.1] So in other words, if it's January twenty twenty-six, how many people moved in in January twenty twenty-five?
+[25:46.1 - 25:59.7] All
+[25:59.7 - 25:59.9] right.
+[25:59.9 - 26:04.4] The average move-ins for thirty days.
+[26:04.4 - 26:13.7] All right.
+[26:13.7 - 26:16.5] The same thing for move-outs.
+[26:16.5 - 26:22.4] Okay.
+[26:22.4 - 26:25.2] All right.
+[26:25.2 - 26:36.8] The number of, um,
+[26:36.8 - 26:42.3] pre-leases this week, and the number of the pre-leases in the last thirty days.
+[26:42.3 - 26:49.5] And the number of the pre-leases since the beginning of the month.
+[26:49.5 - 27:02.6] Per
+[27:02.6 - 27:04.4] month and then since the beginning of the month.
+[27:04.4 - 27:05.3] All right.
+[27:05.3 - 27:08.6] Tell, uh, I'm having a real bad, uh, problem right now.
+[27:08.6 - 27:10.6] I'll call you back in about a half an hour.
+[27:10.6 - 27:13.6] Hello?
+[27:13.6 - 27:16.0] Hello, hello, hello.
+[27:16.0 - 27:17.1] Can you hear me?
+[27:17.1 - 28:05.9] Please
+[28:05.9 - 28:12.4] leave your message for three two three five three two three zero eight eight.
+[28:12.4 - 28:14.8] Tell, uh, I'll call you in an hour.
+[28:14.8 - 28:22.3] Okay.
+[28:22.3 - 28:31.5] Um, the number of people that are delinquent for this month.
+[28:31.5 - 28:57.8] Would
+[28:57.8 - 28:59.3] that just be, uh- Yeah ...
+[28:59.3 - 29:04.4] for the delinquencies, is that just gonna be a manager input, or do we have a spot that- No, we're getting- ...
+[29:04.4 - 29:06.6] we can pull- Well, yeah, we know what it is because we have it.
+[29:06.6 - 29:08.1] We're collecting the data already.
+[29:08.1 - 29:12.0] Uh, just like with if they're on notice, right?
+[29:12.0 - 29:12.4] No.
+[29:12.4 - 29:13.2] Or evictions?
+[29:13.2 - 29:13.5] No.
+[29:13.5 - 29:13.8] No?
+[29:13.8 - 29:15.7] We, we get a pa...
+[29:15.7 - 29:19.3] We get a list of delinquencies every day- Oh, I just wasn't- ...
+[29:19.3 - 29:19.6] from Property Max.
+[29:19.6 - 29:20.8] I, oh, I didn't...
+[29:20.8 - 29:22.3] I wasn't aware of that.
+[29:22.3 - 29:22.7] Yeah.
+[29:22.7 - 29:22.8] Cool.
+[29:22.8 - 29:33.1] And then if they click on the list of delinquencies, it flashes up the tenant na- uh, unit number, name, and, um, how much they owe,
+[29:33.1 - 29:34.2] even though we already have that.
+[29:34.2 - 29:41.8] Now, where I'd like to put it, it's kinda like a scoreboard of what's going on.
+[29:41.8 - 29:47.4] What I wanna be...
+[29:47.4 - 29:55.7] The purpose of it is, is so when I log into somebody else's profile, which I do every day, I wanna be able to see what's going on.
+[29:55.7 - 30:06.1] So, like, I was yelling at somebody, and it says, "Yeah, but we also rented eighteen apartments this month." Well, I can't really argue with that,
+[30:06.1 - 30:11.1] so I wanna be able to see all the data Do I have number of apartments rented this month?
+[30:11.1 - 30:14.1] You have number of move-ins this month.
+[30:14.1 - 30:15.5] Yeah, that's the same thing.
+[30:15.5 - 30:16.0] Yeah.
+[30:16.0 - 30:18.2] Hold on.
+[30:18.2 - 30:23.8] You want me to hand this off to Bob and Chris, or you want me- No, I want you to design it.
+[30:23.8 - 30:27.2] Uh, let me show you where to put it, and then- You want me and, uh, Brandon to do it?
+[30:27.2 - 30:27.8] What?
+[30:27.8 - 30:31.6] You want me and Brandon to do it off the, off the side, or you want me to hand it off to Chris and Bob?
+[30:31.6 - 30:32.5] No, I want...
+[30:32.5 - 30:33.1] You can't do it.
+[30:33.1 - 30:34.9] The data doesn't exist in the database.
+[30:34.9 - 30:40.7] You need to go out there, put it in the screen, and let them program it.
+[30:40.7 - 30:42.9] Okay.
+[30:42.9 - 30:44.1] You mean make a wire for it?
+[30:44.1 - 30:45.5] What?
+[30:45.5 - 30:46.3] What do you mean- Make a wire.
+[30:46.3 - 30:46.6] Yeah.
+[30:46.6 - 30:47.4] Yeah, yeah, yeah, yeah.
+[30:47.4 - 31:05.2] And
+[31:05.2 - 31:09.0] come up with a couple of ways it would look, so we can pick the...
+[31:09.0 - 31:19.3] Um,
+[31:19.3 - 31:27.0] Mark, with the, with Connect UC, they said that clearing the cache might fix the problem, too, and they gave me directions on how to do it.
+[31:27.0 - 31:27.6] I had to do it.
+[31:27.6 - 31:28.0] All right, I'll do that.
+[31:28.0 - 31:29.1] Okay, I was, I wasn't sure.
+[31:29.1 - 31:34.2] I also found a problem where there actually was duplicates in my phone, so I went through most of them and got rid of it.
+[31:34.2 - 31:35.1] Gotcha.
+[31:35.1 - 31:35.9] Maybe it was...
+[31:35.9 - 31:39.0] Was it syncing your own contacts with, like, Outlook?
+[31:39.0 - 31:40.5] That was the only thing I could think of in my head.
+[31:40.5 - 31:42.2] Well, it always syncs my contacts with Outlook.
+[31:42.2 - 31:50.5] Yeah, so maybe it was just when people's numbers changed and stuff, and then they just duplicated instead of, like, overwriting.
+[31:50.5 - 31:52.7] Um, so yeah- Okay ...
+[31:52.7 - 31:59.4] they said that, they said that should fix it after I sent in the reference number thing from, uh, yesterday or whatever.
+[31:59.4 - 31:59.5] So...
+[31:59.5 - 32:02.0] Oh, and then I fixed the...
+[32:02.0 - 32:04.0] You know why the call thing was still coming to you?
+[32:04.0 - 32:07.2] There were two, um, auto attendants.
+[32:07.2 - 32:09.7] So I had changed one of them, but not the other one.
+[32:09.7 - 32:09.9] Oh.
+[32:09.9 - 32:12.7] And I think the other one was the one assigned, so I have it forcing.
+[32:12.7 - 32:15.0] And then I tested it, too, to make sure.
+[32:15.0 - 32:20.7] I called that number, pressed 4, and it goes straight to your voicemail now for both of those- All right.
+[32:20.7 - 32:20.8] Good ...
+[32:20.8 - 32:21.6] uh, auto attendants.
+[32:21.6 - 32:24.8] So whichever one we end up using, you should be golden.
+[32:24.8 - 32:34.7] And then if your voicemail, if anybody ever tells you that it gets full, uh, we can just clear it with one click of a button if you want that.
+[32:34.7 - 32:36.3] Can I clear all my voicemails out now?
+[32:36.3 - 32:36.7] Okay.
+[32:36.7 - 32:37.4] Yeah, sure.
+[32:37.4 - 32:42.2] But, and it's just as simple as- I just don't wanna have it fill up when I'm- Yeah, of course.
+[32:42.2 - 32:42.5] Okay.
+[32:42.5 - 32:48.9] It's as simple as that, though, 'cause it gives me, on the admin part of SkySwitch, it's like a one click, and it clears everything, so.
+[32:48.9 - 32:49.1] Okay.
+[32:49.1 - 32:49.7] I can clear them all out.
+[32:49.7 - 32:50.2] Yeah.
+[32:50.2 - 32:50.8] I'll do that now.
+[32:50.8 - 32:56.7] I'm just saying in future reference, if anybody ever tells you that's the case, just let me know and it's one click of a button.
+[32:56.7 - 33:03.2] Which, for whatever reason, they don't let the...
+[33:03.2 - 33:06.5] On your own user portal, they don't have that ability.
+[33:06.5 - 33:12.0] You have to individually delete every voicemail, which is kind of fucking stupid, but.
+[33:12.0 - 33:16.4] Yeah, right now you have 146, so.
+[33:16.4 - 33:18.2] And how many can you have?
+[33:18.2 - 33:20.7] I think it depends.
+[33:20.7 - 33:22.9] It, it really it's dependent on the size.
+[33:22.9 - 33:27.4] Like, if someone left you a 20-minute voicemail, it takes up a bunch more space.
+[33:27.4 - 33:32.2] I've seen up in the, uh...
+[33:32.2 - 33:39.4] I think I've seen into the, like, 400 range or something like that, but it's really, it's just space dependent.
+[33:39.4 - 33:43.3] So if they're all quick voicemails, I would say 4 to 500.
+[33:43.3 - 33:46.5] And if they're long ones, probably, like, 200.
+[33:46.5 - 33:51.5] But that's, it's kind of a guesstimate, you know?
+[33:51.5 - 33:55.0] Oh, yeah.
+[33:55.0 - 34:00.8] Oh, and uh, that robocall thing is all settled.
+[34:00.8 - 34:04.1] We're, like, set up with the FCC.
+[34:04.1 - 34:11.1] Oh yeah, you want...
+[34:11.1 - 34:11.6] I should've...
+[34:11.6 - 34:14.1] I, I forwarded the email to Nicole.
+[34:14.1 - 34:15.5] I didn't forward it to you, though.
+[34:15.5 - 34:17.1] But it just says that.
+[34:17.1 - 34:24.7] Like, we're good and we're getting a, a credit on our next bill for them, like, reimbursing us with stuff.
+[34:24.7 - 34:37.7] My
+[34:37.7 - 34:41.4] ears were doing a little bit better this morning, and then they went back to the way they were.
+[34:41.4 - 34:43.6] Is that what...
+[34:43.6 - 34:45.6] Did you have, like, a thing done yesterday?
+[34:45.6 - 34:47.4] 'Cause you were saying a hemorrhoid done.
+[34:47.4 - 34:48.1] No, I had a hemorrhoid done.
+[34:48.1 - 34:49.4] Oh.
+[34:49.4 - 34:51.5] Oh, come on.
+[34:51.5 - 34:52.6] What's going on here?
+[37:13.2 - 37:17.5] I'm thinking the scoreboard right over here or right in here.
+[37:17.5 - 37:21.6] Where?
+[37:21.6 - 37:30.2] Like right over here, right over here.
+[37:30.2 - 37:34.0] So, yeah, so pop the- So you want it to be- The call center stuff down ...
+[37:34.0 - 37:35.9] you want it to be visual, the whole thing be visual?
+[37:35.9 - 37:36.2] Yeah.
+[37:36.2 - 37:37.6] Wow.
+[37:37.6 - 37:38.2] Okay.
+[37:38.2 - 37:42.0] Because it's so important to see how their statistics are doing.
+[37:42.0 - 37:46.4] That's why we mock it up, and then maybe we can get rid of one or two of the items or three of the items.
+[37:46.4 - 37:51.1] So you wanna push the, the call center stuff- No, I don't wanna...
+[37:51.1 - 37:52.2] I'm, I'm not pushing anything.
+[37:52.2 - 37:53.6] 'Cause there's only...
+[37:53.6 - 37:56.9] There's, uh, that's, that- Gotta go into an existing spot there in the room.
+[37:56.9 - 38:10.6] Okay,
+[38:10.6 - 38:12.8] because there's, there's no, there's no real estate.
+[38:12.8 - 38:15.3] I don't know if this is real estate or not because- Yeah, it is.
+[38:15.3 - 38:15.9] It's real estate.
+[38:15.9 - 38:16.2] Okay.
+[38:16.2 - 38:18.0] Well, then- And I can always get rid of this if I have to.
+[38:18.0 - 38:23.7] Well, here, Mark, if you look at my screen, this is, like, how, like, most people when they have it up, they have this whole screen- Okay.
+[38:23.7 - 38:24.7] Well, use his screen.
+[38:24.7 - 38:25.4] Is it better, uh...
+[38:25.4 - 38:26.4] Their- Hello?
+[38:26.4 - 38:27.6] Like Robert's.
+[38:27.6 - 38:28.6] Hey, hi Mark.
+[38:28.6 - 38:29.3] It's Chris Bob.
+[38:29.3 - 38:30.0] Hi.
+[38:30.0 - 38:32.4] Is now a good time for you?
+[38:32.4 - 38:33.0] Yeah.
+[38:33.0 - 38:34.8] Perfect.
+[38:34.8 - 38:36.6] Just wanted to show you the what?
+[38:36.6 - 38:37.6] The narratives upgrade.
+[38:37.6 - 38:38.7] Yeah.
+[38:38.7 - 38:40.4] All right, so how do I get to it?
+[38:40.4 - 38:43.3] Uh, go to Narrative.
+[38:43.3 - 38:45.2] Yeah.
+[38:45.2 - 38:49.2] Okay, I'm here.
+[38:49.2 - 38:55.5] And then click on, um, the far top right.
+[38:55.5 - 38:56.8] It says Weekly Report.
+[38:56.8 - 38:58.6] Okay.
+[38:58.6 - 39:03.4] And that's how you can get there if you didn't get the link.
+[39:03.4 - 39:06.4] Until they start sending you a link.
+[39:06.4 - 39:11.6] There's only one.
+[39:11.6 - 39:15.3] Yeah, that was a test one- Oh, okay ...
+[39:15.3 - 39:15.8] that I did last night.
+[39:15.8 - 39:19.5] But if you change the date to, you know, last week or something.
+[39:19.5 - 39:25.5] Okay, so I need to know e- uh, let's go over right now.
+[39:25.5 - 39:27.4] Well, fir- fir- first run the report.
+[39:27.4 - 39:28.7] Yeah.
+[39:28.7 - 39:33.4] Okay, so what day you want me to start it at?
+[39:33.4 - 39:42.9] Okay.
+[39:42.9 - 39:43.1] Okay.
+[39:43.1 - 39:52.1] What does one dash one mean?
+[39:52.1 - 40:02.1] Oh, so that's a unit number?
+[40:02.1 - 40:07.8] I'll look at Robert's real...
+[40:07.8 - 40:10.4] Okay.
+[40:10.4 - 40:21.5] It should have the eviction amounts, um, uh,
+[40:21.5 - 40:23.8] by each unit when they put it in.
+[40:23.8 - 40:31.3] All right.
+[40:31.3 - 40:31.7] Yeah, okay.
+[40:31.7 - 40:32.0] All right.
+[40:32.0 - 40:32.5] Units are...
+[40:32.5 - 40:33.0] Okay.
+[40:33.0 - 40:41.7] Maybe we can put a picker that I can actually go in and choose a particular one that I wanted.
+[40:41.7 - 40:43.5] Okay.
+[40:43.5 - 40:45.1] Yeah, for the...
+[40:45.1 - 40:46.9] So I can skip to the property real quick.
+[40:46.9 - 40:55.9] Okay.
+[40:55.9 - 40:56.0] Okay.
+[40:56.0 - 40:59.6] Uh, again, you still have Betty Arriba still in here.
+[40:59.6 - 41:04.6] Yeah, you can't...
+[41:04.6 - 41:07.5] You gotta make it so that when they've been terminated, they disappear.
+[41:07.5 - 41:17.8] Let me go into Create a Narrative right now because something's
+[41:17.8 - 41:18.8] not right in this.
+[41:18.8 - 41:23.3] How do I create a narrative?
+[41:23.3 - 41:40.5] Oh,
+[41:40.5 - 41:40.8] I got it.
+[41:40.8 - 41:41.5] I figured it out.
+[41:41.5 - 41:42.2] I figured it out.
+[41:42.2 - 41:42.6] All right.
+[41:42.6 - 42:10.9] Okay,
+[42:10.9 - 42:13.9] so when you're creating the narrative, let's go through each line item in it.
+[42:13.9 - 42:15.0] I'm in one of them now.
+[42:15.0 - 42:17.3] Over time's fine.
+[42:17.3 - 42:19.2] Lease is signed.
+[42:19.2 - 42:21.4] Okay, that's good.
+[42:21.4 - 42:27.1] Um, we need to have move-ins, which you're pulling from the vacancy system.
+[42:27.1 - 42:29.0] You're not asking them to input it.
+[42:29.0 - 42:39.0] Well, I did, and there was, and it didn't,
+[42:39.0 - 42:39.9] it didn't pull them.
+[42:39.9 - 42:43.8] Okay.
+[42:43.8 - 42:47.7] Evictions, it- evictions, it should pull them also, and the amounts.
+[42:47.7 - 42:55.6] Hold on one second.
+[42:55.6 - 42:56.6] Hold on one second.
+[42:56.6 - 42:57.8] I'll go to Breckenridge then.
+[42:57.8 - 43:02.4] Okay.
+[43:02.4 - 43:11.7] You, you need to go in there and, and, and pull the-- all the data on these evictions, vacant units, and whatever.
+[43:11.7 - 43:16.3] Every one of these properties has an eviction going on.
+[43:16.3 - 43:25.2] Yeah.
+[43:25.2 - 43:27.5] You need to check to make sure that you're getting all the things.
+[43:27.5 - 43:30.8] And you need to display the, these data in the narrative to me.
+[43:30.8 - 43:37.9] Okay.
+[43:37.9 - 43:40.1] Um...
+[43:40.1 - 43:50.5] Well,
+[43:50.5 - 43:58.7] why is it, why is it n- why is it not taking the, um, evictions directly out of the, uh, the PropertyMax system?
+[43:58.7 - 44:01.0] Okay.
+[44:01.0 - 44:02.4] Like, you allowed to add them, too?
+[44:02.4 - 44:02.9] Okay.
+[44:02.9 - 44:04.7] All right.
+[44:04.7 - 44:13.2] No, by unit number.
+[44:13.2 - 44:14.3] By unit number.
+[44:14.3 - 44:17.0] All right.
+[44:17.0 - 44:27.5] And then, um, if they go ahead and they put it in there, and there's nothing in PropertyMax,
+[44:27.5 - 44:29.6] put it back into PropertyMax.
+[44:29.6 - 44:37.6] No.
+[44:37.6 - 44:40.0] On PropertyMax, there's a place for evictions.
+[44:40.0 - 44:42.2] The, the, the vacancy.
+[44:42.2 - 44:44.1] The vacancy report.
+[44:44.1 - 44:45.9] Yeah, the dashboard.
+[44:45.9 - 44:46.7] Put it in there.
+[44:46.7 - 44:49.6] If they put it in here, then it should go over there.
+[44:49.6 - 44:53.7] Okay.
+[44:53.7 - 45:09.3] Um,
+[45:09.3 - 45:19.7] we need a, uh, a email of all the people that didn't file narratives going to Robert, uh, Ethan, myself, and to the regional managers
+[45:19.7 - 45:24.5] on Friday.
+[45:24.5 - 45:29.2] I don't know.
+[45:29.2 - 45:39.1] And then you need, and then you need to send them, and you need to send an email to the, uh, manager saying they didn't do it.
+[45:39.1 - 45:44.7] I need you to talk to, um, Leslie about- Okay ...
+[45:44.7 - 45:51.4] uh, the girl Ashley is not putting in and doing, uh, narratives.
+[45:51.4 - 45:54.2] Well, she is not doing shit, huh?
+[45:54.2 - 45:54.8] Okay.
+[45:54.8 - 45:56.2] Yeah.
+[45:56.2 - 46:03.2] How do I see who didn't, who didn't do a narrative?
+[46:03.2 - 46:06.1] Who d- how do I see, how do I see who didn't do a narrative?
+[46:06.1 - 46:09.0] If you go to narrative- How do I say, how do I go la...
+[46:09.0 - 46:10.1] How do I go to last week?
+[46:10.1 - 46:16.7] Yeah, I'm here.
+[46:16.7 - 46:24.4] She-- The last time she- I know, but it says this week.
+[46:24.4 - 46:26.1] I wanna find out who didn't submit last week.
+[46:26.1 - 46:27.2] Leslie.
+[46:27.2 - 46:27.4] Hey.
+[46:27.4 - 46:28.7] What's, uh...
+[46:28.7 - 46:31.6] Mark asked me to reach out and see what was going on.
+[46:31.6 - 46:31.8] All right.
+[46:31.8 - 46:33.6] Well, maybe it's so I can just go in there easily.
+[46:33.6 - 46:35.1] So how do I change the date range?
+[46:35.1 - 46:36.3] I can just- Oh, on the report?
+[46:36.3 - 46:36.9] Okay.
+[46:36.9 - 46:39.3] Tell her she has to.
+[46:39.3 - 46:40.7] Okay.
+[46:40.7 - 46:41.6] Okay.
+[46:41.6 - 46:42.8] I'll just call her then.
+[46:42.8 - 46:43.9] I'm just...
+[46:43.9 - 46:44.8] Okay.
+[46:44.8 - 46:45.3] Yeah, yeah, yeah.
+[46:45.3 - 46:46.1] I just wanted to...
+[46:46.1 - 46:47.0] Okay.
+[46:47.0 - 46:47.6] Yeah.
+[46:47.6 - 46:49.6] I just wanted to touch base with you too.
+[46:49.6 - 46:53.0] Okay.
+[46:53.0 - 46:54.2] Yeah, yeah, yeah.
+[46:54.2 - 46:54.5] Gotcha.
+[46:54.5 - 46:55.5] All right, bye.
+[46:55.5 - 46:57.1] No, I don't want Anaheim.
+[46:57.1 - 46:59.1] I wanna see, but I wanna see who else didn't work.
+[46:59.1 - 47:08.1] All right.
+[47:08.1 - 47:19.8] All
+[47:19.8 - 47:25.8] right, um, make sure they're getting reminders.
+[47:25.8 - 47:26.7] Okay, is there anything else?
+[47:26.7 - 47:31.9] What?
+[47:31.9 - 47:36.6] Um, do you know which one it is?
+[47:36.6 - 47:42.7] Well, which one?
+[47:42.7 - 47:52.1] Uh, well, what do you mean which one?
+[47:52.1 - 47:59.8] Why is he-
+[47:60.0 - 48:01.5] like, so difficult to deal with.
+[48:01.5 - 48:04.2] All right, I'll call him up and make sure you get the right one.
+[48:04.2 - 48:08.2] Right.
+[48:08.2 - 48:10.5] I mean, he's the one that built them all.
+[48:10.5 - 48:11.9] Why wouldn't he know which one it is?
+[48:11.9 - 48:16.4] He doesn't remember which one has what in it.
+[48:16.4 - 48:20.5] No, I have a Larus on one of them.
+[48:20.5 - 48:27.9] You need to add a second hard drive so it boots into, like, whatever you're doing.
+[48:27.9 - 48:30.3] All right, I'll call Jeremy right now.
+[48:30.3 - 48:34.2] All right.
+[48:34.2 - 49:00.2] Hello?
+[49:00.2 - 49:04.3] Yeah, none of your managers are submitting, uh, narratives reports.
+[49:04.3 - 49:13.3] They have to go back all the way until, like, June 1st, and every week and go through them and submit them.
+[49:13.3 - 49:21.5] Everywhere in ev- ev- and not just your group, but a lot of the thing, people aren't doing it.
+[49:21.5 - 49:25.5] So in Northern California and Southern California are not doing it.
+[49:25.5 - 49:30.5] All right, bye.
+[49:30.5 - 50:11.4] Hello.
+[50:11.4 - 50:15.2] Yeah, uh, Leslie, um, none of your...
+[50:15.2 - 50:18.4] very few of your managers are submitting weekly narratives.
+[50:18.4 - 50:20.3] Okay.
+[50:20.3 - 50:22.9] And you need to have a conversation with Ashley.
+[50:22.9 - 50:27.9] Uh, I just tried calling her and couldn't get a hold of her, and so I sent her an email.
+[50:27.9 - 50:28.8] She's an asshole.
+[50:28.8 - 50:29.7] What?
+[50:29.7 - 50:31.5] She's an asshole.
+[50:31.5 - 50:34.4] Well, she better learn how to submit a fucking narrative.
+[50:34.4 - 50:36.5] Um- Yeah ...
+[50:36.5 - 50:43.6] Hey, Leslie, I, I sent her an email saying she has to submit it every week, every Thursday before the end of the day, FYI.
+[50:43.6 - 50:44.8] But- Okay ...
+[50:44.8 - 50:51.2] I'm sure you'll see it 'cause I know you get the emails too, but, uh, just FYI, so you could just elaborate more on that.
+[50:51.2 - 50:51.2] Yes, sure.
+[50:51.2 - 50:52.0] What, she doesn't want the job?
+[50:52.0 - 50:55.1] She wants the job.
+[50:55.1 - 50:59.9] She's just overweight, lazy, and we had an MOR there recently.
+[50:59.9 - 51:04.7] She was, like, nonchalant about everything and then That's not somebody I'd wanna go out there and keep.
+[51:04.7 - 51:06.9] In a year, she wants to...
+[51:06.9 - 51:07.9] She's moving to Dallas.
+[51:07.9 - 51:08.3] I don't...
+[51:08.3 - 51:14.6] Yeah, but we're, like, idling right now 'cause everything's going okay at the moment, and I can't be twenty different places at the same time.
+[51:14.6 - 51:18.3] No, she's gotta go out there, and we need to start looking for a replacement for her.
+[51:18.3 - 51:19.9] I, I know.
+[51:19.9 - 51:21.4] I talked to Miles already about it.
+[51:21.4 - 51:22.2] You can ask him.
+[51:22.2 - 51:22.5] All right.
+[51:22.5 - 51:23.5] We've already talked about that.
+[51:23.5 - 51:24.5] I'm gonna call him right now.
+[51:24.5 - 51:25.9] Okay.
+[51:25.9 - 51:26.6] All right, bye.
+[51:26.6 - 51:28.7] But get rid of it on your other managers too.
+[51:28.7 - 51:29.8] Yeah, I, I...
+[51:29.8 - 51:31.8] so, on it, don't worry.
+[51:31.8 - 51:31.9] All right.
+[51:31.9 - 51:32.7] Thank you.
+[51:32.7 - 51:41.1] Bye.
+[51:41.1 - 51:41.3] Bye.
+[51:41.3 - 52:03.6] Um,
+[52:03.6 - 52:08.4] Mark, if you want, I can send a company-wide email about the narratives.
+[52:08.4 - 52:08.7] Yes, Chad.
+[52:08.7 - 52:08.7] Yes, Chad.
+[52:08.7 - 52:13.6] Just kind of stating to everybody that they need to submit them every Thursday before the end of the day.
+[52:13.6 - 52:28.1] Hi,
+[52:28.1 - 52:29.3] you've reached Miles Minowyt.
+[52:29.3 - 52:31.3] I'm unable to take your call right now.
+[52:31.3 - 52:37.7] Please leave your name and telephone- Well, we're gonna have to replace Ashley.
+[52:37.7 - 52:40.2] What happened?
+[52:40.2 - 52:42.3] She's not doing any of her work.
+[52:42.3 - 52:50.1] Um, what, what specifically did you- She hasn't done anything in Property Max.
+[52:50.1 - 52:53.1] She doesn't do anything in, uh, weekly narratives.
+[52:53.1 - 52:54.2] She's not doing anything.
+[52:54.2 - 53:03.7] I just gave her a whole bunch of inspections to do to look at the property, correct?
+[53:03.7 - 53:04.6] Yeah.
+[53:04.6 - 53:05.3] Okay.
+[53:05.3 - 53:06.7] Did she do any of them?
+[53:06.7 - 53:07.4] I just gave them...
+[53:07.4 - 53:09.0] Yesterday when you gave them to me, she wasn't there.
+[53:09.0 - 53:09.8] She's doing it today.
+[53:09.8 - 53:11.4] We gave them to her yesterday.
+[53:11.4 - 53:12.0] You actually spoke to her?
+[53:12.0 - 53:12.1] Yeah.
+[53:12.1 - 53:12.8] Okay.
+[53:12.8 - 53:16.0] Supposedly, she's doing the inspections today.
+[53:16.0 - 53:16.9] We'll see if she does them.
+[53:16.9 - 53:18.8] Yeah.
+[53:18.8 - 53:26.5] Um, I, I text you last week and- Well, we gotta, uh, start looking for a replacement because sh- she's moving to Dallas and she's gonna be gone anyway.
+[53:26.5 - 53:28.2] Yep.
+[53:28.2 - 53:29.4] We're, uh...
+[53:29.4 - 53:32.2] I just talked to Leslie yesterday.
+[53:32.2 - 53:33.2] What?
+[53:33.2 - 53:35.2] I just talked to Leslie yesterday.
+[53:35.2 - 53:37.9] I think we're gonna start looking for a replacement.
+[53:37.9 - 53:38.8] Start looking?
+[53:38.8 - 53:40.2] You need to already have started.
+[53:40.2 - 53:43.7] I know.
+[53:43.7 - 53:48.2] Do me a favor and go into Nicole and make sure she's looking for a replacement in Odessa.
+[53:48.2 - 53:50.2] All right.
+[53:50.2 - 53:54.4] Well, I can tell you if an ad's posted or- Okay ...
+[53:54.4 - 53:54.6] whatever.
+[53:54.6 - 53:55.3] I'll tell...
+[53:55.3 - 53:56.5] I'll speak to Nicole now.
+[53:56.5 - 53:58.6] Okay.
+[53:58.6 - 54:00.0] Um, you call me.
+[54:00.0 - 54:10.4] Okay, so what I'm talking about is in Arborcrest, it shows that they billed a hundred and twenty-- uh, a hundred and seventeen
+[54:10.4 - 54:13.3] thousand, and they collected a hundred and sixteen thousand.
+[54:13.3 - 54:18.2] What's, what's the problem?
+[54:18.2 - 54:24.7] No, it was...
+[54:24.7 - 54:28.7] Uh, it must have been another property you confused me with.
+[54:28.7 - 54:34.8] No, never.
+[54:34.8 - 54:41.0] No, I look at Property Max.
+[54:41.0 - 54:42.9] I mean, the manager inputs the number.
+[54:42.9 - 54:49.4] And there's no way that that property she would have ever input one fifty-seven, so...
+[54:49.4 - 55:06.7] That
+[55:06.7 - 55:07.8] wasn't, that wasn't me.
+[55:07.8 - 55:08.6] Hold on one second.
+[55:08.6 - 55:16.8] Yeah, I didn't look at that number.
+[55:16.8 - 55:26.4] You're doing with who?
+[55:26.4 - 55:30.3] I know.
+[55:30.3 - 55:34.0] The problem with that property is, is the rents are, like, under a thousand dollars a month.
+[55:34.0 - 55:35.0] I don't wanna buy it.
+[55:35.0 - 55:41.9] All right, well, what, what else is going on?
+[55:41.9 - 55:48.6] Oh.
+[55:48.6 - 56:07.3] Who?
+[56:07.3 - 56:07.8] Oh, okay.
+[56:07.8 - 56:14.0] All right.
+[56:14.0 - 56:24.6] I mean, uh, we got major problems going on in, uh, in, uh,
+[56:24.6 - 56:25.3] Louisiana.
+[56:25.3 - 56:26.6] The collections are terrible.
+[56:26.6 - 56:32.6] Marrero is down twenty thousand dollars.
+[56:32.6 - 56:41.0] And she don't wanna evict anybody, and I told her she gotta evict.
+[56:41.0 - 56:49.2] Can't be.
+[56:49.2 - 56:50.1] It's the end of the month.
+[56:50.1 - 56:52.6] Once the end of the month happens, that's it.
+[56:52.6 - 56:58.3] You can't be-- You can't have somebody go over and pay last month's rent this month, the following month.
+[56:58.3 - 57:03.5] All right.
+[57:03.5 - 57:08.9] All right.
+[57:08.9 - 57:19.1] Uh, Pelican has did really bad also.
+[57:19.1 - 57:25.2] Mm-hmm.
+[57:25.2 - 57:29.5] All right.
+[57:29.5 - 57:30.2] Bye.
+[57:30.2 - 57:39.4] Um, there wasn't a job posting yet for Odessa, so I was going to post one.
+[57:39.4 - 57:43.5] It had it, uh, from the previous ad at fifty-five thousand for the manager.
+[57:43.5 - 57:46.9] I was just gonna repost that, like, as, like, a new ad.
+[57:46.9 - 57:49.8] I was just working off the old one's information.
+[57:49.8 - 57:51.3] Is that- Uh, that's for Odessa?
+[57:51.3 - 57:52.5] Correct, yeah.
+[57:52.5 - 57:53.0] Yeah, okay.
+[57:53.0 - 57:54.0] And then I'll let...
+[57:54.0 - 58:02.6] I'm gonna do that, and then I'll run downstairs and let Nicole know that it's posted, so she'll be getting, like, emails about it and to review and stuff.
+[58:02.6 - 58:08.3] Okay.
+[58:08.3 - 58:19.6] Excuse me.
+[58:19.6 - 58:33.4] Back
+[58:33.4 - 59:48.7] in a
+[59:48.7 - 59:59.6] second.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-11-11-13_transcription_20260705_193749.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-11-11-13_transcription_20260705_193749.txt
+[2J[H[3Jmanus-speech-to-text mp3/ROSE-REC2_Tuesday_V2026-06-30-11-11-13.mp3
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_Tuesday_V2026-06-30-11-11-13.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-11-11-13_chunks_20260705_193631/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-11-11-13_chunks_20260705_193631/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-11-11-13_chunks_20260705_193631/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-11-11-13_chunks_20260705_193631/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-11-11-13_chunks_20260705_193631/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[53:40.2 - 53:43.7] I know.
+[53:43.7 - 53:48.2] Do me a favor and go into Nicole and make sure she's looking for a replacement in Odessa.
+[53:48.2 - 53:50.2] All right.
+[53:50.2 - 53:54.4] Well, I can tell you if an ad's posted or- Okay ...
+[53:54.4 - 53:54.6] whatever.
+[53:54.6 - 53:55.3] I'll tell...
+[53:55.3 - 53:56.5] I'll speak to Nicole now.
+[53:56.5 - 53:58.6] Okay.
+[53:58.6 - 54:00.0] Um, you call me.
+[54:00.0 - 54:10.4] Okay, so what I'm talking about is in Arborcrest, it shows that they billed a hundred and twenty-- uh, a hundred and seventeen
+[54:10.4 - 54:13.3] thousand, and they collected a hundred and sixteen thousand.
+[54:13.3 - 54:18.2] What's, what's the problem?
+[54:18.2 - 54:24.7] No, it was...
+[54:24.7 - 54:28.7] Uh, it must have been another property you confused me with.
+[54:28.7 - 54:34.8] No, never.
+[54:34.8 - 54:41.0] No, I look at Property Max.
+[54:41.0 - 54:42.9] I mean, the manager inputs the number.
+[54:42.9 - 54:49.4] And there's no way that that property she would have ever input one fifty-seven, so...
+[54:49.4 - 55:06.7] That
+[55:06.7 - 55:07.8] wasn't, that wasn't me.
+[55:07.8 - 55:08.6] Hold on one second.
+[55:08.6 - 55:16.8] Yeah, I didn't look at that number.
+[55:16.8 - 55:26.4] You're doing with who?
+[55:26.4 - 55:30.3] I know.
+[55:30.3 - 55:34.0] The problem with that property is, is the rents are, like, under a thousand dollars a month.
+[55:34.0 - 55:35.0] I don't wanna buy it.
+[55:35.0 - 55:41.9] All right, well, what, what else is going on?
+[55:41.9 - 55:48.6] Oh.
+[55:48.6 - 56:07.3] Who?
+[56:07.3 - 56:07.8] Oh, okay.
+[56:07.8 - 56:14.0] All right.
+[56:14.0 - 56:24.6] I mean, uh, we got major problems going on in, uh, in, uh,
+[56:24.6 - 56:25.3] Louisiana.
+[56:25.3 - 56:26.6] The collections are terrible.
+[56:26.6 - 56:32.6] Marrero is down twenty thousand dollars.
+[56:32.6 - 56:41.0] And she don't wanna evict anybody, and I told her she gotta evict.
+[56:41.0 - 56:49.2] Can't be.
+[56:49.2 - 56:50.1] It's the end of the month.
+[56:50.1 - 56:52.6] Once the end of the month happens, that's it.
+[56:52.6 - 56:58.3] You can't be-- You can't have somebody go over and pay last month's rent this month, the following month.
+[56:58.3 - 57:03.5] All right.
+[57:03.5 - 57:08.9] All right.
+[57:08.9 - 57:19.1] Uh, Pelican has did really bad also.
+[57:19.1 - 57:25.2] Mm-hmm.
+[57:25.2 - 57:29.5] All right.
+[57:29.5 - 57:30.2] Bye.
+[57:30.2 - 57:39.4] Um, there wasn't a job posting yet for Odessa, so I was going to post one.
+[57:39.4 - 57:43.5] It had it, uh, from the previous ad at fifty-five thousand for the manager.
+[57:43.5 - 57:46.9] I was just gonna repost that, like, as, like, a new ad.
+[57:46.9 - 57:49.8] I was just working off the old one's information.
+[57:49.8 - 57:51.3] Is that- Uh, that's for Odessa?
+[57:51.3 - 57:52.5] Correct, yeah.
+[57:52.5 - 57:53.0] Yeah, okay.
+[57:53.0 - 57:54.0] And then I'll let...
+[57:54.0 - 58:02.6] I'm gonna do that, and then I'll run downstairs and let Nicole know that it's posted, so she'll be getting, like, emails about it and to review and stuff.
+[58:02.6 - 58:08.3] Okay.
+[58:08.3 - 58:19.6] Excuse me.
+[58:19.6 - 58:33.4] Back
+[58:33.4 - 59:48.7] in a
+[59:48.7 - 59:59.6] second.
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-11-11-13_transcription_20260705_193749.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-11-11-13_transcription_20260705_193749.txt

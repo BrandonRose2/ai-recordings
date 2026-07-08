@@ -1,0 +1,5 @@
+[00:30.8 - 00:32.1] Hello, this is a test.
+[00:32.1 - 00:34.0] Testing, testing, testing.
+[00:34.0 - 00:36.5] Testing, testing, testing.
+[00:36.5 - 00:41.1] Testing one, testing two, testing three.
+[00:41.1 - 00:44.1] Testing this AI device.

@@ -1,0 +1,334 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-13-08-05.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-13-08-05_chunks_20260706_161927/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-13-08-05_chunks_20260706_161927/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-13-08-05_chunks_20260706_161927/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-13-08-05_chunks_20260706_161927/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-13-08-05_chunks_20260706_161927/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.6 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[00:05.4 - 01:13.2] Control
+[01:13.2 - 01:13.9] X.
+[01:13.9 - 01:26.3] Correct
+[01:26.3 - 01:27.5] file.
+[01:27.5 - 01:35.1] This one at the end.
+[01:35.1 - 01:44.5] Fine.
+[01:44.5 - 01:47.0] Oh.
+[01:47.0 - 02:44.2] Um.
+[02:44.2 - 02:52.4] Oh.
+[02:52.4 - 03:02.8] Okay,
+[03:02.8 - 03:04.5] now.
+[03:04.5 - 03:40.5] Okay.
+[03:40.5 - 05:31.3] Okay.
+[05:31.3 - 05:52.9] Work.
+[05:52.9 - 07:21.7] Write
+[07:21.7 - 07:23.3] search.
+[07:23.3 - 07:27.1] Directory.
+[07:27.1 - 07:27.5] Directory.
+[07:27.5 - 08:00.1] Directory.
+[08:00.1 - 08:08.4] D-slash.
+[08:08.4 - 08:20.6] Save.
+[08:20.6 - 08:33.8] Control O.
+[08:33.8 - 09:24.8] Okay.
+[09:24.8 - 11:31.8] This,
+[11:31.8 - 11:32.4] okay.
+[11:32.4 - 11:38.1] Um.
+[11:38.1 - 11:54.6] Okay.
+[12:08.1 - 13:33.5] Um,
+[13:33.5 - 13:35.6] well.
+[13:35.6 - 13:41.3] Okay.
+[13:41.3 - 13:47.0] Um, paste.
+[13:47.0 - 13:55.1] Control Alt X.
+[13:55.1 - 14:07.7] Okay.
+[14:07.7 - 14:24.8] Nano
+[14:24.8 - 14:27.0] without setting a control box.
+[14:27.0 - 14:38.6] The
+[14:38.6 - 14:40.1] terminal for this.
+[14:40.1 - 14:51.8] Nano
+[14:51.8 - 14:53.5] this.
+[14:53.5 - 16:56.8] Still
+[16:56.8 - 16:58.6] a lot of form.
+[16:58.6 - 18:59.9] Oh,
+[18:59.9 - 19:04.9] there it goes.
+[19:04.9 - 19:08.6] Okay.
+[19:08.6 - 19:49.6] Oh,
+[19:49.6 - 20:46.7] man.
+[30:24.9 - 33:41.2] Did
+[33:41.2 - 33:41.8] that work?
+[33:41.8 - 34:18.4] Fuck.
+[34:18.4 - 34:52.1] I
+[34:52.1 - 35:00.7] mean, that might have something worth.
+[35:00.7 - 35:06.7] That pretty much sums it up.
+[35:06.7 - 35:35.2] Bloody.
+[35:35.2 - 35:50.8] I didn't
+[35:50.8 - 35:58.7] know he was gonna attack me.
+[35:58.7 - 35:59.0] So I...
+[48:46.2 - 48:48.2] I figured out a way how to save you on Manus.
+[48:48.2 - 48:58.3] I'm gonna do it on the back.
+[48:58.3 - 49:58.3] Hello?
+[49:58.3 - 49:58.7] Hi.
+[49:58.7 - 50:00.9] Hey, how are you?
+[50:00.9 - 50:02.3] I'm okay.
+[50:02.3 - 50:03.8] Driving back to the office.
+[50:03.8 - 50:07.3] I can't see you.
+[50:07.3 - 50:11.7] Hang on.
+[50:11.7 - 50:11.9] Huh?
+[50:11.9 - 50:13.9] I, I don't know what's going on.
+[50:13.9 - 50:14.9] Oh.
+[50:14.9 - 50:17.2] Okay, give me just a second.
+[50:17.2 - 50:19.8] Okie dokie.
+[50:19.8 - 50:22.0] Mm.
+[50:22.0 - 50:28.7] Okay, uh, camera.
+[50:28.7 - 50:30.5] Okay.
+[50:30.5 - 50:33.5] I don't know.
+[50:33.5 - 50:34.7] Ah, there we are.
+[50:34.7 - 50:37.8] Baby in blue.
+[50:37.8 - 50:39.3] Mm.
+[50:39.3 - 50:42.7] See if I beat Mark back to the office.
+[50:42.7 - 50:45.7] I don't really give a fuck but, 'cause I took a two-hour lunch.
+[50:45.7 - 50:55.8] But really, during my lunch hour, I figured out how to use a Manus alternative to save on two hundred dollar
+[50:55.8 - 51:00.5] subscription a month for points and credits, so if he decides to- Oh ...
+[51:00.5 - 51:02.8] bitch at me, then he ain't getting that little trick.
+[51:02.8 - 51:08.1] What are you doing?
+[51:08.1 - 51:10.5] Full sleep time?
+[51:10.5 - 51:12.9] I finished eating and I was, um...
+[51:12.9 - 51:17.3] Sorry about清理.
+[51:17.3 - 51:18.8] You finished eating?
+[51:18.8 - 51:24.7] Um, did you sleep?
+[51:24.7 - 51:25.7] I can't hear you.
+[51:25.7 - 51:29.0] Hmm.
+[51:29.0 - 51:30.5] How about now?
+[51:30.5 - 51:31.2] There we go.
+[51:31.2 - 51:31.9] You muted me.
+[51:31.9 - 51:33.5] Oh, sorry.
+[51:33.5 - 51:34.4] I clicked the thing.
+[51:34.4 - 51:36.6] Um, I, I...
+[51:36.6 - 51:46.2] Oh my God, um, sorry, I forgot.
+[51:46.2 - 51:48.4] Do you wanna call me later?
+[51:48.4 - 51:50.0] Um- You sound like you might not- No ...
+[51:50.0 - 51:50.9] be fully awake.
+[51:50.9 - 51:55.4] I just, I got some news and, um...
+[51:55.4 - 51:57.3] What's that?
+[51:57.3 - 51:58.7] If you wanna share.
+[51:58.7 - 52:02.0] Oh, yeah, 'cause I, I, of course, I have to go to Virginia.
+[52:02.0 - 52:02.6] Ooh.
+[52:02.6 - 52:05.1] Um, my grandmother's really ill.
+[52:05.1 - 52:06.2] Oh, sorry.
+[52:06.2 - 52:06.7] With cancer.
+[52:06.7 - 52:07.7] Oh.
+[52:07.7 - 52:17.8] Oh, thanks, and then, and then, like, um, I have to follow up on these applications because, uh, uh, if this continues like this, you know,
+[52:17.8 - 52:24.4] uh, there, there's a lot of stuff that hasn't been confirmed, but anyway, um, I'll follow, I'll follow up on that.
+[52:24.4 - 52:25.1] And I think...
+[52:25.1 - 52:29.6] Sorry, my eyes are a little bit- You did most of those in Indeed, right, you said?
+[52:29.6 - 52:33.8] No, I did it on the web- those on personal websites.
+[52:33.8 - 52:45.1] Um, the only one that I still have, like, doubts about is data annotation because they haven't sent me any other documents
+[52:45.1 - 52:52.9] or tests to fill out, but I do need to fill out, complete the, the one, the Upwork website.
+[52:52.9 - 52:53.6] Oh.
+[52:53.6 - 52:57.2] Uh, regarding to apply for- I'll go into my email whenever I get back to the office.
+[52:57.2 - 53:00.8] Um- And we could do that together, right?
+[53:00.8 - 53:02.9] Yeah.
+[53:02.9 - 53:08.9] It's been a while since I set mine up, so I'm not sure how long, I mean, what the process is.
+[53:08.9 - 53:10.7] Puta, get out of the way.
+[53:10.7 - 53:15.1] Um, I built this...
+[53:15.1 - 53:25.1] Speaking of Indeed, I built, I built this, um, AI thing for Nicole, the CRO, 'cause we have forty-one properties in
+[53:25.1 - 53:26.2] seven different states, right?
+[53:26.2 - 53:36.2] And so she's got like tons of applications all the time for various job positions, like property manager, maintenance, assistant manager and
+[53:36.2 - 53:46.3] so I built this, um, system where it takes all of the applications off of Indeed and it
+[53:46.3 - 53:51.7] cross-references it to the listing, the job listing, and it sorts...
+[53:51.7 - 53:57.1] it builds an Excel file with the top twenty candidates based off of their resumes.
+[53:57.1 - 53:58.7] Mm-hmm.
+[53:58.7 - 54:09.1] And then it gives it to you and it says like, um, the names and order, the top twenty, and then it goes across and it tells like their score based on work experience,
+[54:09.1 - 54:12.5] resume, school, like everything, like broken down.
+[54:12.5 - 54:20.3] She was like, "I just don't find that useful." I said, "Bitch- Yeah.
+[54:20.3 - 54:30.3] Just because she likes to, like, hop on Zoom and do a one-on-one, which, yeah, is important too, but, like, you can at least narrow down 500 or 1,000
+[54:30.3 - 54:32.8] applications to 20 and then FaceTime them.
+[54:32.8 - 54:33.7] Like, come on.
+[54:33.7 - 54:36.5] Quit making your life harder.
+[54:36.5 - 54:37.4] You're not learning anything.
+[54:37.4 - 54:38.9] Yeah, quit making your life harder.
+[54:38.9 - 54:43.1] So she's...
+[54:43.1 - 54:45.0] I don't know.
+[54:45.0 - 54:51.4] Maybe I should revisit that with her because whenever I started, I told you that she was not a proponent of AI.
+[54:51.4 - 54:53.1] Now she uses it every day.
+[54:53.1 - 54:56.0] Hmm.
+[54:56.0 - 55:02.9] So you're gonna follow up on job applications and revisit the Upwork stuff.
+[55:02.9 - 55:06.7] Yeah, but this woman needs to be fired.
+[55:06.7 - 55:09.5] She's doing things like the, uh...
+[55:09.5 - 55:12.2] She, you, you're, she's not moving with the times.
+[55:12.2 - 55:15.6] Well, she's the one retiring in November, then I was gonna take her job, you know?
+[55:15.6 - 55:20.1] Oh, shit, then, um, then, then everything's okay.
+[55:20.1 - 55:21.4] Yeah, bye.
+[55:21.4 - 55:23.2] Bye, Nicole.
+[55:23.2 - 55:27.8] She's going on an Alaskan cruise on Sunday for, no...
+[55:27.8 - 55:37.5] On, yeah, on Sunday for 10 days, so she'll be gone, and Mark will be gone, and I'm gonna be coasting, doing my own shit.
+[55:37.5 - 55:39.5] Mm.
+[55:39.5 - 55:40.9] Our shit.
+[55:40.9 - 55:51.2] And, um, once I get this finalized on this agentic
+[55:51.2 - 56:01.3] software that I am programming through my terminal, um, I'll do it on yours so that you can have all the credits that you ever need with- without paying subscriptions to anything.
+[56:01.3 - 56:03.9] Is that, is that possible?
+[56:03.9 - 56:04.8] Yeah.
+[56:04.8 - 56:08.1] I'm, like, my computer's writing the language right now, and I'm gonna check on it.
+[56:08.1 - 56:13.1] I, I can log onto my computer at work, and, um, even though he hates, like...
+[56:13.1 - 56:23.3] He told me, "You're not to bring your work, your personal computer up here." So I was like, "Okay, I'll just download the Chrome desktop extension and log in there, dumb fuck."
+[56:23.3 - 56:31.9] Um, and so I work on my computer, my home computer, on my work computer, and he doesn't know.
+[56:31.9 - 56:40.0] Oh, the, the, what you told me, the services and the, the location, uh, the IP address?
+[56:40.0 - 56:42.3] Well, I just...
+[56:42.3 - 56:48.2] I can get on my computer through the Chrome extension, Google, uh, Chrome desktop.
+[56:48.2 - 56:56.0] So as long as you sync them, then I can just go to that extension in my browser, and then my computer pops up from at home, the screen.
+[56:56.0 - 56:59.9] And you can use your computer from a distance.
+[56:59.9 - 57:04.5] Yeah, I can even switch the screens to my TV display, my second display, everything.
+[57:04.5 - 57:14.5] Brought the Rolls
+[57:14.5 - 57:22.4] today, the Rolls Royce today, the stolen car, 'cause I like it.
+[57:22.4 - 57:24.3] He doesn't even say hi to me anymore.
+[57:24.3 - 57:26.9] So what do you say?
+[57:26.9 - 57:28.4] He just, like, walks in.
+[57:28.4 - 57:29.5] He does his little, like...
+[57:29.5 - 57:33.7] I don't know if he's dying or what, but he just seems unhealthy.
+[57:33.7 - 57:39.2] He's always, like, this nasty ass cough and, you know, he's 60.
+[57:39.2 - 57:41.4] Well, he's my parents' age.
+[57:41.4 - 57:43.6] He's actually in the middle of both of my parents'.
+[57:43.6 - 57:45.5] My parents are 59 and 61.
+[57:45.5 - 57:49.4] He was born in '60, December 30th of '60, actually.
+[57:49.4 - 57:50.3] Mm-hmm.
+[57:50.3 - 57:54.3] 'Cause his dumb ass makes his passwords all 12, you know, the same thing.
+[57:54.3 - 58:01.8] Oh, I smoked a lot at lunch 'cause I was so tired.
+[58:01.8 - 58:07.8] It was like, "Uh, that's the only way I'm gonna get through this day." I feel you.
+[58:07.8 - 58:16.4] And then at, like, 4:00, I'm gonna be like, "Fuck." Yeah, same.
+[58:16.4 - 58:16.4] Yeah.
+[58:16.4 - 58:17.2] What time is it?
+[58:17.2 - 58:18.2] 2:06.
+[58:18.2 - 58:19.5] Fuck it.
+[58:19.5 - 58:26.5] He has these speakers in the living room and my office that are $30,000 a piece, and he's only used them, like, twice.
+[58:26.5 - 58:29.9] Why?
+[58:29.9 - 58:30.3] Is he dumb?
+[58:30.3 - 58:40.7] And he also has this simulator downstairs that, like, is for professional drivers, like NASCAR and boating and airplane, and it was, like, $120,000.
+[58:40.7 - 58:42.1] He said he used it three times.
+[58:42.1 - 58:44.0] What?
+[58:44.0 - 58:46.2] Yeah, he's just a big man baby.
+[58:46.2 - 58:52.7] And so then- And then this guy- ...
+[58:52.7 - 58:52.7] there's good reason he- ...
+[58:52.7 - 58:57.1] um, started today, and he's supposed to be selling this software.
+[58:57.1 - 58:58.4] Um...
+[58:58.4 - 59:05.4] Uh, sorry, I got here, like, the exact same time Mark did.
+[59:05.4 - 59:11.8] Um, so I have to leave.
+[59:11.8 - 59:18.6] Um, I'll just park way down here 'cause, so he doesn't bitch at me.
+[59:18.6 - 59:21.2] He, like, tells me where we can and cannot park.
+[59:21.2 - 59:22.7] Like, "You cannot park there.
+[59:22.7 - 59:26.7] Move your car." Hmm.
+[59:26.7 - 59:27.2] Why?
+[59:27.2 - 59:31.0] 'Cause you are fucking old and can barely get out of your car, much less get in the building?
+[59:31.0 - 59:39.4] Okay, darling, I'm gonna let you rest, and I'm gonna go in here.
+[59:39.4 - 59:44.2] I, I can only rest for an hour and 10 minutes.
+[59:44.2 - 59:44.9] Mm-hmm.
+[59:44.9 - 59:46.5] I have to go to the gym at 7:00.
+[59:46.5 - 59:50.0] Well, um, text you.
+[59:50.0 - 59:51.2] Can I call you tonight?
+[59:51.2 - 59:52.2] Yeah, of course.
+[59:52.2 - 59:56.2] Okay, darling.
+[59:56.2 - 59:59.6] Have a good rest.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-13-08-05_transcription_20260706_162022.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-13-08-05_transcription_20260706_162022.txt
+[2J[H[3Jmanus-speech-to-text "ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-13-08-05.mp3"
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-13-08-05.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-13-08-05_chunks_20260706_161927/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-13-08-05_chunks_20260706_161927/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-13-08-05_chunks_20260706_161927/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-13-08-05_chunks_20260706_161927/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-13-08-05_chunks_20260706_161927/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[56:56.0 - 56:59.9] And you can use your computer from a distance.
+[56:59.9 - 57:04.5] Yeah, I can even switch the screens to my TV display, my second display, everything.
+[57:04.5 - 57:14.5] Brought the Rolls
+[57:14.5 - 57:22.4] today, the Rolls Royce today, the stolen car, 'cause I like it.
+[57:22.4 - 57:24.3] He doesn't even say hi to me anymore.
+[57:24.3 - 57:26.9] So what do you say?
+[57:26.9 - 57:28.4] He just, like, walks in.
+[57:28.4 - 57:29.5] He does his little, like...
+[57:29.5 - 57:33.7] I don't know if he's dying or what, but he just seems unhealthy.
+[57:33.7 - 57:39.2] He's always, like, this nasty ass cough and, you know, he's 60.
+[57:39.2 - 57:41.4] Well, he's my parents' age.
+[57:41.4 - 57:43.6] He's actually in the middle of both of my parents'.
+[57:43.6 - 57:45.5] My parents are 59 and 61.
+[57:45.5 - 57:49.4] He was born in '60, December 30th of '60, actually.
+[57:49.4 - 57:50.3] Mm-hmm.
+[57:50.3 - 57:54.3] 'Cause his dumb ass makes his passwords all 12, you know, the same thing.
+[57:54.3 - 58:01.8] Oh, I smoked a lot at lunch 'cause I was so tired.
+[58:01.8 - 58:07.8] It was like, "Uh, that's the only way I'm gonna get through this day." I feel you.
+[58:07.8 - 58:16.4] And then at, like, 4:00, I'm gonna be like, "Fuck." Yeah, same.
+[58:16.4 - 58:16.4] Yeah.
+[58:16.4 - 58:17.2] What time is it?
+[58:17.2 - 58:18.2] 2:06.
+[58:18.2 - 58:19.5] Fuck it.
+[58:19.5 - 58:26.5] He has these speakers in the living room and my office that are $30,000 a piece, and he's only used them, like, twice.
+[58:26.5 - 58:29.9] Why?
+[58:29.9 - 58:30.3] Is he dumb?
+[58:30.3 - 58:40.7] And he also has this simulator downstairs that, like, is for professional drivers, like NASCAR and boating and airplane, and it was, like, $120,000.
+[58:40.7 - 58:42.1] He said he used it three times.
+[58:42.1 - 58:44.0] What?
+[58:44.0 - 58:46.2] Yeah, he's just a big man baby.
+[58:46.2 - 58:52.7] And so then- And then this guy- ...
+[58:52.7 - 58:52.7] there's good reason he- ...
+[58:52.7 - 58:57.1] um, started today, and he's supposed to be selling this software.
+[58:57.1 - 58:58.4] Um...
+[58:58.4 - 59:05.4] Uh, sorry, I got here, like, the exact same time Mark did.
+[59:05.4 - 59:11.8] Um, so I have to leave.
+[59:11.8 - 59:18.6] Um, I'll just park way down here 'cause, so he doesn't bitch at me.
+[59:18.6 - 59:21.2] He, like, tells me where we can and cannot park.
+[59:21.2 - 59:22.7] Like, "You cannot park there.
+[59:22.7 - 59:26.7] Move your car." Hmm.
+[59:26.7 - 59:27.2] Why?
+[59:27.2 - 59:31.0] 'Cause you are fucking old and can barely get out of your car, much less get in the building?
+[59:31.0 - 59:39.4] Okay, darling, I'm gonna let you rest, and I'm gonna go in here.
+[59:39.4 - 59:44.2] I, I can only rest for an hour and 10 minutes.
+[59:44.2 - 59:44.9] Mm-hmm.
+[59:44.9 - 59:46.5] I have to go to the gym at 7:00.
+[59:46.5 - 59:50.0] Well, um, text you.
+[59:50.0 - 59:51.2] Can I call you tonight?
+[59:51.2 - 59:52.2] Yeah, of course.
+[59:52.2 - 59:56.2] Okay, darling.
+[59:56.2 - 59:59.6] Have a good rest.
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-13-08-05_transcription_20260706_162022.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-13-08-05_transcription_20260706_162022.txt

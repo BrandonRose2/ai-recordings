@@ -1,0 +1,575 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_Tuesday_V2026-06-30-10-11-12.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-10-11-12_chunks_20260705_193447/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-10-11-12_chunks_20260705_193447/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-10-11-12_chunks_20260705_193447/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-10-11-12_chunks_20260705_193447/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-10-11-12_chunks_20260705_193447/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.6 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[02:22.4 - 02:23.4] Hell yeah, dude.
+[02:23.4 - 02:26.0] I'm fucking tired.
+[02:26.0 - 02:29.5] Nicole is flipping out on me yesterday.
+[02:29.5 - 02:39.7] She was asking me a fucking bunch of rapid-fire questions about if we had, like, an incident report,
+[02:39.7 - 02:41.6] and she kept asking me questions- About what?
+[02:41.6 - 02:42.8] -about having an incident report.
+[02:42.8 - 02:50.8] Someone at Thibodaux, like, fell off a ladder or whatever fucking thing, like that sort of shit, like an incident, accident report thing.
+[02:50.8 - 02:56.6] And she asked, she's like, "Oh, do, do we have one?" And I was like, "I, I don't know.
+[02:56.6 - 03:04.9] I don't think so, but if we do, it's in the old health." And she's like, "Well, where is it?" And I was like, "I-- It would be in the old health.
+[03:04.9 - 03:08.8] I don't know if you brought that stuff over to Property Max.
+[03:08.8 - 03:11.4] Like, I, I don't know." And she's like, "Well, what...
+[03:11.4 - 03:21.5] Do, do we have one or not?" And I was like, "I, I don't know." And then she was like, "Fine, I'll just look it up myself." And I was like, "What?"
+[03:21.5 - 03:24.6] And she's like, "You're d- you're I don't know, I don't know, I don't know." Like, what?
+[03:24.6 - 03:26.9] I was like, "I can look it up.
+[03:26.9 - 03:32.1] I can look for one if you..." I, I was like, "You didn't even ask me to look for one.
+[03:32.1 - 03:34.9] If you'd asked me to, okay, I'll look for one.
+[03:34.9 - 03:41.4] You literally didn't even ask." I-- And she was like, "Oh, I didn't know I had to be so specific.
+[03:41.4 - 03:46.5] Obviously, it was implied." And I was like, "Well, okay.
+[03:46.5 - 03:52.3] I don't know what the fuck you're talking about." Like, it wa- you-- A- I was answering your question.
+[03:52.3 - 03:52.8] I, I don't...
+[03:52.8 - 03:53.5] Whatever.
+[03:53.5 - 03:53.9] Fine.
+[03:53.9 - 03:55.8] I'll look for one.
+[03:55.8 - 03:58.3] You just had to ask.
+[03:58.3 - 04:01.6] And then I walk away, and I fucking, I give her...
+[04:01.6 - 04:03.4] And I send her an email, and I was like, "Oh, hey.
+[04:03.4 - 04:13.5] I don't-- I looked in old health-- I looked in the old health, and it's like, it's just like a, like a request, like, it,
+[04:13.5 - 04:15.9] it's an accident report, but it's just bullshit.
+[04:15.9 - 04:27.1] It's like, it, it's just a reque- it just is, like, details and whatever." And she was like, "Well, I don't know what you're referencing, and, uh, can you send it to me?" And,
+[04:27.1 - 04:36.7] and then I went down there, and I was just like, "Oh, yeah, I was gonna show you, like, go in the old health." She's like, "I'm not looking it up." And I was like, "Nicole, I'm not...
+[04:36.7 - 04:39.7] I- it's like, I, I can't send it to you.
+[04:39.7 - 04:41.3] It's just gonna be a screenshot.
+[04:41.3 - 04:43.8] I'm n- I'm not- Yeah -trying to, like, restart.
+[04:43.8 - 04:44.3] I'm not...
+[04:44.3 - 04:48.3] It, this isn't a, like, me giving you the middle finger 'cause you asked a question.
+[04:48.3 - 04:49.8] Like, I'm, it's- Sure, yeah ...
+[04:49.8 - 04:50.9] it's like a request.
+[04:50.9 - 04:52.6] It's like an employee request.
+[04:52.6 - 04:53.4] It's not...
+[04:53.4 - 04:58.9] And it's, quite frankly, it's dog shit 'cause it's just details, type it up and done.
+[04:58.9 - 05:00.3] And she's like, "Oh, okay.
+[05:00.3 - 05:01.0] Oh, okay.
+[05:01.0 - 05:01.7] I understand.
+[05:01.7 - 05:11.9] I understand." And it's like, dude, why are you being such a raging cunt about it- -when you just couldn't ask the question that you wanted, which is,
+[05:11.9 - 05:17.2] "Can you please look it up and see if we have one?" And it's like, I don't...
+[05:17.2 - 05:22.3] And she thought I was trying to fucking, like, reignite and be a douchebag to her again this morning.
+[05:22.3 - 05:24.4] And it's like, holy fuck, dude.
+[05:24.4 - 05:28.4] Like, this is not what's happening.
+[05:28.4 - 05:30.4] We fucking lax.
+[05:30.4 - 05:34.7] That's wild.
+[05:34.7 - 05:37.9] Dude, it was wild how mad she got.
+[05:37.9 - 05:40.2] And you had her do that shit to you, right?
+[05:40.2 - 05:42.5] Where she's just like, "I'll, I'll do it myself.
+[05:42.5 - 05:44.0] Whatever." Yeah.
+[05:44.0 - 05:47.1] Where it's like, are you fucking kidding me?
+[05:47.1 - 05:57.1] 'Cause basically what she's doing is like, "You should understand what I'm asking for with my questions, and you should go the
+[05:57.1 - 06:03.4] extra mile and do it." It's like, well- You know what I did leave a comment.
+[06:03.4 - 06:06.3] I did say something to her when she was getting all pissed yesterday.
+[06:06.3 - 06:16.3] I was like, well, I could look it up and then I'm going to probably find an old one and it's going to not be the right one and you're going to need to get your eyes on it and tell me it's wrong.
+[06:16.3 - 06:21.4] She didn't like that, I don't think.
+[06:21.4 - 06:26.1] But that shit's, you know that shit's true.
+[06:26.1 - 06:28.3] I know you know that.
+[17:42.8 - 17:45.4] Oh.
+[17:45.4 - 17:57.3] Did
+[17:57.3 - 18:01.2] that-- I thought Abraham was saying that Mark said no to that.
+[18:01.2 - 18:05.2] I was saying that That's what I mean.
+[18:05.2 - 18:10.0] Like, I thought Abraham said you t- you asked him and he said no.
+[18:10.0 - 18:17.7] Well, whatever.
+[18:17.7 - 18:22.9] I mean, obviously I'm down.
+[18:22.9 - 18:29.9] You see that mouse thing of, uh, Brandon sent?
+[18:29.9 - 18:30.6] Yeah.
+[18:30.6 - 18:39.4] It might be chill for you to not have to, uh, do the thing.
+[18:39.4 - 18:40.7] Yeah.
+[18:40.7 - 18:45.1] Don't sound too excited.
+[18:45.1 - 18:45.7] I'm sorry.
+[18:45.7 - 18:46.5] I'm on interviews.
+[18:46.5 - 18:47.7] You're good.
+[18:47.7 - 18:48.7] I'm fucking with you.
+[18:48.7 - 18:51.5] I know you're texting or something.
+[18:51.5 - 20:39.7] Hi,
+[20:39.7 - 20:41.0] Jennifer.
+[20:41.0 - 20:56.0] So
+[20:56.0 - 21:07.9] you gotta elaborate
+[21:07.9 - 21:13.8] a little more.
+[21:13.8 - 21:14.3] Mm-hmm.
+[21:14.3 - 21:24.4] Uh, sure.
+[21:24.4 - 21:29.0] But do, do you not have an ID and pin?
+[21:29.0 - 21:30.9] Like, that's not how you log in?
+[21:30.9 - 21:39.1] 'Cause I would assume that's how you log in and then, then it would be a matter of having your login information.
+[21:39.1 - 21:45.3] I know it keeps you logged in regularly, but it may always get messed up.
+[21:45.3 - 21:49.3] So do you not have an email from Robert with that stuff or?
+[21:49.3 - 22:02.0] Uh,
+[22:02.0 - 22:02.4] okay.
+[22:02.4 - 22:03.4] He's...
+[22:03.4 - 22:08.7] It's probably...
+[22:08.7 - 22:09.5] Well, is this...
+[22:09.5 - 22:14.2] Well, more importantly, is this the first time you've opened it since he was there?
+[22:14.2 - 22:16.4] Oh, okay.
+[22:16.4 - 22:26.6] 'Cause I was like, if you, if it, if you wait that long between using something, a lot of the times it will, uh, it will
+[22:26.6 - 22:31.4] have you, you know, logged out at that point, uh, for whatever reason, so.
+[22:31.4 - 22:33.9] Well, yeah, it logs you out if you're, it...
+[22:33.9 - 22:37.4] The My Loan Worker is the inspection software.
+[22:37.4 - 22:43.5] It shouldn't, just for reference, it's, uh, it shouldn't usually be a while.
+[22:43.5 - 22:45.7] That's a monthly thing every month.
+[22:45.7 - 22:46.2] Who is that?
+[22:46.2 - 22:49.8] I'm pretty sure you have to be doing like twenty or so units or something.
+[22:49.8 - 22:50.4] Is that Ashley?
+[22:50.4 - 22:52.7] Uh, but give me one second.
+[22:52.7 - 22:57.3] I'm gonna ask Robert 'cause he's here in the office with me while I do Jackson's thing, okay?
+[22:57.3 - 22:59.8] So I'll see what he, what the deal is.
+[22:59.8 - 23:00.9] Is that Ashley?
+[23:00.9 - 23:02.0] That's Jennifer.
+[23:02.0 - 23:02.4] Oh.
+[23:02.4 - 23:06.3] And her app logged her out, and then I was like- Yeah, she has a mind blanking.
+[23:06.3 - 23:11.4] And then, but she doesn't know what her ID, like, the log- I'll send it to her.
+[23:11.4 - 23:11.4] Okay.
+[23:11.4 - 23:11.4] I'll send it to her.
+[23:11.4 - 23:11.9] Can I send you a link?
+[23:11.9 - 23:21.7] But she-- I was telling her too, like, "Hey, have you not been in it since he was there?" And she's like, "No, but it has been a while." So I'm telling her it's like, what, twenty units a month, right?
+[23:21.7 - 23:24.9] Hey, Jennifer.
+[23:24.9 - 23:32.9] Um, so Robert has that information, so he's gonna go ahead and shoot it over to you in, in just a second here.
+[23:32.9 - 23:35.7] He's just, like, wrapping up a phone call, and then he'll- Hi, Ashley.
+[23:35.7 - 23:36.4] This is Robert Haley ...
+[23:36.4 - 23:37.2] he'll come on you in a minute.
+[23:37.2 - 23:39.2] Um, but I did confirm with him.
+[23:39.2 - 23:39.3] I have it.
+[23:39.3 - 23:47.9] So, um- So make sure- Mark had me yesterday- Uh, to, to, to- Assign you, um- Using it every month, we're, uh, it's expected- Twenty units inspection ...
+[23:47.9 - 23:49.9] for you to do an inspection on- So, um- ...
+[23:49.9 - 23:51.5] twenty or so units.
+[23:51.5 - 23:51.9] Hold on one second.
+[23:51.9 - 23:53.6] So it's like twenty or more.
+[23:53.6 - 23:56.4] Just, I know he probably gave you the rundown- Can you hear me now?
+[23:56.4 - 23:59.4] But just as a reminder, 'cause you're saying it's, it's been a while
+[24:00.3 - 24:10.5] Um, okay, so- I'm going to email you your login, and when you log into the app, um, you're gonna see the units that I have assigned to you for inspection Doing the inspections or...
+[24:10.5 - 24:11.2] Sorry.
+[24:11.2 - 24:12.2] Yeah.
+[24:12.2 - 24:13.3] I mean- They need to be done by Thursday ...
+[24:13.3 - 24:23.6] yeah, it's just, you know, one of the things- I don't know what happened, what's going on, but Mark came in here yesterday screaming at me- We wanna make sure the units are maintained, and you never know what's going on with these, the tenants in there, you know- For you to, for me to assign 10 units to you, and
+[24:23.6 - 24:25.0] he wanted them done today ...
+[24:25.0 - 24:29.5] doing X, Y, and Z, and if you don't inspect them- But I'm reasonable, and I know probably what the fuck going on and stuff ...
+[24:29.5 - 24:29.8] we don't know.
+[24:29.8 - 24:34.6] But, you know, it's kind of one of those, which we know what they're getting up to in there- So I'm gonna give you a Thursday through Friday holiday ...
+[24:34.6 - 24:36.3] and what they're messing up, and we just never look at it So, um- So kind of that's kind of the premise ...
+[24:36.3 - 24:40.1] okay, let me just, let me just confirm what you're going to do- Mm-hmm ...
+[24:40.1 - 24:41.9] so you, we have this all dialed in.
+[24:41.9 - 24:42.6] Um.
+[24:42.6 - 24:51.1] Yeah, I understand.
+[24:51.1 - 24:51.4] I don't...
+[24:51.4 - 24:52.9] Like I said, I don't know what's going on.
+[24:52.9 - 24:53.8] I didn't ask.
+[24:53.8 - 25:04.1] He's just like, "I want Ashley to do these units." Do you know- Uh, I'm pretty sure it just goes into- Which is awesome, but- I don't even see- I'm understanding
+[25:04.1 - 25:04.1] you now, so- ...
+[25:04.1 - 25:06.1] there being a spot for inspections.
+[25:06.1 - 25:07.5] Uh- One, two, three, four ...
+[25:07.5 - 25:09.9] oh, well, there technically are.
+[25:09.9 - 25:13.3] I think it's all integrated, so you don't really have to...
+[25:13.3 - 25:18.4] You may have to check some stuff off in Property Max, but, um- So when you log in, it's gonna, you're gonna...
+[25:18.4 - 25:24.5] I'm just ki- then kinda tell you, and then you're gonna call me, um, 'cause you're gonna need to, I'm gonna need to explain it to you.
+[25:24.5 - 25:26.1] But when you, when you log in- Yeah.
+[25:26.1 - 25:27.6] I, I think you're, I think it's kind of integrated- ...
+[25:27.6 - 25:28.4] it's gonna say start a patrol or start patrol.
+[25:28.4 - 25:29.1] Um, make sure you- ...
+[25:29.1 - 25:31.2] uh, so you don't have to do anything ...
+[25:31.2 - 25:35.1] click on the- Uh, let me double-check though.
+[25:35.1 - 25:36.3] I wanna see.
+[25:36.3 - 25:44.9] Hold on.
+[25:44.9 - 25:46.9] Okay, pick the task.
+[25:46.9 - 25:58.5] Let
+[25:58.5 - 26:04.6] me just try to see.
+[26:04.6 - 26:07.3] I'm gonna get you your tasks that I'm gonna send to you.
+[26:07.3 - 26:16.9] Uh, yeah, I think I'll double-check with, uh, Robert, and I'll call you if it's not the case, but I think it's, like, there's an integration.
+[26:16.9 - 26:20.8] Uh, so you should only be doing it in the app.
+[26:20.8 - 26:23.8] I don't think you have to put anything in the Property Max regarding that.
+[26:23.8 - 26:25.6] You can just change this- But like I said, I'll double-check ...
+[26:25.6 - 26:27.3] to patrol.
+[26:27.3 - 26:28.3] Okay?
+[26:28.3 - 26:28.6] All right.
+[26:28.6 - 26:33.5] Yeah, and just keep an eye out for that, uh, email from Robert.
+[26:33.5 - 26:33.9] Yeah.
+[26:33.9 - 26:34.8] All right.
+[26:34.8 - 26:35.7] Take care, Jennifer.
+[26:35.7 - 26:37.7] You're welcome.
+[26:37.7 - 26:37.9] Bye.
+[26:37.9 - 26:43.7] I think I have to raise some...
+[26:43.7 - 26:44.1] You know what?
+[26:44.1 - 26:47.9] I'm going to give you a break just because I, I need to get this dialed in.
+[26:47.9 - 26:53.9] So just do me a favor and do 20 units by Thursday.
+[26:53.9 - 26:57.8] Any, any...
+[26:57.8 - 27:07.2] Because I, I programmed them, but, but because I started it yesterday, I think it, it got deleted on your, on your side, so you don't, I don't know which assignments.
+[27:07.2 - 27:10.8] Like, there's no way for me to see the checkpoint assignment.
+[27:10.8 - 27:11.7] Oh, wait.
+[27:11.7 - 27:11.7] Let me see.
+[27:11.7 - 27:12.2] Let me see.
+[27:12.2 - 27:13.0] I did it at night.
+[27:13.0 - 27:15.7] Checkpoint assignment list.
+[27:15.7 - 27:17.8] Yeah, you don't have any.
+[27:17.8 - 27:18.7] There's no assignments.
+[27:18.7 - 27:19.8] Look in the history here.
+[27:19.8 - 27:21.4] There's no assignments, so I...
+[27:21.4 - 27:31.2] 'Cause they redid their app, so I don't know how to use it yet, so I need to learn it, and I'm gonna be handing this over to Brandon, so he's gonna have to do it.
+[27:31.2 - 27:32.2] You didn't finish that one.
+[27:32.2 - 27:35.5] Yeah, I need to, we need to figure this out.
+[27:35.5 - 27:39.8] They just redid their whole app, so the, the checkpoint assignments are gonna look different.
+[27:39.8 - 27:43.5] So just do any 20 units, and make sure you take pictures.
+[27:43.5 - 27:45.4] Okay?
+[27:45.4 - 27:47.7] And, and look, h- here's, here's the issue.
+[27:47.7 - 27:49.6] I'm gonna, I'm gonna tell you how this works out.
+[27:49.6 - 27:53.7] When you guys have, uh, uh, you have reacts or MRs?
+[27:53.7 - 27:54.6] I know you have MRs.
+[27:54.6 - 27:56.0] Do you have reacts or no?
+[27:56.0 - 28:05.1] Okay, so if you guys have a react there, and you guys fail, that shit falls on me because then, then they got...
+[28:05.1 - 28:15.1] Then they're gonna be like, "Robert pulled up her inspections." And then we go do your inspections, and if you don't show any inspections or you don't know, you can't identify which units are fucked up,
+[28:15.1 - 28:18.6] and then those units fail on the react, then that falls on me.
+[28:18.6 - 28:20.3] And I'm not gonna get yelled at for you.
+[28:20.3 - 28:21.8] I will then pull up your inspections.
+[28:21.8 - 28:26.6] Just I'll be like, "Look, she hasn't done shit." And then you're gonna get double yelled at.
+[28:26.6 - 28:29.9] But I'm still gonna get yelled at 'cause I wasn't monitoring your inspections.
+[28:29.9 - 28:33.8] But right now I'm kind of transitioning into Nicole's role, so I have...
+[28:33.8 - 28:37.7] I'm trying to train Brandon on my role and transition into Nicole's role.
+[28:37.7 - 28:40.8] So I haven't really been micromanaging your guys' inspections.
+[28:40.8 - 28:42.6] I've just been depending on you guys to do them.
+[28:42.6 - 28:46.5] And I understand you guys have a lot going on, but that's still not gonna be an excuse to Mark and Todd.
+[28:46.5 - 28:48.0] We're still both gonna get yelled at.
+[28:48.0 - 28:51.3] So that's when it counts.
+[28:51.3 - 28:54.4] If you f- if you're gonna fail your react, then we're both gonna get in trouble.
+[28:54.4 - 29:02.9] So go, just do, you know, try to do seven, seven units today, seven units tomorrow, or seven units today and 13 units tomorrow.
+[29:02.9 - 29:04.0] However, make that...
+[29:04.0 - 29:04.9] Or what's today?
+[29:04.9 - 29:05.3] Tuesday?
+[29:05.3 - 29:10.9] Seven units today, seven units tomorrow, seven units on Thursday, or six units on Thursday.
+[29:10.9 - 29:11.6] That'll be 20.
+[29:11.6 - 29:14.5] But you gotta take pictures, and you gotta, you know, they have to look...
+[29:14.5 - 29:15.9] Only 'cause you're on the radar.
+[29:15.9 - 29:19.4] I don't know what the fuck you did to get on the radar, but that...
+[29:19.4 - 29:29.5] Well, I'm just saying you haven't done any inspections, and Mark came in here yelling at me yesterday saying, "Make sure you do the inspections." I had units assigned to you, but I think that if you don't
+[29:29.5 - 29:32.4] pull them up on the date or do them on the date, then they...
+[29:32.4 - 29:33.4] I have to learn this app.
+[29:33.4 - 29:35.7] They just redid it, so I don't know how, how that's gonna work.
+[29:35.7 - 29:39.7] But just do 20 units between now and Thursday, and we'll be good.
+[29:39.7 - 29:41.5] And then next month do them again.
+[29:41.5 - 29:47.6] But try to get them done by Thursday just so I can be like, "Here's your, here's your inspections." Okay, I'm gonna send you your login right now.
+[29:47.6 - 29:48.7] Okay, thank you so much.
+[29:48.7 - 29:49.3] All right, bye.
+[29:49.3 - 29:52.4] Yo.
+[29:52.4 - 29:53.1] Yeah.
+[29:53.1 - 30:02.7] In for inspections, does, uh, does it integrate into Property Max, or do they have to do shit in Property Max for inspections, or is it just they're unrelated or?
+[30:02.7 - 30:03.7] They're unrelated, bro.
+[30:03.7 - 30:04.3] Cool.
+[30:04.3 - 30:05.2] They just click on the link.
+[30:05.2 - 30:08.7] I just said that in the, in the email you would...
+[30:08.7 - 30:10.3] It, uh, I was like, "I'll tell.
+[30:10.3 - 30:29.4] I'll reach back out if it's not what I'm saying," which is, I said it's either integrated or you don't have to do anything, so
+[30:29.4 - 30:30.2] What's that?
+[30:30.2 - 30:34.3] Asia's in trouble?
+[30:34.3 - 30:35.4] Mm-hmm.
+[30:35.4 - 30:45.5] Yeah, when you get a second, uh,
+[30:45.5 - 30:49.3] send that shit off to Jennifer Parks at, uh, Crossroads.
+[30:49.3 - 30:55.3] 'Cause she don't know her fucking login.
+[30:55.3 - 32:03.3] Hello?
+[32:03.3 - 32:11.9] I've-- I, I told you.
+[32:11.9 - 32:14.1] I knew-- Once I seen the email, I knew it was coming.
+[32:14.1 - 32:17.8] I just told Ethan, I said, "Oh shit, here it comes." Fucking idiot.
+[32:17.8 - 32:28.5] I
+[32:28.5 - 32:29.1] told you.
+[32:29.1 - 32:35.4] I, I, that's why I told Blake yesterday too, I said, "He's fucking dead ass serious." I don't wanna talk on this line.
+[32:35.4 - 32:36.4] I don't wanna talk on this line.
+[32:36.4 - 32:46.5] I understand.
+[32:46.5 - 32:47.0] I understand.
+[32:47.0 - 32:48.4] Bye.
+[32:48.4 - 32:50.9] Stop calling me on the fucking recorded line.
+[32:50.9 - 32:52.4] Was- There's no call.
+[32:52.4 - 32:53.2] What's happening?
+[32:53.2 - 35:41.7] No,
+[35:41.7 - 35:43.2] I don't.
+[35:43.2 - 35:45.3] I don't want your call records.
+[35:45.3 - 35:46.4] Sorry.
+[35:46.4 - 35:49.4] I don't-- But it says call records, I didn't wanna know.
+[35:49.4 - 35:52.9] But okay, uh, I'm looking at it.
+[35:52.9 - 35:53.4] What's going on?
+[36:44.2 - 36:46.6] So, fuck.
+[36:46.6 - 37:01.6] So you-- uh, what, you don't wanna do it or were you just like Okay.
+[37:01.6 - 37:19.2] Did
+[37:19.2 - 37:21.1] you run this by, did you run this by Ginger?
+[37:21.1 - 37:23.5] 'Cause you know she has to be in the loop about everything.
+[37:23.5 - 37:28.6] Well, I know, but did you tell her that me or Nicole were gonna have to do this?
+[37:28.6 - 37:30.9] Okay.
+[37:30.9 - 37:32.6] All right, 'cause y-she's like...
+[37:32.6 - 37:38.2] Dude, w-we haven't talked since that one blowout and, and she like...
+[37:38.2 - 37:40.7] Like I didn't, I didn't, I didn't...
+[37:40.7 - 37:41.8] don't, not fucking...
+[37:41.8 - 37:45.3] I didn't involve you because I didn't wanna open up another can of worms.
+[37:45.3 - 37:51.8] But I got a call from fucking Blake and Miles saying all kinds of sh...
+[37:51.8 - 37:55.1] I'm not, I don't wanna get into it because it, it's passed, it's been three weeks.
+[37:55.1 - 38:01.7] But yeah, like I fucking, I got yelled at because, uh, not because of you, but because, you know...
+[38:01.7 - 38:02.2] I don't even want...
+[38:02.2 - 38:04.1] It doesn't matter anymore, so don't say nothing.
+[38:04.1 - 38:05.1] It has nothing to do with you.
+[38:05.1 - 38:06.6] It doesn't matter anymore.
+[38:06.6 - 38:07.0] Every...
+[38:07.0 - 38:16.1] Well, every-everything is smoothed over, but I got a call from New York from Miles and Blake saying that I was fucking doing this and I was doing that and I...
+[38:16.1 - 38:26.1] And luckily, I had Ethan to back me up because I had the phone call with Ginger when all that blowing up happened and I said, "Look, I haven't fucking spoken to Keturah since then.
+[38:26.1 - 38:29.8] I don't know what the fuck Ginger's talking about." You know?
+[38:29.8 - 38:31.0] You just...
+[38:31.0 - 38:32.6] Yeah, dude, yeah, it got bad.
+[38:32.6 - 38:34.5] And then Blake was like, "I can trust you?
+[38:34.5 - 38:38.3] Are you sure?" And I was like, "Dude, I don't, I don't fucking talk to Keturah no more.
+[38:38.3 - 38:40.1] You could ask Ethan, he was there.
+[38:40.1 - 38:42.5] I told Ginger if I need to get Mark involved," blah, blah, blah.
+[38:42.5 - 38:45.1] And he was like, "Okay, 'cause this is, this is, this is...
+[38:45.1 - 38:50.8] It, it got back to New York that you're fucking conspiring with one of the managers." And then I was like, "I already know what this is about.
+[38:50.8 - 38:51.9] Don't fucking..." Do you know?
+[38:51.9 - 38:56.2] I was like, "It's about Keturah." But it, and he goes, "Okay, I'm gonna fucking squash it.
+[38:56.2 - 38:59.0] Let's leave it at that." And then this was like three weeks ago.
+[38:59.0 - 38:59.4] Yeah.
+[38:59.4 - 39:00.6] So that's why I'm...
+[39:00.6 - 39:10.0] That's the o- the only reason why Hello?
+[39:10.0 - 39:11.6] Sorry, I guess he got disconnected.
+[39:11.6 - 39:16.3] Yeah.
+[39:16.3 - 39:17.9] So I mean, it's all good now.
+[39:17.9 - 39:19.0] I just wanted, I just...
+[39:19.0 - 39:20.1] That's why I'm asking you.
+[39:20.1 - 39:28.7] Well, I'm glad it's great then, then just disregard this.
+[39:28.7 - 39:35.2] But, um, my reason for bringing this up is because I just want, I wanna know if, if Ginger knows about this because if I make this, this...
+[39:35.2 - 39:35.6] Okay.
+[39:35.6 - 40:02.0] Okay.
+[40:02.0 - 40:02.4] All right.
+[40:02.4 - 40:03.3] Yeah, that's fine.
+[40:03.3 - 40:03.6] That's fine.
+[40:03.6 - 40:04.1] Whichever.
+[40:04.1 - 40:05.9] All right.
+[40:05.9 - 40:06.2] Okay.
+[40:06.2 - 40:07.6] I just wanna make sure Ginger knows.
+[40:07.6 - 40:09.6] I don't wanna do anything without her , that's all I'm saying.
+[40:09.6 - 40:10.7] Okay.
+[40:10.7 - 40:12.6] Okay.
+[40:12.6 - 40:12.9] Okay.
+[40:12.9 - 40:13.1] All right.
+[40:13.1 - 40:13.9] All right, we're good.
+[40:13.9 - 40:14.4] Don't worry about it.
+[40:14.4 - 40:17.4] All right, bye.
+[40:17.4 - 40:20.1] Keturah wrote up Asia?
+[40:20.1 - 40:21.4] Yeah, they wanna fire her.
+[40:21.4 - 40:22.9] They wanna fire her?
+[40:22.9 - 40:23.7] Yeah, she's fired.
+[40:23.7 - 40:26.1] Who's they?
+[40:26.1 - 40:27.1] Like Ginger?
+[40:27.1 - 40:27.2] Ginger.
+[40:27.2 - 40:28.5] Well, that's what- Oh, yeah, yeah.
+[40:28.5 - 40:29.4] That's who I- Yeah.
+[40:29.4 - 40:31.1] And then what was, what's the other shit?
+[40:31.1 - 40:33.6] What was going on- Well, we- ...
+[40:33.6 - 40:36.7] what Nicole called you about or whatever when- Oh, hold, hold on, one second.
+[40:36.7 - 40:38.0] Because fucking...
+[40:38.0 - 40:39.6] You didn't get the email from Nicole?
+[40:39.6 - 40:41.0] About the fourth?
+[40:41.0 - 40:42.0] Hold on, no, hold on.
+[40:42.0 - 40:45.4] Yeah, um, uh- And you were telling her like Mark or something.
+[40:45.4 - 40:51.6] I told her yesterday Mark was gonna fucking blow up, and he called her fucking screaming at her face, fucking- Just now like this evening?
+[40:51.6 - 40:51.6] ...
+[40:51.6 - 40:52.4] "Who the fuck do you think you are?" Fuck yeah.
+[40:52.4 - 41:00.9] So she called Todd, Todd is in Italy, and fucking he's like, "Yeah, I'll text Mark and see." But that's why I called Blake yesterday and said, fucking...
+[41:00.9 - 41:04.5] I knew that Nicole, I knew that email was gonna fucking...
+[41:04.5 - 41:08.6] I, I, that's why I told, that's why I told you guys, fucking Mark is fucking dead ass serious.
+[41:08.6 - 41:09.8] He's gonna fucking blow up.
+[41:09.8 - 41:10.2] He's not...
+[41:10.2 - 41:11.3] It wasn't a joke.
+[41:11.3 - 41:13.7] That's why I brought it to the attention yesterday to check the temperature.
+[41:13.7 - 41:16.0] And I immediately called Blake.
+[41:16.0 - 41:17.0] I don't even know why he's so...
+[41:17.0 - 41:18.2] Like what...
+[41:18.2 - 41:18.6] That's...
+[41:18.6 - 41:21.6] It is what you're supposed to do .
+[41:21.6 - 41:22.3] Well, whatever.
+[41:22.3 - 41:23.1] Sorry, talk to you.
+[41:23.1 - 41:25.0] I gotta fucking fire somebody now.
+[41:25.0 - 41:25.3] All right.
+[41:25.3 - 41:26.0] Hello?
+[41:26.0 - 41:27.7] Sorry.
+[41:27.7 - 41:32.3] Okay.
+[41:32.3 - 41:33.3] I don't know, you know what?
+[41:33.3 - 41:33.9] Just email her.
+[41:33.9 - 41:35.8] I don't know how to do this.
+[41:35.8 - 46:20.6] Okay,
+[46:20.6 - 46:20.9] that's fine.
+[46:20.9 - 46:23.6] So don't fire her, just, just send her this writeup.
+[46:23.6 - 46:28.3] Well, yeah, we know.
+[46:28.3 - 46:29.2] I'm interviewing with Nicole.
+[46:29.2 - 46:30.7] I'm sitting in all, all the interviews.
+[46:30.7 - 46:32.8] Okay, so I'll send this writeup.
+[46:32.8 - 46:33.6] I'll, I'll get it.
+[46:33.6 - 46:34.9] Um, this is...
+[46:34.9 - 46:40.6] Katori said, "I just wanted to check with you before I did anything first," 'cause Katori emailed me, and I called her.
+[46:40.6 - 46:44.6] I was like, "What is this?" And she was like, "Well, uh..." I go, I go, "Did Ginger know about this?
+[46:44.6 - 46:48.3] 'Cause I'm not fucking doing shit unless I hear it from you or Ginger." She says, "Yes, yes, yes, yes, yes." So I'm like...
+[46:48.3 - 46:51.7] Okay.
+[46:51.7 - 47:10.7] Got
+[47:10.7 - 47:18.4] it.
+[47:18.4 - 47:27.6] Okay.
+[47:27.6 - 47:35.7] Yeah.
+[47:35.7 - 47:42.3] Okay.
+[47:42.3 - 47:43.3] All right, I'll send it out.
+[47:43.3 - 47:44.4] Uh, let me...
+[47:44.4 - 47:45.3] Okay, no problem.
+[47:45.3 - 47:46.0] Bye.
+[47:46.0 - 47:56.5] So
+[47:56.5 - 47:57.2] I just talked to Ginger.
+[47:57.2 - 47:59.9] She said just send this writeup to her, not fire-
+[47:60.0 - 48:04.0] So I guess we have somebody else and we're me and Nicole are interviewing people every day for this position.
+[48:04.0 - 48:08.0] I think we f-- I, I think we-- Yeah, I think we found, I think we found somebody.
+[48:08.0 - 48:10.6] But so we're gonna, uh, we interviewed her yesterday.
+[48:10.6 - 48:11.3] She's pretty good.
+[48:11.3 - 48:13.9] Um, so yeah.
+[48:13.9 - 48:17.6] So all right, I'll get with Nicole, and I'll, I'll send this out to her.
+[48:17.6 - 48:18.8] No problem.
+[48:18.8 - 48:19.2] Bye.
+[48:19.2 - 49:23.2] Three
+[49:23.2 - 49:23.2] milligrams.
+[49:23.2 - 49:23.4] Three milligrams.
+[49:23.4 - 49:26.2] Two fifteen.
+[49:26.2 - 49:29.1] Two fifteen.
+[49:29.1 - 49:30.0] Four fifty.
+[49:30.0 - 49:35.0] Forty and then a hundred, so that's...
+[49:35.0 - 49:35.8] And ten thirty.
+[49:35.8 - 49:36.4] Ten thirty.
+[49:36.4 - 49:36.5] Ten thirty.
+[49:36.5 - 49:36.5] Ten thirty and two fifty.
+[49:36.5 - 49:43.2] Yeah, that'll be three fifties.
+[49:43.2 - 49:43.7] Minus...
+[49:43.7 - 49:44.6] Three.
+[49:44.6 - 50:29.6] Minus
+[50:29.6 - 50:51.2] three.
+[50:51.2 - 50:54.9] Sorry, three.
+[50:54.9 - 50:55.3] Three.
+[50:55.3 - 51:18.4] Three
+[51:18.4 - 51:53.6] hundred.
+[51:53.6 - 53:35.5] Okay.
+[53:35.5 - 53:42.9] Three fifty.
+[53:42.9 - 53:45.8] Close.
+[53:45.8 - 53:51.1] Three hundred and a hundred.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-10-11-12_transcription_20260705_193631.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-10-11-12_transcription_20260705_193631.txt
+[2J[H[3Jmanus-speech-to-text mp3/ROSE-REC2_Tuesday_V2026-06-30-10-11-12.mp3
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_Tuesday_V2026-06-30-10-11-12.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-10-11-12_chunks_20260705_193447/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-10-11-12_chunks_20260705_193447/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-10-11-12_chunks_20260705_193447/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-10-11-12_chunks_20260705_193447/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-10-11-12_chunks_20260705_193447/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[41:13.7 - 41:16.0] And I immediately called Blake.
+[41:16.0 - 41:17.0] I don't even know why he's so...
+[41:17.0 - 41:18.2] Like what...
+[41:18.2 - 41:18.6] That's...
+[41:18.6 - 41:21.6] It is what you're supposed to do .
+[41:21.6 - 41:22.3] Well, whatever.
+[41:22.3 - 41:23.1] Sorry, talk to you.
+[41:23.1 - 41:25.0] I gotta fucking fire somebody now.
+[41:25.0 - 41:25.3] All right.
+[41:25.3 - 41:26.0] Hello?
+[41:26.0 - 41:27.7] Sorry.
+[41:27.7 - 41:32.3] Okay.
+[41:32.3 - 41:33.3] I don't know, you know what?
+[41:33.3 - 41:33.9] Just email her.
+[41:33.9 - 41:35.8] I don't know how to do this.
+[41:35.8 - 46:20.6] Okay,
+[46:20.6 - 46:20.9] that's fine.
+[46:20.9 - 46:23.6] So don't fire her, just, just send her this writeup.
+[46:23.6 - 46:28.3] Well, yeah, we know.
+[46:28.3 - 46:29.2] I'm interviewing with Nicole.
+[46:29.2 - 46:30.7] I'm sitting in all, all the interviews.
+[46:30.7 - 46:32.8] Okay, so I'll send this writeup.
+[46:32.8 - 46:33.6] I'll, I'll get it.
+[46:33.6 - 46:34.9] Um, this is...
+[46:34.9 - 46:40.6] Katori said, "I just wanted to check with you before I did anything first," 'cause Katori emailed me, and I called her.
+[46:40.6 - 46:44.6] I was like, "What is this?" And she was like, "Well, uh..." I go, I go, "Did Ginger know about this?
+[46:44.6 - 46:48.3] 'Cause I'm not fucking doing shit unless I hear it from you or Ginger." She says, "Yes, yes, yes, yes, yes." So I'm like...
+[46:48.3 - 46:51.7] Okay.
+[46:51.7 - 47:10.7] Got
+[47:10.7 - 47:18.4] it.
+[47:18.4 - 47:27.6] Okay.
+[47:27.6 - 47:35.7] Yeah.
+[47:35.7 - 47:42.3] Okay.
+[47:42.3 - 47:43.3] All right, I'll send it out.
+[47:43.3 - 47:44.4] Uh, let me...
+[47:44.4 - 47:45.3] Okay, no problem.
+[47:45.3 - 47:46.0] Bye.
+[47:46.0 - 47:56.5] So
+[47:56.5 - 47:57.2] I just talked to Ginger.
+[47:57.2 - 47:59.9] She said just send this writeup to her, not fire-
+[47:60.0 - 48:04.0] So I guess we have somebody else and we're me and Nicole are interviewing people every day for this position.
+[48:04.0 - 48:08.0] I think we f-- I, I think we-- Yeah, I think we found, I think we found somebody.
+[48:08.0 - 48:10.6] But so we're gonna, uh, we interviewed her yesterday.
+[48:10.6 - 48:11.3] She's pretty good.
+[48:11.3 - 48:13.9] Um, so yeah.
+[48:13.9 - 48:17.6] So all right, I'll get with Nicole, and I'll, I'll send this out to her.
+[48:17.6 - 48:18.8] No problem.
+[48:18.8 - 48:19.2] Bye.
+[48:19.2 - 49:23.2] Three
+[49:23.2 - 49:23.2] milligrams.
+[49:23.2 - 49:23.4] Three milligrams.
+[49:23.4 - 49:26.2] Two fifteen.
+[49:26.2 - 49:29.1] Two fifteen.
+[49:29.1 - 49:30.0] Four fifty.
+[49:30.0 - 49:35.0] Forty and then a hundred, so that's...
+[49:35.0 - 49:35.8] And ten thirty.
+[49:35.8 - 49:36.4] Ten thirty.
+[49:36.4 - 49:36.5] Ten thirty.
+[49:36.5 - 49:36.5] Ten thirty and two fifty.
+[49:36.5 - 49:43.2] Yeah, that'll be three fifties.
+[49:43.2 - 49:43.7] Minus...
+[49:43.7 - 49:44.6] Three.
+[49:44.6 - 50:29.6] Minus
+[50:29.6 - 50:51.2] three.
+[50:51.2 - 50:54.9] Sorry, three.
+[50:54.9 - 50:55.3] Three.
+[50:55.3 - 51:18.4] Three
+[51:18.4 - 51:53.6] hundred.
+[51:53.6 - 53:35.5] Okay.
+[53:35.5 - 53:42.9] Three fifty.
+[53:42.9 - 53:45.8] Close.
+[53:45.8 - 53:51.1] Three hundred and a hundred.
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-10-11-12_transcription_20260705_193631.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-10-11-12_transcription_20260705_193631.txt

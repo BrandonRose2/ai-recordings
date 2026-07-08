@@ -1,0 +1,132 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: mp3/ROSE-REC2_Tuesday_V2026-06-30-17-11-14.mp3, file size: 3.96 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 692.0 seconds
+Language: eng
+Timestamped segments:
+[00:26.4 - 00:31.1] Well, yeah, they wanted me to write her up this morning, and I was literally in the process of doing that.
+[00:31.1 - 00:34.5] Then Guitar called me, she was like, "Forget it." She just quit by text.
+[00:34.5 - 00:39.9] I was like, "Well, okay." Yeah, that's all.
+[00:39.9 - 00:43.5] Yeah.
+[00:43.5 - 00:50.9] Um, um, uh, Ashley's gonna start her inspections tomorrow.
+[00:50.9 - 00:58.2] I checked, she didn't today, and I'm gonna give her the benefit of the doubt because I, I'm assuming she needed to put out the twenty-four hour notices.
+[00:58.2 - 01:00.7] So, so if she don't do them tomorrow...
+[01:00.7 - 01:06.6] Yeah, yeah, I gave her ex-explicit instructions that they need to be...
+[01:06.6 - 01:10.2] I, I actually told her she should do seven today, and then I checked, and I said, "You know what?
+[01:10.2 - 01:15.8] I'm gonna give her the benefit of the doubt 'cause she probably needs to put the twenty-four hour notices out." So, so yeah.
+[01:15.8 - 01:17.9] Um.
+[01:17.9 - 01:22.7] Yeah.
+[01:22.7 - 01:23.9] Okay.
+[01:23.9 - 01:30.5] Tomorrow, expect me to sit with Nicole all day because I need to, I need to dial in how to write checks tomorrow.
+[01:30.5 - 01:31.5] I need to learn that.
+[01:31.5 - 01:37.7] He left to go do that, actually.
+[01:37.7 - 01:39.6] Yeah.
+[01:39.6 - 01:42.4] Yeah.
+[01:42.4 - 01:44.3] Yeah.
+[01:44.3 - 01:51.2] No, he told me he, he, he goes, "If Mark calls, tell him I went to get the medication." So I'll, I'll call him right now and ask him everything.
+[01:51.2 - 01:58.1] All right.
+[01:58.1 - 02:21.3] Mark
+[02:21.3 - 02:22.9] wants to know what's going on with the medication.
+[02:22.9 - 02:25.5] He's happy that you're doing it, but he wants to know exactly what happened.
+[02:25.5 - 02:28.4] I called him.
+[02:28.4 - 02:29.5] No, he just called me.
+[02:29.5 - 02:30.1] I know, bro.
+[02:30.1 - 02:30.7] I know.
+[02:30.7 - 02:33.4] He, he, he...
+[02:33.4 - 02:35.5] Look, he called, he called me right now.
+[02:35.5 - 02:43.3] He called me right now, and he said, "Do you know if Ethan got, uh, called for medication?" I go, "He's actually left to go deal with it." I didn't say you picked it up.
+[02:43.3 - 02:45.3] I said he went to go deal with it, right?
+[02:45.3 - 02:47.2] So that was what...
+[02:47.2 - 02:48.9] Uh, yeah.
+[02:48.9 - 02:51.3] Uh, yeah, yeah.
+[02:51.3 - 02:53.2] Okay.
+[02:53.2 - 02:53.7] Okay.
+[02:53.7 - 02:54.1] All right, bro.
+[02:54.1 - 02:55.1] Later.
+[02:55.1 - 04:45.6] Hello?
+[04:45.6 - 04:59.6] I,
+[04:59.6 - 05:00.5] I know.
+[05:00.5 - 05:01.1] I know, bro.
+[05:01.1 - 05:01.6] I know.
+[05:01.6 - 05:02.2] I don't, I...
+[05:02.2 - 05:04.6] No, I'll give- As long as he talked to him.
+[05:04.6 - 05:06.5] I don't give a fuck how he gets the information.
+[05:06.5 - 05:18.4] Me, you, Brandon, as long as he gets the information.
+[05:18.4 - 05:25.6] No, I, I get it.
+[05:25.6 - 05:26.6] No, I don't take it like that.
+[05:26.6 - 05:27.9] No, I don't, I don't give a fuck how it gets done.
+[05:27.9 - 05:28.2] No, I don't give a...
+[05:28.2 - 05:37.4] I don't give a fuck how he gets the information, as long as he gets the fucking information and he's saying what happened.
+[05:37.4 - 05:49.1] That's
+[05:49.1 - 05:49.6] all.
+[05:49.6 - 05:59.7] I don't care.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-17-11-14_transcription_20260705_194342.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-17-11-14_transcription_20260705_194342.txt
+[2J[H[3Jmanus-speech-to-text mp3/ROSE-REC2_Tuesday_V2026-06-30-17-11-14.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: mp3/ROSE-REC2_Tuesday_V2026-06-30-17-11-14.mp3, file size: 3.96 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:26.4 - 00:31.1] Well, yeah, they wanted me to write her up this morning, and I was literally in the process of doing that.
+[00:31.1 - 00:34.5] Then Guitar called me, she was like, "Forget it." She just quit by text.
+[00:34.5 - 00:39.9] I was like, "Well, okay." Yeah, that's all.
+[00:39.9 - 00:43.5] Yeah.
+[00:43.5 - 00:50.9] Um, um, uh, Ashley's gonna start her inspections tomorrow.
+[00:50.9 - 00:58.2] I checked, she didn't today, and I'm gonna give her the benefit of the doubt because I, I'm assuming she needed to put out the twenty-four hour notices.
+[00:58.2 - 01:00.7] So, so if she don't do them tomorrow...
+[01:00.7 - 01:06.6] Yeah, yeah, I gave her ex-explicit instructions that they need to be...
+[01:06.6 - 01:10.2] I, I actually told her she should do seven today, and then I checked, and I said, "You know what?
+[01:10.2 - 01:15.8] I'm gonna give her the benefit of the doubt 'cause she probably needs to put the twenty-four hour notices out." So, so yeah.
+[01:15.8 - 01:17.9] Um.
+[01:17.9 - 01:22.7] Yeah.
+[01:22.7 - 01:23.9] Okay.
+[01:23.9 - 01:30.5] Tomorrow, expect me to sit with Nicole all day because I need to, I need to dial in how to write checks tomorrow.
+[01:30.5 - 01:31.5] I need to learn that.
+[01:31.5 - 01:37.7] He left to go do that, actually.
+[01:37.7 - 01:39.6] Yeah.
+[01:39.6 - 01:42.4] Yeah.
+[01:42.4 - 01:44.3] Yeah.
+[01:44.3 - 01:51.2] No, he told me he, he, he goes, "If Mark calls, tell him I went to get the medication." So I'll, I'll call him right now and ask him everything.
+[01:51.2 - 01:58.1] All right.
+[01:58.1 - 02:21.3] Mark
+[02:21.3 - 02:22.9] wants to know what's going on with the medication.
+[02:22.9 - 02:25.5] He's happy that you're doing it, but he wants to know exactly what happened.
+[02:25.5 - 02:28.4] I called him.
+[02:28.4 - 02:29.5] No, he just called me.
+[02:29.5 - 02:30.1] I know, bro.
+[02:30.1 - 02:30.7] I know.
+[02:30.7 - 02:33.4] He, he, he...
+[02:33.4 - 02:35.5] Look, he called, he called me right now.
+[02:35.5 - 02:43.3] He called me right now, and he said, "Do you know if Ethan got, uh, called for medication?" I go, "He's actually left to go deal with it." I didn't say you picked it up.
+[02:43.3 - 02:45.3] I said he went to go deal with it, right?
+[02:45.3 - 02:47.2] So that was what...
+[02:47.2 - 02:48.9] Uh, yeah.
+[02:48.9 - 02:51.3] Uh, yeah, yeah.
+[02:51.3 - 02:53.2] Okay.
+[02:53.2 - 02:53.7] Okay.
+[02:53.7 - 02:54.1] All right, bro.
+[02:54.1 - 02:55.1] Later.
+[02:55.1 - 04:45.6] Hello?
+[04:45.6 - 04:59.6] I,
+[04:59.6 - 05:00.5] I know.
+[05:00.5 - 05:01.1] I know, bro.
+[05:01.1 - 05:01.6] I know.
+[05:01.6 - 05:02.2] I don't, I...
+[05:02.2 - 05:04.6] No, I'll give- As long as he talked to him.
+[05:04.6 - 05:06.5] I don't give a fuck how he gets the information.
+[05:06.5 - 05:18.4] Me, you, Brandon, as long as he gets the information.
+[05:18.4 - 05:25.6] No, I, I get it.
+[05:25.6 - 05:26.6] No, I don't take it like that.
+[05:26.6 - 05:27.9] No, I don't, I don't give a fuck how it gets done.
+[05:27.9 - 05:28.2] No, I don't give a...
+[05:28.2 - 05:37.4] I don't give a fuck how he gets the information, as long as he gets the fucking information and he's saying what happened.
+[05:37.4 - 05:49.1] That's
+[05:49.1 - 05:49.6] all.
+[05:49.6 - 05:59.7] I don't care.
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-17-11-14_transcription_20260705_194342.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-17-11-14_transcription_20260705_194342.txt

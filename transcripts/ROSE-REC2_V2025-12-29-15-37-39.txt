@@ -1,0 +1,158 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: ROSE-REC2_V2025-12-29-15-37-39.mp3, file size: 3.26 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 569.3 seconds
+Language: eng
+Timestamped segments:
+[00:17.4 - 00:21.9] Hey, Siri.
+[00:21.9 - 00:26.5] Play country mix on my Spotify.
+[00:26.5 - 00:29.8] Okay.
+[00:29.8 - 00:31.9] Here's country mix on Spotify.
+[00:31.9 - 00:50.9] Turn
+[00:50.9 - 00:53.5] on the TV, act like you don't see me.
+[00:53.5 - 00:55.7] Tell me everything is okay.
+[00:55.7 - 01:03.2] My mother is a saint, who told me if I wait, everything meant to be will stay.
+[01:03.2 - 01:09.3] But I ain't a believer in people pleasin' where the fucking telephones are ringing in this place.
+[01:09.3 - 01:16.1] Met a man in New York City, told me humans ain't as pretty as the perfect they will chase for all their days.
+[01:16.1 - 01:18.9] I ain't spotless, neither is you.
+[01:18.9 - 01:22.5] For once in my life, I'm gonna see it through.
+[01:22.5 - 01:25.9] If you want spotless, I'll always lose.
+[01:25.9 - 01:30.3] I don't want love, lover, I want the truth.
+[01:30.3 - 01:40.1] People die a thousand times to get to who they are.
+[01:40.1 - 01:43.6] People praying to the heavens on a late train car.
+[01:43.6 - 01:46.8] Your heart knows deeper seasons than my eyes ever will.
+[01:46.8 - 01:50.5] I'm a self-destructive landslide if you wanna be the hill.
+[01:50.5 - 01:54.3] I ain't spotless, neither is you.
+[01:54.3 - 01:57.6] For once in my life, I'm gonna see it through.
+[01:57.6 - 02:01.2] If you wanna leave this, that's okay.
+[02:01.2 - 02:04.7] Everything meant to be is bound to stay.
+[02:04.7 - 02:14.8] Remember jumping in the pool when we was fully
+[02:14.8 - 02:15.2] clothed?
+[02:15.2 - 02:19.0] And honestly, we were soaking, choking, smoking in my old Chevy with the windows.
+[02:19.0 - 02:22.5] Then they cut off all the lights 'cause the bills were never paid.
+[02:22.5 - 02:25.6] We were stealing all the power from the neighbors on the hill.
+[02:25.6 - 02:28.2] I ain't spotless, neither is you.
+[02:28.2 - 02:31.4] For once in my life, I'm gonna see it through.
+[02:31.4 - 02:35.0] If you want spotless, I'll always lose.
+[02:35.0 - 02:38.3] You gave me love, lover, you gave me the truth.
+[02:38.3 - 02:43.4] I was alone.
+[02:43.4 - 02:48.1] You were betting on a loser, you were calling my bluff.
+[02:48.1 - 02:53.1] Holding one another is just never enough.
+[02:53.1 - 02:56.2] You were right there with me.
+[02:56.2 - 03:01.6] I can't stop this, neither can you.
+[03:01.6 - 03:04.9] For once in my life, I'm bound to see it through.
+[03:04.9 - 03:08.5] If you want spotless, I'll always lose.
+[03:08.5 - 03:12.1] You gave me love, lover, you gave me the truth.
+[03:12.1 - 03:21.4] Come on.
+[03:21.4 - 03:39.1] I
+[03:39.1 - 03:40.8] can't make the moon glow.
+[03:40.8 - 03:46.1] And I can't make a gray storm cloud.
+[03:46.1 - 03:52.3] And I can't make the wind blow or the sun come out.
+[03:52.3 - 03:55.3] I can't make the waves break.
+[03:55.3 - 04:00.3] And I can't turn the whole sky blue.
+[04:00.3 - 04:04.9] No, I can't do a lot of things.
+[04:04.9 - 04:08.5] But there's one thing that I can do.
+[04:08.5 - 04:10.4] And I can make it rain.
+[04:10.4 - 04:15.2] And I can make her tears fall down.
+[04:15.2 - 04:22.9] Take everything we used to be and leave it puddled up on the ground.
+[04:22.9 - 04:25.2] Yeah, I can make it flood.
+[04:25.2 - 04:29.4] And watch it wash it all away.
+[04:29.4 - 04:36.0] Take all our love and pour it down the drain.
+[04:36.0 - 04:39.9] Yeah, I can make it rain.
+[04:39.9 - 04:47.1] I can make it rain.
+[04:47.1 - 04:54.9] Oh, I can't make her stay.
+[04:54.9 - 04:59.7] And I can't make her take me back.
+[04:59.7 - 05:04.0] I can't make her miss me.
+[05:04.0 - 05:07.1] No, I can't do none of that.
+[05:07.1 - 05:09.5] I can't make her smile.
+[05:09.5 - 05:14.3] And I can't make her hurt no less.
+[05:14.3 - 05:21.5] And no, I can't unbreak her heart, but I can leave it soaking wet.
+[05:21.5 - 05:23.8] 'Cause I can make it rain.
+[05:23.8 - 05:28.8] I can make her tears fall down.
+[05:28.8 - 05:36.3] Take everything that we used to be and leave it puddled up on the ground.
+[05:36.3 - 05:38.3] I can make it flood.
+[05:38.3 - 05:42.5] And watch it wash it all away.
+[05:42.5 - 05:48.7] Take all our love...
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-29-15-37-39_transcription_20260706_155431.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-29-15-37-39_transcription_20260706_155431.txt
+[2J[H[3Jmanus-speech-to-text ROSE-REC2_V2025-12-29-15-37-39.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: ROSE-REC2_V2025-12-29-15-37-39.mp3, file size: 3.26 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:17.4 - 00:21.9] Hey, Siri.
+[00:21.9 - 00:26.5] Play country mix on my Spotify.
+[00:26.5 - 00:29.8] Okay.
+[00:29.8 - 00:31.9] Here's country mix on Spotify.
+[00:31.9 - 00:50.9] Turn
+[00:50.9 - 00:53.5] on the TV, act like you don't see me.
+[00:53.5 - 00:55.7] Tell me everything is okay.
+[00:55.7 - 01:03.2] My mother is a saint, who told me if I wait, everything meant to be will stay.
+[01:03.2 - 01:09.3] But I ain't a believer in people pleasin' where the fucking telephones are ringing in this place.
+[01:09.3 - 01:16.1] Met a man in New York City, told me humans ain't as pretty as the perfect they will chase for all their days.
+[01:16.1 - 01:18.9] I ain't spotless, neither is you.
+[01:18.9 - 01:22.5] For once in my life, I'm gonna see it through.
+[01:22.5 - 01:25.9] If you want spotless, I'll always lose.
+[01:25.9 - 01:30.3] I don't want love, lover, I want the truth.
+[01:30.3 - 01:40.1] People die a thousand times to get to who they are.
+[01:40.1 - 01:43.6] People praying to the heavens on a late train car.
+[01:43.6 - 01:46.8] Your heart knows deeper seasons than my eyes ever will.
+[01:46.8 - 01:50.5] I'm a self-destructive landslide if you wanna be the hill.
+[01:50.5 - 01:54.3] I ain't spotless, neither is you.
+[01:54.3 - 01:57.6] For once in my life, I'm gonna see it through.
+[01:57.6 - 02:01.2] If you wanna leave this, that's okay.
+[02:01.2 - 02:04.7] Everything meant to be is bound to stay.
+[02:04.7 - 02:14.8] Remember jumping in the pool when we was fully
+[02:14.8 - 02:15.2] clothed?
+[02:15.2 - 02:19.0] And honestly, we were soaking, choking, smoking in my old Chevy with the windows.
+[02:19.0 - 02:22.5] Then they cut off all the lights 'cause the bills were never paid.
+[02:22.5 - 02:25.6] We were stealing all the power from the neighbors on the hill.
+[02:25.6 - 02:28.2] I ain't spotless, neither is you.
+[02:28.2 - 02:31.4] For once in my life, I'm gonna see it through.
+[02:31.4 - 02:35.0] If you want spotless, I'll always lose.
+[02:35.0 - 02:38.3] You gave me love, lover, you gave me the truth.
+[02:38.3 - 02:43.4] I was alone.
+[02:43.4 - 02:48.1] You were betting on a loser, you were calling my bluff.
+[02:48.1 - 02:53.1] Holding one another is just never enough.
+[02:53.1 - 02:56.2] You were right there with me.
+[02:56.2 - 03:01.6] I can't stop this, neither can you.
+[03:01.6 - 03:04.9] For once in my life, I'm bound to see it through.
+[03:04.9 - 03:08.5] If you want spotless, I'll always lose.
+[03:08.5 - 03:12.1] You gave me love, lover, you gave me the truth.
+[03:12.1 - 03:21.4] Come on.
+[03:21.4 - 03:39.1] I
+[03:39.1 - 03:40.8] can't make the moon glow.
+[03:40.8 - 03:46.1] And I can't make a gray storm cloud.
+[03:46.1 - 03:52.3] And I can't make the wind blow or the sun come out.
+[03:52.3 - 03:55.3] I can't make the waves break.
+[03:55.3 - 04:00.3] And I can't turn the whole sky blue.
+[04:00.3 - 04:04.9] No, I can't do a lot of things.
+[04:04.9 - 04:08.5] But there's one thing that I can do.
+[04:08.5 - 04:10.4] And I can make it rain.
+[04:10.4 - 04:15.2] And I can make her tears fall down.
+[04:15.2 - 04:22.9] Take everything we used to be and leave it puddled up on the ground.
+[04:22.9 - 04:25.2] Yeah, I can make it flood.
+[04:25.2 - 04:29.4] And watch it wash it all away.
+[04:29.4 - 04:36.0] Take all our love and pour it down the drain.
+[04:36.0 - 04:39.9] Yeah, I can make it rain.
+[04:39.9 - 04:47.1] I can make it rain.
+[04:47.1 - 04:54.9] Oh, I can't make her stay.
+[04:54.9 - 04:59.7] And I can't make her take me back.
+[04:59.7 - 05:04.0] I can't make her miss me.
+[05:04.0 - 05:07.1] No, I can't do none of that.
+[05:07.1 - 05:09.5] I can't make her smile.
+[05:09.5 - 05:14.3] And I can't make her hurt no less.
+[05:14.3 - 05:21.5] And no, I can't unbreak her heart, but I can leave it soaking wet.
+[05:21.5 - 05:23.8] 'Cause I can make it rain.
+[05:23.8 - 05:28.8] I can make her tears fall down.
+[05:28.8 - 05:36.3] Take everything that we used to be and leave it puddled up on the ground.
+[05:36.3 - 05:38.3] I can make it flood.
+[05:38.3 - 05:42.5] And watch it wash it all away.
+[05:42.5 - 05:48.7] Take all our love...
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-29-15-37-39_transcription_20260706_155431.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-29-15-37-39_transcription_20260706_155431.txt

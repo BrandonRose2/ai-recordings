@@ -1,0 +1,434 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_Tuesday_V2026-06-30-12-11-13.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-12-11-13_chunks_20260705_193749/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-12-11-13_chunks_20260705_193749/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-12-11-13_chunks_20260705_193749/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-12-11-13_chunks_20260705_193749/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-12-11-13_chunks_20260705_193749/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.6 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[03:14.3 - 03:16.3] Fuck, man.
+[03:16.3 - 03:19.6] Jesus Christ.
+[03:19.6 - 03:23.6] Dude can't wait for a second?
+[03:23.6 - 03:54.1] Was
+[03:54.1 - 03:56.3] that just someone delivering shit?
+[03:56.3 - 03:56.5] Yeah.
+[03:56.5 - 03:58.1] That dude let it ring.
+[03:58.1 - 03:59.3] He rang it and then was...
+[03:59.3 - 04:02.4] That was crazy.
+[04:02.4 - 04:05.6] He, he was, like, hitting it so fucking hard.
+[04:05.6 - 04:15.8] Nine zero
+[04:15.8 - 04:16.8] zero three six.
+[04:16.8 - 04:26.9] You do all the job postings for Compton just for the Fairfax zip
+[04:26.9 - 04:28.1] to not deter people?
+[04:28.1 - 04:30.4] To not deter people?
+[04:30.4 - 04:32.4] Yeah.
+[04:32.4 - 04:39.2] No one is like, "I'm dying to work in Compton." Unless they live there, then it's like a good commute.
+[04:39.2 - 04:40.4] Some people live there.
+[04:40.4 - 04:41.1] Yeah.
+[04:41.1 - 04:44.4] But I, I was just replicating.
+[04:44.4 - 05:51.7] Ethan,
+[05:51.7 - 05:53.1] change my flight to Thursday.
+[05:53.1 - 05:55.8] Okay.
+[05:55.8 - 06:16.6] Can
+[06:16.6 - 06:18.1] you open this box up for me please, Nick?
+[06:18.1 - 06:28.0] It has to be opened clean.
+[06:28.0 - 06:34.5] Not from the bottom, just top, just top only.
+[06:34.5 - 06:37.9] They don't have a-- They don't- This isn't the top.
+[06:37.9 - 06:38.8] This is the top.
+[06:38.8 - 06:39.6] Oh.
+[06:39.6 - 06:40.6] There's no seam here.
+[06:40.6 - 06:41.1] Okay, yeah.
+[06:41.1 - 06:42.3] So open it from here across.
+[06:42.3 - 06:44.0] Oh, it's actually right here.
+[06:44.0 - 07:06.6] Let's
+[07:06.6 - 07:07.8] open this stuff up.
+[07:07.8 - 07:10.9] All of it?
+[07:10.9 - 07:12.5] Yeah, it's not for me.
+[07:12.5 - 07:16.7] I got it for somebody else.
+[07:16.7 - 07:23.8] There's another thing.
+[07:23.8 - 07:33.4] You don't care about the tissue paper, right?
+[07:33.4 - 07:37.4] Yeah, you can take the tissue paper out.
+[07:37.4 - 07:45.2] Um, I don't know if I wanna break the, uh- Yeah.
+[07:45.2 - 07:45.3] Yeah.
+[07:45.3 - 07:47.1] Here.
+[07:47.1 - 07:59.2] You
+[07:59.2 - 07:59.9] wanna open this up?
+[07:59.9 - 08:00.4] Yeah.
+[08:00.4 - 08:09.5] Oh, okay.
+[08:09.5 - 08:11.4] There's a tech case.
+[08:11.4 - 08:16.5] Close it up and put it all back in here.
+[08:16.5 - 08:26.5] I'll put that in my
+[08:26.5 - 08:26.9] car.
+[08:26.9 - 08:30.5] How long do you think it'll take you to get this really looking good?
+[08:30.5 - 08:31.3] I'm not rushing you.
+[08:31.3 - 08:32.0] I just wanna know.
+[08:32.0 - 08:33.4] Let me work with you.
+[08:33.4 - 08:35.4] Maybe like another hour, two hours.
+[08:35.4 - 08:36.2] Let me- All right.
+[08:36.2 - 08:39.0] Well then, um, what you'll do is, is I'm gonna go to lunch right now.
+[08:39.0 - 08:39.3] Okay.
+[08:39.3 - 08:40.5] You'll go...
+[08:40.5 - 08:43.4] You'll come back, and then hopefully in two hours you have something for me.
+[08:43.4 - 08:44.0] All right.
+[08:44.0 - 08:48.6] Here, take this outside to my car.
+[08:48.6 - 08:50.0] The whole thing?
+[08:50.0 - 08:52.6] Yeah, I'll go walk that with you.
+[08:52.6 - 09:19.3] Nicole,
+[09:19.3 - 09:21.8] is there anything you need me for?
+[09:21.8 - 09:24.8] I'm going out to lunch, and I'll be back in about two and a half hours.
+[09:24.8 - 09:27.5] No?
+[09:27.5 - 09:31.2] You wanna come here?
+[09:31.2 - 09:32.0] I can't hear you.
+[09:32.0 - 09:38.0] Still can't hear you, Nicole.
+[09:38.0 - 09:44.4] Take a look.
+[09:44.4 - 09:53.0] Pretty speechless.
+[09:53.0 - 09:53.8] What?
+[09:53.8 - 09:54.4] Just came.
+[09:54.4 - 09:56.5] Oh, I didn't even know it was here.
+[09:56.5 - 09:59.3] How many?
+[09:59.3 - 10:00.6] Come in and say hello again.
+[10:00.6 - 10:06.4] Oh, I think It's pretty heavy.
+[10:06.4 - 10:06.8] Yeah.
+[10:06.8 - 10:08.5] Okay.
+[10:08.5 - 10:15.5] I'll be back in two hours, two and a half hours.
+[10:15.5 - 10:17.9] Oh, Ethan.
+[10:17.9 - 10:19.0] Yeah?
+[10:19.0 - 10:21.2] Switch my flight to Thursday.
+[10:21.2 - 10:23.0] Okay.
+[10:23.0 - 10:25.6] Twelve or two o'clock flight, either.
+[10:25.6 - 10:27.2] Okay.
+[10:27.2 - 10:28.7] Only if it's gonna be a problem.
+[10:28.7 - 10:31.2] So don't cancel the other one until you make sure you have it.
+[10:31.2 - 10:31.6] All right?
+[10:31.6 - 10:32.4] Yep.
+[10:32.4 - 10:44.2] Nicole?
+[10:44.2 - 10:50.4] Nicole, do you have the SF ninety XX sticker?
+[10:50.4 - 10:52.4] You get it?
+[10:52.4 - 11:37.5] Okay,
+[11:37.5 - 11:49.0] thank
+[11:49.0 - 11:49.7] you.
+[12:20.1 - 12:21.1] Ethan?
+[12:21.1 - 12:21.5] Yeah.
+[12:21.5 - 12:23.9] You better make sure there's no flights on Thursday.
+[12:23.9 - 12:29.6] I mean, I can tell him that, but...
+[12:29.6 - 12:32.6] Fuck, man.
+[12:32.6 - 12:42.8] I'll try and, I can call him and be like, "Mark, the flights are like twelve hundred
+[12:42.8 - 12:46.5] dollars more on Thursday," and maybe that'll make him...
+[12:46.5 - 13:02.3] Dude,
+[13:02.3 - 13:05.4] what-- Another fucking dashboard.
+[13:05.4 - 13:05.8] Like...
+[13:05.8 - 13:09.2] And he's trying to argue.
+[13:09.2 - 13:18.1] It's like, "Dude, Mark, there is no real estate." And then he's like, "No, you don't push it down." It's like, th-there's nowhere.
+[13:18.1 - 13:20.2] Like- Another fucking- You know they're fitting right here ...
+[13:20.2 - 13:21.7] another dashboard.
+[13:21.7 - 13:22.0] Like...
+[13:22.0 - 13:24.2] I...
+[13:24.2 - 13:25.7] Yeah, I know, man.
+[13:25.7 - 15:10.2] Okay,
+[15:10.2 - 15:11.3] um, hold on a sec.
+[15:11.3 - 15:11.6] Hold on.
+[15:11.6 - 15:19.9] Okay, um, I need you to send me twelve forty-five.
+[15:19.9 - 15:21.7] But guess what?
+[15:21.7 - 15:22.3] But guess what?
+[15:22.3 - 15:26.7] I fucking sold seven hundred and fifty dollars of battery.
+[15:26.7 - 15:33.6] So I-I'm only paying five hundred and fifty bucks for all that shit, and I got like five, five kits.
+[15:33.6 - 15:35.4] So I, I, I, I did it.
+[15:35.4 - 15:36.6] I, I sw-swindled.
+[15:36.6 - 15:37.7] So yeah.
+[15:37.7 - 15:48.0] So send me twelve forty-five so I can pay Elijah, and then I'm getting, uh, seven fifty-five, uh, tomorrow, and then you're getting a hundred and fifty-five today.
+[15:48.0 - 15:49.6] Right?
+[15:49.6 - 15:50.6] Right?
+[15:50.6 - 15:52.7] Okay.
+[15:52.7 - 15:54.9] All right, so send me twelve forty-five when you have a chance.
+[15:54.9 - 15:57.0] Bye.
+[15:57.0 - 18:36.6] Yo
+[18:36.6 - 18:46.7] bro, I've been hearing like around the web and around like the little peptide community and community that like they're like fucking, fucking with accounts right now, cash, cash app and shit
+[18:46.7 - 18:48.9] for putting like goods and shit like that.
+[18:48.9 - 18:53.0] So what do you want me to put like personal fitness training or donation or what do you think?
+[18:53.0 - 18:58.0] Like I don't want to put goods or anything like that no more.
+[18:58.0 - 19:02.6] Yeah, yeah, I know.
+[19:02.6 - 19:03.2] I'm not sorry.
+[19:03.2 - 19:04.6] I won't do that anymore, but.
+[19:04.6 - 19:08.7] Okay.
+[19:08.7 - 19:09.4] All right.
+[19:09.4 - 19:10.9] Okay, bro.
+[19:10.9 - 19:11.3] All right.
+[19:11.3 - 19:12.2] Sending it right now.
+[19:12.2 - 19:14.5] All right, late.
+[19:14.5 - 19:15.2] What?
+[19:15.2 - 19:18.0] Yeah.
+[19:18.0 - 19:21.8] How much for the ARE, the 290?
+[19:21.8 - 19:23.4] You said you had a couple vials of those?
+[19:23.4 - 19:34.0] Okay.
+[19:34.0 - 19:34.8] How much for those?
+[19:34.8 - 19:39.6] Okay.
+[19:39.6 - 19:40.2] Well, I'll take them.
+[19:40.2 - 19:42.4] Just give me the price and we'll deal with that after.
+[19:42.4 - 19:45.4] Well, are you going to charge me the $50 shipping on that one alone?
+[19:45.4 - 19:46.9] Okay.
+[19:46.9 - 19:47.2] All right.
+[19:47.2 - 19:47.5] Perfect.
+[19:47.5 - 19:48.1] I'll take it.
+[19:48.1 - 19:49.0] I'll take it.
+[19:49.0 - 19:49.8] Okay, bro.
+[19:49.8 - 19:51.7] I'm late.
+[31:44.8 - 31:48.2] Nothing.
+[31:48.2 - 31:49.4] Huh?
+[31:49.4 - 31:50.2] Did you tell him?
+[31:50.2 - 31:51.8] Mark?
+[31:51.8 - 31:52.6] Yeah.
+[31:52.6 - 31:58.0] Like, no, I was gonna do it, like, after lunch.
+[31:58.0 - 32:01.4] Like, wait, hope tickets get sold out maybe.
+[32:01.4 - 32:11.6] And then if not, just if he calls and says, "Why didn't you tell me earlier?" I was like, "Oh, well, you told me that right when I was going to lunch." So I,
+[32:11.6 - 32:13.0] I went to lunch, and then...
+[32:13.0 - 32:15.5] What was that thing?
+[32:15.5 - 32:17.3] What the fuck did he just do?
+[32:17.3 - 32:20.4] Oh, he just ordered a fifty thousand dollar watch or some shit.
+[32:20.4 - 32:21.8] It's a Patek.
+[32:21.8 - 32:24.4] And he called her on the way.
+[32:24.4 - 32:25.3] He's like, "I got it.
+[32:25.3 - 32:29.5] I'm coming." She-- He was like, "I'm gonna park in the front, so have them valet my car, and I'm gonna stay there.
+[32:29.5 - 32:33.1] Okay, bye." So he didn't, you know, who, who knows?
+[32:33.1 - 32:38.9] Was it real?
+[32:38.9 - 32:40.0] That-- Why would he get a real one?
+[32:40.0 - 32:40.6] Yeah, it was a real one.
+[32:40.6 - 32:42.6] That's why it fucking comes in that package.
+[32:42.6 - 32:43.6] It doesn't come in a fucking...
+[32:43.6 - 32:45.3] That's why it's a real Patek.
+[32:45.3 - 32:46.5] At least forty grand.
+[32:46.5 - 32:47.0] At least.
+[32:47.0 - 32:49.0] Why?
+[38:02.3 - 38:04.8] Hello?
+[38:04.8 - 38:10.3] This is Jared.
+[38:10.3 - 38:11.3] What can I help you with?
+[38:11.3 - 38:22.6] Offer
+[38:22.6 - 38:23.0] what?
+[38:23.0 - 38:30.6] For what?
+[38:30.6 - 38:30.8] No.
+[38:30.8 - 38:40.6] Are you-- If you're trying to sell something, we're not, we're not interested.
+[38:40.6 - 38:43.4] Oh.
+[38:43.4 - 38:48.7] Um, yeah, we, I mean, we...
+[38:48.7 - 38:53.5] Yes, we have a VoIP phone service and we're a reseller.
+[38:53.5 - 38:57.0] Where did you find us?
+[38:57.0 - 39:13.6] Yeah,
+[39:13.6 - 39:21.9] you just said VoIP termination, and I'm not familiar with that phrasing of it, but we have VoIP telephone services, yes.
+[39:21.9 - 39:32.1] Mm,
+[39:32.1 - 39:32.6] no.
+[39:32.6 - 39:37.2] Mm-hmm.
+[39:37.2 - 39:43.7] No, you're all right.
+[39:43.7 - 39:44.5] Yep.
+[39:44.5 - 39:45.7] Have a great one.
+[39:45.7 - 39:46.2] Bye.
+[53:00.9 - 53:06.5] So she came in like a normal person.
+[53:06.5 - 53:16.6] But I gave you a really bad opportunity because you know, I just turned down another
+[53:16.6 - 53:19.9] fucking offer for twenty thousand for me to do the same.
+[53:19.9 - 53:21.6] I said the same information.
+[53:21.6 - 53:24.9] I'm like, Mark, there's no more real estate left on the page.
+[53:24.9 - 53:27.3] Look, you know, no, you did it right there.
+[53:27.3 - 53:28.5] Go out and look at it.
+[53:28.5 - 53:36.1] And then he said to me like, Mark, no, you have your page, you know, and not, you know, that's when I.
+[53:36.1 - 53:43.7] He wants us to prepare a whole thing of all the agencies and the leasing information and all of that is in that spot on the comp.
+[53:43.7 - 53:50.8] He's like, half the time he's like, don't move the call center stuff.
+[53:50.8 - 53:51.1] That's a really good idea.
+[53:51.1 - 53:55.4] I'm like, that's like, oh, did you want to just like move on the property and all that?
+[53:55.4 - 53:57.9] It's like, no, she doesn't have a call center.
+[53:57.9 - 54:09.8] They just like, because you would just say
+[54:09.8 - 54:10.7] She just looked at me.
+[54:10.7 - 54:11.5] Like I see it in his face.
+[54:11.5 - 54:13.2] I know.
+[54:13.2 - 54:16.9] Literally, he literally thinks he's like genius.
+[54:16.9 - 54:17.8] Like I'm like- Yeah.
+[54:17.8 - 54:24.7] I'm looking-- I'm trying not to look the fact that he's in her whole exasperated like, "What?" I just fucking acknowledge it.
+[54:24.7 - 54:33.5] It's like, "Do it." Now we go around the lake and they tell them to leave because every time after we go there, like, our tires are fucking popped.
+[54:33.5 - 54:40.7] It's like, it's ten times worse than what we-- I-- when I used to roll my eyes at my mom or whatever.
+[54:40.7 - 54:45.5] It's like way worse than that because my mom always used to get mad at me.
+[54:45.5 - 54:51.5] Literally, it comes down to like a position of property management.
+[54:51.5 - 54:53.4] So everything you're gonna be having a meeting right now.
+[54:53.4 - 54:54.7] Get your notepad.
+[54:54.7 - 54:56.2] I want family increase.
+[54:56.2 - 55:01.4] And then I try to repeat what he just said back to him.
+[55:01.4 - 55:03.4] He's like, "Are you listening to me?" Yeah.
+[55:03.4 - 55:13.5] And he goes, "Yeah, exactly." He's like, "I want this done weekly." And I said, "Why?" He said, "I want this done weekly as of Monday or like I want
+[55:13.5 - 55:23.7] it on Monday weekly as of Monday." Yeah, kind of like, okay, so here's like- And he's like, "Wait, you want it to happen Monday
+[55:23.7 - 55:33.0] to every Monday?" He's like, "Are you listening to me?" He's like, "Are you fucking absolutely-" Okay, what did he say?
+[55:33.0 - 55:33.8] He's staring at his whole face.
+[55:33.8 - 55:33.9] Can you say that back?
+[55:33.9 - 55:34.0] I'll make that make sense.
+[55:34.0 - 55:42.0] It was, it was definitely because he got mad at her for calling in sick one time.
+[55:42.0 - 55:42.0] And then he's like, "Just, just sit back and listen, and then you can ask your dumb questions." I just-- I really can't fart and it's so bad.
+[55:42.0 - 55:42.0] It's awful.
+[55:42.0 - 55:42.8] And I had-- Well, I just, I don't know what to think.
+[55:42.8 - 55:47.0] I think it's either Bear claw saw a kid, and then also Todd like trying to scare the kid.
+[55:47.0 - 55:57.8] But I don't think Mark and Todd-- So that's just
+[55:57.8 - 56:09.0] like a very honestly maybe that's
+[56:09.0 - 56:15.7] whatever that happened.
+[56:15.7 - 56:25.5] But, but I don't think Todd has friends around here.
+[56:25.5 - 56:26.6] And Mark seems like the worst name of the two partners that we ever met.
+[56:26.6 - 56:31.8] This is why it's great to have power of house to make things fucking step up full time.
+[56:31.8 - 56:32.5] So what's going on there?
+[56:32.5 - 56:33.9] They have a poster made.
+[56:33.9 - 56:35.8] Mark looks like it.
+[56:35.8 - 56:37.3] It had his address on it.
+[56:37.3 - 56:45.1] This is a property manager coming in and being like, "I'm Betty." And that's saying that she wasn't a horrible fit.
+[56:45.1 - 56:47.4] We really should do.
+[56:47.4 - 56:54.6] She just came in, and then she offered apparently a regional position, offered her a hundred and fifty grand a year.
+[56:54.6 - 56:56.6] No, but you have a manager or something?
+[56:56.6 - 56:56.9] No.
+[56:56.9 - 57:00.6] Uh, but I had told him she-- I mean, Leslie maybe didn't want her.
+[57:00.6 - 57:10.3] She was doing, you know, the, the-- she was trying to play the disability of not being able to work, but don't let her get paid on the path to somewhere.
+[57:10.3 - 57:11.6] Well, she was sort of weird.
+[57:11.6 - 57:13.1] I thought that something happened.
+[57:13.1 - 57:20.5] Not that it worked, but she did try to steal like she, uh, built this whole spa, but Leslie managed that position kind of.
+[57:20.5 - 57:28.0] But I don't think-- It's not a great example because she probably does not have a doctor's note, right?
+[57:28.0 - 57:29.1] But that's what makes a great example of management there.
+[57:29.1 - 57:38.1] They speed on you and then do the same thing four different ways where it's like, "Hey, you're putting the pictures there.
+[57:38.1 - 57:40.5] You're putting the pictures here and here and there." It's just super incredible.
+[57:40.5 - 57:45.5] Yeah, and then you add all these different things that they can do.
+[57:45.5 - 57:52.1] Like even if it's just being a property manager, and then the track that they- And you know what?
+[57:52.1 - 57:55.4] You still have nothing else to do but just stare at the statue of a bald eagle.
+[57:55.4 - 57:55.9] Right?
+[57:55.9 - 57:57.4] And it's, it's not that big of a deal.
+[57:57.4 - 57:58.2] Accident.
+[57:58.2 - 58:02.3] It's very like, "Well, what are you gonna do?" It's the dumbest idea I've ever heard.
+[58:02.3 - 58:31.4] It's foolish to think that this
+[58:31.4 - 59:43.4] idea
+[59:43.4 - 59:45.3] is a bad idea.
+[59:45.3 - 59:47.3] You could do anything with it like that.
+[59:47.3 - 59:55.1] I didn't know until you brought this up that it was part of the deal.
+[59:55.1 - 59:55.2] We're gonna listen to that.
+[59:55.2 - 59:56.0] Right.
+[59:56.0 - 59:58.6] I want to make sure that I can get this footage and make sure I can- I think she's having a fire sale.
+[59:58.6 - 59:58.6] I mean, John Miles, they're just having a fire sale.
+[59:58.6 - 59:58.6] Okay, but Miles, Mark knows that.
+[59:58.6 - 59:58.6] Sorry.
+[59:58.6 - 59:58.8] Our Miles knows that people can buy.
+[59:58.8 - 59:58.8] He discounts it all the time.
+[59:58.8 - 59:59.6] So if the manager-- So regional said, "You know what?
+[59:59.6 - 59:59.6] We understand what they're trying to do with the occupancy levels." Mm-hmm.
+[59:59.6 - 59:59.6] This is a problem because it didn't-- It wasn't meant to be.
+[59:59.6 - 59:59.6] I mean, it came with the whole property.
+[59:59.6 - 59:59.6] It came- Well, the place I hired this company, like, she literally spoke to me on the phone.
+[59:59.6 - 59:59.6] Did she ever- She literally, she literally, she literally did share.
+[59:59.6 - 59:59.6] She always- Share.
+[59:59.6 - 59:59.6] No, two hundred percent.
+[59:59.6 - 59:59.6] Share for- Uh, asked to be in all meetings.
+[59:59.6 - 59:59.6] And then when we showed up this other site meeting, she wasn't even there.
+[59:59.6 - 59:59.6] And I'm like, "Well, do you want that into the Buzz group or do you want that to get in writing?" "Oh, that's right.
+[59:59.6 - 59:59.6] I'll put it in writing." So it tells you to the self about how that works.
+[59:59.6 - 59:59.6] Who changed the curriculum?
+[59:59.6 - 59:59.6] Asked to go over the curriculum a week ago.
+[59:59.6 - 59:59.6] And then I followed up with you.
+[59:59.6 - 59:59.6] So she said the presentation is now in.
+[59:59.6 - 59:59.6] But it's all us.
+[59:59.6 - 59:59.6] That's not her.
+[59:59.6 - 59:59.6] And we say the same to Mark.
+[59:59.6 - 59:59.6] And he's way more friendly.
+[59:59.6 - 59:59.6] She's like, "I love-- Well, y'all work.
+[59:59.6 - 59:59.6] I love you." And no conversation ever.
+[59:59.6 - 59:59.6] There's a point there are a bunch of trainings coming.
+[59:59.6 - 59:59.6] She's like, "That's beautiful." But she didn't ask.
+[59:59.6 - 59:59.6] She just said yes.
+[59:59.6 - 59:59.6] Like Mark, he's like, "Victor, if you think about this, do you have an idea of maybe what you want, what you want us to do on this?" Do you want money to buy-
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-12-11-13_transcription_20260705_193856.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-12-11-13_transcription_20260705_193856.txt
+[2J[H[3Jmanus-speech-to-text mp3/ROSE-REC2_Tuesday_V2026-06-30-12-11-13.mp3
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_Tuesday_V2026-06-30-12-11-13.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-12-11-13_chunks_20260705_193749/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-12-11-13_chunks_20260705_193749/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-12-11-13_chunks_20260705_193749/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-12-11-13_chunks_20260705_193749/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-12-11-13_chunks_20260705_193749/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[57:38.1 - 57:40.5] You're putting the pictures here and here and there." It's just super incredible.
+[57:40.5 - 57:45.5] Yeah, and then you add all these different things that they can do.
+[57:45.5 - 57:52.1] Like even if it's just being a property manager, and then the track that they- And you know what?
+[57:52.1 - 57:55.4] You still have nothing else to do but just stare at the statue of a bald eagle.
+[57:55.4 - 57:55.9] Right?
+[57:55.9 - 57:57.4] And it's, it's not that big of a deal.
+[57:57.4 - 57:58.2] Accident.
+[57:58.2 - 58:02.3] It's very like, "Well, what are you gonna do?" It's the dumbest idea I've ever heard.
+[58:02.3 - 58:31.4] It's foolish to think that this
+[58:31.4 - 59:43.4] idea
+[59:43.4 - 59:45.3] is a bad idea.
+[59:45.3 - 59:47.3] You could do anything with it like that.
+[59:47.3 - 59:55.1] I didn't know until you brought this up that it was part of the deal.
+[59:55.1 - 59:55.2] We're gonna listen to that.
+[59:55.2 - 59:56.0] Right.
+[59:56.0 - 59:58.6] I want to make sure that I can get this footage and make sure I can- I think she's having a fire sale.
+[59:58.6 - 59:58.6] I mean, John Miles, they're just having a fire sale.
+[59:58.6 - 59:58.6] Okay, but Miles, Mark knows that.
+[59:58.6 - 59:58.6] Sorry.
+[59:58.6 - 59:58.8] Our Miles knows that people can buy.
+[59:58.8 - 59:58.8] He discounts it all the time.
+[59:58.8 - 59:59.6] So if the manager-- So regional said, "You know what?
+[59:59.6 - 59:59.6] We understand what they're trying to do with the occupancy levels." Mm-hmm.
+[59:59.6 - 59:59.6] This is a problem because it didn't-- It wasn't meant to be.
+[59:59.6 - 59:59.6] I mean, it came with the whole property.
+[59:59.6 - 59:59.6] It came- Well, the place I hired this company, like, she literally spoke to me on the phone.
+[59:59.6 - 59:59.6] Did she ever- She literally, she literally, she literally did share.
+[59:59.6 - 59:59.6] She always- Share.
+[59:59.6 - 59:59.6] No, two hundred percent.
+[59:59.6 - 59:59.6] Share for- Uh, asked to be in all meetings.
+[59:59.6 - 59:59.6] And then when we showed up this other site meeting, she wasn't even there.
+[59:59.6 - 59:59.6] And I'm like, "Well, do you want that into the Buzz group or do you want that to get in writing?" "Oh, that's right.
+[59:59.6 - 59:59.6] I'll put it in writing." So it tells you to the self about how that works.
+[59:59.6 - 59:59.6] Who changed the curriculum?
+[59:59.6 - 59:59.6] Asked to go over the curriculum a week ago.
+[59:59.6 - 59:59.6] And then I followed up with you.
+[59:59.6 - 59:59.6] So she said the presentation is now in.
+[59:59.6 - 59:59.6] But it's all us.
+[59:59.6 - 59:59.6] That's not her.
+[59:59.6 - 59:59.6] And we say the same to Mark.
+[59:59.6 - 59:59.6] And he's way more friendly.
+[59:59.6 - 59:59.6] She's like, "I love-- Well, y'all work.
+[59:59.6 - 59:59.6] I love you." And no conversation ever.
+[59:59.6 - 59:59.6] There's a point there are a bunch of trainings coming.
+[59:59.6 - 59:59.6] She's like, "That's beautiful." But she didn't ask.
+[59:59.6 - 59:59.6] She just said yes.
+[59:59.6 - 59:59.6] Like Mark, he's like, "Victor, if you think about this, do you have an idea of maybe what you want, what you want us to do on this?" Do you want money to buy-
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-12-11-13_transcription_20260705_193856.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-12-11-13_transcription_20260705_193856.txt

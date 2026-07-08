@@ -1,0 +1,169 @@
+Starting Speech-to-Text conversion...
+Audio file size (13.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 13.61 MB, duration: 2377.6 seconds
+Splitting into 3 chunks (each ~792.5 seconds, max 5 MB)...
+Successfully split into 3 chunks
+Audio file split into 3 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2025-12-29-21-00-42.mp3, file size: 13.61 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 3 chunks...
+
+Transcribing chunk 1/3: .ROSE-REC2_V2025-12-29-21-00-42_chunks_20260706_155942/chunk_000.mp3
+Chunk 1 completed (duration: 792.5s)
+
+Transcribing chunk 2/3: .ROSE-REC2_V2025-12-29-21-00-42_chunks_20260706_155942/chunk_001.mp3
+Chunk 2 completed (duration: 792.5s)
+
+Transcribing chunk 3/3: .ROSE-REC2_V2025-12-29-21-00-42_chunks_20260706_155942/chunk_002.mp3
+Chunk 3 completed (duration: 792.3s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 2377.2 seconds
+Language: eng
+Total Chunks: 3
+Timestamped segments:
+[09:42.0 - 09:43.3] Hi, another tech.
+[09:43.3 - 09:44.1] How are you?
+[09:44.1 - 09:44.8] Good to see you.
+[09:44.8 - 09:46.0] Have a good weekend.
+[09:46.0 - 10:54.6] I'm
+[10:54.6 - 10:58.2] about to leave work and go home and relax for a little bit.
+[10:58.2 - 11:00.7] I had a terrible day, and I may quit my job.
+[11:00.7 - 11:05.9] So, um, I will just have to see how I feel in just a little while.
+[36:33.2 - 36:33.7] Hey, Mark.
+[36:33.7 - 36:36.1] She wants a rental.
+[36:36.1 - 36:36.5] Okay.
+[36:36.5 - 36:39.8] Well, I just wanted to, you know, get clarification.
+[36:39.8 - 36:42.6] Yeah, basically, you know, no, she wants a rental.
+[36:42.6 - 36:46.5] She doesn't want to rent the AG's, you know, for, uh, like six months or less.
+[36:46.5 - 36:48.1] Okay, that makes sense.
+[36:48.1 - 36:51.8] She told me she could get it like thirty to forty thousand dollars a month, so.
+[36:51.8 - 36:53.9] Hmm, maybe.
+[36:53.9 - 37:00.9] I mean, Mulholland was listed, the one I had on Mulholland was thirty-five thousand a month, and it didn't go, but maybe.
+[37:00.9 - 37:02.0] It's kind of comparable.
+[37:02.0 - 37:02.7] Um...
+[37:02.7 - 37:05.7] Yeah, well, I need to leave on like the eighth or ninth.
+[37:05.7 - 37:07.0] Maybe twenty.
+[37:07.0 - 37:11.0] You know, like by the ninth.
+[37:11.0 - 37:11.0] Yeah.
+[37:11.0 - 37:12.5] I'm not gonna do it for twenty thousand.
+[37:12.5 - 37:13.8] If I can't do it for thirty to thirty-five thousand, I'm not gonna do it.
+[37:13.8 - 37:15.1] Yeah, that makes sense.
+[37:15.1 - 37:20.6] She has, um, a whole bunch of other homes for some friends of mine.
+[37:20.6 - 37:20.9] Yeah.
+[37:20.9 - 37:26.0] That were superior to my house for about thirty to thirty-five thousand, so.
+[37:26.0 - 37:26.5] Okay.
+[37:26.5 - 37:28.2] I mean, it's doable.
+[37:28.2 - 37:31.8] I, I, I just said to be fair, to be fair to her, she never saw the house until today.
+[37:31.8 - 37:32.5] Right.
+[37:32.5 - 37:40.4] Yeah, she was asking questions on bedroom count and stuff, so I just didn't wanna make any kind of rash decision, like, you know, like I did last time.
+[37:40.4 - 37:41.1] So I didn't...
+[37:41.1 - 37:43.9] No, I- I just want to make sure I rent it first.
+[37:43.9 - 37:44.2] Okay.
+[37:44.2 - 37:50.6] I wanted to see if it was a net flowing type deal or if it was something that, um, uh, I...
+[37:50.6 - 37:55.8] You know, my, my intention is to get rid of the house 'cause I don't really wanna have anything left in LA when I move.
+[37:55.8 - 37:56.8] Right.
+[37:56.8 - 38:03.9] But she told me she could get, you know, thirty to thirty-five thousand a month, so I said, "Okay, we'll rent out the house." Oh, okay.
+[38:03.9 - 38:08.7] Um, do you mind if I draft the RLA to send to you just to make me feel a little better?
+[38:08.7 - 38:10.3] Like what?
+[38:10.3 - 38:14.8] The residential listing agreement for signatures, just to make my, you know, mind at ease.
+[38:14.8 - 38:18.4] I, I, I promise you that you will get it if you list it anyway.
+[38:18.4 - 38:19.1] Okay.
+[38:19.1 - 38:22.7] I'm not gonna list it with her for a few times, but I'm not gonna do it right now.
+[38:22.7 - 38:24.6] There's no work in there.
+[38:24.6 - 38:26.1] What was that?
+[38:26.1 - 38:26.5] There's no work in there.
+[38:26.5 - 38:29.1] I have- Yeah, yeah, yeah.
+[38:29.1 - 38:33.6] I have to go up there and, you know, rent the place and like the whole place is all removed.
+[38:33.6 - 38:34.0] Right.
+[38:34.0 - 38:34.3] Okay.
+[38:34.3 - 38:34.8] That makes sense.
+[38:34.8 - 38:35.3] All right.
+[38:35.3 - 38:35.8] Okay, bye.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-29-21-00-42_transcription_20260706_160115.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-29-21-00-42_transcription_20260706_160115.txt
+[2J[H[3Jmanus-speech-to-text ROSE-REC2_V2025-12-29-21-00-42.mp3
+Starting Speech-to-Text conversion...
+Audio file size (13.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 13.61 MB, duration: 2377.6 seconds
+Splitting into 3 chunks (each ~792.5 seconds, max 5 MB)...
+Successfully split into 3 chunks
+Audio file split into 3 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2025-12-29-21-00-42.mp3, file size: 13.61 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 3 chunks...
+Transcribing chunk 1/3: .ROSE-REC2_V2025-12-29-21-00-42_chunks_20260706_155942/chunk_000.mp3
+Chunk 1 completed (duration: 792.5s)
+Transcribing chunk 2/3: .ROSE-REC2_V2025-12-29-21-00-42_chunks_20260706_155942/chunk_001.mp3
+Chunk 2 completed (duration: 792.5s)
+Transcribing chunk 3/3: .ROSE-REC2_V2025-12-29-21-00-42_chunks_20260706_155942/chunk_002.mp3
+Chunk 3 completed (duration: 792.3s)
+
+Snippet of transcribed content:
+[09:42.0 - 09:43.3] Hi, another tech.
+[09:43.3 - 09:44.1] How are you?
+[09:44.1 - 09:44.8] Good to see you.
+[09:44.8 - 09:46.0] Have a good weekend.
+[09:46.0 - 10:54.6] I'm
+[10:54.6 - 10:58.2] about to leave work and go home and relax for a little bit.
+[10:58.2 - 11:00.7] I had a terrible day, and I may quit my job.
+[11:00.7 - 11:05.9] So, um, I will just have to see how I feel in just a little while.
+[36:33.2 - 36:33.7] Hey, Mark.
+[36:33.7 - 36:36.1] She wants a rental.
+[36:36.1 - 36:36.5] Okay.
+[36:36.5 - 36:39.8] Well, I just wanted to, you know, get clarification.
+[36:39.8 - 36:42.6] Yeah, basically, you know, no, she wants a rental.
+[36:42.6 - 36:46.5] She doesn't want to rent the AG's, you know, for, uh, like six months or less.
+[36:46.5 - 36:48.1] Okay, that makes sense.
+[36:48.1 - 36:51.8] She told me she could get it like thirty to forty thousand dollars a month, so.
+[36:51.8 - 36:53.9] Hmm, maybe.
+[36:53.9 - 37:00.9] I mean, Mulholland was listed, the one I had on Mulholland was thirty-five thousand a month, and it didn't go, but maybe.
+[37:00.9 - 37:02.0] It's kind of comparable.
+[37:02.0 - 37:02.7] Um...
+[37:02.7 - 37:05.7] Yeah, well, I need to leave on like the eighth or ninth.
+[37:05.7 - 37:07.0] Maybe twenty.
+[37:07.0 - 37:11.0] You know, like by the ninth.
+[37:11.0 - 37:11.0] Yeah.
+[37:11.0 - 37:12.5] I'm not gonna do it for twenty thousand.
+[37:12.5 - 37:13.8] If I can't do it for thirty to thirty-five thousand, I'm not gonna do it.
+[37:13.8 - 37:15.1] Yeah, that makes sense.
+[37:15.1 - 37:20.6] She has, um, a whole bunch of other homes for some friends of mine.
+[37:20.6 - 37:20.9] Yeah.
+[37:20.9 - 37:26.0] That were superior to my house for about thirty to thirty-five thousand, so.
+[37:26.0 - 37:26.5] Okay.
+[37:26.5 - 37:28.2] I mean, it's doable.
+[37:28.2 - 37:31.8] I, I, I just said to be fair, to be fair to her, she never saw the house until today.
+[37:31.8 - 37:32.5] Right.
+[37:32.5 - 37:40.4] Yeah, she was asking questions on bedroom count and stuff, so I just didn't wanna make any kind of rash decision, like, you know, like I did last time.
+[37:40.4 - 37:41.1] So I didn't...
+[37:41.1 - 37:43.9] No, I- I just want to make sure I rent it first.
+[37:43.9 - 37:44.2] Okay.
+[37:44.2 - 37:50.6] I wanted to see if it was a net flowing type deal or if it was something that, um, uh, I...
+[37:50.6 - 37:55.8] You know, my, my intention is to get rid of the house 'cause I don't really wanna have anything left in LA when I move.
+[37:55.8 - 37:56.8] Right.
+[37:56.8 - 38:03.9] But she told me she could get, you know, thirty to thirty-five thousand a month, so I said, "Okay, we'll rent out the house." Oh, okay.
+[38:03.9 - 38:08.7] Um, do you mind if I draft the RLA to send to you just to make me feel a little better?
+[38:08.7 - 38:10.3] Like what?
+[38:10.3 - 38:14.8] The residential listing agreement for signatures, just to make my, you know, mind at ease.
+[38:14.8 - 38:18.4] I, I, I promise you that you will get it if you list it anyway.
+[38:18.4 - 38:19.1] Okay.
+[38:19.1 - 38:22.7] I'm not gonna list it with her for a few times, but I'm not gonna do it right now.
+[38:22.7 - 38:24.6] There's no work in there.
+[38:24.6 - 38:26.1] What was that?
+[38:26.1 - 38:26.5] There's no work in there.
+[38:26.5 - 38:29.1] I have- Yeah, yeah, yeah.
+[38:29.1 - 38:33.6] I have to go up there and, you know, rent the place and like the whole place is all removed.
+[38:33.6 - 38:34.0] Right.
+[38:34.0 - 38:34.3] Okay.
+[38:34.3 - 38:34.8] That makes sense.
+[38:34.8 - 38:35.3] All right.
+[38:35.3 - 38:35.8] Okay, bye.
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-29-21-00-42_transcription_20260706_160115.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-29-21-00-42_transcription_20260706_160115.txt

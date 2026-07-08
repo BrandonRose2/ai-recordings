@@ -1,0 +1,133 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2025-12-28-13-09-24.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: .ROSE-REC2_V2025-12-28-13-09-24_chunks_20260706_154414/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: .ROSE-REC2_V2025-12-28-13-09-24_chunks_20260706_154414/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: .ROSE-REC2_V2025-12-28-13-09-24_chunks_20260706_154414/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: .ROSE-REC2_V2025-12-28-13-09-24_chunks_20260706_154414/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: .ROSE-REC2_V2025-12-28-13-09-24_chunks_20260706_154414/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.6 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[09:34.5 - 09:36.5] Robert, we need a top-up on credits.
+[09:36.5 - 09:37.2] What?
+[09:37.2 - 09:38.3] We need a top-up.
+[09:38.3 - 09:39.7] Motherfucker.
+[09:39.7 - 09:41.0] It wasn't...
+[09:41.0 - 09:47.4] Mark did a hundred and twenty thousand on two tasks, and I did a hundred and forty on forty-two tasks.
+[09:47.4 - 09:48.0] That, that's cool.
+[09:48.0 - 09:49.0] I'll lo- I'll load it.
+[09:49.0 - 09:59.1] Um, yeah, it's not- Now that I'm done with that big project, I won't get- It's not, um, it's not an issue because the only person it would be an issue for is Nicole.
+[09:59.1 - 09:59.5] Yeah.
+[09:59.5 - 10:05.3] I was going over the, the statement yesterday, and there's like, you know, three grand or whatever, and she didn't even blink an eye, so.
+[10:05.3 - 10:05.8] Yeah.
+[10:05.8 - 10:10.6] The numbers she looks at normally, but Yeah, there's charges on there for like eighteen thou...
+[10:10.6 - 10:12.6] Like VMware- Yeah ...
+[10:12.6 - 10:14.0] I think quarterly is like eighteen grand.
+[10:14.0 - 10:15.1] Yeah.
+[10:15.1 - 10:16.0] I mean- It's crazy ...
+[10:16.0 - 10:17.6] for all the, for every- Yeah, for all- ...
+[10:17.6 - 10:19.1] every Tenzig and everything, yeah.
+[10:19.1 - 10:20.4] Yeah.
+[10:20.4 - 10:21.5] Is that based off usage?
+[10:21.5 - 10:23.5] No, it's the licensing.
+[10:23.5 - 10:24.4] Oh, right, right.
+[14:27.0 - 14:27.3] Hello.
+[14:27.3 - 14:28.2] Hello.
+[14:28.2 - 14:30.2] Nicole?
+[14:30.2 - 14:31.0] Yes.
+[14:31.0 - 14:40.0] Um, the, uh, the whole thing, uh, um, thing that's going on, do they know it's at Harvey Corp or AR Rentals?
+[14:40.0 - 14:41.1] Rich has the wrong one.
+[14:41.1 - 14:42.8] Make sure they know it's at Harvey Corp.
+[14:42.8 - 14:43.4] That's why I...
+[14:43.4 - 14:44.1] Rich has it.
+[14:44.1 - 14:46.9] They know it's somewhere- Uh, I don't know.
+[14:46.9 - 14:56.3] We'll be back.
+[14:56.3 - 16:07.7] Okay.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-28-13-09-24_transcription_20260706_154444.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-28-13-09-24_transcription_20260706_154444.txt
+[2J[H[3Jmanus-speech-to-text ROSE-REC2_V2025-12-28-13-09-24.mp3
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2025-12-28-13-09-24.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: .ROSE-REC2_V2025-12-28-13-09-24_chunks_20260706_154414/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: .ROSE-REC2_V2025-12-28-13-09-24_chunks_20260706_154414/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: .ROSE-REC2_V2025-12-28-13-09-24_chunks_20260706_154414/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: .ROSE-REC2_V2025-12-28-13-09-24_chunks_20260706_154414/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: .ROSE-REC2_V2025-12-28-13-09-24_chunks_20260706_154414/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[09:34.5 - 09:36.5] Robert, we need a top-up on credits.
+[09:36.5 - 09:37.2] What?
+[09:37.2 - 09:38.3] We need a top-up.
+[09:38.3 - 09:39.7] Motherfucker.
+[09:39.7 - 09:41.0] It wasn't...
+[09:41.0 - 09:47.4] Mark did a hundred and twenty thousand on two tasks, and I did a hundred and forty on forty-two tasks.
+[09:47.4 - 09:48.0] That, that's cool.
+[09:48.0 - 09:49.0] I'll lo- I'll load it.
+[09:49.0 - 09:59.1] Um, yeah, it's not- Now that I'm done with that big project, I won't get- It's not, um, it's not an issue because the only person it would be an issue for is Nicole.
+[09:59.1 - 09:59.5] Yeah.
+[09:59.5 - 10:05.3] I was going over the, the statement yesterday, and there's like, you know, three grand or whatever, and she didn't even blink an eye, so.
+[10:05.3 - 10:05.8] Yeah.
+[10:05.8 - 10:10.6] The numbers she looks at normally, but Yeah, there's charges on there for like eighteen thou...
+[10:10.6 - 10:12.6] Like VMware- Yeah ...
+[10:12.6 - 10:14.0] I think quarterly is like eighteen grand.
+[10:14.0 - 10:15.1] Yeah.
+[10:15.1 - 10:16.0] I mean- It's crazy ...
+[10:16.0 - 10:17.6] for all the, for every- Yeah, for all- ...
+[10:17.6 - 10:19.1] every Tenzig and everything, yeah.
+[10:19.1 - 10:20.4] Yeah.
+[10:20.4 - 10:21.5] Is that based off usage?
+[10:21.5 - 10:23.5] No, it's the licensing.
+[10:23.5 - 10:24.4] Oh, right, right.
+[14:27.0 - 14:27.3] Hello.
+[14:27.3 - 14:28.2] Hello.
+[14:28.2 - 14:30.2] Nicole?
+[14:30.2 - 14:31.0] Yes.
+[14:31.0 - 14:40.0] Um, the, uh, the whole thing, uh, um, thing that's going on, do they know it's at Harvey Corp or AR Rentals?
+[14:40.0 - 14:41.1] Rich has the wrong one.
+[14:41.1 - 14:42.8] Make sure they know it's at Harvey Corp.
+[14:42.8 - 14:43.4] That's why I...
+[14:43.4 - 14:44.1] Rich has it.
+[14:44.1 - 14:46.9] They know it's somewhere- Uh, I don't know.
+[14:46.9 - 14:56.3] We'll be back.
+[14:56.3 - 16:07.7] Okay.
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-28-13-09-24_transcription_20260706_154444.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-28-13-09-24_transcription_20260706_154444.txt

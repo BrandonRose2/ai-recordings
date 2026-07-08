@@ -1,0 +1,122 @@
+{
+  "folder_map": {
+    "Calls": "1Cx4xR5JV0kr8iyLCd3CdKAqPhPYGxWU3",
+    "Gerald": "1fIUVHUWlTUChkJLlj5K-XrPHPm5wn9qP",
+    "Inbox": "1R8aP1YFqaiojFAqVBFDj-n0-rGhmAav9",
+    "Marc's Inappropriate Screaming": "1PKwWvR4NbUwucn_Wp6RYcP_oJV7HSmiP",
+    "Meetings": "1Kg98rGEhxKKdCUEAjiEadYeKdhkajPO_",
+    "Other": "1vIdE78TJrPDIb9tI7N1uotgfNH1T75sH",
+    "Personal Notes": "1Bw1F45StcpM8UPm6vMc14Q5pFZ_18oI7"
+  },
+  "new_files": [],
+  "downloaded": [
+    {
+      "name": "ROSE-REC1_V2026-03-20-11-22-23.WAV",
+      "id": "1GxLVXZV_fai3XW1nbjOhHqObKKDw-hAp",
+      "path": "/home/ubuntu/recordings_pipeline/downloads/ROSE-REC1_V2026-03-20-11-22-23.WAV",
+      "source_folder": "Inbox/Friday 03-20-2026"
+    },
+    {
+      "name": "ROSE-REC2_V2026-07-06-14-26-44.WAV",
+      "id": "12W6IbOTyPg7_6suha7Z_lpxqMhyV4WWw",
+      "path": "/home/ubuntu/recordings_pipeline/downloads/ROSE-REC2_V2026-07-06-14-26-44.WAV",
+      "source_folder": "Inbox/Monday 07-06-2026"
+    },
+    {
+      "name": "ROSE-REC1_V2025-06-26-08-40-47.WAV",
+      "id": "11NNekISIp2qxGq8aUqQx5B4XE2q1ok-T",
+      "path": "/home/ubuntu/recordings_pipeline/downloads/ROSE-REC1_V2025-06-26-08-40-47.WAV",
+      "source_folder": "Inbox/Thursday 06-26-2025"
+    },
+    {
+      "name": "ROSE-REC1_V2025-06-26-12-10-39.WAV",
+      "id": "1AZe0DBceThJgXruNJ76jPgC3yu8dIutM",
+      "path": "/home/ubuntu/recordings_pipeline/downloads/ROSE-REC1_V2025-06-26-12-10-39.WAV",
+      "source_folder": "Inbox/Thursday 06-26-2025"
+    },
+    {
+      "name": "ROSE-REC1_V2025-06-26-17-04-19.WAV",
+      "id": "1Hv0bE63xP8NjKma7C47GdjdDvDq2syPx",
+      "path": "/home/ubuntu/recordings_pipeline/downloads/ROSE-REC1_V2025-06-26-17-04-19.WAV",
+      "source_folder": "Inbox/Thursday 06-26-2025"
+    },
+    {
+      "name": "ROSE-REC1_V2025-06-26-19-13-02.WAV",
+      "id": "1FoIKeTjvPJq7xAgnjXJmVUd__dNbGzU7",
+      "path": "/home/ubuntu/recordings_pipeline/downloads/ROSE-REC1_V2025-06-26-19-13-02.WAV",
+      "source_folder": "Inbox/Thursday 06-26-2025"
+    },
+    {
+      "name": "ROSE-REC1_V2025-06-24-20-41-39.WAV",
+      "id": "1f-150kwgar4pRpQHYzoQvwXnICRBi6xr",
+      "path": "/home/ubuntu/recordings_pipeline/downloads/ROSE-REC1_V2025-06-24-20-41-39.WAV",
+      "source_folder": "Inbox/Tuesday 06-24-2025"
+    },
+    {
+      "name": "ROSE-REC1_V2025-06-24-21-25-29.WAV",
+      "id": "1OZZRCLjJkRaoID4WkjpjtMosJsP_lNlb",
+      "path": "/home/ubuntu/recordings_pipeline/downloads/ROSE-REC1_V2025-06-24-21-25-29.WAV",
+      "source_folder": "Inbox/Tuesday 06-24-2025"
+    },
+    {
+      "name": "ROSE-REC1_V2025-06-24-21-55-36.WAV",
+      "id": "1iwQiQnpj1F9qlHvKyIGabNPtoA7_WDp9",
+      "path": "/home/ubuntu/recordings_pipeline/downloads/ROSE-REC1_V2025-06-24-21-55-36.WAV",
+      "source_folder": "Inbox/Tuesday 06-24-2025"
+    },
+    {
+      "name": "ROSE-REC1_V2025-06-25-08-22-10.WAV",
+      "id": "1FtY-QjR3shzqHjZ7Pbji-q6YKn9C2cTP",
+      "path": "/home/ubuntu/recordings_pipeline/downloads/ROSE-REC1_V2025-06-25-08-22-10.WAV",
+      "source_folder": "Inbox/Wednesday 06-25-2025"
+    },
+    {
+      "name": "ROSE-REC1_V2025-06-25-11-45-20.WAV",
+      "id": "1GihXgkkqyKHKbo8v-DcX6bDInLfqkADz",
+      "path": "/home/ubuntu/recordings_pipeline/downloads/ROSE-REC1_V2025-06-25-11-45-20.WAV",
+      "source_folder": "Inbox/Wednesday 06-25-2025"
+    },
+    {
+      "name": "ROSE-REC1_V2025-06-25-15-13-00.WAV",
+      "id": "1kBkzRuxdXS2XXDi2xzLgmqOaMg0694Qp",
+      "path": "/home/ubuntu/recordings_pipeline/downloads/ROSE-REC1_V2025-06-25-15-13-00.WAV",
+      "source_folder": "Inbox/Wednesday 06-25-2025"
+    },
+    {
+      "name": "ROSE-REC1_V2025-06-25-15-13-50.WAV",
+      "id": "1Y6XehZUhcAXFuxwIYRJrNW-TdXh5dk5h",
+      "path": "/home/ubuntu/recordings_pipeline/downloads/ROSE-REC1_V2025-06-25-15-13-50.WAV",
+      "source_folder": "Inbox/Wednesday 06-25-2025"
+    },
+    {
+      "name": "ROSE-REC1_V2025-06-25-16-34-47.WAV",
+      "id": "1_YW_wva8ZeI_gKHFLeRDA-nb0zQby7e6",
+      "path": "/home/ubuntu/recordings_pipeline/downloads/ROSE-REC1_V2025-06-25-16-34-47.WAV",
+      "source_folder": "Inbox/Wednesday 06-25-2025"
+    },
+    {
+      "name": "ROSE-REC2_V2026-07-04-23-50-49.WAV",
+      "id": "1HHI4Xs3_Pa2qUWmzo-YxP3xe8-syxcBi",
+      "path": "/home/ubuntu/recordings_pipeline/downloads/ROSE-REC2_V2026-07-04-23-50-49.WAV",
+      "source_folder": "Inbox"
+    },
+    {
+      "name": "ROSE-REC2_V2026-07-06-09-00-33.WAV",
+      "id": "17YWCjQKdUZR-rrEL9jgrfXoazlfYb4CL",
+      "path": "/home/ubuntu/recordings_pipeline/downloads/ROSE-REC2_V2026-07-06-09-00-33.WAV",
+      "source_folder": "Inbox"
+    },
+    {
+      "name": "ROSE-REC2_V2026-07-06-10-00-33.WAV",
+      "id": "1di5re_F_3b7gptWxDkpUewkTUM1bbP9B",
+      "path": "/home/ubuntu/recordings_pipeline/downloads/ROSE-REC2_V2026-07-06-10-00-33.WAV",
+      "source_folder": "Inbox"
+    },
+    {
+      "name": "ROSE-REC2_V2026-07-06-11-00-36.WAV",
+      "id": "1U_UonIAoL85_vUm8D-Ri4KQHTp60Bv7L",
+      "path": "/home/ubuntu/recordings_pipeline/downloads/ROSE-REC2_V2026-07-06-11-00-36.WAV",
+      "source_folder": "Inbox"
+    }
+  ]
+}

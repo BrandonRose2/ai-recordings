@@ -1,0 +1,210 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: ROSE-REC2_V2025-12-27-15-16-08.mp3, file size: 4.80 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 839.4 seconds
+Language: eng
+Timestamped segments:
+[01:01.5 - 01:02.0] Fuck off.
+[01:02.0 - 01:50.6] Hmm.
+[01:50.6 - 02:04.6] Snacky
+[02:04.6 - 02:05.3] time?
+[02:05.3 - 02:11.2] Could you hear me screaming up here?
+[02:11.2 - 02:13.0] I might have, yes.
+[02:13.0 - 02:16.8] Assuming you weren't talking to your mother.
+[02:16.8 - 02:18.9] No.
+[02:18.9 - 02:20.3] I could maybe guess.
+[02:20.3 - 02:27.4] We had conversations yesterday, and then today he doesn't remember them, and so it's my fault- Oh ...
+[02:27.4 - 02:29.0] because he doesn't remember the conversation.
+[02:29.0 - 02:31.9] And like we talked about this yesterday, now we don't- Tell him he has a plotter on his neck.
+[02:31.9 - 02:32.3] Hmm?
+[02:32.3 - 02:35.2] Tell him he has a plotter around his neck to re- listen to it.
+[02:35.2 - 02:40.5] Or go to Connect UC and p- play it back.
+[02:40.5 - 02:46.8] Just- Why are your emails on the big screen?
+[02:46.8 - 02:50.5] Oh, I was actually just had this pulled up and I didn't...
+[02:50.5 - 02:51.9] I forgot that I was projecting it.
+[02:51.9 - 02:56.7] I, sometimes I have the reports and stuff pulled up for him to look at if he cares.
+[02:56.7 - 02:57.8] Where were you yesterday afternoon?
+[02:57.8 - 03:07.8] Well, once I got that email and, um, I messaged Mark, and I was like, well, it sounded like I wasn't gonna be able to use my computer, and, uh, was doing
+[03:07.8 - 03:09.7] that Granite Ridge that was time sensitive.
+[03:09.7 - 03:13.8] So I worked and finished that one till 6:00 yesterday.
+[03:13.8 - 03:19.7] I just emailed him telling him- Go ahead and get a gun on his credit card and put it downstairs.
+[03:19.7 - 03:21.3] He needs you to tell him.
+[03:21.3 - 03:22.1] He needs specifics.
+[03:22.1 - 03:26.7] I tried to tell him, but he cut me off and said, "She needs to tell me the specifics." Was that a lens?
+[03:26.7 - 03:27.7] A what?
+[03:27.7 - 03:28.3] For your camera.
+[03:28.3 - 03:29.2] It's a coffee mug.
+[03:29.2 - 03:31.8] That's fucking awesome, dude.
+[03:31.8 - 03:33.1] Right?
+[03:33.1 - 03:33.8] Fuck yeah.
+[03:33.8 - 03:35.8] It's nine doll hairs on Amazon.
+[03:35.8 - 03:37.1] Send me the link, dude.
+[03:37.1 - 03:37.5] I will.
+[03:37.5 - 03:40.5] Oh my God, that is- I just noticed it's not all the way ...
+[03:40.5 - 03:41.8] that is the coolest thing I've ever seen.
+[03:41.8 - 03:43.2] Right, there's white ones too.
+[03:43.2 - 03:43.5] Yeah.
+[03:43.5 - 03:45.1] He doesn't understand about money.
+[03:45.1 - 03:48.8] I'm not poking the bear right now.
+[03:48.8 - 03:49.7] Yeah, don't.
+[03:49.7 - 03:49.8] Oh my God.
+[03:49.8 - 03:52.2] You're not to use Google Sheets.
+[03:52.2 - 03:53.9] Dude, this is so awesome, dude.
+[03:53.9 - 03:54.1] Right?
+[03:54.1 - 03:55.8] They have bigger ones.
+[03:55.8 - 03:58.3] I think they have like a 17 ounce maybe.
+[03:58.3 - 03:60.0] I'll send it to you now.
+[03:60.0 - 04:00.7] That'll be your coffee soon.
+[04:00.7 - 04:03.8] Uh, I put juice and stuff in there.
+[04:03.8 - 04:58.2] I
+[04:58.2 - 04:59.5] need to show you something nifty.
+[04:59.5 - 05:00.4] What?
+[05:00.4 - 05:02.7] I need to show you something nifty I did yesterday.
+[05:02.7 - 05:04.8] It'll take two seconds.
+[05:04.8 - 05:08.1] I trained Claude to...
+[05:08.1 - 05:16.3] I built a program where it scheduled to run all of the inspections on the 21st and pull all the data from My Loan Workers.
+[05:16.3 - 05:17.5] So I just click on this- From where?
+[05:17.5 - 05:19.5] Um, myloanworkers.com.
+[05:19.5 - 05:20.9] So I have it go through there.
+[05:20.9 - 05:21.4] My Loan Workers.
+[05:21.4 - 05:23.7] That's the one that they do the QR.
+[05:23.7 - 05:25.0] That's what it's called?
+[05:25.0 - 05:25.5] Mm-hmm.
+[05:25.5 - 05:26.9] And so it does this.
+[05:26.9 - 05:35.2] I trained it on the action steps to take and where to get the PDFs and to download it, and then it builds a portal with all of the spreadsheets and everything.
+[05:35.2 - 05:37.6] You're dangerous.
+[05:37.6 - 05:38.6] I know.
+[05:38.6 - 05:42.1] You know what- Work smarter, not harder.
+[05:42.1 - 05:46.6] That's what my parents said.
+[05:46.6 - 09:55.4] No,
+[09:55.4 - 09:57.7] the inspection code software is different, bro.
+[09:57.7 - 09:58.4] It's a code.
+[09:58.4 - 09:59.6] Uh, I kinda thought so.
+[09:59.6 - 10:00.1] Yeah.
+[10:00.1 - 10:02.7] So just be like- We'll tell her disregard that.
+[10:02.7 - 10:02.9] Yeah.
+[10:02.9 - 10:04.5] T- Tell her everything's on pause.
+[10:04.5 - 10:05.2] We get it.
+[10:05.2 - 10:05.6] Okay.
+[10:05.6 - 10:06.8] We get it.
+[10:06.8 - 10:07.9] We get- Everything's on pause.
+[10:07.9 - 10:08.4] We get it.
+[10:08.4 - 10:09.1] Okay.
+[10:09.1 - 10:09.5] Gotcha.
+[10:09.5 - 11:52.0] Okay,
+[11:52.0 - 11:53.5] I'm going.
+[11:53.5 - 11:59.9] Oh, I didn't see anything you need me to take.
+[11:59.9 - 12:01.9] Let me ask Amira.
+[12:01.9 - 12:08.0] Mark, remember you mentioned today?
+[12:08.0 - 12:27.3] Nothing in the environment.
+[12:27.3 - 12:29.1] Okay.
+[12:29.1 - 12:29.5] Thank you, bro.
+[12:29.5 - 12:30.2] Yeah, no worries.
+[12:30.2 - 12:31.3] I'll, I'll send this to you right now.
+[12:31.3 - 12:31.9] Yeah.
+[12:31.9 - 12:32.3] Don't worry about it.
+[12:32.3 - 12:33.1] You can do it later.
+[12:33.1 - 12:33.7] Thank you.
+[12:33.7 - 12:34.3] I appreciate it.
+[12:34.3 - 12:34.9] Yeah, of course.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-27-15-16-08_transcription_20260706_153711.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-27-15-16-08_transcription_20260706_153711.txt
+[2J[H[3Jmanus-speech-to-text ROSE-REC2_V2025-12-27-15-16-08.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: ROSE-REC2_V2025-12-27-15-16-08.mp3, file size: 4.80 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[02:50.5 - 02:51.9] I forgot that I was projecting it.
+[02:51.9 - 02:56.7] I, sometimes I have the reports and stuff pulled up for him to look at if he cares.
+[02:56.7 - 02:57.8] Where were you yesterday afternoon?
+[02:57.8 - 03:07.8] Well, once I got that email and, um, I messaged Mark, and I was like, well, it sounded like I wasn't gonna be able to use my computer, and, uh, was doing
+[03:07.8 - 03:09.7] that Granite Ridge that was time sensitive.
+[03:09.7 - 03:13.8] So I worked and finished that one till 6:00 yesterday.
+[03:13.8 - 03:19.7] I just emailed him telling him- Go ahead and get a gun on his credit card and put it downstairs.
+[03:19.7 - 03:21.3] He needs you to tell him.
+[03:21.3 - 03:22.1] He needs specifics.
+[03:22.1 - 03:26.7] I tried to tell him, but he cut me off and said, "She needs to tell me the specifics." Was that a lens?
+[03:26.7 - 03:27.7] A what?
+[03:27.7 - 03:28.3] For your camera.
+[03:28.3 - 03:29.2] It's a coffee mug.
+[03:29.2 - 03:31.8] That's fucking awesome, dude.
+[03:31.8 - 03:33.1] Right?
+[03:33.1 - 03:33.8] Fuck yeah.
+[03:33.8 - 03:35.8] It's nine doll hairs on Amazon.
+[03:35.8 - 03:37.1] Send me the link, dude.
+[03:37.1 - 03:37.5] I will.
+[03:37.5 - 03:40.5] Oh my God, that is- I just noticed it's not all the way ...
+[03:40.5 - 03:41.8] that is the coolest thing I've ever seen.
+[03:41.8 - 03:43.2] Right, there's white ones too.
+[03:43.2 - 03:43.5] Yeah.
+[03:43.5 - 03:45.1] He doesn't understand about money.
+[03:45.1 - 03:48.8] I'm not poking the bear right now.
+[03:48.8 - 03:49.7] Yeah, don't.
+[03:49.7 - 03:49.8] Oh my God.
+[03:49.8 - 03:52.2] You're not to use Google Sheets.
+[03:52.2 - 03:53.9] Dude, this is so awesome, dude.
+[03:53.9 - 03:54.1] Right?
+[03:54.1 - 03:55.8] They have bigger ones.
+[03:55.8 - 03:58.3] I think they have like a 17 ounce maybe.
+[03:58.3 - 03:60.0] I'll send it to you now.
+[03:60.0 - 04:00.7] That'll be your coffee soon.
+[04:00.7 - 04:03.8] Uh, I put juice and stuff in there.
+[04:03.8 - 04:58.2] I
+[04:58.2 - 04:59.5] need to show you something nifty.
+[04:59.5 - 05:00.4] What?
+[05:00.4 - 05:02.7] I need to show you something nifty I did yesterday.
+[05:02.7 - 05:04.8] It'll take two seconds.
+[05:04.8 - 05:08.1] I trained Claude to...
+[05:08.1 - 05:16.3] I built a program where it scheduled to run all of the inspections on the 21st and pull all the data from My Loan Workers.
+[05:16.3 - 05:17.5] So I just click on this- From where?
+[05:17.5 - 05:19.5] Um, myloanworkers.com.
+[05:19.5 - 05:20.9] So I have it go through there.
+[05:20.9 - 05:21.4] My Loan Workers.
+[05:21.4 - 05:23.7] That's the one that they do the QR.
+[05:23.7 - 05:25.0] That's what it's called?
+[05:25.0 - 05:25.5] Mm-hmm.
+[05:25.5 - 05:26.9] And so it does this.
+[05:26.9 - 05:35.2] I trained it on the action steps to take and where to get the PDFs and to download it, and then it builds a portal with all of the spreadsheets and everything.
+[05:35.2 - 05:37.6] You're dangerous.
+[05:37.6 - 05:38.6] I know.
+[05:38.6 - 05:42.1] You know what- Work smarter, not harder.
+[05:42.1 - 05:46.6] That's what my parents said.
+[05:46.6 - 09:55.4] No,
+[09:55.4 - 09:57.7] the inspection code software is different, bro.
+[09:57.7 - 09:58.4] It's a code.
+[09:58.4 - 09:59.6] Uh, I kinda thought so.
+[09:59.6 - 10:00.1] Yeah.
+[10:00.1 - 10:02.7] So just be like- We'll tell her disregard that.
+[10:02.7 - 10:02.9] Yeah.
+[10:02.9 - 10:04.5] T- Tell her everything's on pause.
+[10:04.5 - 10:05.2] We get it.
+[10:05.2 - 10:05.6] Okay.
+[10:05.6 - 10:06.8] We get it.
+[10:06.8 - 10:07.9] We get- Everything's on pause.
+[10:07.9 - 10:08.4] We get it.
+[10:08.4 - 10:09.1] Okay.
+[10:09.1 - 10:09.5] Gotcha.
+[10:09.5 - 11:52.0] Okay,
+[11:52.0 - 11:53.5] I'm going.
+[11:53.5 - 11:59.9] Oh, I didn't see anything you need me to take.
+[11:59.9 - 12:01.9] Let me ask Amira.
+[12:01.9 - 12:08.0] Mark, remember you mentioned today?
+[12:08.0 - 12:27.3] Nothing in the environment.
+[12:27.3 - 12:29.1] Okay.
+[12:29.1 - 12:29.5] Thank you, bro.
+[12:29.5 - 12:30.2] Yeah, no worries.
+[12:30.2 - 12:31.3] I'll, I'll send this to you right now.
+[12:31.3 - 12:31.9] Yeah.
+[12:31.9 - 12:32.3] Don't worry about it.
+[12:32.3 - 12:33.1] You can do it later.
+[12:33.1 - 12:33.7] Thank you.
+[12:33.7 - 12:34.3] I appreciate it.
+[12:34.3 - 12:34.9] Yeah, of course.
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-27-15-16-08_transcription_20260706_153711.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-27-15-16-08_transcription_20260706_153711.txt

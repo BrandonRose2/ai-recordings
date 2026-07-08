@@ -1,0 +1,80 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: ROSE-REC2_V2025-12-31-18-22-14.mp3, file size: 2.04 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 356.0 seconds
+Language: eng
+Timestamped segments:
+[02:46.7 - 02:46.9] Hi.
+[02:46.9 - 02:47.6] Oh, hey.
+[02:47.6 - 02:50.0] How was your drive to this place?
+[02:50.0 - 02:52.3] It was cool.
+[02:52.3 - 02:53.5] Yeah?
+[02:53.5 - 02:54.5] Good.
+[02:54.5 - 02:56.9] Just because I don't have a car, so- Oh, right ...
+[02:56.9 - 02:59.3] like, I'll take the bus and we'll just hang out here, and I'm like, all right.
+[02:59.3 - 02:59.9] Oh, cool.
+[02:59.9 - 03:00.7] Where was that at?
+[03:00.7 - 03:02.0] Well, the Hills.
+[03:02.0 - 03:02.9] Okay.
+[03:02.9 - 03:04.9] It makes it sound like I'm like, you know- You're so far.
+[03:04.9 - 03:06.7] Yeah, so far.
+[03:06.7 - 03:07.7] It's even hotter over there.
+[03:07.7 - 03:10.0] Yeah.
+[03:10.0 - 03:10.4] Cool.
+[03:10.4 - 04:59.5] How
+[04:59.5 - 05:00.7] are you doing?
+[05:00.7 - 05:02.0] Oh, pretty chill.
+[05:02.0 - 05:03.5] I didn't do a whole lot.
+[05:03.5 - 05:04.2] Oh, same.
+[05:04.2 - 05:07.3] Just kind of tried to do as little as possible, really.
+[05:07.3 - 05:07.9] Yep.
+[05:07.9 - 05:09.5] That was my week tomorrow.
+[05:09.5 - 05:11.6] In town doing productive things today.
+[05:11.6 - 05:13.1] So adulting.
+[05:13.1 - 05:14.9] I'll be back in a bit.
+[05:14.9 - 05:53.2] I'm just gonna do those two loads probably, so- No
+[05:53.2 - 05:56.0] problem.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-31-18-22-14_transcription_20260706_160211.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-31-18-22-14_transcription_20260706_160211.txt
+[2J[H[3Jmanus-speech-to-text ROSE-REC2_V2025-12-31-18-22-14.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: ROSE-REC2_V2025-12-31-18-22-14.mp3, file size: 2.04 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[02:46.7 - 02:46.9] Hi.
+[02:46.9 - 02:47.6] Oh, hey.
+[02:47.6 - 02:50.0] How was your drive to this place?
+[02:50.0 - 02:52.3] It was cool.
+[02:52.3 - 02:53.5] Yeah?
+[02:53.5 - 02:54.5] Good.
+[02:54.5 - 02:56.9] Just because I don't have a car, so- Oh, right ...
+[02:56.9 - 02:59.3] like, I'll take the bus and we'll just hang out here, and I'm like, all right.
+[02:59.3 - 02:59.9] Oh, cool.
+[02:59.9 - 03:00.7] Where was that at?
+[03:00.7 - 03:02.0] Well, the Hills.
+[03:02.0 - 03:02.9] Okay.
+[03:02.9 - 03:04.9] It makes it sound like I'm like, you know- You're so far.
+[03:04.9 - 03:06.7] Yeah, so far.
+[03:06.7 - 03:07.7] It's even hotter over there.
+[03:07.7 - 03:10.0] Yeah.
+[03:10.0 - 03:10.4] Cool.
+[03:10.4 - 04:59.5] How
+[04:59.5 - 05:00.7] are you doing?
+[05:00.7 - 05:02.0] Oh, pretty chill.
+[05:02.0 - 05:03.5] I didn't do a whole lot.
+[05:03.5 - 05:04.2] Oh, same.
+[05:04.2 - 05:07.3] Just kind of tried to do as little as possible, really.
+[05:07.3 - 05:07.9] Yep.
+[05:07.9 - 05:09.5] That was my week tomorrow.
+[05:09.5 - 05:11.6] In town doing productive things today.
+[05:11.6 - 05:13.1] So adulting.
+[05:13.1 - 05:14.9] I'll be back in a bit.
+[05:14.9 - 05:53.2] I'm just gonna do those two loads probably, so- No
+[05:53.2 - 05:56.0] problem.
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-31-18-22-14_transcription_20260706_160211.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-31-18-22-14_transcription_20260706_160211.txt

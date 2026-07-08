@@ -1,0 +1,50 @@
+Starting Speech-to-Text conversion...
+Audio file size (5.0MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 5.03 MB, duration: 879.1 seconds
+Splitting into 2 chunks (each ~439.6 seconds, max 5 MB)...
+Successfully split into 2 chunks
+Audio file split into 2 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_Tuesday_V2026-06-30-08-22-01.mp3, file size: 5.03 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 2 chunks...
+
+Transcribing chunk 1/2: mp3/.ROSE-REC2_Tuesday_V2026-06-30-08-22-01_chunks_20260705_192703/chunk_000.mp3
+Chunk 1 completed (duration: 439.5s)
+
+Transcribing chunk 2/2: mp3/.ROSE-REC2_Tuesday_V2026-06-30-08-22-01_chunks_20260705_192703/chunk_001.mp3
+Chunk 2 completed (duration: 439.3s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 878.8 seconds
+Language: eng
+Total Chunks: 2
+Timestamped segments:
+[14:33.5 - 14:38.6] Oh, thank you.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-08-22-01_transcription_20260705_192900.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-08-22-01_transcription_20260705_192900.txt
+[2J[H[3Jmanus-speech-to-text mp3/ROSE-REC2_Tuesday_V2026-06-30-08-22-01.mp3
+Starting Speech-to-Text conversion...
+Audio file size (5.0MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 5.03 MB, duration: 879.1 seconds
+Splitting into 2 chunks (each ~439.6 seconds, max 5 MB)...
+Successfully split into 2 chunks
+Audio file split into 2 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_Tuesday_V2026-06-30-08-22-01.mp3, file size: 5.03 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 2 chunks...
+Transcribing chunk 1/2: mp3/.ROSE-REC2_Tuesday_V2026-06-30-08-22-01_chunks_20260705_192703/chunk_000.mp3
+Chunk 1 completed (duration: 439.5s)
+Transcribing chunk 2/2: mp3/.ROSE-REC2_Tuesday_V2026-06-30-08-22-01_chunks_20260705_192703/chunk_001.mp3
+Chunk 2 completed (duration: 439.3s)
+
+Snippet of transcribed content:
+[14:33.5 - 14:38.6] Oh, thank you.
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-08-22-01_transcription_20260705_192900.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-08-22-01_transcription_20260705_192900.txt

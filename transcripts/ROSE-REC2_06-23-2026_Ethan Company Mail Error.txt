@@ -1,0 +1,461 @@
+Starting Speech-to-Text conversion...
+Audio file size (16.4MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 16.44 MB, duration: 2873.8 seconds
+Splitting into 4 chunks (each ~718.5 seconds, max 5 MB)...
+Successfully split into 4 chunks
+Audio file split into 4 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_06-23-2026_Ethan Company Mail Error.mp3, file size: 16.44 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 4 chunks...
+
+Transcribing chunk 1/4: mp3/.ROSE-REC2_06-23-2026_Ethan Company Mail Error_chunks_20260705_173406/chunk_000.mp3
+Chunk 1 completed (duration: 718.4s)
+
+Transcribing chunk 2/4: mp3/.ROSE-REC2_06-23-2026_Ethan Company Mail Error_chunks_20260705_173406/chunk_001.mp3
+Chunk 2 completed (duration: 718.4s)
+
+Transcribing chunk 3/4: mp3/.ROSE-REC2_06-23-2026_Ethan Company Mail Error_chunks_20260705_173406/chunk_002.mp3
+Chunk 3 completed (duration: 718.4s)
+
+Transcribing chunk 4/4: mp3/.ROSE-REC2_06-23-2026_Ethan Company Mail Error_chunks_20260705_173406/chunk_003.mp3
+Chunk 4 completed (duration: 718.2s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 2873.4 seconds
+Language: eng
+Total Chunks: 4
+Timestamped segments:
+[09:27.2 - 09:28.9] No, we already talked about your thing.
+[09:28.9 - 09:29.4] What's up?
+[09:29.4 - 09:31.0] We talked about your thing.
+[09:31.0 - 09:31.9] Everyone was having it.
+[09:31.9 - 09:32.6] You're good now.
+[09:32.6 - 09:33.8] Oh, yeah, I guess I'm good.
+[09:33.8 - 09:34.6] Thank you.
+[09:34.6 - 09:37.4] Everybody was having it, so this is what happened.
+[09:37.4 - 09:37.8] Uh-huh.
+[09:37.8 - 09:41.0] That started happening 15 minute...
+[09:41.0 - 09:44.1] Like, I got here, went through my emails- Yeah ...
+[09:44.1 - 09:47.5] sent a couple off, and then that start, like- Oh ...
+[09:47.5 - 09:49.9] at 9:20 that started happening.
+[09:49.9 - 09:49.9] Oh, okay.
+[09:49.9 - 09:51.9] So everything was fine and then- Oh ...
+[09:51.9 - 09:53.3] it went into its like...
+[09:53.3 - 09:53.9] Interesting.
+[09:53.9 - 10:03.5] 'Cause so usually what happens, so you know, it's the monthly thing, I think we've talked about it, where Leslie will always complain, rightfully though, where in- Uh-huh ...
+[10:03.5 - 10:07.6] her phone she has it automatically update her emails and stuff.
+[10:07.6 - 10:07.7] Okay.
+[10:07.7 - 10:11.1] So I think it's like, you know, some people set it up to get the notification.
+[10:11.1 - 10:11.5] Yeah.
+[10:11.5 - 10:12.7] And that's what it was saying, an update.
+[10:12.7 - 10:14.4] And she has that- Uh-huh ...
+[10:14.4 - 10:20.6] on her cellphone and it constantly, for some reason, the Exchange setup we have- Uh-huh ...
+[10:20.6 - 10:28.4] it interferes with the mobile app when it's doing a reboot, and I think it just, it made it even worse this time randomly.
+[10:28.4 - 10:28.8] Oh.
+[10:28.8 - 10:30.9] W- so it- And it happened to our actual Outlook- Uh-huh ...
+[10:30.9 - 10:31.6] and everything.
+[10:31.6 - 10:34.5] So that's why you were getting it, but then everybody...
+[10:34.5 - 10:35.0] I was like- Oh ...
+[10:35.0 - 10:38.2] "I don't know what you're talking about." But okay, then I, Nicole had it.
+[10:38.2 - 10:40.1] I went in and then I had it.
+[10:40.1 - 10:40.3] Oh.
+[10:40.3 - 10:42.6] And everybody was calling about it.
+[10:42.6 - 10:43.0] So it was a fix?
+[10:43.0 - 10:43.5] Just an update?
+[10:43.5 - 10:46.4] Jeremy, I think, had to just go and, like, tweak something- Oh, okay ...
+[10:46.4 - 10:50.1] and look at it and, like, okay some updating thing.
+[10:50.1 - 10:50.6] I see.
+[10:50.6 - 10:54.7] But it like, uh, I think it happens when it's, like, maybe not- Mm ...
+[10:54.7 - 10:57.5] updating, but backing up the emails or something- Mm ...
+[10:57.5 - 10:58.8] on our server- Okay ...
+[10:58.8 - 11:00.0] or something like that.
+[11:00.0 - 11:02.7] But it does always interfere with the mobile app.
+[11:02.7 - 11:03.1] Oh.
+[11:03.1 - 11:10.0] And so Leslie complains 'cause she has it automatically, like, she's always on the road, so it's like, "Here's your email.
+[11:10.0 - 11:11.3] Here's your email." Right.
+[11:11.3 - 11:15.4] And because she has it auto- automatically updating always- Oh ...
+[11:15.4 - 11:18.8] it constantly pops up like, "Hey, put in your password." That's annoying.
+[11:18.8 - 11:19.6] "Put, put in your password.
+[11:19.6 - 11:20.8] Put in your password." Yeah.
+[11:20.8 - 11:26.2] Whereas for me, I went into my email, I was, like, checking something on my personal email actually.
+[11:26.2 - 11:26.4] Uh-huh.
+[11:26.4 - 11:30.1] And they're both linked in the, in the regular mail app on the iPhone.
+[11:30.1 - 11:30.8] Oh, yeah, yeah.
+[11:30.8 - 11:32.6] And it would pop up over- Oh ...
+[11:32.6 - 11:34.9] me scrolling through my personal emails 'cause both accounts are on there.
+[11:34.9 - 11:35.9] I never use the mail app.
+[11:35.9 - 11:36.4] I should.
+[11:36.4 - 11:37.3] Eh, it's, it's kind of bad.
+[11:37.3 - 11:38.3] 'Cause I use it on my Mac.
+[11:38.3 - 11:39.1] Yeah.
+[11:39.1 - 11:40.8] It, it's, like, glitched- Oh ...
+[11:40.8 - 11:43.6] on the a- uh- Exchange ...
+[11:43.6 - 11:44.7] well, not even that.
+[11:44.7 - 11:47.4] I think it's the actual iPhone app that's glitched- Oh ...
+[11:47.4 - 11:48.5] for having two accounts.
+[11:48.5 - 11:51.3] 'Cause when I back out- Oh, yeah, I have to deactivate one ...
+[11:51.3 - 11:55.2] when I back out to, like, the home page, if you will, where it says, like- Link two accounts, yeah ...
+[11:55.2 - 11:58.3] Apartment Corp, and it says Gmail down here, and it has-
+[11:58.6 - 12:00.8] you know, your sent and your inbox and stuff separated.
+[12:00.8 - 12:01.2] Right.
+[12:01.2 - 12:06.6] I'll go into one of them, look at my personal email, back out to the home page- Oh ...
+[12:06.6 - 12:13.4] and then every time I open it back up, it either goes to a black screen or takes you all the way back into my Gmail account.
+[12:13.4 - 12:13.7] Oh.
+[12:13.7 - 12:16.4] And then it's like I have to constantly, like- Yeah ...
+[12:16.4 - 12:21.2] I have to leave it open on the home page for 30 minutes to- Yeah, that's the downfall of having both accounts in there ...
+[12:21.2 - 12:22.8] yeah, and it's like, well, I don't want it defaulting to my personal shit.
+[12:22.8 - 12:24.3] I have to deactivate one.
+[12:24.3 - 12:26.6] Just it's like not- Yeah ...
+[12:26.6 - 12:34.7] actually an issue, right, but legitimately what I do always fear is I haven't turned off, like, LinkedIn notification.
+[12:34.7 - 12:36.0] And one time Mark was like- Oh ...
+[12:36.0 - 12:41.0] "Hey, just go into your email and test something," and I had, like, a LinkedIn...
+[12:41.0 - 12:43.8] Because you know what they send you, right, is like it...
+[12:43.8 - 12:44.7] Or- Uh-uh ...
+[12:44.7 - 12:45.6] you're probably familiar.
+[12:45.6 - 12:54.3] They just say like, "Oh, your experience or what you've said you have experience in-" Oh, so it makes it look like you're looking for a job And it's like, "Here's all this, like, executive assistant stuff," or whatever.
+[12:54.3 - 12:55.5] Yeah, yeah, yeah.
+[12:55.5 - 12:58.3] And I realized when I had it that it was like...
+[12:58.3 - 13:02.5] 'Cause when you bring it up on the computer it's a whole window so you can see like 40 of your most recent emails.
+[13:02.5 - 13:03.0] Oh, yeah, yeah, yeah.
+[13:03.0 - 13:08.2] And I realized there's like four in there from LinkedIn, and it looks really bad.
+[13:08.2 - 13:08.7] Yeah.
+[13:08.7 - 13:16.3] And so ever since then I'm, like, paranoid that I don't actually have anything that you shouldn't see, but I now am weird about you seeing it- Yeah ...
+[13:16.3 - 13:17.5] because you know how Mark is.
+[13:17.5 - 13:19.0] I'm a very private person too.
+[13:19.0 - 13:20.2] I don't want people to see my shit.
+[13:20.2 - 13:20.2] He's a little...
+[13:20.2 - 13:22.1] Yeah, he's got, like, a short fuse, you know- Yeah ...
+[13:22.1 - 13:22.6] with being generous.
+[13:22.6 - 13:25.0] So it's like, well, I'm actually not...
+[13:25.0 - 13:28.8] Like, I'm not, but I don't wanna get in trouble Right ...
+[13:28.8 - 13:31.5] like, I'm like, "No." Just better to not even have it available.
+[13:31.5 - 13:31.9] Yeah Yeah.
+[13:31.9 - 13:41.2] And so I didn't even reali- and I don't think he realized, 'cause we were just trying to get some random, like, notifica- it was just trying to get an email to come through from- Oh ...
+[13:41.2 - 13:45.1] like, a DocuSign or whatever, and it just wasn't even hitting our spam filter.
+[13:45.1 - 13:45.5] Oh.
+[13:45.5 - 13:50.6] So he's like, "Just send it to your email and we'll figure it out." And I was like, "Oh, that's a fair enough test." Oh.
+[13:50.6 - 13:51.0] And I just...
+[13:51.0 - 13:53.7] Because I kind of ignore those emails.
+[13:53.7 - 13:55.0] Oh, by the way- But I just showed like three ...
+[13:55.0 - 14:02.1] you showed me a loophole one time for that SpamTitan because, um, the accountant was trying to send me an email yesterday.
+[14:02.1 - 14:06.4] I know it was going there, but I didn't know how to automatically go to the SpamTitan page.
+[14:06.4 - 14:07.9] Oh, yeah.
+[14:07.9 - 14:14.0] That in- So, I mean, you can save it as a favorite, but you just, uh, do from SpamTitan or from- Oh ...
+[14:14.0 - 14:23.1] spam, and then you have to go into one of those, um, you have to go in through the email is the way, and go all...
+[14:23.1 - 14:26.1] Scroll to the bottom and then it's the third one, I think.
+[14:26.1 - 14:28.6] It's the view the whole- Entire quarantine.
+[14:28.6 - 14:29.3] Mm-hmm, yeah.
+[14:29.3 - 14:32.2] And then I need to favorite this or what?
+[14:32.2 - 14:32.9] Yes.
+[14:32.9 - 14:33.2] Okay.
+[14:33.2 - 14:37.8] This would be like you can favorite this and then it shows you everything that's gone- Oh, okay ...
+[14:37.8 - 14:40.1] into your spam filters and whatnot.
+[14:40.1 - 14:40.7] Yeah.
+[14:40.7 - 14:41.8] See, he was...
+[14:41.8 - 14:48.6] Oh, that was to Victoria for the- Um, and yeah.
+[14:48.6 - 14:48.6] Oh, yeah.
+[14:48.6 - 14:50.4] So you could save this as one of your favorites.
+[14:50.4 - 14:50.6] See, here's quarantine.
+[14:50.6 - 14:50.7] He's trying to quarantine.
+[14:50.7 - 14:58.6] And then if that's ever not working, 'cause sometimes stuff gets blocked as spam but doesn't go into quarantine, I- So how do I save this to my favorites?
+[14:58.6 - 15:01.8] Well, I would just say save the webpage.
+[15:01.8 - 15:03.1] Oh, oh, okay, okay.
+[15:03.1 - 15:05.1] Yeah, like the SpamTitan webpage.
+[15:05.1 - 15:05.5] Okay.
+[15:05.5 - 15:06.5] Sorry, this one.
+[15:06.5 - 15:07.2] Oh.
+[15:07.2 - 15:07.7] That guy.
+[15:07.7 - 15:11.2] Save this to your favorites and it should always let you in.
+[15:11.2 - 15:11.7] Okay.
+[15:11.7 - 15:13.2] Theoretically.
+[15:13.2 - 15:16.6] Now, I don't know because the one thing is that you're...
+[15:16.6 - 15:19.9] Yeah, you can, like, set up a password, I guess.
+[15:19.9 - 15:21.4] But- Oh, okay.
+[15:21.4 - 15:25.3] I would just worry about the quarantine stuff and- Okay ...
+[15:25.3 - 15:28.7] and then just save this and it should- I don't even remember how to save to my favorites.
+[15:28.7 - 15:29.7] How do you do that?
+[15:29.7 - 15:31.2] Go back to that.
+[15:31.2 - 15:31.7] This?
+[15:31.7 - 15:32.1] Or this.
+[15:32.1 - 15:32.7] Uh, sorry, SpamTitan.
+[15:32.7 - 15:33.7] Oh, like bookmark it.
+[15:33.7 - 15:34.4] And then click...
+[15:34.4 - 15:35.4] Yeah, yeah, yeah, click...
+[15:35.4 - 15:36.6] Sorry, bookmark.
+[15:36.6 - 15:38.4] So click the star at the end of the URL.
+[15:38.4 - 15:39.0] Oh, yeah.
+[15:39.0 - 15:39.2] Okay.
+[15:39.2 - 15:40.1] Not that one, sorry.
+[15:40.1 - 15:40.5] Oops.
+[15:40.5 - 15:41.8] Left, in the URL.
+[15:41.8 - 15:42.7] Oh, yes.
+[15:42.7 - 15:43.5] Left, left, left there.
+[15:43.5 - 15:44.0] Uh, let me bookmark it.
+[15:44.0 - 15:46.3] And then if you want it on the bar, do that.
+[15:46.3 - 15:47.9] If you want it in your- That's fine ...
+[15:47.9 - 15:48.4] others or whatever.
+[15:48.4 - 15:50.0] And then, yep, just, uh...
+[15:50.0 - 15:50.9] Nope, you did save it.
+[15:50.9 - 15:51.2] I removed it.
+[15:51.2 - 15:53.1] There you go.
+[15:53.1 - 15:53.4] There we go.
+[15:53.4 - 15:53.6] Okay.
+[15:53.6 - 15:54.7] And so now it should be there.
+[15:54.7 - 15:56.3] It should let you in, but you may...
+[15:56.3 - 16:02.2] I'm not fully aware 'cause since you don't have an account for, like, logging in like that- Uh-huh ...
+[16:02.2 - 16:05.3] you may always just have to go to a previous email.
+[16:05.3 - 16:05.7] Oh.
+[16:05.7 - 16:06.9] But this is the thing.
+[16:06.9 - 16:07.2] I'll test it out.
+[16:07.2 - 16:11.1] You can go- you can go to the oldest email ever- Maybe I can just do- ...
+[16:11.1 - 16:12.2] or the f- the most recent one.
+[16:12.2 - 16:12.5] Uh-huh.
+[16:12.5 - 16:14.9] It'll all take you to what is recently.
+[16:14.9 - 16:15.0] Okay, well, that went through.
+[16:15.0 - 16:17.3] Like, if something just got quarantined- Uh-huh ...
+[16:17.3 - 16:21.4] it'll be in this page, even if you went to some email and clicked on the link from- Okay ...
+[16:21.4 - 16:22.9] like, two, three months ago.
+[16:22.9 - 16:23.4] Perfect.
+[16:23.4 - 16:24.5] So- Thank you ...
+[16:24.5 - 16:24.6] yeah.
+[16:24.6 - 16:26.1] That's what I was needing yesterday.
+[16:26.1 - 16:28.4] I was like, "Well, I think it's gonna come through eventually, but-" "...
+[16:28.4 - 16:35.2] the spam filter doesn't come till, like, maybe hours later." Yeah, that's why this is good to have at your disposal- Yeah ...
+[16:35.2 - 16:35.4] for sure.
+[16:35.4 - 16:40.2] But obviously use it, like, sparingly.
+[16:40.2 - 16:43.1] Like, make sure you know, 'cause here's the one thing.
+[16:43.1 - 16:50.6] I don't think you have the ability at all, because none of us do when it's actually a, uh, like, a virus of some sort.
+[16:50.6 - 16:51.1] Oh, yeah.
+[16:51.1 - 16:55.5] But if someone's saying they're sending you an Excel spreadsheet specifically- Yeah ...
+[16:55.5 - 17:01.6] and it won't come through and is being marked as spam, w- especially if it's someone you've, like, emailed with- Emailed with before ...
+[17:01.6 - 17:02.9] regularly and everything- Uh-huh ...
+[17:02.9 - 17:07.8] and outside of the company, they most likely have macros enabled.
+[17:07.8 - 17:08.0] Mm.
+[17:08.0 - 17:09.6] Which a lot of the time is...
+[17:09.6 - 17:13.4] It, it's just stupid shit and their spreadsheet has no need- Yeah ...
+[17:13.4 - 17:14.6] for using macros.
+[17:14.6 - 17:16.2] They just have defaults to that in the spreadsheet.
+[17:16.2 - 17:17.5] Like, and it defaults- Yeah ...
+[17:17.5 - 17:18.4] it, like, does it a lot.
+[17:18.4 - 17:25.3] But if they're sending that and it doesn't come through, it's probably because of macros being enabled.
+[17:25.3 - 17:25.4] Oh.
+[17:25.4 - 17:29.6] Which inherently end up, it's, like, a super easy way- Attaching spam ...
+[17:29.6 - 17:31.2] to make something carry a virus.
+[17:31.2 - 17:31.9] Oh, okay.
+[17:31.9 - 17:33.5] And so Jeremy kinda has...
+[17:33.5 - 17:36.8] It's like if there's Excel being sent where macros are enabled- Oh ...
+[17:36.8 - 17:38.3] it immediately gets rejected.
+[17:38.3 - 17:38.9] Interesting.
+[17:38.9 - 17:43.0] Quite frankly, I don't even know if it would show up there because of that.
+[17:43.0 - 17:43.4] Oh.
+[17:43.4 - 17:45.9] So it may not even show, but just- 'Cause that's like a top level ...
+[17:45.9 - 17:49.1] on the off chance that it, you know, someone that- Yeah ...
+[17:49.1 - 17:51.0] you've communicated with regularly- Okay ...
+[17:51.0 - 17:57.3] is saying they're sending an Excel and it doesn't come through, just maybe hesitate just that slight bit- Oh, okay ...
+[17:57.3 - 17:59.6] before you release it because of that fact.
+[17:59.6 - 18:00.3] Oh, okay.
+[18:00.3 - 18:01.4] Good to know.
+[18:01.4 - 18:06.3] Like, at the end of the day- If you got a virus, I think we really could like- Get rid of it ...
+[18:06.3 - 18:07.6] crush your machine.
+[18:07.6 - 18:08.1] Yeah.
+[18:08.1 - 18:09.9] Give you a whole new computer- Oh ...
+[18:09.9 - 18:14.7] where we'd have to like, you'd just have to log into Outlook again, and it would download your emails- Oh, okay ...
+[18:14.7 - 18:16.2] and whatnot as a for instance.
+[18:16.2 - 18:19.3] But, um, it's better to just not deal with it.
+[18:19.3 - 18:19.8] But it's- Yeah ...
+[18:19.8 - 18:26.6] usually from my experience, like people have gotten malware viruses from like clicking around, pop-up bullshit- Yeah, links ...
+[18:26.6 - 18:29.2] and then you just crush the machine, and then it's good.
+[18:29.2 - 18:29.3] Oh.
+[18:29.3 - 18:36.0] 'Cause it just got like a normal virus, and it's like, well, cool, it's contained to the computer 'cause it's like not- Mm ...
+[18:36.0 - 18:38.5] smart enough to know the server and jump- Oh ...
+[18:38.5 - 18:38.8] on there.
+[18:38.8 - 18:40.3] It just stays computer specific, yeah.
+[18:40.3 - 18:42.6] So it stays just on the virtual machine.
+[18:42.6 - 18:43.2] Okay.
+[18:43.2 - 18:48.2] But the worry is always similar to how when the GPUs got fucked- Yeah ...
+[18:48.2 - 18:49.6] 'cause the program was doing stuff.
+[18:49.6 - 18:51.6] There's- The AI stuff, everything, yeah ...
+[18:51.6 - 18:51.8] that aspect, right.
+[18:51.8 - 18:55.6] But so there's like that aspect of always worrying that the virus will- Oh, okay ...
+[18:55.6 - 18:58.4] get over to the server, and then we'd be- Yeah ...
+[18:58.4 - 18:58.8] fucked.
+[18:58.8 - 19:02.9] Yeah, 'cause if I forwarded it all to the managers, like Yeah.
+[19:02.9 - 19:05.4] Good to know.
+[32:32.2 - 32:33.0] Let's go back.
+[32:33.0 - 33:07.6] Mm-hmm.
+[33:07.6 - 35:48.5] Mm-hmm.
+[35:48.5 - 35:55.1] Hmm?
+[36:01.6 - 36:02.0] Okay.
+[36:02.0 - 36:57.8] Okay.
+[36:57.8 - 40:09.0] Is
+[40:09.0 - 40:09.5] your dad here?
+[40:09.5 - 40:10.4] Huh?
+[40:10.4 - 40:11.0] Is your dad here?
+[40:11.0 - 40:30.1] Tea
+[40:30.1 - 40:31.0] biscuits.
+[40:31.0 - 40:32.0] Orange.
+[40:32.0 - 40:33.0] Those are orange.
+[40:33.0 - 40:34.0] Yeah, I haven't tried them yet.
+[40:34.0 - 40:36.1] Catalina Crunch.
+[40:36.1 - 40:40.0] Oils and herbs and nuts.
+[40:40.0 - 40:41.7] Protein pebbles.
+[40:41.7 - 40:42.7] All sorts of shit, huh?
+[40:42.7 - 40:48.4] Nicole said, "You're like a convenience store." Yeah.
+[40:48.4 - 40:50.5] One-stop shop.
+[40:50.5 - 42:17.3] Mm-hmm.
+[42:17.3 - 42:19.0] Okay.
+[42:19.0 - 42:46.6] Hi,
+[42:46.6 - 42:47.0] it's Jeff.
+[42:47.0 - 42:47.7] Hey, Jeff.
+[42:47.7 - 42:48.8] It's Brandon Rose again.
+[42:48.8 - 42:49.2] How are you?
+[42:49.2 - 42:50.6] Hey, Brandon.
+[42:50.6 - 42:51.2] How are you?
+[42:51.2 - 42:52.0] I'm well.
+[42:52.0 - 43:00.4] Um, I just got done going through the Grace, um, everything one by one, and I think I have it- Mm-hmm ...
+[43:00.4 - 43:01.5] all sorted out now.
+[43:01.5 - 43:03.3] So I sent that over- You're the man ...
+[43:03.3 - 43:03.5] to you.
+[43:03.5 - 43:05.3] So I know I was making it- You're the man ...
+[43:05.3 - 43:06.0] too, too difficult.
+[43:06.0 - 43:08.3] Or AI was actually making it too difficult.
+[43:08.3 - 43:13.3] So, um, if you could, when you get a chance, look at that one and- Okay ...
+[43:13.3 - 43:16.8] double-check, and then I can move on to Granite Ridge.
+[43:16.8 - 43:22.0] And after those two are finalized, the other ones should, you know, once that process- Yeah, yeah ...
+[43:22.0 - 43:24.8] is memorized, they should just take a second or two to do the other ones.
+[43:24.8 - 43:26.9] But I just wanna make sure these are correct, so.
+[43:26.9 - 43:33.2] Well, I think we, I think that, you know, one of the issues is that, you know, we, we...
+[43:33.2 - 43:41.6] You have-- With AI, you, you, you can't just rely on AI.
+[43:41.6 - 43:42.2] Oh, yeah.
+[43:42.2 - 43:43.4] You still have to hold its hand.
+[43:43.4 - 43:43.7] You have to check it all.
+[43:43.7 - 43:44.0] Yeah.
+[43:44.0 - 43:45.3] It's, it's...
+[43:45.3 - 43:49.2] You know, unfortunately, it's, it's just, it is what it is.
+[43:49.2 - 43:49.7] Yeah.
+[43:49.7 - 43:52.8] And you, you have to have knowledge of the subject matter yourself.
+[43:52.8 - 43:59.2] And I kind of jumped into it and started moving too quickly when I should have taken more time, to be honest- Mm-hmm ...
+[43:59.2 - 44:01.2] to really dissect the material.
+[44:01.2 - 44:03.0] But, um- Mm-hmm.
+[44:03.0 - 44:09.8] And that, and that's why what I wanted to do is have you sit down, slow down, see what we're trying to do.
+[44:09.8 - 44:14.4] And I haven't got to the next step and to show you what, you know, what it looks like.
+[44:14.4 - 44:15.1] But- Mm-hmm ...
+[44:15.1 - 44:16.5] I think it'll be fine.
+[44:16.5 - 44:19.4] But, um- Okay.
+[44:19.4 - 44:29.5] I think also maybe one of the issues that AI, I'm just kind of thinking, um, whenever it did all of the building breakdowns that it messed up in the summary
+[44:29.5 - 44:35.7] section, you know, at the very top, and it messed up, um, it started messing up at like building eleven and twelve.
+[44:35.7 - 44:41.0] I think maybe it got confused because, like, the numbering on the left, you know- Mm-hmm, mm-hmm ...
+[44:41.0 - 44:45.4] it starts going ten, eleven, twelve, and then the buildings start not matching- Mm-hmm ...
+[44:45.4 - 44:46.3] the numbers on the left.
+[44:46.3 - 44:46.5] Yeah.
+[44:46.5 - 44:50.0] I think that maybe that I, I just- And that's why you have to make sure that the, that it...
+[44:50.0 - 44:59.6] not only is it bringing the totals to over, but the, but in each, you know, category that, that it's working.
+[44:59.6 - 44:60.0] Right.
+[44:60.0 - 45:02.5] 'Cause it does have to do a few different, um- Yeah ...
+[45:02.5 - 45:03.3] navigations.
+[45:03.3 - 45:04.8] I was gonna ask you- Yeah ...
+[45:04.8 - 45:09.8] on the end depreciation values, those are pulled from the three one one five forms, correct?
+[45:09.8 - 45:10.4] In the adjustments.
+[45:10.4 - 45:10.7] Yes.
+[45:10.7 - 45:11.1] Okay.
+[45:11.1 - 45:11.4] Yeah.
+[45:11.4 - 45:11.7] Yeah.
+[45:11.7 - 45:12.5] Just double-checking.
+[45:12.5 - 45:12.6] Yeah.
+[45:12.6 - 45:14.8] So I think it's all correct.
+[45:14.8 - 45:15.7] Cross my fingers.
+[45:15.7 - 45:16.9] All looking- So ...
+[45:16.9 - 45:17.2] perfect.
+[45:17.2 - 45:18.1] Okay.
+[45:18.1 - 45:22.4] I'm gonna go grab some lunch, and then I will come back and do the rest of- You got it.
+[45:22.4 - 45:22.6] Okay.
+[45:22.6 - 45:23.0] Thanks, man.
+[45:23.0 - 45:23.4] Thanks, Jeff.
+[45:23.4 - 45:23.7] Okay, bye.
+[45:23.7 - 45:24.0] Okay.
+[45:24.0 - 45:24.6] Bye.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_06-23-2026_Ethan Company Mail Error_transcription_20260705_173531.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_06-23-2026_Ethan Company Mail Error_transcription_20260705_173531.txt
+[2J[H[3Jmanus-speech-to-text "mp3/ROSE-REC2_06-23-2026_Ethan Company Mail Error.mp3"
+Starting Speech-to-Text conversion...
+Audio file size (16.4MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 16.44 MB, duration: 2873.8 seconds
+Splitting into 4 chunks (each ~718.5 seconds, max 5 MB)...
+Successfully split into 4 chunks
+Audio file split into 4 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_06-23-2026_Ethan Company Mail Error.mp3, file size: 16.44 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 4 chunks...
+Transcribing chunk 1/4: mp3/.ROSE-REC2_06-23-2026_Ethan Company Mail Error_chunks_20260705_173406/chunk_000.mp3
+Chunk 1 completed (duration: 718.4s)
+Transcribing chunk 2/4: mp3/.ROSE-REC2_06-23-2026_Ethan Company Mail Error_chunks_20260705_173406/chunk_001.mp3
+Chunk 2 completed (duration: 718.4s)
+Transcribing chunk 3/4: mp3/.ROSE-REC2_06-23-2026_Ethan Company Mail Error_chunks_20260705_173406/chunk_002.mp3
+Chunk 3 completed (duration: 718.4s)
+Transcribing chunk 4/4: mp3/.ROSE-REC2_06-23-2026_Ethan Company Mail Error_chunks_20260705_173406/chunk_003.mp3
+Chunk 4 completed (duration: 718.2s)
+
+Snippet of transcribed content:
+[43:16.8 - 43:22.0] And after those two are finalized, the other ones should, you know, once that process- Yeah, yeah ...
+[43:22.0 - 43:24.8] is memorized, they should just take a second or two to do the other ones.
+[43:24.8 - 43:26.9] But I just wanna make sure these are correct, so.
+[43:26.9 - 43:33.2] Well, I think we, I think that, you know, one of the issues is that, you know, we, we...
+[43:33.2 - 43:41.6] You have-- With AI, you, you, you can't just rely on AI.
+[43:41.6 - 43:42.2] Oh, yeah.
+[43:42.2 - 43:43.4] You still have to hold its hand.
+[43:43.4 - 43:43.7] You have to check it all.
+[43:43.7 - 43:44.0] Yeah.
+[43:44.0 - 43:45.3] It's, it's...
+[43:45.3 - 43:49.2] You know, unfortunately, it's, it's just, it is what it is.
+[43:49.2 - 43:49.7] Yeah.
+[43:49.7 - 43:52.8] And you, you have to have knowledge of the subject matter yourself.
+[43:52.8 - 43:59.2] And I kind of jumped into it and started moving too quickly when I should have taken more time, to be honest- Mm-hmm ...
+[43:59.2 - 44:01.2] to really dissect the material.
+[44:01.2 - 44:03.0] But, um- Mm-hmm.
+[44:03.0 - 44:09.8] And that, and that's why what I wanted to do is have you sit down, slow down, see what we're trying to do.
+[44:09.8 - 44:14.4] And I haven't got to the next step and to show you what, you know, what it looks like.
+[44:14.4 - 44:15.1] But- Mm-hmm ...
+[44:15.1 - 44:16.5] I think it'll be fine.
+[44:16.5 - 44:19.4] But, um- Okay.
+[44:19.4 - 44:29.5] I think also maybe one of the issues that AI, I'm just kind of thinking, um, whenever it did all of the building breakdowns that it messed up in the summary
+[44:29.5 - 44:35.7] section, you know, at the very top, and it messed up, um, it started messing up at like building eleven and twelve.
+[44:35.7 - 44:41.0] I think maybe it got confused because, like, the numbering on the left, you know- Mm-hmm, mm-hmm ...
+[44:41.0 - 44:45.4] it starts going ten, eleven, twelve, and then the buildings start not matching- Mm-hmm ...
+[44:45.4 - 44:46.3] the numbers on the left.
+[44:46.3 - 44:46.5] Yeah.
+[44:46.5 - 44:50.0] I think that maybe that I, I just- And that's why you have to make sure that the, that it...
+[44:50.0 - 44:59.6] not only is it bringing the totals to over, but the, but in each, you know, category that, that it's working.
+[44:59.6 - 44:60.0] Right.
+[44:60.0 - 45:02.5] 'Cause it does have to do a few different, um- Yeah ...
+[45:02.5 - 45:03.3] navigations.
+[45:03.3 - 45:04.8] I was gonna ask you- Yeah ...
+[45:04.8 - 45:09.8] on the end depreciation values, those are pulled from the three one one five forms, correct?
+[45:09.8 - 45:10.4] In the adjustments.
+[45:10.4 - 45:10.7] Yes.
+[45:10.7 - 45:11.1] Okay.
+[45:11.1 - 45:11.4] Yeah.
+[45:11.4 - 45:11.7] Yeah.
+[45:11.7 - 45:12.5] Just double-checking.
+[45:12.5 - 45:12.6] Yeah.
+[45:12.6 - 45:14.8] So I think it's all correct.
+[45:14.8 - 45:15.7] Cross my fingers.
+[45:15.7 - 45:16.9] All looking- So ...
+[45:16.9 - 45:17.2] perfect.
+[45:17.2 - 45:18.1] Okay.
+[45:18.1 - 45:22.4] I'm gonna go grab some lunch, and then I will come back and do the rest of- You got it.
+[45:22.4 - 45:22.6] Okay.
+[45:22.6 - 45:23.0] Thanks, man.
+[45:23.0 - 45:23.4] Thanks, Jeff.
+[45:23.4 - 45:23.7] Okay, bye.
+[45:23.7 - 45:24.0] Okay.
+[45:24.0 - 45:24.6] Bye.
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_06-23-2026_Ethan Company Mail Error_transcription_20260705_173531.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_06-23-2026_Ethan Company Mail Error_transcription_20260705_173531.txt

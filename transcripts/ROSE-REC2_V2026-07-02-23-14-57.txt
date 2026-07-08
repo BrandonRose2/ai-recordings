@@ -1,0 +1,259 @@
+Starting Speech-to-Text conversion...
+Audio file size (27.5MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 64 kbps
+Audio file size: 27.47 MB, duration: 3600.1 seconds
+Splitting into 6 chunks (each ~600.0 seconds, max 5 MB)...
+Successfully split into 6 chunks
+Audio file split into 6 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_V2026-07-02-23-14-57.mp3, file size: 27.47 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 6 chunks...
+
+Transcribing chunk 1/6: mp3/.ROSE-REC2_V2026-07-02-23-14-57_chunks_20260706_165657/chunk_000.mp3
+Chunk 1 completed (duration: 600.0s)
+
+Transcribing chunk 2/6: mp3/.ROSE-REC2_V2026-07-02-23-14-57_chunks_20260706_165657/chunk_001.mp3
+Chunk 2 completed (duration: 600.0s)
+
+Transcribing chunk 3/6: mp3/.ROSE-REC2_V2026-07-02-23-14-57_chunks_20260706_165657/chunk_002.mp3
+Chunk 3 completed (duration: 600.0s)
+
+Transcribing chunk 4/6: mp3/.ROSE-REC2_V2026-07-02-23-14-57_chunks_20260706_165657/chunk_003.mp3
+Chunk 4 completed (duration: 600.0s)
+
+Transcribing chunk 5/6: mp3/.ROSE-REC2_V2026-07-02-23-14-57_chunks_20260706_165657/chunk_004.mp3
+Chunk 5 completed (duration: 600.0s)
+
+Transcribing chunk 6/6: mp3/.ROSE-REC2_V2026-07-02-23-14-57_chunks_20260706_165657/chunk_005.mp3
+Chunk 6 completed (duration: 599.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.7 seconds
+Language: eng
+Total Chunks: 6
+Timestamped segments:
+[00:00.1 - 00:05.2] Funny how there's seven billion people in the world and I found you.
+[00:05.2 - 00:14.3] It's crazy how from all the places, all the faces that you found me too.
+[00:14.3 - 00:25.2] They may call me a fool, but this can't be a coincidence.
+[00:25.2 - 00:30.0] I know that we're gone, I know it is true.
+[00:30.0 - 00:34.6] It don't take a mountain or oceans of blue.
+[00:34.6 - 00:39.4] They call me a dreamer, but I know the truth.
+[00:39.4 - 00:49.3] So if when I'm right here you're wrong, I know that we got the absolute truth.
+[00:49.3 - 00:52.0] This is the heaven.
+[00:52.0 - 01:23.7] There's
+[01:23.7 - 01:26.0] something on the tip of your tongue.
+[01:26.0 - 01:30.1] A feeling that you had now it's gone.
+[01:30.1 - 01:33.9] I can't get it off of my mind.
+[01:33.9 - 01:41.5] There's something in the way you talk.
+[01:41.5 - 01:45.2] That maybe I'm just reading wrong.
+[01:45.2 - 01:49.6] Don't leave me in between the lines.
+[01:49.6 - 01:58.6] If you don't love me now, love me now, the truth's getting through.
+[01:58.6 - 02:04.9] If you don't want me now, want me now, I wanna chase you.
+[02:04.9 - 02:11.9] It's staying in my head.
+[02:11.9 - 02:18.8] There was something in the water made me go wild.
+[02:18.8 - 02:20.3] Made me go wild.
+[02:20.3 - 02:23.8] Made me go wild.
+[02:23.8 - 02:27.0] There was nothing in the world making me smile.
+[02:27.0 - 02:29.9] Like your smile.
+[02:29.9 - 02:32.2] Like your smile.
+[02:32.2 - 02:41.1] You were standing on the edge of the city.
+[02:41.1 - 02:43.0] With an open hand ready.
+[02:43.0 - 02:54.2] Hey,
+[02:54.2 - 02:56.7] what's on your mind?
+[02:56.7 - 03:01.6] 'Cause I can read you now.
+[03:01.6 - 03:07.7] My hands can't figure out how to hold you.
+[03:07.7 - 03:10.1] Like they know you.
+[03:10.1 - 05:55.6] Wanna trade crazy dreams, be like- Hey
+[05:55.6 - 06:05.6] Siri, play Kygo Radio on my Spotify Okay, here's Kygo Radio Radio on
+[06:05.6 - 06:06.4] Spotify.
+[06:06.4 - 06:16.6] Whisper
+[06:16.6 - 06:18.7] your lows, confess your highs.
+[06:18.7 - 06:22.5] With her, I'm not afraid to die.
+[06:22.5 - 06:23.3] Fuck.
+[06:23.3 - 06:26.6] I see the truth comes down the same.
+[06:26.6 - 06:32.0] We long and we need the endless pain.
+[06:32.0 - 06:39.2] And I scream it out into the sky.
+[06:39.2 - 06:42.8] Her flesh is where I feel my endless sympathy.
+[06:42.8 - 06:47.8] Purging my soul when we lie.
+[06:47.8 - 06:50.9] I close my eyes and this must be the afterlife.
+[06:50.9 - 06:55.2] God damn yeah, this must be the afterlife.
+[06:55.2 - 06:56.1] Oh.
+[06:56.1 - 06:59.4] God damn yeah, this must be the afterlife.
+[06:59.4 - 06:59.8] Oh.
+[06:59.8 - 07:03.3] God damn yeah, this must be the afterlife.
+[07:03.3 - 07:03.4] Fuck.
+[07:03.4 - 07:04.7] It's hot.
+[07:04.7 - 07:04.7] Oh.
+[07:04.7 - 07:07.0] God damn yeah, this must be the afterlife.
+[07:07.0 - 07:08.2] Oh.
+[07:08.2 - 07:20.6] God damn yeah,
+[07:20.6 - 07:28.1] this must be the afterlife.
+[07:28.1 - 07:32.2] The shadows creep inside my mind.
+[07:32.2 - 07:36.6] Not thinking of the price in time.
+[07:36.6 - 07:41.0] We did the crime, yeah, we got off.
+[07:41.0 - 07:44.8] We crossed the line, now we can't restart.
+[07:44.8 - 07:48.5] And I scream it out into the sky.
+[07:48.5 - 07:52.7] Her flesh is where I feel my endless sympathy.
+[07:52.7 - 07:57.3] Oh, purging my soul when we lie.
+[07:57.3 - 08:01.4] I close my eyes and this must be the afterlife.
+[08:01.4 - 08:04.8] God damn yeah, this must be the afterlife.
+[08:04.8 - 08:10.4] The pain is new and yesterday has broken down so tell me.
+[08:10.4 - 08:21.7] Her touch is giving me entropy from now until the end of time.
+[08:21.7 - 08:28.7] It's funny how there's seven billion people in the world and I found you.
+[08:28.7 - 09:02.2] Something
+[09:02.2 - 09:03.1] over you.
+[09:03.1 - 09:08.5] A feeling like July now it's gold.
+[09:08.5 - 09:13.0] I can't get it off of my mind.
+[09:13.0 - 09:13.8] Oh.
+[09:13.8 - 09:19.5] Something in the way.
+[09:19.5 - 09:23.5] There was something in the water made me go wild.
+[09:23.5 - 09:26.3] Made me go wild.
+[09:26.3 - 09:28.8] Made me go wild.
+[09:28.8 - 09:33.0] There was nothing in the world making me smile.
+[09:33.0 - 09:35.9] Like your smile.
+[09:35.9 - 09:38.3] Like your smile.
+[09:38.3 - 09:44.6] We were standing on the edge, the sand under our feet.
+[09:44.6 - 09:46.5] And we felt like...
+[09:46.5 - 09:58.1] Let that all again
+[09:58.1 - 09:59.2] baby
+[10:00.5 - 10:03.5] Say what's on your mind.
+[10:03.5 - 10:21.6] Thought
+[10:21.6 - 10:25.9] I knew what I held in these shaky hands.
+[10:25.9 - 10:32.6] Thought you spoke all the words in your messy head.
+[10:32.6 - 10:43.5] Then I see the doubt, see the fault that becomes my friends.
+[10:43.5 - 10:50.7] When I d- Been afraid of what could happen.
+[10:50.7 - 10:54.0] Do I dare to let you go?
+[10:54.0 - 10:58.3] 'Cause to me you're like a habit.
+[10:58.3 - 11:01.6] You were all I ever know.
+[11:01.6 - 11:10.4] But if I ruled the world for just one day, I would gather all my feelings that remain for you.
+[11:10.4 - 11:18.5] Hide them in the ocean far away 'cause I'm trying to let you go, but I'm scared of what it feels like.
+[11:18.5 - 11:25.8] If I ruled the world for just one day, I would gather all my feelings that remain for you.
+[11:25.8 - 11:33.2] But if I ruled the world for just one day, I would- Vida no imita al arte, el arte a la vida.
+[11:33.2 - 11:35.9] No estás triste, estás distraída.
+[11:35.9 - 11:39.4] Estás descubriendo, no estás perdida.
+[11:39.4 - 11:44.6] Vida no imita al arte, el arte a la vida.
+[11:44.6 - 11:47.4] No estás triste, estás distraída.
+[11:47.4 - 11:51.0] Estás descubriendo, no estás perdida.
+[11:51.0 - 11:56.0] La vida no imita al arte, el arte a la vida.
+[11:56.0 - 11:58.8] No estás triste, estás distraída.
+[11:58.8 - 12:02.2] Estás descubriendo, no estás perdida.
+[12:02.2 - 12:09.0] Mañanas, soles, y lunas, noches, veranos, son mi fortuna.
+[12:09.0 - 12:13.6] Ay, mi locura es sin motivo, no tiene cura.
+[12:13.6 - 12:20.4] Mañanas, soles, y lunas, noches, veranos, son mi fortuna.
+[12:20.4 - 12:25.4] Ay, mi locura es sin motivo, no tiene cura.
+[12:25.4 - 14:40.4] I'm
+[14:40.4 - 14:45.4] cashing in something that I promised you I would.
+[14:45.4 - 14:50.3] My heart is in these songs and they live in my chest.
+[14:50.3 - 14:57.4] With that cold from these, what else do I have left?
+[14:57.4 - 15:07.5] Hope won't make us
+[15:07.5 - 15:08.7] rich, no.
+[15:08.7 - 15:14.8] Why don't you tell me?
+[15:14.8 - 15:45.7] Sun
+[15:45.7 - 15:48.6] is going down, time is running out.
+[15:48.6 - 15:52.4] No one else around but me.
+[15:52.4 - 15:56.7] Steady losing light, steady losing my mind.
+[15:56.7 - 15:59.6] Only shadows around can see.
+[31:10.6 - 31:10.9] What's up?
+[31:10.9 - 31:11.6] Hey, what are you doing?
+[31:11.6 - 31:12.4] Sorry about that.
+[31:12.4 - 31:14.5] I didn't say come in.
+[31:14.5 - 31:16.2] I'm so sorry.
+[31:16.2 - 31:18.4] Could you close it, please?
+[31:18.4 - 31:19.0] Yeah, sure.
+[31:19.0 - 31:25.2] The fuck.
+[31:25.2 - 35:56.4] I'm
+[35:56.4 - 36:00.0] just gonna shut up.
+[36:00.0 - 36:00.0] Fucker.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2026-07-02-23-14-57_transcription_20260706_165739.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2026-07-02-23-14-57_transcription_20260706_165739.txt
+[2J[H[3Jmanus-speech-to-text mp3/ROSE-REC2_V2026-07-02-23-14-57.mp3
+Starting Speech-to-Text conversion...
+Audio file size (27.5MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 64 kbps
+Audio file size: 27.47 MB, duration: 3600.1 seconds
+Splitting into 6 chunks (each ~600.0 seconds, max 5 MB)...
+Successfully split into 6 chunks
+Audio file split into 6 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_V2026-07-02-23-14-57.mp3, file size: 27.47 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 6 chunks...
+Transcribing chunk 1/6: mp3/.ROSE-REC2_V2026-07-02-23-14-57_chunks_20260706_165657/chunk_000.mp3
+Chunk 1 completed (duration: 600.0s)
+Transcribing chunk 2/6: mp3/.ROSE-REC2_V2026-07-02-23-14-57_chunks_20260706_165657/chunk_001.mp3
+Chunk 2 completed (duration: 600.0s)
+Transcribing chunk 3/6: mp3/.ROSE-REC2_V2026-07-02-23-14-57_chunks_20260706_165657/chunk_002.mp3
+Chunk 3 completed (duration: 600.0s)
+Transcribing chunk 4/6: mp3/.ROSE-REC2_V2026-07-02-23-14-57_chunks_20260706_165657/chunk_003.mp3
+Chunk 4 completed (duration: 600.0s)
+Transcribing chunk 5/6: mp3/.ROSE-REC2_V2026-07-02-23-14-57_chunks_20260706_165657/chunk_004.mp3
+Chunk 5 completed (duration: 600.0s)
+Transcribing chunk 6/6: mp3/.ROSE-REC2_V2026-07-02-23-14-57_chunks_20260706_165657/chunk_005.mp3
+Chunk 6 completed (duration: 599.7s)
+
+Snippet of transcribed content:
+[09:19.5 - 09:23.5] There was something in the water made me go wild.
+[09:23.5 - 09:26.3] Made me go wild.
+[09:26.3 - 09:28.8] Made me go wild.
+[09:28.8 - 09:33.0] There was nothing in the world making me smile.
+[09:33.0 - 09:35.9] Like your smile.
+[09:35.9 - 09:38.3] Like your smile.
+[09:38.3 - 09:44.6] We were standing on the edge, the sand under our feet.
+[09:44.6 - 09:46.5] And we felt like...
+[09:46.5 - 09:58.1] Let that all again
+[09:58.1 - 09:59.2] baby
+[10:00.5 - 10:03.5] Say what's on your mind.
+[10:03.5 - 10:21.6] Thought
+[10:21.6 - 10:25.9] I knew what I held in these shaky hands.
+[10:25.9 - 10:32.6] Thought you spoke all the words in your messy head.
+[10:32.6 - 10:43.5] Then I see the doubt, see the fault that becomes my friends.
+[10:43.5 - 10:50.7] When I d- Been afraid of what could happen.
+[10:50.7 - 10:54.0] Do I dare to let you go?
+[10:54.0 - 10:58.3] 'Cause to me you're like a habit.
+[10:58.3 - 11:01.6] You were all I ever know.
+[11:01.6 - 11:10.4] But if I ruled the world for just one day, I would gather all my feelings that remain for you.
+[11:10.4 - 11:18.5] Hide them in the ocean far away 'cause I'm trying to let you go, but I'm scared of what it feels like.
+[11:18.5 - 11:25.8] If I ruled the world for just one day, I would gather all my feelings that remain for you.
+[11:25.8 - 11:33.2] But if I ruled the world for just one day, I would- Vida no imita al arte, el arte a la vida.
+[11:33.2 - 11:35.9] No estás triste, estás distraída.
+[11:35.9 - 11:39.4] Estás descubriendo, no estás perdida.
+[11:39.4 - 11:44.6] Vida no imita al arte, el arte a la vida.
+[11:44.6 - 11:47.4] No estás triste, estás distraída.
+[11:47.4 - 11:51.0] Estás descubriendo, no estás perdida.
+[11:51.0 - 11:56.0] La vida no imita al arte, el arte a la vida.
+[11:56.0 - 11:58.8] No estás triste, estás distraída.
+[11:58.8 - 12:02.2] Estás descubriendo, no estás perdida.
+[12:02.2 - 12:09.0] Mañanas, soles, y lunas, noches, veranos, son mi fortuna.
+[12:09.0 - 12:13.6] Ay, mi locura es sin motivo, no tiene cura.
+[12:13.6 - 12:20.4] Mañanas, soles, y lunas, noches, veranos, son mi fortuna.
+[12:20.4 - 12:25.4] Ay, mi locura es sin motivo, no tiene cura.
+[12:25.4 - 14:40.4] I'm
+[14:40.4 - 14:45.4] cashing in something that I promised you I would.
+[14:45.4 - 14:50.3] My heart is in these songs and they live in my chest.
+[14:50.3 - 14:57.4] With that cold from these, what else do I have left?
+[14:57.4 - 15:07.5] Hope won't make us
+[15:07.5 - 15:08.7] rich, no.
+[15:08.7 - 15:14.8] Why don't you tell me?
+[15:14.8 - 15:45.7] Sun
+[15:45.7 - 15:48.6] is going down, time is running out.
+[15:48.6 - 15:52.4] No one else around but me.
+[15:52.4 - 15:56.7] Steady losing light, steady losing my mind.
+[15:56.7 - 15:59.6] Only shadows around can see.
+[31:10.6 - 31:10.9] What's up?
+[31:10.9 - 31:11.6] Hey, what are you doing?
+[31:11.6 - 31:12.4] Sorry about that.
+[31:12.4 - 31:14.5] I didn't say come in.
+[31:14.5 - 31:16.2] I'm so sorry.
+[31:16.2 - 31:18.4] Could you close it, please?
+[31:18.4 - 31:19.0] Yeah, sure.
+[31:19.0 - 31:25.2] The fuck.
+[31:25.2 - 35:56.4] I'm
+[35:56.4 - 36:00.0] just gonna shut up.
+[36:00.0 - 36:00.0] Fucker.
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2026-07-02-23-14-57_transcription_20260706_165739.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2026-07-02-23-14-57_transcription_20260706_165739.txt

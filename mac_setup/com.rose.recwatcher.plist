@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.rose.recwatcher</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Users/REPLACE_WITH_YOUR_USERNAME/Scripts/rose_rec_watcher.sh</string>
+    </array>
+
+    <!-- Fires whenever a volume is mounted or unmounted (i.e., when you plug
+         in ROSE-REC1 or ROSE-REC2). The script itself checks whether either
+         device is actually present, so extra triggers are harmless. -->
+    <key>StartOnMount</key>
+    <true/>
+
+    <!-- Also run once at login as a catch-up scan -->
+    <key>RunAtLoad</key>
+    <true/>
+
+    <key>StandardOutPath</key>
+    <string>/tmp/rose_rec_watcher.out</string>
+    <key>StandardErrorPath</key>
+    <string>/tmp/rose_rec_watcher.err</string>
+</dict>
+</plist>

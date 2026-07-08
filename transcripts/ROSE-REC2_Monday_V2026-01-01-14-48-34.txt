@@ -1,0 +1,382 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_Monday_V2026-01-01-14-48-34.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: mp3/.ROSE-REC2_Monday_V2026-01-01-14-48-34_chunks_20260705_192158/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: mp3/.ROSE-REC2_Monday_V2026-01-01-14-48-34_chunks_20260705_192158/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: mp3/.ROSE-REC2_Monday_V2026-01-01-14-48-34_chunks_20260705_192158/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: mp3/.ROSE-REC2_Monday_V2026-01-01-14-48-34_chunks_20260705_192158/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: mp3/.ROSE-REC2_Monday_V2026-01-01-14-48-34_chunks_20260705_192158/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.7 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[00:00.2 - 00:00.7] Nifty.
+[00:00.7 - 00:07.4] I'm gonna start cloning popular apps and running 'em.
+[00:07.4 - 05:04.7] What
+[05:04.7 - 05:05.4] are you working on?
+[05:05.4 - 05:15.5] I'm finishing up pulling these rent rolls so I can complete the comps com-- uh, and then the prop- Why isn't the rent comparability
+[05:15.5 - 05:18.5] study showing up in the, uh, uh, in the PropertyMax?
+[05:18.5 - 05:22.2] 'Cause I'm just finishing it completely so I can get it...
+[05:22.2 - 05:26.6] I got the en- rest API for it to give to the guys as soon as I'm done.
+[05:26.6 - 10:59.0] Hey,
+[10:59.0 - 10:59.5] Ethan.
+[10:59.5 - 11:04.0] On the Yardi properties, where's do I get the rent rolls for those?
+[11:04.0 - 11:06.0] 'Cause I'm out of thirty- The Yardi.
+[11:06.0 - 11:08.0] Yeah, makes sense.
+[11:08.0 - 11:15.0] I have directions on how to pull it, but I don't- Oh, I probably can figure it out.
+[11:15.0 - 11:20.5] I was just pulling all of them and I know that you get some from one side, but the Yardi ones you get from Yardi, I guess.
+[11:20.5 - 11:26.0] Uh, yes, and then if you refer to the contact sheet, it's the highlighted- Oh, yes ...
+[11:26.0 - 11:27.8] properties are Yardi properties.
+[11:27.8 - 11:27.9] Okay.
+[11:27.9 - 11:29.0] Yeah, I put those in mine too.
+[11:29.0 - 11:32.1] Uh, and when it says a Yardi property, it means, like- Okay ...
+[11:32.1 - 11:36.6] they may have something set up here, like you might still find the name in here- Uh ...
+[11:36.6 - 11:41.1] but it's like they don't have any information in one site, really.
+[11:41.1 - 11:41.8] Oh, okay.
+[11:41.8 - 11:47.5] I think they do it to use one site to run background checks or something.
+[11:47.5 - 11:47.8] Oh.
+[11:47.8 - 11:49.2] 'Cause like Yardi does...
+[11:49.2 - 11:50.2] Or something like that.
+[11:50.2 - 11:51.4] I don't know why they're...
+[11:51.4 - 11:53.2] some of them are in both like that.
+[11:53.2 - 11:56.0] But, um, but yeah.
+[11:56.0 - 11:56.5] Okay.
+[11:56.5 - 11:58.5] You go into Yardi- I put them...
+[11:58.5 - 11:59.8] Well, this one load
+[12:00.0 - 12:02.7] I think, uh, I, I can send you my directions.
+[12:02.7 - 12:04.8] It's not anything difficult.
+[12:04.8 - 12:10.9] You go into Yardi and you just use the left column, and you have to go to a specific thing for running a rent roll.
+[12:10.9 - 12:12.2] Oh, okay.
+[12:12.2 - 12:14.8] You just go into, like- Kind of like one side ...
+[12:14.8 - 12:19.1] operations, analytics or something, and then it brings up- Oh ...
+[12:19.1 - 12:24.9] a menu where you can type the property ID, but then it, um...
+[12:24.9 - 12:28.1] But then it, uh...
+[12:28.1 - 12:30.8] What do you call it?
+[12:30.8 - 12:31.8] These are the Yardi ones, right?
+[12:31.8 - 12:33.1] You can type the...
+[12:33.1 - 12:37.3] Yeah, it looks right.
+[12:37.3 - 12:43.9] I mean- But you can also type the property name and then it just brings up the number or whatever that is the property ID.
+[12:43.9 - 12:44.5] Oh, okay.
+[12:44.5 - 12:46.1] So you can just type the base or whatever.
+[12:46.1 - 12:51.9] Yeah, where you had the ones highlighted, I put, like, another little column with the star in Yardi, so just like- Mm-hmm ...
+[12:51.9 - 12:52.9] so it's gotta be the same.
+[12:52.9 - 12:54.5] Um, but yeah, that, that...
+[12:54.5 - 12:58.2] You'll pull them in, uh, in Yardi and it'll give you that list.
+[12:58.2 - 13:02.0] And that's not the real page Yardi.
+[13:02.0 - 13:04.3] You know how you go to Real Page and you have a Yardi login?
+[13:04.3 - 13:05.2] It's not that one.
+[13:05.2 - 13:06.3] It's- Correct.
+[13:06.3 - 13:07.0] No, I didn't even know that ...
+[13:07.0 - 13:08.1] it's like a Yardi Yardi, like the main one.
+[13:08.1 - 13:14.4] Yeah, like you have to go to Yardi dot like Medway it's one six eight seven four- Oh, okay ...
+[13:14.4 - 13:15.2] dot com.
+[13:15.2 - 13:18.4] 'Cause, you know, whenever you gave me the Real Page, it was like Brandon one and Brandon two.
+[13:18.4 - 13:20.6] One would go to Real Page- Oh ...
+[13:20.6 - 13:22.2] one would go to Yardi, right?
+[13:22.2 - 13:24.5] Oh, that's for AppWorks.
+[13:24.5 - 13:25.3] Yes.
+[13:25.3 - 13:26.3] That's AppWorks.
+[13:26.3 - 13:26.5] Yes.
+[13:26.5 - 13:26.6] Yeah.
+[13:26.6 - 13:28.3] So that's a work order system- That's what was always kind of confusing me ...
+[13:28.3 - 13:31.6] because the properties, they don't integrate into the same- That's right.
+[13:31.6 - 13:31.6] Yeah ...
+[13:31.6 - 13:35.7] like, they have to be separated, so we need two logins- That makes sense ...
+[13:35.7 - 13:36.3] to get that access to.
+[13:36.3 - 13:37.7] I should have asked that a long time ago.
+[13:37.7 - 13:39.9] 'Cause basically, yeah, that's what that is.
+[13:39.9 - 13:40.4] Oh, okay.
+[13:40.4 - 13:41.9] Perfect.
+[13:41.9 - 13:45.6] But it is related to the difference of a Yardi and Real Page.
+[13:45.6 - 13:49.6] Yeah, it's just- The way that you said it, I was like, "Well, I hope you-" But it has to do with inspections, yeah.
+[13:49.6 - 13:52.0] I don't think one site directs you to Yardi- Or work orders ...
+[13:52.0 - 13:54.8] for stuff 'cause they're like, "Fuck Yardi, we're one site." Yeah.
+[13:54.8 - 13:55.2] Yeah, yeah.
+[13:55.2 - 13:58.2] Vice versa with Yardi, they're like, "Don't go there." That makes sense.
+[13:58.2 - 13:58.4] Yeah.
+[13:58.4 - 14:04.7] "We're better." That was- When you said it, I was like, "Well." Work or- work orders and inspections.
+[14:04.7 - 14:05.0] Yeah.
+[14:05.0 - 14:20.7] They,
+[14:20.7 - 17:41.1] like, integrate
+[17:41.1 - 17:52.2] with
+[17:52.2 - 17:52.5] each other.
+[17:52.5 - 17:54.2] Okay.
+[17:54.2 - 18:47.2] What
+[18:47.2 - 18:47.7] the fuck?
+[18:47.7 - 22:16.9] Oh,
+[22:16.9 - 22:17.5] I don't know.
+[22:17.5 - 22:20.6] I haven't gotten an email address from her yet.
+[22:20.6 - 22:29.1] I was just like, literally I found out this morning, I got wrapped up with some other shit I was doing, and I wanted to just tell you because I know you've been...
+[22:29.1 - 22:37.7] You know, you said to, like, keep you in the loop, and I think it was, like, that Quanta lady had, which was another one of Ginger's managers, had the same thing.
+[22:37.7 - 22:47.9] And basically, I gave this Kimberly manager the rundown that you gave me, where it's like a bunch of the housing authorities are, like, nationwide, like, globally
+[22:47.9 - 22:51.8] marked as spam from spam filter companies, so it's difficult.
+[22:51.8 - 23:02.0] But I was like, "We'll work on it, but I need you to at least get me the email addresses." But she was, like, at the bank or at court or something,
+[23:02.0 - 23:05.0] uh, doing stuff, so she hasn't sent them.
+[23:05.0 - 23:10.3] But I just wanted to, like, put it on your radar just 'cause you had mentioned that issue and everything.
+[23:10.3 - 23:13.2] So I just wanted you to have a heads up.
+[23:13.2 - 23:23.2] But I can forward whatever email she sends to you as well and just not touch it to not mess up what you got going, or I can, like, try and whitelist it and
+[23:23.2 - 23:26.0] see if it helps or whatever you think.
+[23:26.0 - 23:34.9] Yeah.
+[23:34.9 - 23:38.2] I-- Yeah, I figure as much.
+[23:38.2 - 23:42.8] And a lot of the time, I'll tell you quite honestly, they tell me that.
+[23:42.8 - 23:48.4] They give me whatever the thing, you know, whatever the email address is, and sometimes multiple.
+[23:48.4 - 23:52.0] And they say, "Yeah," like they emailed me today and said it didn't come through.
+[23:52.0 - 23:58.0] Then I look through the spam filter, and just nothing has even hit it from that email address in the last week.
+[23:58.0 - 23:59.2] So-
+[24:00.4 - 24:10.2] A lot of the time they say that, but it's like I can't even find evidence that they sent anything to us, let alone in the last day or two, you know?
+[24:10.2 - 24:14.2] So, you know, and then sometimes I'll tap you in.
+[24:14.2 - 24:16.9] Sometimes I'll just like, hey, tell them to send it again.
+[24:16.9 - 24:19.2] And then miraculously, I hear nothing from them.
+[24:19.2 - 24:24.9] So I assume it like comes through eventually, but I don't know.
+[24:24.9 - 24:29.5] But, but yeah, I'll just keep you in the loop.
+[24:29.5 - 24:32.6] I just like I said, you had mentioned what you did the other day.
+[24:32.6 - 24:35.0] So I was like, let me just see right away.
+[24:35.0 - 24:36.8] So, yeah.
+[24:36.8 - 24:38.2] Cool.
+[24:38.2 - 24:39.9] I'll just yeah, I'll keep you posted.
+[24:39.9 - 24:42.9] I'll keep you updated when I when I get more info about it.
+[24:42.9 - 24:45.0] All right.
+[24:45.0 - 24:45.8] Cool.
+[24:45.8 - 24:46.5] Take care.
+[24:46.5 - 24:50.7] Uh.
+[24:50.7 - 25:15.8] We're
+[25:15.8 - 25:27.9] going to be able to get into our accounts pretty strongly hope they are because
+[25:27.9 - 25:32.1] that's going to be big for us.
+[25:32.1 - 25:36.3] We've got 10 to 17 of 30 days that have been paid through the loan through.
+[25:36.3 - 25:47.1] Without this kind of thing.
+[25:47.1 - 25:49.2] Yeah.
+[25:49.2 - 25:57.2] That may be a problem for you as well since I have to.
+[25:57.2 - 25:57.5] 120 for 5311.
+[25:57.5 - 25:58.4] 120 is.
+[25:58.4 - 25:58.4] 120.
+[25:58.4 - 26:01.0] You're calling that.
+[26:01.0 - 26:02.3] No, no.
+[26:02.3 - 26:15.6] I'm just calling about the ECB account.
+[26:15.6 - 26:17.6] Yes, sir.
+[26:17.6 - 26:26.8] You got a good weekend then?
+[26:26.8 - 26:27.6] Yeah.
+[26:27.6 - 26:28.4] Good, man.
+[26:28.4 - 26:30.6] There you go.
+[26:30.6 - 26:33.5] I love it.
+[26:33.5 - 26:33.5] I love it.
+[26:33.5 - 26:34.2] You want more?
+[26:34.2 - 26:38.2] You like it?
+[26:38.2 - 26:43.0] Unless you put that on the marital relationship you're trying to end, then have a good weekend.
+[26:43.0 - 26:46.6] Otherwise, no, no, no.
+[26:46.6 - 26:47.3] Okay, cool.
+[26:47.3 - 26:50.0] Sounds like you had a good weekend.
+[26:50.0 - 26:51.5] Yeah.
+[26:51.5 - 26:53.7] Good, good.
+[26:53.7 - 27:03.3] Thanks.
+[27:03.3 - 27:19.9] And
+[27:19.9 - 27:25.9] it said that my transmission was about to go out.
+[27:25.9 - 27:28.0] My transmission.
+[27:28.0 - 27:30.7] Yeah, the transmission.
+[27:30.7 - 27:32.5] Yeah, the transmission service light.
+[27:32.5 - 27:35.2] Not that I can remember.
+[27:35.2 - 27:35.6] Right.
+[27:35.6 - 27:37.0] Well, they have that app.
+[27:37.0 - 27:43.3] Yeah, I heard that app.
+[27:43.3 - 27:44.4] They have that app.
+[27:44.4 - 27:44.9] Right here.
+[27:44.9 - 27:46.8] Yeah, yeah, yeah.
+[27:46.8 - 27:48.5] It's in the reference.
+[27:48.5 - 27:50.0] It contacts the history.
+[27:50.0 - 27:50.4] It shows you what's happened.
+[27:50.4 - 27:52.1] It's in the reference.
+[27:52.1 - 27:53.5] It shows you what's happened.
+[27:53.5 - 27:54.3] Right.
+[27:54.3 - 28:25.6] Well, that's the way it always is with the apps.
+[28:25.6 - 28:50.1] Like
+[28:50.1 - 28:53.3] they usually like they.
+[28:53.3 - 28:55.3] Where's, um, the kid, you know, what's his name?
+[28:55.3 - 28:56.3] Lucero?
+[28:56.3 - 28:56.5] Huh?
+[28:56.5 - 28:57.4] Lucero?
+[28:57.4 - 28:58.4] Oh, yeah, yeah.
+[28:58.4 - 29:01.4] Let's go.
+[29:01.4 - 29:04.2] You have the keys to the, uh, Escalade?
+[29:04.2 - 29:04.5] Yeah.
+[29:04.5 - 29:06.5] All right, we're going to the Escalade.
+[29:06.5 - 29:08.5] Turn it around going north on the hill.
+[29:08.5 - 29:12.8] Run.
+[29:12.8 - 29:31.7] Um,
+[29:31.7 - 29:49.2] on Wednesday, start looking
+[29:49.2 - 30:00.0] for flights to Miami.
+[46:58.9 - 47:04.6] When you say you guys integrate with Yardi, what, what exactly how do you integrate and what do you integrate?
+[47:04.6 - 47:05.2] Payments?
+[47:05.2 - 47:08.1] So...
+[47:08.1 - 47:12.7] No, go ahead.
+[47:12.7 - 47:16.4] I'm listening.
+[48:00.2 - 48:09.1] For us to check if they can add a text string into the app to accept they can pay.
+[48:09.1 - 48:13.5] So do you guys-- are you guys-- do you guys do affordable?
+[48:13.5 - 48:18.8] Yeah.
+[48:18.8 - 48:20.9] Because our whole portfolio is affordable.
+[48:20.9 - 48:26.7] So our residents are-- they're not that savvy, if that makes sense at all.
+[48:26.7 - 48:28.5] Some of them have Obama Phones.
+[48:28.5 - 48:34.4] Um, so we have-- we process our payments through Yardi, but I'm still unclear.
+[48:34.4 - 48:40.8] So, so you guys, you guys run API with Yardi inside of RentCafe, so we would not use Yardi anymore?
+[48:40.8 - 48:42.1] Is that what you're saying?
+[48:42.1 - 48:49.6] That's correct.
+[48:49.6 - 48:50.7] No, I know, I know.
+[48:50.7 - 48:52.2] I'm not saying switch our PMS.
+[48:52.2 - 48:54.6] I'm just saying with payments, we go through RentCafe.
+[48:54.6 - 49:02.1] So you would integrate RentCafe, and then, and then...
+[49:02.1 - 49:04.2] So what do you guys charge a door?
+[49:04.2 - 49:14.7] Or you, like, uh- I'm not really sure.
+[49:14.7 - 49:25.8] So, um, we, um, we integrate
+[49:25.8 - 49:27.2] into the API.
+[49:27.2 - 49:31.1] I don't know the way that RentCafe does it, but we integrate with all of that.
+[49:31.1 - 49:31.8] And then with RentCafe, um, we just charge a small fee.
+[49:31.8 - 49:38.7] And what's your deployment, um, what's your deployment period for, say, uh, let's say three hundred and sixty units?
+[49:38.7 - 49:40.7] Um, it could-- It depends.
+[49:40.7 - 49:42.8] So we have to evaluate each property.
+[49:42.8 - 49:53.3] So we can't just
+[49:53.3 - 49:57.5] give a blanket answer on that.
+[49:57.5 - 50:01.5] We have to evaluate each property to determine what the integration would look like.
+[50:01.5 - 50:01.5] And then we would also have to make sure there's a payment method for the residents in that position on the property.
+[50:01.5 - 50:09.2] No, I'm just saying, I'm just saying to get deployment to run the API inside of RentCafe and then to, and then to obviously...
+[50:09.2 - 50:10.4] See, here's the thing.
+[50:10.4 - 50:15.3] So how-- all of our tenants right now, their emails change once a week.
+[50:15.3 - 50:19.6] We don't have-- Like, their emails are not consistent enough for us.
+[50:19.6 - 50:21.7] They're not savvy with online stuff.
+[50:21.7 - 50:24.4] A-as, as weird as it sounds, they're still outdated.
+[50:24.4 - 50:29.5] So they still go to, to Western Union and Walmart and get money orders.
+[50:29.5 - 50:37.5] I would say maybe, maybe out of like five thousand units, only maybe like ten percent pay online through RentCafe.
+[50:37.5 - 50:39.9] Yeah.
+[50:39.9 - 50:45.9] Yeah, that, that, that happens.
+[50:45.9 - 50:49.0] And we do offer a service that is super convenient for our property managers for each account like that.
+[50:49.0 - 50:58.3] But as far as, um, um, you know, payments were concerned with the pay via DNA or RentCafe or other owners and stuff like that, so we actually have a service that, um, we've ordered out, um, on our platform.
+[50:58.3 - 51:09.9] They have, uh-- They just basically, um, go in there and they can produce a barcode from there to
+[51:09.9 - 51:13.4] bring it to the PM that they can pay it through DNA.
+[51:13.4 - 51:19.0] So what happens if, what happens if they don't have-- What-- 'Cause only twelve of our properties use Yardi.
+[51:19.0 - 51:22.9] So what happens if they're not using Yardi and they're using RealPage Loft?
+[51:22.9 - 51:33.2] So RealPage,
+[51:33.2 - 51:34.2] um...
+[51:34.2 - 51:41.9] You have to forgive me because I still haven't been able to set up an account with RealPage Loft.
+[51:41.9 - 51:46.8] Um, but as far as RealPage goes, I know we have residents, um, that, um, that we've done direct pay for.
+[51:46.8 - 51:46.8] I know we had one of those and they have an API.
+[51:46.8 - 51:53.6] We have- Well, yeah, but you-- But Real-- That's why I asked because RealPage's API is like thirty grand for a vendor, for you guys to integrate.
+[51:53.6 - 52:03.7] So if you guys haven't paid that, uh, o-one, we have fifty properties, probably over five thousand units, and out of those fifty properties, only twelve are using
+[52:03.7 - 52:04.1] Yardi.
+[52:04.1 - 52:14.1] So if you guys aren't, if you guys aren't, if you guys haven't paid the money to integrate with RealPage, I don't know if it's gonna be a good fit, only because our-- we, we
+[52:14.1 - 52:21.2] have twelve properties right now with Yardi, and out of those twelve, I think four of them are set up in RentCafe, if that makes sense.
+[52:21.2 - 52:31.3] So it would be more enticing for you guys to offer a RealPage solution because that's where the majority of our portfolio is, uh, is, you know, is being managed by.
+[52:31.3 - 52:32.4] So- We do.
+[52:32.4 - 52:36.4] And we have to set it up.
+[52:36.4 - 52:48.0] But, um, if, uh, we go through and
+[52:48.0 - 52:49.8] show what it actually has as an offer to, um, get paid, it doesn't have to be like code copy and paste at all.
+[52:49.8 - 52:56.3] It's- Have them shoot, have them shoot, have them shoot me an email, and then we can correspond from there because I'm, I'm super busy.
+[52:56.3 - 53:00.3] So just my, my, uh, email is robert@apartmentcorp.
+[53:00.3 - 53:04.6] That's apartmentc-o-r-p.com.
+[53:04.6 - 53:04.8] Awesome.
+[53:04.8 - 53:06.7] Well, thank you for giving me a chance to look into that.
+[53:06.7 - 53:14.3] I wasn't even aware of RentCafe on your side.
+[53:14.3 - 53:14.5] I appreciate it.
+[53:14.5 - 53:15.1] Yeah, no problem.
+[53:15.1 - 53:19.5] Well, I'm kind of interested, um, but I, I'm interested to see if you guys...
+[53:19.5 - 53:26.1] So if-- Just say we, we do wanna-- we were considering, you know, trying you guys out.
+[53:26.1 - 53:30.1] Do you guys have a portal outside of RealPage and Yardi that, that they can go to?
+[53:30.1 - 53:33.3] Or is it just integrated with the PMS?
+[53:33.3 - 53:35.1] Okay.
+[53:35.1 - 53:37.4] Well- I can check into that.
+[53:37.4 - 53:38.9] Okay.
+[53:38.9 - 53:48.9] Well, yeah, have your, have your people shoot me an email, and then, uh, we could, uh, ping me and then CC him or something, and then, uh, we'll follow up, and we'll, we'll get some time on the calendar because I'm, I'm,
+[53:48.9 - 53:55.5] I'm interested to see what, you know, what you guys, what you guys use or how you guys- Absolutely.
+[53:55.5 - 54:01.2] Thank you so much for taking the time to talk with me today, and I'll get with my folks and try and get- No problem.
+[54:01.2 - 54:11.5] Thank you To double check with you, that's pricing
+[54:11.5 - 54:15.2] so I can put everything over state pricing while I get over.
+[54:15.2 - 54:17.8] Great.
+[54:17.8 - 54:19.5] Great.
+[54:19.5 - 54:24.8] Now.
+[54:24.8 - 54:34.6] You're always welcome into my town.
+[54:34.6 - 59:49.4] I'm gonna let you grab your belongings.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Monday_V2026-01-01-14-48-34_transcription_20260705_192303.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Monday_V2026-01-01-14-48-34_transcription_20260705_192303.txt
+[2J[H[3Jmanus-speech-to-text mp3/ROSE-REC2_Monday_V2026-01-01-14-48-34.mp3
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_Monday_V2026-01-01-14-48-34.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: mp3/.ROSE-REC2_Monday_V2026-01-01-14-48-34_chunks_20260705_192158/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: mp3/.ROSE-REC2_Monday_V2026-01-01-14-48-34_chunks_20260705_192158/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: mp3/.ROSE-REC2_Monday_V2026-01-01-14-48-34_chunks_20260705_192158/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: mp3/.ROSE-REC2_Monday_V2026-01-01-14-48-34_chunks_20260705_192158/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: mp3/.ROSE-REC2_Monday_V2026-01-01-14-48-34_chunks_20260705_192158/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[51:41.9 - 51:46.8] Um, but as far as RealPage goes, I know we have residents, um, that, um, that we've done direct pay for.
+[51:46.8 - 51:46.8] I know we had one of those and they have an API.
+[51:46.8 - 51:53.6] We have- Well, yeah, but you-- But Real-- That's why I asked because RealPage's API is like thirty grand for a vendor, for you guys to integrate.
+[51:53.6 - 52:03.7] So if you guys haven't paid that, uh, o-one, we have fifty properties, probably over five thousand units, and out of those fifty properties, only twelve are using
+[52:03.7 - 52:04.1] Yardi.
+[52:04.1 - 52:14.1] So if you guys aren't, if you guys aren't, if you guys haven't paid the money to integrate with RealPage, I don't know if it's gonna be a good fit, only because our-- we, we
+[52:14.1 - 52:21.2] have twelve properties right now with Yardi, and out of those twelve, I think four of them are set up in RentCafe, if that makes sense.
+[52:21.2 - 52:31.3] So it would be more enticing for you guys to offer a RealPage solution because that's where the majority of our portfolio is, uh, is, you know, is being managed by.
+[52:31.3 - 52:32.4] So- We do.
+[52:32.4 - 52:36.4] And we have to set it up.
+[52:36.4 - 52:48.0] But, um, if, uh, we go through and
+[52:48.0 - 52:49.8] show what it actually has as an offer to, um, get paid, it doesn't have to be like code copy and paste at all.
+[52:49.8 - 52:56.3] It's- Have them shoot, have them shoot, have them shoot me an email, and then we can correspond from there because I'm, I'm super busy.
+[52:56.3 - 53:00.3] So just my, my, uh, email is robert@apartmentcorp.
+[53:00.3 - 53:04.6] That's apartmentc-o-r-p.com.
+[53:04.6 - 53:04.8] Awesome.
+[53:04.8 - 53:06.7] Well, thank you for giving me a chance to look into that.
+[53:06.7 - 53:14.3] I wasn't even aware of RentCafe on your side.
+[53:14.3 - 53:14.5] I appreciate it.
+[53:14.5 - 53:15.1] Yeah, no problem.
+[53:15.1 - 53:19.5] Well, I'm kind of interested, um, but I, I'm interested to see if you guys...
+[53:19.5 - 53:26.1] So if-- Just say we, we do wanna-- we were considering, you know, trying you guys out.
+[53:26.1 - 53:30.1] Do you guys have a portal outside of RealPage and Yardi that, that they can go to?
+[53:30.1 - 53:33.3] Or is it just integrated with the PMS?
+[53:33.3 - 53:35.1] Okay.
+[53:35.1 - 53:37.4] Well- I can check into that.
+[53:37.4 - 53:38.9] Okay.
+[53:38.9 - 53:48.9] Well, yeah, have your, have your people shoot me an email, and then, uh, we could, uh, ping me and then CC him or something, and then, uh, we'll follow up, and we'll, we'll get some time on the calendar because I'm, I'm,
+[53:48.9 - 53:55.5] I'm interested to see what, you know, what you guys, what you guys use or how you guys- Absolutely.
+[53:55.5 - 54:01.2] Thank you so much for taking the time to talk with me today, and I'll get with my folks and try and get- No problem.
+[54:01.2 - 54:11.5] Thank you To double check with you, that's pricing
+[54:11.5 - 54:15.2] so I can put everything over state pricing while I get over.
+[54:15.2 - 54:17.8] Great.
+[54:17.8 - 54:19.5] Great.
+[54:19.5 - 54:24.8] Now.
+[54:24.8 - 54:34.6] You're always welcome into my town.
+[54:34.6 - 59:49.4] I'm gonna let you grab your belongings.
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Monday_V2026-01-01-14-48-34_transcription_20260705_192303.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Monday_V2026-01-01-14-48-34_transcription_20260705_192303.txt

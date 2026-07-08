@@ -1,0 +1,423 @@
+[00:12.8 - 00:13.6] All right.
+[00:13.6 - 00:17.5] Look what I, look what I have managed to do.
+[00:17.5 - 00:20.4] Let me just jump a little bit.
+[00:20.4 - 00:20.7] Yeah.
+[00:20.7 - 00:24.7] Oh, nice little UI you did.
+[00:24.7 - 00:25.0] Right?
+[00:25.0 - 00:26.5] I like that.
+[00:26.5 - 00:29.1] Did you just give it a skill or what?
+[00:29.1 - 00:30.3] Yeah, I just wanted-- This is a demo.
+[00:30.3 - 00:31.0] I'm gonna touch it up.
+[00:31.0 - 00:32.2] I just wanna see the, the- Oh ...
+[00:32.2 - 00:33.8] the level of it, of what it can...
+[00:33.8 - 00:34.1] You know?
+[00:34.1 - 00:37.8] Yeah, I mean, it could do it, but how did you-- what'd you tell it to do?
+[00:37.8 - 00:41.2] Uh, well, I, I have a lot of skills in there.
+[00:41.2 - 00:42.2] Remember that UI shit?
+[00:42.2 - 00:42.3] Yeah.
+[00:42.3 - 00:44.0] I downloaded mine in there that you sent me.
+[00:44.0 - 00:44.3] Yeah.
+[00:44.3 - 00:45.1] Yeah, look at...
+[00:45.1 - 00:48.6] Oh.
+[00:48.6 - 00:50.9] Oh, damn.
+[00:50.9 - 00:52.5] It's with madness.
+[00:52.5 - 00:55.2] That's pretty cool.
+[00:55.2 - 00:55.7] People do.
+[00:55.7 - 00:57.9] I like that.
+[00:57.9 - 01:00.4] I like it.
+[01:00.4 - 01:03.1] Pretty dope, huh?
+[01:03.1 - 01:03.5] Yeah.
+[01:03.5 - 01:06.0] I'm trying to push it, and then see what, like...
+[01:06.0 - 01:08.9] This is kinda like- You have your GitHub connected?
+[01:08.9 - 01:09.8] No, I don't.
+[01:09.8 - 01:10.1] I do...
+[01:10.1 - 01:10.5] I don't have it.
+[01:10.5 - 01:11.5] Like, I'm just, I'm just...
+[01:11.5 - 01:12.9] I just have my skills in here.
+[01:12.9 - 01:17.1] I need to- If you connect your GitHub and make it personal, you can push all your tasks to it.
+[01:17.1 - 01:27.1] Each time it's done, you can schedule it to just push it so you always have the files, and then you can clone it to your personal, and that way you can, like, use all
+[01:27.1 - 01:28.8] his credits, and then just clone it.
+[01:28.8 - 01:29.0] Well, I just wrap it up.
+[01:29.0 - 01:30.4] I just wrap it up and zip.
+[01:30.4 - 01:31.8] Okay.
+[01:31.8 - 01:35.0] Download it and then fucking- Yeah.
+[01:35.0 - 01:43.4] But if you ever change anything, it does the pull request and it updates your files, so you don't have to keep on downloading it and zip, and keep up with it.
+[01:43.4 - 01:44.3] All right.
+[01:44.3 - 01:45.8] 'Cause that's what a GitHub is, just a...
+[01:45.8 - 01:49.6] Keeps up with every file and every in- of anything.
+[01:49.6 - 01:54.0] So you have all-- I sent you all the skills, right, to do this?
+[01:54.0 - 01:55.0] Yeah, I already put them in there.
+[01:55.0 - 01:55.7] They're programmed.
+[01:55.7 - 01:56.5] All right.
+[01:56.5 - 01:57.7] Well, so now you know the skills.
+[01:57.7 - 01:59.9] I sent you one to do in Claude.
+[01:59.9 - 02:01.9] Uh, there, you can do all sorts of stuff.
+[02:01.9 - 02:03.6] You can, like, tell it to act as a CEO.
+[02:03.6 - 02:05.8] You can tell it to act as, like, the, like, an architect.
+[02:05.8 - 02:08.4] You're learning the fucking design, the, the, the back end.
+[02:08.4 - 02:09.9] I'm learning the design features.
+[02:09.9 - 02:10.3] I'm- Yeah.
+[02:10.3 - 02:12.3] True.
+[02:12.3 - 02:14.3] We're gonna be way over Paul's on it.
+[02:14.3 - 04:41.7] Hmm.
+[04:41.7 - 04:53.9] Hmm.
+[04:53.9 - 05:36.9] Yeah.
+[05:36.9 - 05:39.6] Coming.
+[05:39.6 - 05:53.9] I'm not getting
+[05:53.9 - 05:57.1] the fucking Claude to come up.
+[05:57.1 - 05:57.8] Uh-oh.
+[05:57.8 - 05:59.9] It's coming up on this fucking task bar.
+[05:59.9 - 06:01.2] Oh, there it goes.
+[06:01.2 - 06:02.0] Okay.
+[06:02.0 - 06:02.4] Oh.
+[06:02.4 - 06:03.0] Forget it.
+[06:03.0 - 06:03.3] Oh.
+[06:03.3 - 06:04.9] I got it.
+[06:04.9 - 06:05.4] Um.
+[06:05.4 - 06:11.6] Go to that, uh, repository I sent you, so now since you're already in Claude.
+[06:11.6 - 06:14.6] All right.
+[06:14.6 - 06:14.6] Uh...
+[06:14.6 - 06:15.1] Mm-hmm.
+[06:15.1 - 06:17.4] So I need to make my own like that.
+[06:17.4 - 06:18.3] Yeah, it says clone.
+[06:18.3 - 06:24.1] And if you ever wanna, like, keep it in your account, you hit, um, fork, and that puts it on your account.
+[06:24.1 - 06:28.2] So whatever, like just make one with your email or something.
+[06:28.2 - 06:32.1] And it's put- Yeah.
+[06:32.1 - 06:34.0] Should be able to.
+[06:34.0 - 06:34.7] Yes.
+[06:34.7 - 06:36.5] Uh, yeah.
+[06:36.5 - 06:38.6] Uh...
+[06:38.6 - 06:44.8] What am I supposed to do here?
+[06:44.8 - 06:45.5] Use the arrows.
+[06:45.5 - 06:47.0] Find the original contents.
+[06:47.0 - 06:48.5] Oh, hit those arrows.
+[06:48.5 - 06:52.3] And you just gotta match what it looks like, I guess.
+[06:52.3 - 06:56.7] You can do two cucumbers and two apples, it looks like.
+[06:56.7 - 06:59.0] Yeah.
+[06:59.0 - 07:02.1] They're getting harder.
+[07:02.1 - 07:03.3] Oh.
+[07:03.3 - 07:06.9] Sometimes I'm like, "I don't know how the fuck to do that.
+[07:06.9 - 07:08.9] Maybe I am a robot." Okay, so now what do I do?
+[07:08.9 - 07:10.3] Um, it looks like you're in.
+[07:10.3 - 07:15.8] So go back to that link again that's in the email and click it.
+[07:15.8 - 07:16.5] Yeah.
+[07:16.5 - 07:19.9] Okay, now hit Fork.
+[07:19.9 - 07:24.7] And yeah, that's what it's called.
+[07:24.7 - 07:26.3] It's gonna be your repository name.
+[07:26.3 - 07:26.7] Yep.
+[07:26.7 - 07:27.0] Mm-hmm.
+[07:27.0 - 07:35.5] And so now you have it forked, so it's yours and that's Gstack there, so hold on, move over.
+[07:35.5 - 07:41.5] Now go down to the bottom.
+[07:41.5 - 07:44.1] That's kind of where, like, the instructions are.
+[07:44.1 - 07:44.5] Yeah.
+[07:44.5 - 07:47.1] Okay.
+[07:47.1 - 07:48.1] Okay.
+[07:48.1 - 07:58.2] We're clo-- Um, okay, so go to your Claude and go to Code, and then you're gonna paste what it just said to
+[07:58.2 - 07:59.4] paste in Claude Code right there.
+[07:59.4 - 08:01.0] Yeah.
+[08:01.0 - 08:07.2] Oh, I don't know if you do the whole thing, but you can try, 'cause it kinda says to just do this highlighted area.
+[08:07.2 - 08:08.1] It's kinda hard to see.
+[08:08.1 - 08:09.7] Right here?
+[08:09.7 - 08:14.9] Uh, I think you just start at Run, uh, and ends at...
+[08:14.9 - 08:15.9] Yeah, that's...
+[08:15.9 - 08:16.6] Uh, you can try that.
+[08:16.6 - 08:18.1] Normally it'll figure it out.
+[08:18.1 - 08:23.2] Uh, erase that and then paste that.
+[08:23.2 - 08:24.5] Mm-hmm.
+[08:24.5 - 08:27.2] And then, yep, just hit...
+[08:27.2 - 08:28.5] It's a folder.
+[08:28.5 - 08:32.0] You wanna put it down, like, like on your desktop or something?
+[08:32.0 - 08:33.3] What, uh, GitHub?
+[08:33.3 - 08:35.0] Uh, it's called Gstack.
+[08:35.0 - 08:44.2] Oh, let's see.
+[08:44.2 - 08:45.6] It might have to be like a drive.
+[08:45.6 - 08:47.6] My, my cert- my, uh...
+[08:47.6 - 08:52.4] I was on my Mac, and it did, like, my Brandon Rose folder that has, like, my every computer file, so.
+[08:52.4 - 08:57.8] Do you have a, like a OneDrive personal on here or something?
+[08:57.8 - 08:58.5] I don't.
+[08:58.5 - 08:58.9] Oh.
+[08:58.9 - 09:00.9] Um, also, but since I do- Yeah, no.
+[09:00.9 - 09:00.9] Yeah.
+[09:00.9 - 09:02.4] And then once you do that, then what?
+[09:02.4 - 09:07.9] Uh, it, like, installs all these skills of, like, uh, C- CEO and architecture.
+[09:07.9 - 09:09.6] You can go down, and it'll kind of tell you, uh...
+[09:09.6 - 09:11.5] Keep going.
+[09:11.5 - 09:12.5] Keep going.
+[09:12.5 - 09:14.6] Keep going.
+[09:14.6 - 09:18.7] Um, yeah, this is what it'll do right here.
+[09:18.7 - 09:20.0] It'll act as these things.
+[09:20.0 - 09:23.4] I'll do it on my computer.
+[09:23.4 - 09:24.5] Yeah, it's probably better.
+[09:24.5 - 09:26.0] I, I don't think it should be there.
+[09:26.0 - 09:27.4] All right.
+[09:27.4 - 09:27.7] Got it.
+[09:27.7 - 09:28.4] Yeah.
+[09:28.4 - 09:28.7] Thank you.
+[09:28.7 - 09:29.2] Mm-hmm.
+[09:29.2 - 09:39.0] Yeah, Claude's a little more advanced, but it makes you do a lot more reading.
+[09:39.0 - 12:44.9] Mm-hmm.
+[23:46.0 - 23:46.5] What's up?
+[23:46.5 - 23:51.0] You leaving tomorrow?
+[23:51.0 - 23:53.4] Yeah, I'm about to.
+[23:53.4 - 23:54.4] He's still at the doctor's.
+[23:54.4 - 23:55.4] Oh, really?
+[23:55.4 - 23:55.7] Yeah.
+[23:55.7 - 24:00.4] That's what he gets for leaving at two thirty or three.
+[24:00.4 - 24:03.2] Yeah, I'm gonna take this check to Eldon.
+[24:03.2 - 24:06.6] Yeah.
+[24:06.6 - 24:07.5] Why are you here, bro?
+[24:07.5 - 24:14.3] All right.
+[24:14.3 - 24:16.4] Friday.
+[27:07.5 - 27:07.8] Hello?
+[27:07.8 - 28:39.1] I
+[28:39.1 - 28:45.7] don't even know if this is on, so...
+[28:45.7 - 28:55.3] Hey, Siri, play Kygo Radio on my Spotify.
+[28:55.3 - 29:15.3] Hey,
+[29:15.3 - 29:18.6] Siri, play Kygo Radio on my Spotify.
+[29:18.6 - 29:28.8] I'm having
+[29:28.8 - 29:29.8] trouble with the connection.
+[29:29.8 - 29:31.6] Please try again later.
+[29:31.6 - 29:44.7] Hey,
+[29:44.7 - 29:48.6] Siri, play Kygo Radio on my Spotify.
+[29:48.6 - 29:58.8] I'm having
+[29:58.8 - 29:59.8] trouble with the connection.
+[29:59.8 - 30:01.6] Please try again later.
+[30:01.6 - 30:11.6] Time keeps its own
+[30:11.6 - 30:12.5] time.
+[30:12.5 - 30:16.5] Here we stand at beginning.
+[30:16.5 - 30:19.4] And end up messing us by.
+[30:19.4 - 30:27.7] And I, I, I can dream for us all.
+[30:27.7 - 30:34.2] Now I will make the same mistakes time and time again.
+[30:34.2 - 31:17.3] Know
+[31:17.3 - 31:20.2] you'll be trouble when you get older.
+[31:20.2 - 31:30.2] Just don't show your shovel when you get older.
+[31:30.2 - 31:36.8] And things aren't easy so just believe me now.
+[31:36.8 - 31:45.4] If you don't keep it cool now, you'll never make it out.
+[31:45.4 - 31:59.5] Hello?
+[31:59.5 - 32:03.5] Hello?
+[32:03.5 - 32:07.6] Hi, is Dr.
+[32:07.6 - 32:07.6] Garcia in?
+[32:07.6 - 32:09.1] Uh, no, this is Brandon Rose.
+[32:09.1 - 32:12.0] Okay, perfect.
+[32:12.0 - 32:12.4] It's okay.
+[32:12.4 - 32:13.8] Uh, bye.
+[32:13.8 - 32:18.8] All the lights will guide the way.
+[32:18.8 - 32:22.8] If you get to hear me now.
+[32:22.8 - 32:26.5] All the fears will fade away.
+[32:26.5 - 32:31.0] If you get to hear me now.
+[32:31.0 - 32:38.9] If you get to hear me now.
+[32:38.9 - 32:53.8] If you get to-
+[32:53.8 - 32:57.9] And don't fight it slow, you're not always loved, no.
+[32:57.9 - 33:06.2] Things aren't easy, so just believe me.
+[33:06.2 - 33:16.2] And don't learn the hard way, just let me show you how.
+[33:16.2 - 33:26.4] All the lights will guide the way if you get to hear me now.
+[33:26.4 - 33:33.8] All the fears will fade away if you get to hear me now.
+[33:33.8 - 33:42.7] If you get to hear me now.
+[33:42.7 - 33:50.1] If you get to hear me now.
+[33:50.1 - 33:57.7] If you get to hear me now.
+[33:57.7 - 34:05.7] If you get to hear me now.
+[34:05.7 - 34:13.5] If you get to hear me now.
+[34:13.5 - 34:21.5] If you get to hear me now.
+[34:21.5 - 34:31.7] Some days I really wanna hate you.
+[34:31.7 - 34:36.3] 'Cause you always know just what to say.
+[34:36.3 - 34:37.3] Stupid bitch.
+[34:37.3 - 34:41.3] By now, I know the words to break you.
+[34:41.3 - 34:42.3] Fucking idiots.
+[34:42.3 - 34:43.6] And you know what breaks me.
+[34:43.6 - 34:53.7] Just tie on your fucking shoes in the morning, you dumb bitch When things get heated, we say things we don't mean and though we know they
+[34:53.7 - 34:55.3] ain't true.
+[34:55.3 - 35:01.6] Say you're leaving, get careless with our feelings.
+[35:01.6 - 35:04.2] What's the worst we can do?
+[35:04.2 - 35:10.9] I didn't tell you all my secrets just to pull my heart out.
+[35:10.9 - 35:15.5] I didn't take you to my family just to show you their house.
+[35:15.5 - 35:17.4] Thanks for all the fish.
+[35:17.4 - 35:17.6] Yeah, real good.
+[35:17.6 - 35:20.6] I didn't work this hard to get this far then leave it so soon.
+[35:20.6 - 35:23.1] I didn't love to lose somebody like you.
+[35:23.1 - 35:26.2] Yeah, I don't hand deliver stuff to people that hit their kids.
+[35:26.2 - 35:30.7] Some nights we're closer than ever.
+[35:30.7 - 35:36.2] Sometimes we're running out of space.
+[35:36.2 - 35:40.6] When we're high it can't get any better.
+[35:40.6 - 35:44.8] Until we come down again.
+[35:44.8 - 35:53.8] Things get heated, we say things we don't mean and though we know they ain't true.
+[35:53.8 - 36:00.6] Yeah, I don't hand deliver to people that- Say you're leaving, get careless with our feelings.
+[36:00.6 - 36:03.3] What's the worst we can do?
+[36:03.3 - 36:09.9] I didn't tell you all my secrets just to pull my heart out.
+[36:09.9 - 36:10.8] But I know that.
+[36:10.8 - 36:14.5] But I know that I didn't take you to my family just to show you their house.
+[36:14.5 - 36:19.6] I didn't work this hard to get this far then leave it so soon.
+[36:19.6 - 36:22.0] I didn't love to lose somebody like you.
+[36:22.0 - 36:23.8] I, I'll leave it in the mailbox.
+[36:23.8 - 36:25.3] Somebody like you.
+[36:25.3 - 36:26.7] Deal with it.
+[36:26.7 - 36:27.4] Ohhh, ohhh.
+[36:27.4 - 36:30.4] Somebody like you.
+[36:30.4 - 36:35.1] Ohhh, ohhh Keep doing it, see what's up.
+[36:35.1 - 36:42.1] Things get heated, we say things we don't mean and though we know they ain't true.
+[36:42.1 - 36:44.0] Yeah, I don't hand deliver to people that slap their kids.
+[36:44.0 - 36:48.8] I didn't tell you all my secrets just to pull my heart out.
+[36:48.8 - 36:54.0] I didn't take you to my family just to show you their house.
+[36:54.0 - 36:58.8] I didn't work this hard to get this far then leave it so soon.
+[36:58.8 - 37:01.0] I didn't love to lose somebody like you.
+[37:01.0 - 37:05.5] Yeah, people that slap their kids in the face don't get a hand delivery from me.
+[37:05.5 - 37:05.8] Somebody like you.
+[37:05.8 - 37:07.8] Ohhh, ohhh.
+[37:07.8 - 37:09.9] Somebody, somebody like you.
+[37:09.9 - 37:11.8] Ohhh, ohhh.
+[37:11.8 - 37:17.3] Somebody like you.
+[37:17.3 - 37:18.3] Somebody, somebody like you.
+[37:18.3 - 37:21.7] I didn't love to lose somebody like you.
+[37:21.7 - 37:24.4] Somebody like you.
+[37:24.4 - 37:35.2] Only
+[37:35.2 - 37:37.5] twenty-four hours in a day.
+[37:37.5 - 37:41.4] Twenty-four hours to escape from what happened yesterday.
+[37:41.4 - 37:43.8] We were out late.
+[37:43.8 - 37:47.3] Got this big cloud over my head.
+[37:47.3 - 37:53.1] But now we're here, I'm back.
+[37:53.1 - 37:54.9] I don't wanna waste time.
+[37:54.9 - 37:55.2] Over to my place.
+[37:55.2 - 37:56.4] I wasn't ready for this.
+[37:56.4 - 37:59.8] I mean, you look hot.
+[37:59.8 - 38:00.0] But I might pass.
+[38:00.0 - 38:05.9] No, I lose that game for sure.
+[38:05.9 - 38:20.7] But I know you
+[38:20.7 - 38:42.8] wanna help
+[38:42.8 - 38:48.9] me out.
+[38:48.9 - 39:03.1] You would
+[39:03.1 - 39:14.4] like to.
+[39:14.4 - 39:21.2] Fucking bitch .
+[39:21.2 - 39:22.6] Why not?
+[39:22.6 - 39:27.3] Hi, bringing a check.
+[39:27.3 - 39:28.6] How are you?
+[39:28.6 - 39:31.1] I'm good.
+[39:31.1 - 39:32.0] How are you?
+[39:32.0 - 39:32.0] I'm good.
+[39:32.0 - 39:32.9] Do I give it to you, I guess?
+[39:32.9 - 39:34.1] I was guessing.
+[39:34.1 - 39:34.8] All right.
+[39:34.8 - 39:35.7] Good to see you.
+[39:35.7 - 39:43.9] Did you say something to me?
+[39:43.9 - 39:44.2] You're good.
+[39:44.2 - 39:44.7] You're good.
+[39:44.7 - 39:45.3] Oh, okay.
+[39:45.3 - 39:47.2] See you.
+[40:47.1 - 40:51.5] Sorry, let's get this.
+[40:51.5 - 40:59.6] Baby, tell me why.
+[40:59.6 - 41:02.0] Why I feel the vibe?
+[41:02.0 - 41:02.4] Oh, why?
+[41:02.4 - 41:02.5] Oh, why?
+[41:02.5 - 41:09.6] Oh, I.
+[41:09.6 - 41:13.5] I lock the doors but you get closer.
+[41:13.5 - 41:14.1] Hey, Siri.
+[41:14.1 - 41:17.1] Open my Paychex app.
+[41:17.1 - 41:22.4] So, up and down.
+[41:22.4 - 41:24.1] I keep you up.
+[41:24.1 - 41:26.8] But I just can't get enough.
+[41:26.8 - 41:28.1] I'm craving your love.
+[41:28.1 - 41:32.3] Whenever you want, I'll give in.
+[41:32.3 - 41:34.5] I just can't get enough.
+[41:34.5 - 41:36.9] You run through my blood.
+[41:36.9 - 41:40.2] I long for your touch on my skin.
+[41:40.2 - 41:43.2] Oh, I just can't get enough.
+[41:43.2 - 41:58.9] Remember when
+[41:58.9 - 42:03.8] I said you would only end up lonely?
+[42:03.8 - 42:05.3] Don't love me, yeah.
+[42:05.3 - 42:07.8] Oh, I think I changed my mind.
+[42:07.8 - 42:10.8] Now I need you here at night to hold me.
+[42:10.8 - 42:12.8] Come hold me.
+[42:12.8 - 42:13.8] Yeah.
+[42:13.8 - 42:15.8] Oh, I.
+[42:15.8 - 42:22.3] I lock the doors but you get closer.
+[42:22.3 - 42:24.8] Oh, I.
+[42:24.8 - 42:26.6] So up and down.
+[42:26.6 - 42:28.5] I keep you up.
+[42:28.5 - 42:31.1] But I just can't get enough.
+[42:31.1 - 42:32.7] I'm craving your love.
+[42:32.7 - 42:36.6] Whenever you want, I'll give in.
+[42:36.6 - 42:38.9] I just can't get enough.
+[42:38.9 - 42:40.6] You run through my blood.
+[42:40.6 - 42:57.4] I long for your touch on my sk- Yeah.
+[42:57.4 - 43:00.3] A new place, a new hope.
+[43:00.3 - 43:02.8] For a while, let me feel alive.
+[43:02.8 - 43:08.4] Nothing to hold me back.
+[43:08.4 - 43:09.4] Take my time.
+[43:09.4 - 43:11.5] Just enjoy the ride.
+[43:11.5 - 43:16.8] On a map, passing by.
+[43:16.8 - 43:17.9] Life is good.
+[43:17.9 - 43:19.6] Best I've ever felt.
+[43:19.6 - 43:28.0] Get me up, somewhere new, somewhere I can find myself.
+[43:28.0 - 43:36.8] Oh, I feel, I feel, I feel, I feel so alive.
+[43:36.8 - 43:45.2] As I reach out, reach out, reach out, reach out to the sky.
+[43:45.2 - 43:48.9] I found my way.
+[43:48.9 - 43:50.9] I found my way.
+[43:50.9 - 43:55.8] I was in the dark, against it all, I made it through the day.
+[43:55.8 - 43:57.1] 'Cause I found my way.
+[43:57.1 - 43:59.1] I found my way.
+[43:59.1 - 44:03.2] In bad times, I know I'll be okay.
+[44:03.2 - 44:05.5] 'Cause I found my way.
+[44:05.5 - 44:13.8] 'Cause I found my way.
+[44:13.8 - 44:16.4] Oh, puta!
+[44:16.4 - 44:18.8] Fucking bitch.
+[44:18.8 - 44:23.9] 'Cause I found my way, my way, my way.
+[44:23.9 - 44:27.4] Found my way, my way.
+[44:27.4 - 44:32.9] 'Cause I found my way, my way, my way.
+[44:32.9 - 44:37.3] Found my way, my way.
+[44:37.3 - 44:38.4] I found my way.
+[44:38.4 - 44:40.6] I found my way.
+[44:40.6 - 44:45.5] I was in the dark, against it all, I made it through the day.
+[44:45.5 - 44:46.6] 'Cause I found my way.
+[44:46.6 - 44:49.0] I found my way.
+[44:49.0 - 44:52.8] In bad times, I know I'll be okay.
+[44:52.8 - 44:55.2] 'Cause I found my way.
+[44:55.2 - 45:03.2] Well, that's not much of a blind spot.
+[45:03.2 - 45:06.2] What's going on here?
+[45:06.2 - 45:09.6] 'Cause I found my way.
+[45:09.6 - 45:12.7] 'Cause I found my way, my way, my way.
+[45:12.7 - 45:15.3] Found my way, my way.
+[45:15.3 - 45:26.6] 'Cause I found
+[45:26.6 - 45:26.6] my way, my way, my way.
+[45:26.6 - 45:26.6] Found my way, my way.
+[45:26.6 - 45:26.6] I found my way.
+[45:26.6 - 45:29.7] I found my way.
+[45:29.7 - 45:34.7] I was in the dark, against it all, I made it through the day.
+[45:34.7 - 45:36.0] 'Cause I found my way.
+[45:36.0 - 45:38.0] I found my way.
+[45:38.0 - 45:41.5] In bad times, I know I'll be okay.
+[45:41.5 - 45:43.0] Wish people would stop parking like jackasses.
+[45:43.0 - 45:44.2] 'Cause I found my way.
+[45:44.2 - 45:54.5] No need for
+[45:54.5 - 45:59.4] no other name.
+[45:59.4 - 46:04.6] I'm strong enough for both.
+[46:04.6 - 47:13.3] Hi
+[47:13.3 - 47:13.8] baby.
+[47:13.8 - 47:15.5] Hi.
+[47:15.5 - 47:23.9] What you doing?
+[47:23.9 - 47:34.6] He's washing it up.
+[47:34.6 - 47:38.2] Oh.
+[47:38.2 - 47:38.2] Hi.
+[47:38.2 - 47:39.0] What you doing, huh?
+[47:39.0 - 47:47.9] I know that's my work place.
+[47:47.9 - 47:49.1] I know.
+[47:49.1 - 47:50.7] Is that fun?
+[47:50.7 - 47:52.7] Have fun, buddy.
+[47:52.7 - 47:53.1] Have fun.
+[47:53.1 - 47:53.1] Have fun.
+[47:53.1 - 48:23.8] Fucking
+[48:23.8 - 48:28.0] hell.
+[48:28.0 - 48:31.2] Oh.
+[48:31.2 - 48:34.3] Ah.
+[48:34.3 - 48:39.8] Ah.
+[48:39.8 - 48:56.6] He's
+[48:56.6 - 48:57.2] in here now.
+[48:57.2 - 51:22.7] Oh,
+[51:22.7 - 51:47.7] okay.
+[51:47.7 - 53:10.7] Oh,
+[53:10.7 - 53:10.7] it's cold.
+[53:10.7 - 53:18.9] I'm so hot for this.
+[53:18.9 - 53:25.9] What the fuck is this?
+[53:25.9 - 53:26.2] Okay, this is cool.
+[53:26.2 - 53:26.4] Uh-huh.
+[53:36.1 - 54:36.5] Okay,
+[54:36.5 - 54:44.5] let's see what we got here.
+[54:44.5 - 55:01.5] I
+[55:01.5 - 55:02.9] think I got another one right here.

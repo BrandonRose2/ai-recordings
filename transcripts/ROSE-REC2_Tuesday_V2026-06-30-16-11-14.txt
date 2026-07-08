@@ -1,0 +1,414 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_Tuesday_V2026-06-30-16-11-14.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-16-11-14_chunks_20260705_194229/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-16-11-14_chunks_20260705_194229/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-16-11-14_chunks_20260705_194229/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-16-11-14_chunks_20260705_194229/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-16-11-14_chunks_20260705_194229/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.7 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[00:00.9 - 00:03.9] I'm just saying moving forward next month, they're gonna, they're gonna be walking.
+[00:03.9 - 00:06.7] You're not gonna have a choice anymore of what, what unit.
+[00:06.7 - 00:07.4] I don't care anymore.
+[00:07.4 - 00:08.1] Like I'm- Okay ...
+[00:08.1 - 00:09.5] sick of this house anyway.
+[00:09.5 - 00:11.7] What's another one, you know, to add to the list?
+[00:11.7 - 00:13.5] I'm sick of kissing their ass.
+[00:13.5 - 00:13.6] Okay.
+[00:13.6 - 00:15.7] They all get too comfortable.
+[00:15.7 - 00:18.5] Erica Scales thinks she fucking owns the company now.
+[00:18.5 - 00:19.3] I love her to death.
+[00:19.3 - 00:25.5] She does whatever I ask her to do, but it's like her head can't fit through the doorframe now.
+[00:25.5 - 00:29.7] Just, uh- That's the kinda shit that gets me.
+[00:29.7 - 00:31.9] Just like Ashley's fat, lazy ass.
+[00:31.9 - 00:35.2] Arlene, her fucking legs and toes are falling off every day.
+[00:35.2 - 00:38.5] Now she's got a rat in her office that keeps her from going in the office.
+[00:38.5 - 00:39.1] Oh my God.
+[00:39.1 - 00:45.5] Um, Kiara is too busy tightening her fucking wig all the time that she can't barely make it in.
+[00:45.5 - 00:49.5] Um, and her fucking wanted boyfriend.
+[00:49.5 - 00:50.4] Let's see.
+[00:50.4 - 00:52.1] I could keep the list going.
+[00:52.1 - 00:54.5] No, I get it.
+[00:54.5 - 00:57.2] So...
+[00:57.2 - 01:01.3] And then Harsha, Mark wanted to fire her a month and a half ago.
+[01:01.3 - 01:04.6] Now he tells me yesterday how wonderful and great she is.
+[01:04.6 - 01:08.9] I'm like, "Okay." Well, you hated her the last month too.
+[01:08.9 - 01:11.9] Yeah, but I told her that.
+[01:11.9 - 01:13.5] Whoa.
+[01:13.5 - 01:17.3] I'm like, "You're fucking up.
+[01:17.3 - 01:18.4] I can't stand this.
+[01:18.4 - 01:22.3] This is like not working out for me." Where is Kiara, by the way?
+[01:22.3 - 01:23.1] She's not in today.
+[01:23.1 - 01:25.9] She's in Thomasville now 'cause she's in Thomasville till Thursday.
+[01:25.9 - 01:28.2] She's in Thomasville till Thursday.
+[01:28.2 - 01:29.4] Yeah.
+[01:29.4 - 01:31.0] Checks out Thursday.
+[01:31.0 - 01:32.6] She has a meeting during the day and heads back.
+[01:32.6 - 01:37.5] We've got a re-act going on there on the, on the 15th, so she's trying to get all that straight, get the rents in.
+[01:37.5 - 01:42.4] Well, that makes sense why she's not answering, I guess.
+[01:42.4 - 01:46.4] I mean, you know, they need to let people know that too.
+[01:46.4 - 01:48.5] Yeah.
+[01:48.5 - 01:50.0] Well, whatever.
+[01:50.0 - 01:55.8] Maybe we should put another fucking module into the Property Max that tells us where our managers are.
+[01:55.8 - 01:56.7] It does.
+[01:56.7 - 01:57.3] All you...
+[01:57.3 - 01:59.2] We already have travel dates.
+[01:59.2 - 02:00.4] Yeah.
+[02:00.4 - 02:05.8] Yeah, we do have travel dates where she can put- Yeah, but the fucking, uh, calendar's so cluttered with everything.
+[02:05.8 - 02:07.5] Dude, you can't...
+[02:07.5 - 02:08.9] It's so overwhelming- Yeah ...
+[02:08.9 - 02:10.3] that nobody's doing nothing.
+[02:10.3 - 02:14.6] It's so overwhelm- I told Mark I don't, I can't handle all that.
+[02:14.6 - 02:19.1] My brain is going, "Where, is that a squirrel?" When I look at this fucking screen.
+[02:19.1 - 02:20.0] I know.
+[02:20.0 - 02:20.8] I'm like- I know ...
+[02:20.8 - 02:22.7] "I gotta look away." I know.
+[02:22.7 - 02:24.0] I know.
+[02:24.0 - 02:30.2] And he goes, "Okay, well..." Then he was gonna build me something where it's just, like, I could pick certain things I want on my dashboard.
+[02:30.2 - 02:33.3] Like, like one site you can put what you want on your dashboard.
+[02:33.3 - 02:35.7] That's what I was asking for.
+[02:35.7 - 02:42.3] I was like, "I don't need to see this overwhelming amount of shit." Yeah, I agree.
+[02:42.3 - 02:42.6] You know?
+[02:42.6 - 02:44.4] It's, it's like it's, it's overkill.
+[02:44.4 - 02:46.6] So how do you sell that when it's overkill?
+[02:46.6 - 02:52.4] It's just making them not use it 'cause everybody's so, like, overwhelmed to even open it up.
+[02:52.4 - 02:55.1] I know.
+[02:55.1 - 03:02.3] Anyway, but I was trying to get something, Robert, and it might work in AppWorks, I don't know.
+[03:02.3 - 03:03.7] This is my suggestion.
+[03:03.7 - 03:08.4] Every bill that I open to approve, another tool is purchased.
+[03:08.4 - 03:19.0] Uh, a drill the other day, a fif- $40 level today, a $30 part the other day, some kind of machine, a $400
+[03:19.0 - 03:24.2] machine the other day, a dehumidifier for f- $500 at Walnut.
+[03:24.2 - 03:27.7] Somebody needs to keep track of this shit somewhere.
+[03:27.7 - 03:31.8] Like, we just keep buying tools, and they just keep going outdoor.
+[03:31.8 - 03:36.7] I think there's a asset thing inside of, uh, AppWorks.
+[03:36.7 - 03:36.9] Okay.
+[03:36.9 - 03:41.9] If AppWorks has it, like we, we need to be able to like say, "Hey, Jose bought a drill today.
+[03:41.9 - 03:43.6] This is the serial number.
+[03:43.6 - 03:45.6] This is the day he bought it." Yardi has it.
+[03:45.6 - 03:51.2] Motherfuck you, Yardi does have it.
+[03:51.2 - 03:51.8] Yardi.
+[03:51.8 - 03:54.3] You will see it at our, the convention you're going to.
+[03:54.3 - 03:54.7] Be here.
+[03:54.7 - 03:56.7] Does OneSite have it?
+[03:56.7 - 03:57.9] I don't know.
+[03:57.9 - 03:58.6] No.
+[03:58.6 - 04:01.5] Yeah, y'all don't know 'cause y'all don't check OneSite for nothing.
+[04:01.5 - 04:04.4] You're so, uh, hooked on Yardi 'cause y'all use it.
+[04:04.4 - 04:06.3] Y'all just use- Well, I'll tell you this- But- ...
+[04:06.3 - 04:09.8] the Classic OneSite doesn't have it, so it doesn't matter.
+[04:09.8 - 04:12.5] No one's learned how to use the new one anyway.
+[04:12.5 - 04:14.2] Well, does the Classic Yardi have it?
+[04:14.2 - 04:18.1] No, but no one uses Yardi either- Well, there you go ...
+[04:18.1 - 04:18.6] so.
+[04:18.6 - 04:29.0] So anyway, I don't know if it's in AppWorks or whatever, but we need to get, keep, uh, you know, a, a log of our tools, and we also need to start budgeting.
+[04:29.0 - 04:39.0] So like let's just say Walnut in June bought four things of Freon on l- May
+[04:39.0 - 04:39.7] 15th.
+[04:39.7 - 04:40.2] Mm-hmm.
+[04:40.2 - 04:50.2] And then on May 20th they bought four more Freon, and then on June 5th they bought four more Fre- Like, just because we had Mark pull out his
+[04:50.2 - 04:58.7] little budget thing, it says, "Why'd you spend so much on maintenance materials?" It doesn't tell us what we're buying in that, and it doesn't tell us where it's going.
+[04:58.7 - 05:02.9] We need something that shows that, like an AI.
+[05:02.9 - 05:06.0] That's the first time I'm asking for just an AI thing.
+[05:06.0 - 05:16.1] Like, here's the Lowe's bill for Walnut, Breckenridge, everything, and it analyzes it and puts it, and it's like apartment 201 got a new refrigerator, apartment
+[05:16.1 - 05:17.8] 302 got a new stove.
+[05:17.8 - 05:23.5] And boom, it just codes it and puts it away in the storage there for that prop- for that unit.
+[05:23.5 - 05:24.5] Mm-hmm.
+[05:24.5 - 05:29.5] And then I can go back and look at it and go like, "Okay, you just got a new refrigerator.
+[05:29.5 - 05:30.5] Why are you buying another one?
+[05:30.5 - 05:31.3] Where did it go?
+[05:31.3 - 05:37.2] And why did you buy four things of Freon in the last, you know, two weeks?
+[05:37.2 - 05:38.2] Where did that go?
+[05:38.2 - 05:39.1] Who's stealing it?
+[05:39.1 - 05:42.2] Who's doing side jobs?" Yeah.
+[05:42.2 - 05:43.4] Not side jobs.
+[05:43.4 - 05:45.4] Yeah.
+[05:45.4 - 05:46.1] Well, I just...
+[05:46.1 - 05:47.7] Y- you guys don't know what I know.
+[05:47.7 - 05:53.5] Like Silver Springs, he's, he's, he just went through a divorce and he's, and he's, uh, fixing up his house to sell it.
+[05:53.5 - 05:59.0] Um, the other maintenance guy at another property is fixing up his house.
+[05:59.0 - 06:00.3] Do you get what I'm saying?
+[06:00.3 - 06:01.9] Like, I know these things personally.
+[06:01.9 - 06:02.5] Yeah.
+[06:02.5 - 06:05.0] Yeah, that makes sense I hear you.
+[06:05.0 - 06:05.8] Boca Ciega.
+[06:05.8 - 06:13.5] I don't, I don't have anything against George as far as I don't think he's a thief, but he just bought a new house, and he's fixing his house up, you know.
+[06:13.5 - 06:20.9] Like Silver Springs, all of a sudden we had pools, chlorine, and tablets, and everything I found on Home Depot.
+[06:20.9 - 06:24.7] We don't have a pool there, and to have to pay it back.
+[06:24.7 - 06:28.1] So that's what I'm talking about.
+[06:28.1 - 06:30.7] But anyway, it's- Write that motherfucker up ...
+[06:30.7 - 06:33.1] gonna be very bitter.
+[06:33.1 - 06:33.6] All right.
+[06:33.6 - 06:36.0] Well, I'll talk to Nicole about the interviews.
+[06:36.0 - 06:36.7] I'll let you know.
+[06:36.7 - 06:39.8] Okay.
+[06:39.8 - 06:41.1] What about my AI program?
+[06:41.1 - 06:41.8] Bye.
+[06:41.8 - 06:42.6] Bye.
+[06:42.6 - 06:45.8] See, Brandon could do it.
+[06:45.8 - 06:46.1] Bye.
+[06:46.1 - 10:24.9] Yeah.
+[10:24.9 - 10:25.9] Hi, Sylvia.
+[10:25.9 - 10:27.1] Um, I am...
+[10:27.1 - 10:37.2] My doctor, uh, prescribed me a, a, a compound prescription thing, and you're on the li-- I've never done it before, and you
+[10:37.2 - 10:41.5] were on the list of, like compound pharmacies that he, uh, gave me.
+[10:41.5 - 10:51.5] And so I was just reaching out and seeing if, uh, if I could send the prescription over to you and, and roughly like the timeframe that it would take for it to be ready,
+[10:51.5 - 10:53.8] 'cause I'm, I'm going on a trip sometime soon.
+[10:53.8 - 10:56.4] It's for, uh, betahistine.
+[10:56.4 - 10:58.6] I don't know if you're familiar.
+[10:58.6 - 11:02.9] Oh, yeah.
+[11:02.9 - 11:03.2] Yeah.
+[11:03.2 - 11:19.5] Okay.
+[11:19.5 - 11:20.1] Yeah.
+[11:20.1 - 11:21.7] That's, uh, not a problem.
+[11:21.7 - 11:23.0] Mm-hmm.
+[11:23.0 - 11:25.1] Well-- Oh, wait, wait, wait.
+[11:25.1 - 11:25.3] Sorry.
+[11:25.3 - 11:33.0] Uh, it's, i-is it like that's something you have r-ready already, and so it's just a matter of coming in with the prescription and picking it up?
+[11:33.0 - 11:35.4] Okay.
+[11:35.4 - 11:46.7] It's
+[11:46.7 - 11:47.5] sixteen.
+[11:47.5 - 11:49.4] It says sixteen milligram tablet.
+[11:49.4 - 11:52.2] The other spot I called said it was like, "Oh, it's a capsule.
+[11:52.2 - 11:53.8] Is that okay?" Yeah, it should...
+[11:53.8 - 11:57.9] Okay.
+[11:57.9 - 11:59.8] And would I be able to send my, uh-
+[12:02.2 - 12:05.9] Okay, just as long as he also has the prescription and they're already made.
+[12:05.9 - 12:06.7] Okay.
+[12:06.7 - 12:08.6] Okay.
+[12:08.6 - 12:09.3] Thank you.
+[12:09.3 - 12:09.9] Take care.
+[12:09.9 - 12:10.7] Bye.
+[12:10.7 - 13:42.5] So
+[13:42.5 - 13:46.2] I'm gonna have to go do some shit, right?
+[13:46.2 - 13:46.9] Mm-hmm.
+[13:46.9 - 16:47.6] All
+[16:47.6 - 16:48.0] right.
+[16:48.0 - 16:49.9] I'm taking off.
+[16:49.9 - 16:51.2] Or not.
+[16:51.2 - 16:53.2] Well, not taking off.
+[16:53.2 - 16:59.1] I gotta go drop off this prescription thing for Mark.
+[16:59.1 - 17:09.8] So I will
+[17:09.8 - 17:11.0] see you tomorrow.
+[17:11.0 - 17:21.1] What, uh-- You said did Santiago, um, he's, like, doing something for Ellie now, or had-- took off and then for his lunch, and then is
+[17:21.1 - 17:22.6] doing something for them or some shit?
+[17:22.6 - 17:23.1] Yeah.
+[17:23.1 - 17:33.6] Okay, I'm just gonna call him 'cause, 'cause I need to-- I'm gonna need to make sure when he's picking Mark up on Thursday
+[17:33.6 - 17:34.8] that he has this shit.
+[17:34.8 - 17:43.8] Oh, yeah, you're in the kitchen?
+[17:43.8 - 17:44.3] Yeah.
+[17:44.3 - 17:45.3] Oh, later.
+[17:45.3 - 17:49.4] I thought you were taking off.
+[17:49.4 - 17:52.8] I was like- No.
+[17:52.8 - 17:54.5] I just wanted to give you a quick head's up.
+[17:54.5 - 17:58.5] I'm gonna drop this off on the way to work.
+[17:58.5 - 18:00.0] Okay.
+[24:47.9 - 24:48.5] Sir Robert.
+[24:48.5 - 24:51.3] Hi.
+[24:51.3 - 24:54.0] Yes, ma'am.
+[24:54.0 - 25:02.5] Yep.
+[25:02.5 - 25:02.6] Yep.
+[25:02.6 - 25:10.7] Yep.
+[25:10.7 - 25:11.0] Okay.
+[25:11.0 - 25:13.0] I'm not in the, I'm not in the closed MD.
+[25:13.0 - 25:16.9] I'm upstairs next to the mailbox office, so you just have to just refresh your memory.
+[25:16.9 - 25:19.2] I don't know if I've interviewed-- she saw the interview or not.
+[25:19.2 - 26:01.6] It's in the code.
+[26:01.6 - 26:12.2] Okay.
+[26:12.2 - 26:44.8] Yeah.
+[26:44.8 - 27:08.2] Mm-hmm.
+[27:08.2 - 27:37.2] Yeah,
+[27:37.2 - 27:42.5] but you gotta take into consideration that she's probably having AI or some fucking resume write this shit.
+[27:42.5 - 27:52.6] Oh, I didn't know that was your regional.
+[27:52.6 - 27:54.6] Oh.
+[27:54.6 - 28:21.8] She
+[28:21.8 - 28:28.0] dissects him like that too, but, but, but what-- but do you-- so, so you, you know that...
+[28:28.0 - 28:38.0] But I think the pressure comes in when we don't have anybody, and you got Miles calling, saying, "Hire somebody," or, "What's going on with the hiring?" And we, we don't
+[28:38.0 - 28:41.7] have-- You should see the candidates that, that don't get through.
+[28:41.7 - 28:43.3] If you think that's bad...
+[28:43.3 - 29:15.0] Yeah,
+[29:15.0 - 29:17.0] but why does he hate her?
+[29:17.0 - 29:18.4] Because she ratted on him?
+[29:18.4 - 29:24.9] Oh.
+[29:24.9 - 29:37.6] Oh, we're
+[29:37.6 - 29:38.7] talking about Katrina, right?
+[29:38.7 - 29:55.4] Who
+[29:55.4 - 29:56.2] wants her gone?
+[29:56.2 - 30:13.9] So...
+[30:13.9 - 30:23.1] Yeah.
+[30:23.1 - 30:34.3] Got
+[30:34.3 - 30:34.5] it.
+[30:34.5 - 30:35.6] Okay.
+[30:35.6 - 30:38.5] No, I, it's, it's in-- it's informational.
+[30:38.5 - 30:39.5] I appreciate it.
+[30:39.5 - 30:41.7] Bye.
+[48:48.0 - 48:48.6] All right, dog.
+[48:48.6 - 48:52.1] You want me to bring that tomorrow or what?
+[48:52.1 - 48:53.9] Uh, um, yeah.
+[48:53.9 - 48:58.2] Either tomorrow or, um, Friday we don't work, right?
+[48:58.2 - 49:04.3] So, but Friday I will, um, I'll stop by your pad so I can, like, drop off the, what's that?
+[49:04.3 - 49:08.7] Drop off the salsa just so you have it for Saturday morning and shit, you know?
+[49:08.7 - 49:09.1] Okay.
+[49:09.1 - 49:09.8] Yeah.
+[49:09.8 - 49:10.1] All right.
+[49:10.1 - 49:10.8] Hello.
+[49:10.8 - 49:12.9] Hey.
+[49:12.9 - 49:19.8] I didn't post it.
+[49:19.8 - 49:21.3] I don't, I haven't even looked at it.
+[49:21.3 - 49:24.1] Who did?
+[49:24.1 - 49:26.3] Nicole?
+[49:26.3 - 49:30.2] I don't know.
+[49:30.2 - 49:39.4] I haven't read that.
+[49:39.4 - 49:41.3] I don't...
+[49:41.3 - 49:46.5] Nicole.
+[49:46.5 - 49:56.7] The
+[49:56.7 - 50:01.4] thing is that every time she says Nicole doesn't live in our world, she is...
+[50:01.4 - 50:04.5] I do.
+[50:04.5 - 50:14.3] Okay, but when I try to give her my reasoning to things, she, like, butts heads with me.
+[50:14.3 - 50:17.0] Like, we-- half of the time, obviously, she's sitting down with me training me.
+[50:17.0 - 50:19.3] She asks me a question, and I tell her the right answer.
+[50:19.3 - 50:26.5] But even though it's not in the proper English form that she expects, she doesn't accept it as the right answer.
+[50:26.5 - 50:28.8] And she says, "You're gonna be dealing with bankers.
+[50:28.8 - 50:35.4] You're gonna be dealing with investments." And then, yeah, when I go to lunch with Mark and all these people, I sit there and carry on conversations with them fine.
+[50:35.4 - 50:37.7] I'm like, "I'm not conventional, like you.
+[50:37.7 - 50:39.6] I didn't go to fucking college.
+[50:39.6 - 50:44.6] I, you know, I'm still sitting right, still sitting right here about to take over your job.
+[50:44.6 - 50:48.0] I don't need to go your path." But it doesn't register with her.
+[50:48.0 - 50:49.3] So I don't argue that.
+[50:49.3 - 50:51.4] I'm just telling you, like, where we butt heads.
+[50:51.4 - 50:52.9] It gets frustrating.
+[50:52.9 - 51:17.6] Okay.
+[51:17.6 - 51:31.5] Why
+[51:31.5 - 51:33.7] don't you make revisions and send it to me?
+[51:33.7 - 51:34.9] Mm-hmm.
+[51:34.9 - 51:44.9] What do you mean wait period for what?
+[51:44.9 - 51:46.2] For it to update?
+[51:46.2 - 51:51.6] I don't, I don't, I haven't posted or nothing.
+[51:51.6 - 52:11.8] I
+[52:11.8 - 52:12.8] know, and I do.
+[52:12.8 - 52:15.9] Trust me, I battle with Jesus over about everything.
+[52:15.9 - 52:17.6] Like, everything that she's training me.
+[52:17.6 - 52:23.5] Half of our trainings are, like, her correcting me about shit, and it's like, "Dude, I don't need to be corrected.
+[52:23.5 - 52:27.3] You need to fucking train me." It's so frustrating.
+[52:27.3 - 52:28.7] You have no idea.
+[52:28.7 - 53:23.5] Well,
+[53:23.5 - 53:26.1] if she's gone, we'll edit it however the fuck you want.
+[53:26.1 - 53:49.8] She leaves
+[53:49.8 - 53:49.8] Thursday.
+[53:49.8 - 53:49.8] Bye.
+[53:49.8 - 58:36.8] Hello?
+[58:36.8 - 58:46.0] Okay, why does he mail them and let him know?
+[58:46.0 - 58:50.7] Yep.
+[58:50.7 - 59:50.0] Uh, where the fuck are
+[59:50.0 - 59:50.0] you?
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-16-11-14_transcription_20260705_194328.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-16-11-14_transcription_20260705_194328.txt
+[2J[H[3Jmanus-speech-to-text mp3/ROSE-REC2_Tuesday_V2026-06-30-16-11-14.mp3
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_Tuesday_V2026-06-30-16-11-14.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-16-11-14_chunks_20260705_194229/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-16-11-14_chunks_20260705_194229/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-16-11-14_chunks_20260705_194229/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-16-11-14_chunks_20260705_194229/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-16-11-14_chunks_20260705_194229/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[48:48.6 - 48:52.1] You want me to bring that tomorrow or what?
+[48:52.1 - 48:53.9] Uh, um, yeah.
+[48:53.9 - 48:58.2] Either tomorrow or, um, Friday we don't work, right?
+[48:58.2 - 49:04.3] So, but Friday I will, um, I'll stop by your pad so I can, like, drop off the, what's that?
+[49:04.3 - 49:08.7] Drop off the salsa just so you have it for Saturday morning and shit, you know?
+[49:08.7 - 49:09.1] Okay.
+[49:09.1 - 49:09.8] Yeah.
+[49:09.8 - 49:10.1] All right.
+[49:10.1 - 49:10.8] Hello.
+[49:10.8 - 49:12.9] Hey.
+[49:12.9 - 49:19.8] I didn't post it.
+[49:19.8 - 49:21.3] I don't, I haven't even looked at it.
+[49:21.3 - 49:24.1] Who did?
+[49:24.1 - 49:26.3] Nicole?
+[49:26.3 - 49:30.2] I don't know.
+[49:30.2 - 49:39.4] I haven't read that.
+[49:39.4 - 49:41.3] I don't...
+[49:41.3 - 49:46.5] Nicole.
+[49:46.5 - 49:56.7] The
+[49:56.7 - 50:01.4] thing is that every time she says Nicole doesn't live in our world, she is...
+[50:01.4 - 50:04.5] I do.
+[50:04.5 - 50:14.3] Okay, but when I try to give her my reasoning to things, she, like, butts heads with me.
+[50:14.3 - 50:17.0] Like, we-- half of the time, obviously, she's sitting down with me training me.
+[50:17.0 - 50:19.3] She asks me a question, and I tell her the right answer.
+[50:19.3 - 50:26.5] But even though it's not in the proper English form that she expects, she doesn't accept it as the right answer.
+[50:26.5 - 50:28.8] And she says, "You're gonna be dealing with bankers.
+[50:28.8 - 50:35.4] You're gonna be dealing with investments." And then, yeah, when I go to lunch with Mark and all these people, I sit there and carry on conversations with them fine.
+[50:35.4 - 50:37.7] I'm like, "I'm not conventional, like you.
+[50:37.7 - 50:39.6] I didn't go to fucking college.
+[50:39.6 - 50:44.6] I, you know, I'm still sitting right, still sitting right here about to take over your job.
+[50:44.6 - 50:48.0] I don't need to go your path." But it doesn't register with her.
+[50:48.0 - 50:49.3] So I don't argue that.
+[50:49.3 - 50:51.4] I'm just telling you, like, where we butt heads.
+[50:51.4 - 50:52.9] It gets frustrating.
+[50:52.9 - 51:17.6] Okay.
+[51:17.6 - 51:31.5] Why
+[51:31.5 - 51:33.7] don't you make revisions and send it to me?
+[51:33.7 - 51:34.9] Mm-hmm.
+[51:34.9 - 51:44.9] What do you mean wait period for what?
+[51:44.9 - 51:46.2] For it to update?
+[51:46.2 - 51:51.6] I don't, I don't, I haven't posted or nothing.
+[51:51.6 - 52:11.8] I
+[52:11.8 - 52:12.8] know, and I do.
+[52:12.8 - 52:15.9] Trust me, I battle with Jesus over about everything.
+[52:15.9 - 52:17.6] Like, everything that she's training me.
+[52:17.6 - 52:23.5] Half of our trainings are, like, her correcting me about shit, and it's like, "Dude, I don't need to be corrected.
+[52:23.5 - 52:27.3] You need to fucking train me." It's so frustrating.
+[52:27.3 - 52:28.7] You have no idea.
+[52:28.7 - 53:23.5] Well,
+[53:23.5 - 53:26.1] if she's gone, we'll edit it however the fuck you want.
+[53:26.1 - 53:49.8] She leaves
+[53:49.8 - 53:49.8] Thursday.
+[53:49.8 - 53:49.8] Bye.
+[53:49.8 - 58:36.8] Hello?
+[58:36.8 - 58:46.0] Okay, why does he mail them and let him know?
+[58:46.0 - 58:50.7] Yep.
+[58:50.7 - 59:50.0] Uh, where the fuck are
+[59:50.0 - 59:50.0] you?
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-16-11-14_transcription_20260705_194328.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-16-11-14_transcription_20260705_194328.txt

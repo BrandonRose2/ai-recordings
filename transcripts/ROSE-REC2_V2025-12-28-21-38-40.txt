@@ -1,0 +1,116 @@
+Starting Speech-to-Text conversion...
+Audio file size (6.8MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 6.82 MB, duration: 1191.1 seconds
+Splitting into 2 chunks (each ~595.6 seconds, max 5 MB)...
+Successfully split into 2 chunks
+Audio file split into 2 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2025-12-28-21-38-40.mp3, file size: 6.82 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 2 chunks...
+
+Transcribing chunk 1/2: .ROSE-REC2_V2025-12-28-21-38-40_chunks_20260706_155155/chunk_000.mp3
+Chunk 1 completed (duration: 595.5s)
+
+Transcribing chunk 2/2: .ROSE-REC2_V2025-12-28-21-38-40_chunks_20260706_155155/chunk_001.mp3
+Chunk 2 completed (duration: 595.3s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 1190.8 seconds
+Language: eng
+Total Chunks: 2
+Timestamped segments:
+[00:26.7 - 00:27.3] Hi, baby.
+[00:27.3 - 00:29.2] Hi.
+[00:29.2 - 00:30.8] What you doing?
+[00:30.8 - 00:34.9] Oh, it's quiet in here.
+[00:34.9 - 00:48.4] Oh.
+[00:48.4 - 00:52.6] What's she doing, huh?
+[00:52.6 - 00:55.3] I don't know.
+[00:55.3 - 00:56.6] It's kinda like that work place.
+[00:56.6 - 01:03.9] I don't know.
+[01:03.9 - 01:05.3] Go potty.
+[01:05.3 - 01:06.9] Go potty, buddy.
+[01:06.9 - 01:13.9] Go potty.
+[01:13.9 - 01:15.9] Go potty.
+[01:15.9 - 01:26.2] I'm
+[01:26.2 - 01:29.1] gonna take that one.
+[01:29.1 - 01:29.9] Hmm?
+[01:29.9 - 01:31.7] That's the third one.
+[01:31.7 - 01:43.9] Oh.
+[01:43.9 - 02:10.3] Is
+[02:10.3 - 02:11.0] he in here, no.
+[02:11.0 - 02:40.3] Okay.
+[02:40.3 - 03:37.7] Actually,
+[03:37.7 - 03:40.0] let's do this.
+[03:40.0 - 04:09.1] Uh-huh.
+[04:09.1 - 04:14.6] Uh-huh.
+[04:14.6 - 04:34.7] What
+[04:34.7 - 04:39.7] the fuck is this?
+[04:39.7 - 04:55.2] Okay,
+[04:55.2 - 04:56.0] let's go.
+[04:56.0 - 06:33.6] Uh-huh.
+[06:33.6 - 07:57.1] Okay,
+[07:57.1 - 07:58.4] let's see what we got here.
+[07:58.4 - 08:15.6] We
+[08:15.6 - 08:22.5] got another one right here.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-28-21-38-40_transcription_20260706_155209.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-28-21-38-40_transcription_20260706_155209.txt
+[2J[H[3Jmanus-speech-to-text ROSE-REC2_V2025-12-28-21-38-40.mp3
+Starting Speech-to-Text conversion...
+Audio file size (6.8MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 6.82 MB, duration: 1191.1 seconds
+Splitting into 2 chunks (each ~595.6 seconds, max 5 MB)...
+Successfully split into 2 chunks
+Audio file split into 2 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2025-12-28-21-38-40.mp3, file size: 6.82 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 2 chunks...
+Transcribing chunk 1/2: .ROSE-REC2_V2025-12-28-21-38-40_chunks_20260706_155155/chunk_000.mp3
+Chunk 1 completed (duration: 595.5s)
+Transcribing chunk 2/2: .ROSE-REC2_V2025-12-28-21-38-40_chunks_20260706_155155/chunk_001.mp3
+Chunk 2 completed (duration: 595.3s)
+
+Snippet of transcribed content:
+[00:26.7 - 00:27.3] Hi, baby.
+[00:27.3 - 00:29.2] Hi.
+[00:29.2 - 00:30.8] What you doing?
+[00:30.8 - 00:34.9] Oh, it's quiet in here.
+[00:34.9 - 00:48.4] Oh.
+[00:48.4 - 00:52.6] What's she doing, huh?
+[00:52.6 - 00:55.3] I don't know.
+[00:55.3 - 00:56.6] It's kinda like that work place.
+[00:56.6 - 01:03.9] I don't know.
+[01:03.9 - 01:05.3] Go potty.
+[01:05.3 - 01:06.9] Go potty, buddy.
+[01:06.9 - 01:13.9] Go potty.
+[01:13.9 - 01:15.9] Go potty.
+[01:15.9 - 01:26.2] I'm
+[01:26.2 - 01:29.1] gonna take that one.
+[01:29.1 - 01:29.9] Hmm?
+[01:29.9 - 01:31.7] That's the third one.
+[01:31.7 - 01:43.9] Oh.
+[01:43.9 - 02:10.3] Is
+[02:10.3 - 02:11.0] he in here, no.
+[02:11.0 - 02:40.3] Okay.
+[02:40.3 - 03:37.7] Actually,
+[03:37.7 - 03:40.0] let's do this.
+[03:40.0 - 04:09.1] Uh-huh.
+[04:09.1 - 04:14.6] Uh-huh.
+[04:14.6 - 04:34.7] What
+[04:34.7 - 04:39.7] the fuck is this?
+[04:39.7 - 04:55.2] Okay,
+[04:55.2 - 04:56.0] let's go.
+[04:56.0 - 06:33.6] Uh-huh.
+[06:33.6 - 07:57.1] Okay,
+[07:57.1 - 07:58.4] let's see what we got here.
+[07:58.4 - 08:15.6] We
+[08:15.6 - 08:22.5] got another one right here.
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-28-21-38-40_transcription_20260706_155209.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-28-21-38-40_transcription_20260706_155209.txt

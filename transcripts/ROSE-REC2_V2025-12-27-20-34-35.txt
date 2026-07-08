@@ -1,0 +1,221 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2025-12-27-20-34-35.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: .ROSE-REC2_V2025-12-27-20-34-35_chunks_20260706_154217/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: .ROSE-REC2_V2025-12-27-20-34-35_chunks_20260706_154217/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: .ROSE-REC2_V2025-12-27-20-34-35_chunks_20260706_154217/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: .ROSE-REC2_V2025-12-27-20-34-35_chunks_20260706_154217/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: .ROSE-REC2_V2025-12-27-20-34-35_chunks_20260706_154217/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.6 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[00:00.1 - 00:01.4] Is, is they have two things that they can do.
+[00:01.4 - 00:05.2] You're gonna put a little QR code in each person's electrical panel.
+[00:05.2 - 00:06.8] Okay?
+[00:06.8 - 00:17.1] And what they do is, is they walk over with their phone, and then they can take a picture of that, and then a little webpage will come up and say, um, you know, "What's the problem?"
+[00:17.1 - 00:21.8] And then they'll just type in like, uh, "My toilet's leaking," or whatever the hell the problem is.
+[00:21.8 - 00:24.2] That's one way to get the data in the system.
+[00:24.2 - 00:30.2] Um, the other way to get the data into the system is, is they call the manager or whatever number you want, doesn't matter.
+[00:30.2 - 00:40.8] They call a number, and they-- you can either leave a voicemail or they can speak to somebody c-making the complaint, saying, "I need-- I have water running all over my floor right now."
+[00:40.8 - 00:44.8] At that point in time, a work order gets created automatically.
+[00:44.8 - 00:45.5] There's no typing.
+[00:45.5 - 00:46.6] They don't do any typing.
+[00:46.6 - 00:50.3] There's, uh, it's, it's-- there's, there's no touch.
+[00:50.3 - 00:55.6] And then it gets disseminated to your maintenance man on his app on his phone.
+[00:55.6 - 00:57.6] Okay?
+[00:57.6 - 01:05.5] Um, that's, um, uh, that's, uh, uh, how the maintenance system works.
+[01:05.5 - 01:12.9] So they either-- they can either log the complaint themselves by going over there and scanning a QR code that's in the apartment.
+[01:12.9 - 01:17.2] We put them on the electrical panel 'cause no one's ever down in the electrical panel.
+[01:17.2 - 01:19.2] It's, you know, your electrical box where the circuit breakers are.
+[01:19.2 - 01:20.3] There'll be a QR code there.
+[01:20.3 - 01:26.7] They scan it, and then the, the webpage pops up right on their phone, and then they just type in, you know, whatever the problem is.
+[01:26.7 - 01:30.1] Pretty simple.
+[01:30.1 - 01:30.1] It...
+[01:30.1 - 01:31.2] Yeah, well, they can put it anywhere.
+[01:31.2 - 01:36.8] The reason why we put it on the electrical panel is, is that electrical panel will never get removed for the next fifty years you own the building.
+[01:36.8 - 01:44.7] They remove the fridge, you know, for whatever reason, uh, you know.
+[01:44.7 - 01:49.0] Um, and, and then they type a QR code for the unit number.
+[01:49.0 - 01:50.3] They don't even have to enter the unit number.
+[01:50.3 - 01:52.2] They just have to put a description of what the problem is.
+[01:52.2 - 02:03.5] And then if they wanna go out there and make a verbal complaint on the phone, the phone system will automatically say, "Ah, this person's calling up." And, um,
+[02:03.5 - 02:08.0] uh, you know, uh, and, and, and it knows what unit number they're in.
+[02:08.0 - 02:12.9] And then it basically will automatically dispatch the maintenance guy.
+[02:12.9 - 02:23.4] And it prioritizes the work orders because the AI system is smart enough to know that if you have running water all over the place, it's a much higher priority than if a guy basically is complaining that,
+[02:23.4 - 02:25.1] you know, he's got a hole in his wall or something.
+[02:25.1 - 02:27.1] Okay.
+[02:27.1 - 02:36.6] Now, the emergency line, you don't need the-- you don't, you don't need the emergency line anymore because the emergency line will just go right into this system, and then it'll send it out.
+[02:36.6 - 02:46.6] So, uh, if it, if, if it's an emergency line, so you basically tell us who-- if, if it goes to a cell phone or whatever, so we just program
+[02:46.6 - 02:48.2] it so it'll go to the same cell phone.
+[02:48.2 - 02:52.0] Absolutely.
+[02:52.0 - 02:58.9] So it might be going to a third-party system that's talking to Rent Manager.
+[02:58.9 - 03:01.1] I have to verify if they support Rent Manager.
+[03:01.1 - 03:04.4] Or we, we, we may just support Rent Manager natively.
+[03:04.4 - 03:05.9] I have to check.
+[03:05.9 - 03:16.0] Um, the advantage of our software that, you know, that, that, that's an addition to Rent Manager is it's, uh, AI-- it's completely AI-based, so
+[03:16.0 - 03:21.1] it's, it's a little-- it's, it's super much better than everything else out there.
+[03:21.1 - 03:24.9] Yeah.
+[03:24.9 - 03:27.2] Um, but I'll, I'll find out.
+[03:27.2 - 03:27.9] I'll get that answered.
+[03:27.9 - 03:29.3] That's, that's a question I'll answer.
+[03:29.3 - 03:33.7] Um, and the other thing is, is that...
+[03:33.7 - 03:38.3] No, no, it's only gonna be...
+[03:38.3 - 03:39.9] You're gonna have one interface.
+[03:39.9 - 03:45.7] So it's either gonna go into Rent Manager or it's n- It, it, it, it, it, it, it...
+[03:45.7 - 03:52.9] The, the, the management software we have either integrates with Rent Manager or we're gonna go in directly, directly into Rent Manager software.
+[03:52.9 - 03:56.2] So it, we-- No, we're not gonna do double.
+[03:56.2 - 03:57.7] There's no da- double data entry.
+[03:57.7 - 03:58.9] It's just one system.
+[03:58.9 - 04:00.5] Okay?
+[04:00.5 - 04:04.5] I haven't figured out that piece of it yet, but I, I will get back to you tomorrow.
+[04:04.5 - 04:08.7] Okay, and then the other system is, is that it will handle all of the calls.
+[04:08.7 - 04:16.2] Everybody will install an app on their phone, and the calls will be ringing directly to their mobile phones.
+[04:16.2 - 04:25.3] So they don't have to have a-- You don't have to have a, a specific, um, Advanced Property Management mobile phone anymore.
+[04:25.3 - 04:27.7] You just install the app on your personal cell phone.
+[04:27.7 - 04:30.2] Okay?
+[04:30.2 - 04:32.3] It records everything.
+[04:32.3 - 04:36.2] So, um, the whole thing is gonna cost you five bucks a unit.
+[04:36.2 - 04:44.1] Does that include electric breakthrough?
+[04:44.1 - 05:35.7] Well,
+[05:35.7 - 05:46.0] the,
+[05:46.0 - 05:57.2] the, the, the, the, the, the, the,
+[05:57.2 - 06:00.0] the, the, the...
+[06:00.0 - 06:59.0] Okay.
+[06:59.0 - 07:05.4] Let me know what you decide to do, and then I can probably get the install done by July 15th.
+[07:05.4 - 07:11.7] In other words, we've been working a lot with everything, um, on, on there.
+[07:11.7 - 07:18.9] Um, and then I, I need to get the question answered about if they support, um, Rent Manager.
+[07:18.9 - 07:23.9] If, if, if our, uh, maintenance system supports Rent Manager.
+[07:23.9 - 07:33.2] We have a, we have a maintenance system that we decided that we use that, um, basically bolts on to almost every property management software package out there.
+[07:33.2 - 07:41.0] It's not very expensive, and what it does is it gives us the ability, though, that it talks directly to the native property management system.
+[07:41.0 - 07:44.9] It's seamless between the property management system and us.
+[07:44.9 - 07:49.8] So in other words, it looks like everything's rent-- in, um, in Rent Manager.
+[07:49.8 - 08:00.4] So it's just a, it's slightly better, more, more of a system than most of the property management
+[08:00.4 - 08:01.2] systems have.
+[08:01.2 - 08:01.6] All right.
+[08:01.6 - 08:02.9] Well, let me know what you do.
+[08:02.9 - 08:09.5] Let me know what you think, and then we'll talk.
+[08:09.5 - 09:11.8] Okay.
+[09:11.8 - 09:16.3] Um, I'm sorry.
+[09:16.3 - 09:20.6] Why is it that you call me back from a different phone number every single time?
+[09:20.6 - 09:23.6] I don't do business with people that don't have one phone number.
+[09:23.6 - 09:33.6] I, I, I, I,
+[09:33.6 - 09:43.7] I don't want to do business
+[09:43.7 - 09:55.8] with somebody who calls
+[09:55.8 - 09:58.0] me from a different phone number every time they call me back.
+[09:58.0 - 09:58.9] Call me tomorrow.
+[09:58.9 - 10:01.8] I, I can't deal with this right now.
+[10:01.8 - 11:41.2] I, I gotta-- send me a-- text me a link to your company.
+[11:41.2 - 11:54.1] I want
+[11:54.1 - 11:54.3] to go over it.
+[11:54.3 - 11:56.9] Hold on, hold on, hold on.
+[18:10.1 - 18:10.5] Shock
+[33:44.0 - 33:45.4] Until Friday, sir.
+[33:45.4 - 33:47.6] Have a good one.
+[33:47.6 - 33:48.4] Have a good one.
+[33:48.4 - 33:49.5] Have a blessed evening.
+[33:49.5 - 33:51.2] You as well, sir.
+[33:51.2 - 33:52.6] Oh, yes, I will.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-27-20-34-35_transcription_20260706_154314.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-27-20-34-35_transcription_20260706_154314.txt
+[2J[H[3Jmanus-speech-to-text ROSE-REC2_V2025-12-27-20-34-35.mp3
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2025-12-27-20-34-35.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: .ROSE-REC2_V2025-12-27-20-34-35_chunks_20260706_154217/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: .ROSE-REC2_V2025-12-27-20-34-35_chunks_20260706_154217/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: .ROSE-REC2_V2025-12-27-20-34-35_chunks_20260706_154217/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: .ROSE-REC2_V2025-12-27-20-34-35_chunks_20260706_154217/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: .ROSE-REC2_V2025-12-27-20-34-35_chunks_20260706_154217/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[03:52.9 - 03:56.2] So it, we-- No, we're not gonna do double.
+[03:56.2 - 03:57.7] There's no da- double data entry.
+[03:57.7 - 03:58.9] It's just one system.
+[03:58.9 - 04:00.5] Okay?
+[04:00.5 - 04:04.5] I haven't figured out that piece of it yet, but I, I will get back to you tomorrow.
+[04:04.5 - 04:08.7] Okay, and then the other system is, is that it will handle all of the calls.
+[04:08.7 - 04:16.2] Everybody will install an app on their phone, and the calls will be ringing directly to their mobile phones.
+[04:16.2 - 04:25.3] So they don't have to have a-- You don't have to have a, a specific, um, Advanced Property Management mobile phone anymore.
+[04:25.3 - 04:27.7] You just install the app on your personal cell phone.
+[04:27.7 - 04:30.2] Okay?
+[04:30.2 - 04:32.3] It records everything.
+[04:32.3 - 04:36.2] So, um, the whole thing is gonna cost you five bucks a unit.
+[04:36.2 - 04:44.1] Does that include electric breakthrough?
+[04:44.1 - 05:35.7] Well,
+[05:35.7 - 05:46.0] the,
+[05:46.0 - 05:57.2] the, the, the, the, the, the, the,
+[05:57.2 - 06:00.0] the, the, the...
+[06:00.0 - 06:59.0] Okay.
+[06:59.0 - 07:05.4] Let me know what you decide to do, and then I can probably get the install done by July 15th.
+[07:05.4 - 07:11.7] In other words, we've been working a lot with everything, um, on, on there.
+[07:11.7 - 07:18.9] Um, and then I, I need to get the question answered about if they support, um, Rent Manager.
+[07:18.9 - 07:23.9] If, if, if our, uh, maintenance system supports Rent Manager.
+[07:23.9 - 07:33.2] We have a, we have a maintenance system that we decided that we use that, um, basically bolts on to almost every property management software package out there.
+[07:33.2 - 07:41.0] It's not very expensive, and what it does is it gives us the ability, though, that it talks directly to the native property management system.
+[07:41.0 - 07:44.9] It's seamless between the property management system and us.
+[07:44.9 - 07:49.8] So in other words, it looks like everything's rent-- in, um, in Rent Manager.
+[07:49.8 - 08:00.4] So it's just a, it's slightly better, more, more of a system than most of the property management
+[08:00.4 - 08:01.2] systems have.
+[08:01.2 - 08:01.6] All right.
+[08:01.6 - 08:02.9] Well, let me know what you do.
+[08:02.9 - 08:09.5] Let me know what you think, and then we'll talk.
+[08:09.5 - 09:11.8] Okay.
+[09:11.8 - 09:16.3] Um, I'm sorry.
+[09:16.3 - 09:20.6] Why is it that you call me back from a different phone number every single time?
+[09:20.6 - 09:23.6] I don't do business with people that don't have one phone number.
+[09:23.6 - 09:33.6] I, I, I, I,
+[09:33.6 - 09:43.7] I don't want to do business
+[09:43.7 - 09:55.8] with somebody who calls
+[09:55.8 - 09:58.0] me from a different phone number every time they call me back.
+[09:58.0 - 09:58.9] Call me tomorrow.
+[09:58.9 - 10:01.8] I, I can't deal with this right now.
+[10:01.8 - 11:41.2] I, I gotta-- send me a-- text me a link to your company.
+[11:41.2 - 11:54.1] I want
+[11:54.1 - 11:54.3] to go over it.
+[11:54.3 - 11:56.9] Hold on, hold on, hold on.
+[18:10.1 - 18:10.5] Shock
+[33:44.0 - 33:45.4] Until Friday, sir.
+[33:45.4 - 33:47.6] Have a good one.
+[33:47.6 - 33:48.4] Have a good one.
+[33:48.4 - 33:49.5] Have a blessed evening.
+[33:49.5 - 33:51.2] You as well, sir.
+[33:51.2 - 33:52.6] Oh, yes, I will.
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-27-20-34-35_transcription_20260706_154314.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-27-20-34-35_transcription_20260706_154314.txt

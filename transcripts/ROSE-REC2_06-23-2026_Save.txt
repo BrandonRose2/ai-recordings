@@ -1,0 +1,1126 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_06-23-2026_Save.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: mp3/.ROSE-REC2_06-23-2026_Save_chunks_20260705_173547/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: mp3/.ROSE-REC2_06-23-2026_Save_chunks_20260705_173547/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: mp3/.ROSE-REC2_06-23-2026_Save_chunks_20260705_173547/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: mp3/.ROSE-REC2_06-23-2026_Save_chunks_20260705_173547/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: mp3/.ROSE-REC2_06-23-2026_Save_chunks_20260705_173547/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.6 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[02:37.8 - 02:38.0] Hello?
+[02:38.0 - 02:39.4] Hi.
+[02:39.4 - 02:39.8] Hi.
+[02:39.8 - 02:49.8] I have the accountant on the phone, and he says that the Excel spreadsheet that you put together doesn't have enough detail, so he'll
+[02:49.8 - 02:51.6] be on the line when I hang up- Okay ...
+[02:51.6 - 02:53.0] and you guys can discuss it, okay?
+[02:53.0 - 02:53.6] Sure.
+[02:53.6 - 02:53.8] Okay.
+[02:53.8 - 02:55.2] And obviously use the new report.
+[02:55.2 - 02:55.7] Okay.
+[02:55.7 - 02:56.6] Okay, bye.
+[02:56.6 - 02:57.1] Bye-bye.
+[02:57.1 - 03:07.5] Hello?
+[03:07.5 - 03:09.8] Yeah, sorry, I messed up the transfer.
+[03:09.8 - 03:10.1] Here you go.
+[03:10.1 - 03:10.5] No worries.
+[03:10.5 - 03:10.8] Okay.
+[03:10.8 - 03:12.3] Hello?
+[03:12.3 - 03:14.3] Hi.
+[03:14.3 - 03:14.9] Is this Brandon?
+[03:14.9 - 03:15.6] It is.
+[03:15.6 - 03:16.5] How are you today?
+[03:16.5 - 03:17.2] Hi, Brandon.
+[03:17.2 - 03:18.1] Jeff Sadaka.
+[03:18.1 - 03:18.7] Hi, Jeff.
+[03:18.7 - 03:24.0] So I'm looking at your cost seg reconciliation schedule- Okay ...
+[03:24.0 - 03:32.8] that I-- that, that's here, and the problem I have is that it's gotta be broken down in so much more detail.
+[03:32.8 - 03:36.0] The way they did it is a freaking nightmare.
+[03:36.0 - 03:37.2] Yes, and- Okay?
+[03:37.2 - 03:37.2] So- ...
+[03:37.2 - 03:38.4] I would've done more detail.
+[03:38.4 - 03:48.6] I was just matching, uh, what Beth had said she wanted it a certain way, but- Well, the problem, the problem is, is that, like, for instance, I'm looking at Grace because
+[03:48.6 - 03:51.4] now I have the Grace thirty-one fifteen report.
+[03:51.4 - 03:52.1] Yes.
+[03:52.1 - 03:55.1] And so I'm-- the brand-new report.
+[03:55.1 - 03:58.2] So I'm looking at building one.
+[03:58.2 - 03:59.6] Okay, let me open it up.
+[03:59.6 - 03:59.7] Right?
+[03:59.7 - 04:16.4] So I-
+[04:17.9 - 04:18.8] Okay, I'm with you now.
+[04:18.8 - 04:20.2] All right.
+[04:20.2 - 04:26.9] So when I look at this report, I'm looking at, and this is a freaking nightmare- ...
+[04:26.9 - 04:36.9] right, the way they did it, because I have-- I have to take the components, and I have to then subtract and r- it's, it's, it's hard to describe what I
+[04:36.9 - 04:38.7] have to do in the tab- I'm sure ...
+[04:38.7 - 04:39.8] which is a nightmare.
+[04:39.8 - 04:47.4] So I'm gonna send you what I have for, for Gr- uh, Grove Park.
+[04:47.4 - 04:48.1] Okay.
+[04:48.1 - 04:48.7] Okay?
+[04:48.7 - 04:49.6] Hold on.
+[04:49.6 - 04:51.7] What I had to do for Grove Park.
+[04:51.7 - 04:56.7] And, um- You want me to kind of replicate that throughout?
+[04:56.7 - 04:58.3] Yeah.
+[04:58.3 - 05:02.7] And I don't know whether you can do it or not, but I, um- Probably.
+[05:02.7 - 05:05.1] Hold on one second here.
+[05:05.1 - 05:15.1] Um, 'cause I have to take, like, different components of the building- Mm-hmm ...
+[05:15.1 - 05:19.5] and then equate the depreciation part to each one.
+[05:19.5 - 05:29.5] It wasn't-- and it wasn't that hard for me to do because I had one Excel schedule that broke in-- that had all the components.
+[05:29.5 - 05:30.8] Let me, let me- Okay.
+[05:30.8 - 05:32.6] Hold on one second here.
+[05:32.6 - 05:38.3] And this, and this is easier than, than you-- uh, the one I'm sending you.
+[05:38.3 - 05:41.3] Brandon, what's your, what's your email address?
+[05:41.3 - 05:43.9] It's, uh, Brandon at apartmentcorp.com.
+[05:43.9 - 05:45.4] Okay.
+[05:45.4 - 05:59.1] .com?
+[05:59.1 - 06:00.2] Yes.
+[06:00.2 - 06:08.6] Okay And I'm just gonna put this in there.
+[06:08.6 - 06:13.4] I don't know which one has the...
+[06:13.4 - 06:17.1] I have two copies.
+[06:17.1 - 06:18.4] I don't know which one's which.
+[06:18.4 - 06:24.2] Okay, so, um, I'll get Nicole on here also.
+[06:24.2 - 06:26.3] I don't know if she wants to be on here or not.
+[06:26.3 - 06:27.4] Okay.
+[06:27.4 - 06:27.9] Okay.
+[06:27.9 - 06:31.3] I just sent you the Grove Park one.
+[06:31.3 - 06:31.7] Okay.
+[06:31.7 - 06:42.6] Hmm,
+[06:42.6 - 06:43.8] hasn't come in yet.
+[06:43.8 - 06:45.3] Okay.
+[06:45.3 - 06:51.5] So what I did was- I don't see it in my inbox yet.
+[06:51.5 - 06:52.7] We have to go...
+[06:52.7 - 06:56.4] So it's on Brandon, B-R-A-N-D-O-N?
+[06:56.4 - 06:56.7] Yes.
+[06:56.7 - 06:57.5] Or D-E-N?
+[06:57.5 - 06:57.9] Oh, N.
+[06:57.9 - 06:58.2] Okay.
+[06:58.2 - 06:58.5] Correct.
+[06:58.5 - 06:58.8] Mm-hmm.
+[06:58.8 - 06:59.5] Okay.
+[06:59.5 - 07:01.7] Sometimes...
+[07:01.7 - 07:02.9] Let me go to my junk.
+[07:02.9 - 07:03.9] Hmm, no.
+[07:03.9 - 07:14.2] And we have a, uh, Titan filter that filters mail that I don't receive coming from people that I've never received from sometimes,
+[07:14.2 - 07:16.6] so maybe that'll come through.
+[07:16.6 - 07:19.6] Um, yeah, I'm sure I'm...
+[07:19.6 - 07:21.9] You know, you don't want to get anything from me.
+[07:21.9 - 07:24.3] Can't be true.
+[07:24.3 - 07:26.7] Let's see.
+[07:26.7 - 07:29.3] Let me see if I can go to my...
+[07:29.3 - 07:35.0] Hmm.
+[07:35.0 - 07:37.5] And, and Grace is probably...
+[07:37.5 - 07:41.2] The way they did Grace is...
+[07:41.2 - 07:42.7] I, I would never have used...
+[07:42.7 - 07:44.3] I'd never use these guys again.
+[07:44.3 - 07:45.2] Yeah.
+[07:45.2 - 07:49.4] Or- I don't think I would either, just off of what I've seen so far.
+[07:49.4 - 07:57.9] Seems like it was kind of like pulling teeth to just get them to complete it, and then they didn't even give you Excel files.
+[07:57.9 - 08:05.2] They just gave you PDFs, and just the inconsistencies were, you know- Yeah ...
+[08:05.2 - 08:05.9] not minimum.
+[08:05.9 - 08:09.1] Well, I still don't see it.
+[08:09.1 - 08:09.9] Strange.
+[08:09.9 - 08:11.5] Hmm.
+[08:11.5 - 08:13.6] Hold on.
+[08:13.6 - 08:25.9] B-R-A-N-D-O-N
+[08:25.9 - 08:28.5] @apartmentcorp.com.
+[08:28.5 - 08:29.5] Yes.
+[08:29.5 - 08:32.3] And I als- and I also sent it to Nicole.
+[08:32.3 - 08:33.8] Hmm.
+[08:33.8 - 08:36.9] Maybe it's just- Maybe I'm your...
+[08:36.9 - 08:38.4] Maybe I went in your junk?
+[08:38.4 - 08:40.2] Yeah, I looked there too.
+[08:40.2 - 08:41.0] Or on B- or spam?
+[08:41.0 - 08:43.7] I did look everywhere.
+[08:43.7 - 08:45.3] Okay.
+[08:45.3 - 08:48.5] I didn't get anything that said it didn't go through.
+[08:48.5 - 08:57.7] But yeah, like I said, sometimes that Titan thing that we have filtering takes a minute to pick up, and I have to, like, allow it to come through.
+[08:57.7 - 09:00.2] Maybe that's, uh, happening here.
+[09:00.2 - 09:01.3] All right.
+[09:01.3 - 09:03.3] Well, here's, here's what I want you to do.
+[09:03.3 - 09:03.7] Okay.
+[09:03.7 - 09:04.6] Let's just go through.
+[09:04.6 - 09:05.2] All right.
+[09:05.2 - 09:07.6] Do you have a copy of the 3115?
+[09:07.6 - 09:08.5] Yes.
+[09:08.5 - 09:11.0] The, the brand-new one that they sent you?
+[09:11.0 - 09:11.6] For Grace?
+[09:11.6 - 09:12.9] Yes.
+[09:12.9 - 09:13.2] Yes.
+[09:13.2 - 09:14.0] At the very top.
+[09:14.0 - 09:14.4] Mm-hmm.
+[09:14.4 - 09:15.2] Okay.
+[09:15.2 - 09:17.4] So if you go to...
+[09:17.4 - 09:19.5] And let's just take one building, right?
+[09:19.5 - 09:21.9] Building 1, right?
+[09:21.9 - 09:22.5] Okay.
+[09:22.5 - 09:23.6] Okay.
+[09:23.6 - 09:28.5] See how building 1 has the...
+[09:28.5 - 09:29.0] It has...
+[09:29.0 - 09:29.2] We...
+[09:29.2 - 09:31.7] There, there, there's four components.
+[09:31.7 - 09:32.3] Mm-hmm.
+[09:32.3 - 09:39.7] And I don't know why they did it, why they took $7,000, because it's a nightmare the way they did it.
+[09:39.7 - 09:43.5] But what they need to do is...
+[09:43.5 - 09:45.1] So what...
+[09:45.1 - 09:51.7] See how they have asset 12553344, right?
+[09:51.7 - 09:52.5] What page are you on?
+[09:52.5 - 09:56.8] See you have...
+[09:56.8 - 09:59.5] Up on top is the way the return...
+[09:59.5 - 10:01.8] And I think I gotta show you.
+[10:01.8 - 10:05.2] I'm gonna send you a copy of the depreciation schedule.
+[10:05.2 - 10:05.8] Okay.
+[10:05.8 - 10:08.8] What page of, of 129 are you on?
+[10:08.8 - 10:10.5] Uh, 18.
+[10:10.5 - 10:11.1] Okay.
+[10:11.1 - 10:12.8] Perfect.
+[10:12.8 - 10:13.4] I'm there now.
+[10:13.4 - 10:14.3] Okay.
+[10:14.3 - 10:24.0] So I'm gonna send you the depreciation schedule so that you can see this.
+[10:24.0 - 10:25.3] Yeah.
+[10:25.3 - 10:28.8] I remember on the other one it had all the breakdowns of the buildings- I know.
+[10:28.8 - 10:28.8] It, it was- ...
+[10:28.8 - 10:36.3] like the actual expenses of the- The, the problem is we have to have the breakdowns- That's what I was thinking ...
+[10:36.3 - 10:36.9] for this also.
+[10:36.9 - 10:39.9] And, and it's, it's, um...
+[10:39.9 - 10:50.0] I'd actually- You can see- I'd actually started doing it that way, and then I was told by Beth to do a more condensed version like hers, so I just copied
+[10:50.0 - 10:52.6] the way she was doing it for Grove Park and- Mm-hmm ...
+[10:52.6 - 10:53.3] sent it on in.
+[10:53.3 - 10:55.5] Hmm.
+[10:55.5 - 10:56.8] I know, I know.
+[10:56.8 - 11:00.0] The, the, the problem is, unless you're on this side- Mm-hmm ...
+[11:00.0 - 11:02.2] you don't really see what happens.
+[11:02.2 - 11:04.0] I just sent you the depreciation schedule.
+[11:04.0 - 11:05.9] Let's see if it went through.
+[11:05.9 - 11:05.9] Okay.
+[11:05.9 - 11:06.9] Hopefully you'll get that.
+[11:06.9 - 11:08.6] Hmm.
+[11:08.6 - 11:13.4] Um, no, not yet.
+[11:13.4 - 11:14.5] Let's see here.
+[11:14.5 - 11:19.5] I know there's a space that I'm...
+[11:19.5 - 11:20.1] Can go on.
+[11:20.1 - 11:20.9] How weird.
+[11:20.9 - 11:22.1] You're not kidding.
+[11:22.1 - 11:24.2] I know.
+[11:24.2 - 11:25.7] That's strange.
+[11:25.7 - 11:29.1] I'm sure it'll come, it'll come through probably as soon as we hang up the phone.
+[11:29.1 - 11:33.3] Um, deleted items maybe?
+[11:33.3 - 11:34.0] No.
+[11:34.0 - 11:35.5] Mm-hmm.
+[11:35.5 - 11:35.9] Junk?
+[11:35.9 - 11:37.3] No, it's not there.
+[11:37.3 - 11:39.4] Let me reload my page.
+[11:39.4 - 11:39.9] Maybe it's...
+[11:39.9 - 11:46.6] I guess you could try to send it to my Gmail, brandonrose2@gmail.com.
+[11:46.6 - 11:50.0] I'm sorry about that.
+[12:00.8 - 12:01.3] R-O-S-E?
+[12:01.3 - 12:03.7] Yes @gmail?
+[12:03.7 - 12:06.4] Uh, brandonrose2@gmail.com.
+[12:06.4 - 12:16.6] Yeah, even whenever I send
+[12:16.6 - 12:21.5] myself, like, emails to my work email from, say, my iCloud, it takes forever- Mm-hmm ...
+[12:21.5 - 12:25.7] to come through, and it goes to my spam Titan or something, so- Mm-hmm ...
+[12:25.7 - 12:26.9] I'm sure that's what's happening here.
+[12:26.9 - 12:27.5] There we are.
+[12:27.5 - 12:29.1] I see it now in my Gmail.
+[12:29.1 - 12:32.4] The depreciation schedule.
+[12:32.4 - 12:36.0] Okay, I have that open now.
+[12:36.0 - 12:38.3] Okay.
+[12:38.3 - 12:39.6] Yes.
+[12:39.6 - 12:43.6] I mean, this is coming from the tax return, correct?
+[12:43.6 - 12:44.9] Yeah.
+[12:44.9 - 12:45.6] Yeah, I saw...
+[12:45.6 - 12:51.1] I looked up the tax return and- So, so, so what happens is that if you were to look at the very...
+[12:51.1 - 12:53.3] So open up the spreadsheet you did.
+[12:53.3 - 12:54.4] Okay.
+[12:54.4 - 12:57.5] Let me go back to that.
+[12:57.5 - 13:06.8] And open up the grace.
+[13:06.8 - 13:08.8] Okay.
+[13:08.8 - 13:16.8] Okay, I'm there.
+[13:16.8 - 13:19.8] All right.
+[13:19.8 - 13:29.1] So, so now what's happening is that the, the, um...
+[13:29.1 - 13:32.0] See how they've done...
+[13:32.0 - 13:35.4] See how the top part is one, five, three?
+[13:35.4 - 13:38.5] You have nine, but I have four, right?
+[13:38.5 - 13:39.1] Yeah.
+[13:39.1 - 13:44.8] Well, the first cost segregation report they sent me did have a nine, and I wasn't given- Okay ...
+[13:44.8 - 13:49.6] the one that was complete with the 3115 and so that one has a four.
+[13:49.6 - 13:51.3] So I- Okay ...
+[13:51.3 - 13:53.1] I was just going off of what was provided.
+[13:53.1 - 13:53.8] Yeah, I got it.
+[13:53.8 - 13:54.3] Mm-hmm.
+[13:54.3 - 13:54.5] Okay.
+[13:54.5 - 14:04.7] So now, so what, what's happening is if you look at the top part, see how it has 636512806, and then you go through,
+[14:04.7 - 14:12.3] and then the bottom now is being allocated between 15, 27, 15, 27, 15, right?
+[14:12.3 - 14:18.3] What I don't understand is, is that there is no five-year...
+[14:18.3 - 14:21.1] Well, first of all, this should be five-year property.
+[14:21.1 - 14:23.3] That's where you get the biggest bang for your buck.
+[14:23.3 - 14:24.3] Oh, okay.
+[14:24.3 - 14:32.1] So I don't understand why there's no five-year property in this, in the, the new part- Interesting ...
+[14:32.1 - 14:34.3] to what they're do- Okay Right?
+[14:34.3 - 14:40.2] So we need to go back to them and go, "Well, wait a second." The whole point of taking five year...
+[14:40.2 - 14:47.4] You know, they're, what they're doing is they're taking $108,000 of five-year property that we've already done.
+[14:47.4 - 14:47.9] Okay.
+[14:47.9 - 14:55.4] And they're, and they're dep- and they're, and they're allocating it between 15 and 27-year property- Oh ...
+[14:55.4 - 14:56.3] which is longer.
+[14:56.3 - 14:57.1] Oh.
+[14:57.1 - 14:58.7] I don't get that, right?
+[14:58.7 - 14:59.2] Interesting.
+[14:59.2 - 15:05.1] Sec- second thing that's happening is that when you go, you go to your report- Mm-hmm ...
+[15:05.1 - 15:05.4] right?
+[15:05.4 - 15:15.5] So if you look at the report that I have, see you have the very top, which you have, uh, 40747421384,
+[15:15.5 - 15:16.3] right?
+[15:16.3 - 15:17.0] Where is that?
+[15:17.0 - 15:18.2] 696.
+[15:18.2 - 15:19.9] Um- It's at the very...
+[15:19.9 - 15:23.0] It's in r- it's in, it's in column AE.
+[15:23.0 - 15:25.2] Okay.
+[15:25.2 - 15:26.9] AE.
+[15:26.9 - 15:29.8] It, it can't be in AE.
+[15:29.8 - 15:32.8] AE- Your AE is a, is a column.
+[15:32.8 - 15:33.7] Oh, oh, okay.
+[15:33.7 - 15:34.4] Way over here.
+[15:34.4 - 15:35.4] Yeah.
+[15:35.4 - 15:36.3] All the way to the end.
+[15:36.3 - 15:36.9] Oh, I see.
+[15:36.9 - 15:37.2] I see.
+[15:37.2 - 15:37.6] Yes.
+[15:37.6 - 15:39.3] So A...
+[15:39.3 - 15:41.8] So we have building, we have...
+[15:41.8 - 15:42.7] Right?
+[15:42.7 - 15:42.9] Yes.
+[15:42.9 - 15:53.0] So now what happens is that what they're doing is they're, they're allocating back to the building, the acquisition,
+[15:53.0 - 15:53.2] and it...
+[15:53.2 - 16:04.0] and all they're doing is they're, they're taking away, and they're putting more in 15-year, which is site, which I don't understand their, their, their, their
+[16:04.0 - 16:05.7] methodology.
+[16:05.7 - 16:11.2] And they're, and they're taking, like, if you look at one, that equals the top 4074.
+[16:11.2 - 16:13.0] If you take the next...
+[16:13.0 - 16:15.0] If you, if you go down where it says...
+[16:15.0 - 16:19.1] The, the first bit is what we had, right, on the tax return.
+[16:19.1 - 16:19.2] Yeah.
+[16:19.2 - 16:21.9] 40745, you know.
+[16:21.9 - 16:24.3] And then if you look at the tax return- I see that.
+[16:24.3 - 16:24.3] Mm.
+[16:24.3 - 16:25.1] For the building- Right ...
+[16:25.1 - 16:25.8] for the building one.
+[16:25.8 - 16:26.4] Mm-hmm.
+[16:26.4 - 16:27.1] Yeah.
+[16:27.1 - 16:27.9] I have...
+[16:27.9 - 16:29.0] They didn't break out...
+[16:29.0 - 16:35.2] I need to break out what the depreciation is for that.
+[16:35.2 - 16:36.3] I see.
+[16:36.3 - 16:37.5] Right?
+[16:37.5 - 16:37.9] Mm-hmm.
+[16:37.9 - 16:38.4] What...
+[16:38.4 - 16:44.5] How much depreciation we took for the 40747421384 and 696.
+[16:44.5 - 16:44.9] Oh.
+[16:44.9 - 16:49.9] Then what I need to do is then go through and put it into new categories- I see ...
+[16:49.9 - 16:53.5] and then add and subtract and make journal entries.
+[16:53.5 - 16:59.1] So, like, for instance, after I'm done, my building is 3,000...
+[16:59.1 - 17:06.0] $3,771,000 if I take, you know, the building, all the 27 and a half year property.
+[17:06.0 - 17:06.6] I see.
+[17:06.6 - 17:07.0] Right?
+[17:07.0 - 17:07.6] Mm-hmm.
+[17:07.6 - 17:09.6] And where it was 4074.
+[17:09.6 - 17:14.0] But I also have to take all the depreciation associated with that- ...
+[17:14.0 - 17:16.1] 3,771.
+[17:16.1 - 17:20.5] So if you look at the 2263, it's a total.
+[17:20.5 - 17:27.4] I need it broken down, the 2263, like the top one.
+[17:27.4 - 17:29.7] You know, like what was on the tax return.
+[17:29.7 - 17:30.2] Ah, okay.
+[17:30.2 - 17:40.2] Then I need the after cost broken down how it, how it is on the underlying schedules in the same manner that it's
+[17:40.2 - 17:44.1] one five three, you know, is a nine, right?
+[17:44.1 - 17:51.1] The 2468 that equates to the 5,162, that goes back to the reports.
+[17:51.1 - 17:56.8] So how much depreciation was on the 5162 per the reports?
+[17:56.8 - 17:58.5] Like for instance- Oh, I see ...
+[17:58.5 - 17:59.4] if you look at...
+[17:59.4 - 18:05.7] If you go back to the first column, which is building one- Right?
+[18:05.7 - 18:06.1] Mm-hmm.
+[18:06.1 - 18:16.3] I should have the before cost, 353546, I have four, four columns that add up to that 353546,
+[18:16.4 - 18:16.6] right?
+[18:16.6 - 18:17.0] I see.
+[18:17.0 - 18:20.5] For building one, building five, building three, building four.
+[18:20.5 - 18:26.1] And then after, I come up with 433789.
+[18:26.1 - 18:31.5] I have one, two, three, four, five, six, seven, eight- Okay.
+[18:31.5 - 18:32.0] You know.
+[18:32.0 - 18:32.5] Yes.
+[18:32.5 - 18:36.1] You know, for the cost seg, it m- adds up to the 433.
+[18:36.1 - 18:46.1] And the reason I have to do that is I have to actually make entries for the assets and the depre- accumulated depreciation-
+[18:46.1 - 18:46.5] Oh ...
+[18:46.5 - 18:51.9] on the trial balance and the tax return to show the differences on each component.
+[18:51.9 - 18:52.8] I see.
+[18:52.8 - 18:59.4] And I still don't understand why there's no, why there's no five-year property- Yeah ...
+[18:59.4 - 19:00.0] on any of this.
+[19:00.0 - 19:00.9] That's interesting.
+[19:00.9 - 19:01.2] Right?
+[19:01.2 - 19:04.7] Yeah, if that's your sweet spot, it should be there for sure.
+[19:04.7 - 19:05.0] Right.
+[19:05.0 - 19:12.4] But if you look on the right side, they have five-year property on the next...
+[19:12.4 - 19:15.3] If you go to Clubhouse- On what page?
+[19:15.3 - 19:18.4] Oh, here's sign.
+[19:18.4 - 19:20.3] It's on page 22.
+[19:20.3 - 19:21.7] Oh, yes.
+[19:21.7 - 19:22.2] Here it is.
+[19:22.2 - 19:23.9] Oh.
+[19:23.9 - 19:26.5] Yeah, they did it, they did it there.
+[19:26.5 - 19:29.8] Five-year, five-year, five-year.
+[19:29.8 - 19:30.4] Was it...
+[19:30.4 - 19:31.4] What was their reasoning?
+[19:31.4 - 19:32.7] Did anybody figure that out?
+[19:32.7 - 19:35.3] No, I mean, I d- I, I, I don't even know.
+[19:35.3 - 19:40.1] But, but they did u- but, but your, your, your analysis doesn't have that.
+[19:40.1 - 19:42.3] Hmm, you're right.
+[19:42.3 - 19:45.5] Um- It only has, it has 15 years.
+[19:45.5 - 19:46.3] Well- So I looked at- ...
+[19:46.3 - 19:50.5] yeah, I mean, I was going off of a different segregation report, so.
+[19:50.5 - 19:51.5] I mean, maybe, maybe they changed it.
+[19:51.5 - 19:51.9] I can...
+[19:51.9 - 19:52.2] Yeah.
+[19:52.2 - 19:54.4] I don't know what they- I mean- This is a new report.
+[19:54.4 - 19:56.0] I didn't look at the old report.
+[19:56.0 - 19:58.7] I'm just looking at yours and the new report.
+[19:58.7 - 20:03.5] Yeah, I mean, I can drop this new file into it and have it update it based off this information.
+[20:03.5 - 20:04.7] Yeah, yeah.
+[20:04.7 - 20:06.4] Um, do you...
+[20:06.4 - 20:10.5] Did you send the example Grove Park one again to my Gmail?
+[20:10.5 - 20:13.9] I didn't, but I can.
+[20:13.9 - 20:24.9] That'd be great, so I can kind of get- But it, but it really has to be that we need the, we need the same detail for the acquisition that goes back
+[20:24.9 - 20:25.8] to those reports.
+[20:25.8 - 20:26.2] I think...
+[20:26.2 - 20:27.7] See, I think part of it...
+[20:27.7 - 20:31.4] And then I need the same detail for all the depreciation- Mm ...
+[20:31.4 - 20:35.2] that goes to the report that ties in in the same detail.
+[20:35.2 - 20:36.1] Okay.
+[20:36.1 - 20:37.9] Okay.
+[20:37.9 - 20:38.0] I see.
+[20:38.0 - 20:40.5] And maybe what we should do is just do one at a time.
+[20:40.5 - 20:41.2] Maybe.
+[20:41.2 - 20:41.5] Right?
+[20:41.5 - 20:41.9] Yeah.
+[20:41.9 - 20:45.1] Instead of doing, instead of doing- Just see if I can get- ...
+[20:45.1 - 20:46.0] instead of doing, uh- ...
+[20:46.0 - 20:46.8] break, break this down ...
+[20:46.8 - 20:47.9] all of them and- Yeah.
+[20:47.9 - 20:48.2] Yeah.
+[20:48.2 - 20:50.1] Yeah, that makes more sense.
+[20:50.1 - 20:52.8] And I'll send you Grove.
+[20:52.8 - 20:55.2] As kind of an example to go off of?
+[20:55.2 - 20:56.5] Yeah.
+[20:56.5 - 20:56.8] Yeah.
+[20:56.8 - 20:57.4] That'd be great.
+[20:57.4 - 20:58.2] And I...
+[20:58.2 - 21:04.0] And, and that was the first one I did, and so I had to go and, um...
+[21:04.0 - 21:12.9] See, what you see on, on this one- ...
+[21:12.9 - 21:20.0] is you'll see a lot of my, my work paper schedules to, to, on how I came up with numbers.
+[21:20.0 - 21:20.5] Oh, good.
+[21:20.5 - 21:22.0] Right.
+[21:22.0 - 21:23.0] So you showed your work.
+[21:23.0 - 21:24.5] And, um...
+[21:24.5 - 21:25.1] Yeah.
+[21:25.1 - 21:25.9] That will be helpful.
+[21:25.9 - 21:28.0] Let me just send it to you.
+[21:28.0 - 21:29.9] Okay.
+[21:29.9 - 21:32.2] Received.
+[21:32.2 - 21:38.4] Okay.
+[21:38.4 - 21:40.0] Okay.
+[21:40.0 - 21:41.1] I have that open now.
+[21:41.1 - 21:50.6] So I have one, I have one column, I have one tab which is the summary, and what I did was the- The total cost tab?
+[21:50.6 - 21:51.6] Right.
+[21:51.6 - 21:54.6] So I have a total cost and any depreciation.
+[21:54.6 - 21:54.8] Mm-hmm.
+[21:54.8 - 22:00.1] And then I had to break it down by five year, 15 year, 27 and five year.
+[22:00.1 - 22:00.5] Oh, I see.
+[22:00.5 - 22:01.8] And then make journal entries.
+[22:01.8 - 22:07.3] So what I had to do is equate what I had to 18 for...
+[22:07.3 - 22:10.1] Like for instance, my building was 218...
+[22:10.1 - 22:13.6] was, was 242, and then afterwards- Uh-huh ...
+[22:13.6 - 22:14.0] it was 218.
+[22:14.0 - 22:14.6] 242, 218.
+[22:14.6 - 22:18.6] Oh, yes.
+[22:18.6 - 22:18.8] Right?
+[22:18.8 - 22:19.7] And that- Down here, yeah ...
+[22:19.7 - 22:22.6] if you look at AC- In AC 32 ...
+[22:22.6 - 22:22.9] each of AC.
+[22:22.9 - 22:23.2] AC 32, yeah.
+[22:23.2 - 22:24.1] That was at...
+[22:24.1 - 22:26.2] My reports all tied.
+[22:26.2 - 22:28.3] So what I did is I took the...
+[22:28.3 - 22:30.3] and put it into columns- Mm ...
+[22:30.3 - 22:32.7] so that I could go back and equate.
+[22:32.7 - 22:34.1] And then I had, I...
+[22:34.1 - 22:39.5] Then I had one building that was placed in service after, and I had to do another...
+[22:39.5 - 22:42.9] And then I had Texas, when it had a different depreciation method.
+[22:42.9 - 22:43.6] So- I see ...
+[22:43.6 - 22:45.2] it was a killer to do.
+[22:45.2 - 22:45.9] Yeah.
+[22:45.9 - 22:48.0] I see your breakdowns at the bottom.
+[22:48.0 - 22:49.6] That's where I was kind of going from.
+[22:49.6 - 22:50.4] Okay.
+[22:50.4 - 22:50.8] Yeah.
+[22:50.8 - 22:59.0] And so 721 has a different depreciation than the 10-30-20 because they're different assets.
+[22:59.0 - 23:00.1] 721.
+[23:00.1 - 23:00.7] Where?
+[23:00.7 - 23:01.6] Yeah.
+[23:01.6 - 23:04.0] See on the left side, acquisition dates?
+[23:04.0 - 23:05.4] Oh, okay.
+[23:05.4 - 23:06.7] Yeah.
+[23:06.7 - 23:08.1] 7121, okay.
+[23:08.1 - 23:09.7] Yeah.
+[23:09.7 - 23:13.3] That's why I did colors, so I could equate which ones went to what.
+[23:13.3 - 23:13.7] Oh, yeah.
+[23:13.7 - 23:17.1] And then I had the depreciation on the...
+[23:17.1 - 23:18.3] So, so we had...
+[23:18.3 - 23:22.9] If you, if you go in and expand, right?
+[23:22.9 - 23:23.5] Mm-hmm.
+[23:23.5 - 23:26.6] Just unhide, right?
+[23:26.6 - 23:33.0] And it has the land, building, and then I have the depreciation for...
+[23:33.0 - 23:37.1] I was able to get the depreciation off of the sites, off of...
+[23:37.1 - 23:45.7] But, but, but it's a little harder when you have the, uh, you know, the, uh- And which one are you unhiding?
+[23:45.7 - 23:47.1] I'm, I missed that.
+[23:47.1 - 23:48.9] If you...
+[23:48.9 - 23:52.0] I have columns A through...
+[23:52.0 - 23:58.9] I, what I did is I hid columns F through N so that there's less.
+[23:58.9 - 23:59.9] Oh, I see
+[24:00.0 - 24:00.2] Do that.
+[24:00.2 - 24:00.9] Okay.
+[24:00.9 - 24:03.2] I just, I just hid it- Yeah, okay ...
+[24:03.2 - 24:06.1] so it was easier, yeah, to see.
+[24:06.1 - 24:06.4] Right?
+[24:06.4 - 24:06.8] Okay.
+[24:06.8 - 24:08.1] Just do unhide.
+[24:08.1 - 24:08.5] Yeah.
+[24:08.5 - 24:10.2] Hmm.
+[24:10.2 - 24:13.1] But, but I, I need...
+[24:13.1 - 24:21.1] But, but ultimately what I need you to do is I need you to break down the, the- Buildings?
+[24:21.1 - 24:21.1] ...
+[24:21.1 - 24:21.8] column.
+[24:21.8 - 24:22.3] Okay.
+[24:22.3 - 24:30.7] I need, I need to know the de- First of all, you need to fix your schedule to agree with those, with the new updated- Correct ...
+[24:30.7 - 24:31.0] report.
+[24:31.0 - 24:31.6] Yes.
+[24:31.6 - 24:32.1] Right?
+[24:32.1 - 24:32.6] Mm-hmm.
+[24:32.6 - 24:34.0] And I would just do Grace.
+[24:34.0 - 24:36.2] Let's just do Grace- Okay ...
+[24:36.2 - 24:38.5] and not worry about the other ones first.
+[24:38.5 - 24:39.7] Okay.
+[24:39.7 - 24:40.7] I can do that.
+[24:40.7 - 24:42.1] Okay.
+[24:42.1 - 24:43.9] And then, and then what we'll do is...
+[24:43.9 - 24:54.5] And I need you to expand the depreciation, so we have a depreciation schedule that shows what happened on depreciation.
+[24:54.5 - 24:55.2] Okay.
+[24:55.2 - 24:55.9] Right?
+[24:55.9 - 24:57.2] Um, for their report.
+[24:57.2 - 24:59.2] So I can tie it back into...
+[24:59.2 - 25:03.2] 'Cause I have to make journal entries of the differences by asset class.
+[25:03.2 - 25:13.4] In each asset class, what they're doing is they're moving, they're moving assets from one class to another class within
+[25:13.4 - 25:14.6] different categories.
+[25:14.6 - 25:19.8] So let's say they're taking building, and they're taking some of the building and moving it to land improvement and equipment.
+[25:19.8 - 25:20.1] Oh.
+[25:20.1 - 25:23.9] And then they're taking some land improvement and moving it to building- Oh, gosh ...
+[25:23.9 - 25:24.4] and equipment.
+[25:24.4 - 25:28.6] And they're taking equipment, and they're moving it to b- Which I don't understand.
+[25:28.6 - 25:29.0] Oh, man.
+[25:29.0 - 25:30.0] That's confusing.
+[25:30.0 - 25:30.3] Right?
+[25:30.3 - 25:30.8] Why...
+[25:30.8 - 25:32.6] The way they're doing it is insane.
+[25:32.6 - 25:35.4] It's not consistent, I'll say that.
+[25:35.4 - 25:36.0] No.
+[25:36.0 - 25:36.6] No.
+[25:36.6 - 25:40.3] But I have to, but I have to work with what I work with.
+[25:40.3 - 25:40.8] Yep.
+[25:40.8 - 25:41.6] Okay.
+[25:41.6 - 25:44.2] Well, I will work with what I have.
+[25:44.2 - 25:52.4] Most of these cost seg people that I work with, what they do is they say, "Okay, land, the building was $4 million.
+[25:52.4 - 25:54.9] It's now three million seven.
+[25:54.9 - 25:57.3] The depreciation for- It's $300,000 ...
+[25:57.3 - 26:00.9] the building was, you know, was $400,000.
+[26:00.9 - 26:05.2] Now it's 380." "So there's an adjustment of X.
+[26:05.2 - 26:08.8] Then land improvement was X." Yeah.
+[26:08.8 - 26:10.0] "And, you know, was X.
+[26:10.0 - 26:12.3] You know, now it's Y." Hmm.
+[26:12.3 - 26:17.8] "And, and depreciation was X, and, and now it's Y, and there's a difference.
+[26:17.8 - 26:22.6] And then equipment was X, and now it's Y." And I get three numbers.
+[26:22.6 - 26:22.8] Okay.
+[26:22.8 - 26:25.4] Or I would get four numbers in this case- Wow ...
+[26:25.4 - 26:26.7] on a s- on a summary.
+[26:26.7 - 26:29.9] That's what every cost seg guy that I work with does.
+[26:29.9 - 26:30.8] Okay.
+[26:30.8 - 26:33.9] Well, that sounds- I don't get, I don't get this big, long, long- Yeah ...
+[26:33.9 - 26:34.1] long report.
+[26:34.1 - 26:36.1] That sounds much more easy to follow.
+[26:36.1 - 26:37.5] Yeah.
+[26:37.5 - 26:38.1] Yeah.
+[26:38.1 - 26:40.1] Well, yeah.
+[26:40.1 - 26:41.7] Okay.
+[26:41.7 - 26:43.4] So- Well- Okay ...
+[26:43.4 - 26:44.4] I'll work on Grace.
+[26:44.4 - 26:45.9] Well, you try it and then send it to me.
+[26:45.9 - 26:46.8] Okay.
+[26:46.8 - 26:48.3] They're, they're, they're chomping...
+[26:48.3 - 26:51.4] I'm getting so much pressure to get this one out.
+[26:51.4 - 26:52.3] Okay.
+[26:52.3 - 26:53.5] I'll do what I can- Because, uh- ...
+[26:53.5 - 26:54.0] to get it done ...
+[26:54.0 - 26:57.6] there's a nonprofit that gets a K-1- Uh-huh ...
+[26:57.6 - 26:59.6] and they're going crazy asking for it.
+[26:59.6 - 27:00.3] Oh, I bet.
+[27:00.3 - 27:01.8] Okay.
+[27:01.8 - 27:03.7] So- Well, I will see- Okay ...
+[27:03.7 - 27:04.2] what I can do.
+[27:04.2 - 27:05.4] Okay.
+[27:05.4 - 27:05.8] All right.
+[27:05.8 - 27:06.5] Thanks, Jeff.
+[27:06.5 - 27:07.5] Thanks, Brandon.
+[27:07.5 - 27:07.8] Bye-bye.
+[27:07.8 - 27:08.0] Okay.
+[27:08.0 - 27:09.1] Bye.
+[27:09.1 - 27:13.2] Okay.
+[27:13.2 - 27:15.6] This is gonna be fun.
+[27:15.6 - 28:06.7] Okay.
+[28:06.7 - 28:14.0] And there's growth.
+[28:14.0 - 28:35.9] Oh,
+[28:35.9 - 28:36.1] no.
+[28:36.1 - 29:50.3] Oh,
+[29:50.3 - 29:50.7] no.
+[29:50.7 - 30:52.7] This
+[30:52.7 - 30:59.5] one will work out.
+[30:59.5 - 32:21.0] How
+[32:21.0 - 32:29.1] would you buy it?
+[32:29.1 - 32:30.5] What, two years ago.
+[32:30.5 - 32:31.5] Holy shit.
+[32:31.5 - 32:36.6] Are you almost done with that project?
+[32:36.6 - 32:38.3] I finished that one earlier.
+[32:38.3 - 32:39.2] What are you working on now?
+[32:39.2 - 32:42.9] Um, the accountant called and needed help with the cost segregation.
+[32:42.9 - 32:43.4] Okay, good.
+[32:43.4 - 32:44.6] When do you think you'll be done with that?
+[32:44.6 - 32:46.2] I'm doing Grace right now.
+[32:46.2 - 32:50.3] Maybe the next 20 minutes, I'll have that one done, then we're gonna move- No, when will you be done with all of them?
+[32:50.3 - 32:52.3] All of the buildings?
+[32:52.3 - 32:52.7] Yeah.
+[32:52.7 - 32:55.5] Oh, maybe, maybe at the end of the day.
+[32:55.5 - 32:56.1] Okay.
+[32:56.1 - 32:56.6] Yeah.
+[32:56.6 - 33:00.6] I just don't wanna bother you when you're working on the cost seg 'cause that does need to be done.
+[33:00.6 - 33:02.2] How long are you gonna be there in July?
+[33:02.2 - 33:03.5] A couple days.
+[33:03.5 - 33:04.0] Okay.
+[33:04.0 - 33:04.6] Five days.
+[33:04.6 - 33:05.5] When do you wanna look?
+[33:05.5 - 33:08.1] I don't know.
+[33:08.1 - 33:09.4] Probably the next time you go.
+[33:09.4 - 33:10.5] Yeah, no, I'm gonna do it.
+[33:10.5 - 33:11.5] I'll do it that week.
+[33:11.5 - 33:12.4] All right.
+[33:12.4 - 33:13.6] I have nothing else to do, so.
+[33:13.6 - 33:13.8] All right.
+[33:13.8 - 33:15.6] Sebastian and I will text you and figure out when to meet.
+[33:15.6 - 33:16.7] Seb will text.
+[33:16.7 - 33:18.0] What about you?
+[33:18.0 - 33:20.2] I'm gonna be there.
+[33:20.2 - 33:22.6] What if something happens and we're- Oh, that's good.
+[33:22.6 - 33:23.7] Sebastian and I will run it together.
+[33:23.7 - 33:26.1] Sebastian and I will do it together.
+[33:26.1 - 33:27.8] Mike.
+[33:27.8 - 33:30.4] Yeah, Mike.
+[33:30.4 - 33:30.6] He lives here.
+[33:30.6 - 33:31.6] Yeah, he's out there, so it's easier.
+[33:31.6 - 33:39.2] So if we get you a text, you can cancel that.
+[33:39.2 - 33:40.7] All right.
+[33:40.7 - 33:45.7] Well, thanks a lot, Mike.
+[33:45.7 - 33:45.7] Yeah.
+[33:45.7 - 33:54.4] See you in portal.
+[33:54.4 - 34:03.1] I'm gonna head out.
+[34:03.1 - 34:03.1] Okay.
+[34:03.1 - 34:03.7] Y'all out of here?
+[34:03.7 - 34:04.5] Yes, sir.
+[34:04.5 - 35:12.7] I,
+[35:12.7 - 35:13.2] um...
+[35:13.2 - 35:16.1] I never got my link.
+[35:16.1 - 35:33.2] Can
+[35:33.2 - 35:41.5] you email it to me?
+[35:41.5 - 35:48.7] That dude closed the door.
+[35:48.7 - 35:53.7] I was like, "Oh, you locked me out." And he's like, "Oh, my bad." I was like, I'm just- Way to go.
+[35:53.7 - 35:55.0] I'm just fucking...
+[35:55.0 - 35:57.1] I'm just trying.
+[35:57.1 - 35:58.3] It's an easy target.
+[35:58.3 - 35:59.6] Yeah.
+[37:29.7 - 37:30.5] Hey, Brandon.
+[37:30.5 - 37:31.3] Hey, Kimberly.
+[37:31.3 - 37:31.8] How are you?
+[37:31.8 - 37:33.6] I'm good.
+[37:33.6 - 37:34.3] How are you?
+[37:34.3 - 37:35.4] I'm doing well.
+[37:35.4 - 37:45.5] Hey, I was gonna give you a call because I went in to do a test on inputting your ask rent, and I practiced it on thirteen oh two York,
+[37:45.5 - 37:48.0] and I put in twelve hundred and hit save, and it worked.
+[37:48.0 - 37:55.4] So- Well, I've been trying to put eight thirty-four, which is the, the correct amount, and it won't save it.
+[37:55.4 - 37:57.1] Okay, let me try eight thirty-four.
+[37:57.1 - 37:59.6] Save.
+[37:59.6 - 38:02.2] Let me go down.
+[38:02.2 - 38:04.5] Yeah, it saved it for me.
+[38:04.5 - 38:05.5] That's very strange.
+[38:05.5 - 38:07.1] Okay.
+[38:07.1 - 38:08.4] Well, it wouldn't let me do it.
+[38:08.4 - 38:10.1] I tried it multiple times- Oh.
+[38:10.1 - 38:12.9] -and then I finally said, "I gotta let him know that it's not letting me do it." Oh.
+[38:12.9 - 38:14.6] What's your seventeen oh one?
+[38:14.6 - 38:18.2] That is, uh, eight thirty-four as well.
+[38:18.2 - 38:20.8] And one more I think.
+[38:20.8 - 38:23.1] Let's see.
+[38:23.1 - 38:26.5] Uh, nine oh two wind.
+[38:26.5 - 38:29.0] That's, uh, eight thirty-four.
+[38:29.0 - 38:30.1] Okay.
+[38:30.1 - 38:32.3] Let's make sure there's not any more.
+[38:32.3 - 38:33.2] That's for York.
+[38:33.2 - 38:34.2] That's all for York.
+[38:34.2 - 38:38.0] Um, okay.
+[38:38.0 - 38:38.1] Okay.
+[38:38.1 - 38:40.9] Looks all good.
+[38:40.9 - 38:41.9] All good.
+[38:41.9 - 38:47.2] And then what other buildings?
+[38:47.2 - 38:53.2] I do have a one-bedroom, ten oh two Windsor, and it's seven oh two.
+[38:53.2 - 38:55.4] Okay, let me see here.
+[38:55.4 - 38:58.5] Um, what number was that again?
+[38:58.5 - 38:59.4] I'll just jot it down.
+[38:59.4 - 39:01.5] Ten oh two.
+[39:01.5 - 39:02.6] Ten oh two.
+[39:02.6 - 39:05.6] And the price ask rent?
+[39:05.6 - 39:08.0] It's seven oh two.
+[39:08.0 - 39:08.8] Okay.
+[39:08.8 - 39:11.6] And all your other ones are probably good.
+[39:11.6 - 39:14.8] Let me double-check that with my file here.
+[39:14.8 - 39:17.4] Um.
+[39:17.4 - 39:23.9] Okay.
+[39:23.9 - 39:29.8] So I had Windsor.
+[39:29.8 - 39:35.4] Yeah, I just had those three to fix, the nine oh two, thirteen oh two, and seventeen oh one.
+[39:35.4 - 39:37.7] Um- Okay.
+[39:37.7 - 39:40.1] And then I have Arbor Crest, Jefferson.
+[39:40.1 - 39:43.8] Those aren't you, so yep, I think we're all good.
+[39:43.8 - 39:45.3] Okay.
+[39:45.3 - 39:45.8] Okay.
+[39:45.8 - 39:46.6] Thank you.
+[39:46.6 - 39:46.6] Thank you.
+[39:46.6 - 39:47.3] You have a good one.
+[39:47.3 - 39:48.5] You too.
+[39:48.5 - 39:48.5] Bye.
+[39:48.5 - 39:48.8] Okay.
+[39:48.8 - 39:49.2] Bye bye.
+[39:49.2 - 42:10.0] Some
+[42:10.0 - 42:16.6] deals do a lot better than other deals, but thankfully we've done things that are profitable.
+[42:16.6 - 42:21.2] But on this new deal, new deals have a lot of problems with them.
+[42:21.2 - 42:28.0] And, um, I had two deals that we didn't do very well on, and I'm kind of stuck with right now.
+[42:28.0 - 42:34.5] Um, one of them I paid three hundred thousand dollars for, and, um, I put a hundred and fifty into another thing.
+[42:34.5 - 42:39.9] But, and we just put in something like seventy or eighty thousand dollars.
+[42:39.9 - 42:44.8] And we're looking at seventy thousand dollars maximum maybe out of this deal.
+[42:44.8 - 42:51.4] And we had another deal where, um, it never recovered from COVID.
+[42:51.4 - 42:57.2] It was worth two million dollars, and we just closed that for one.
+[42:57.2 - 43:03.8] It just-- they never get tenants to, um, fill the, uh, the building.
+[43:03.8 - 43:04.9] So we still made a profit on it.
+[43:04.9 - 43:09.7] These are operating, uh, uh, operating businesses that I'm buying.
+[43:09.7 - 43:12.0] In this fund, we're looking for twenty properties.
+[43:12.0 - 43:15.6] We'll have a minimum of a twelve-unit.
+[43:15.6 - 43:22.1] And what we're doing is, is basically building another and renegotiating the way that we get the tenants.
+[43:22.1 - 43:22.8] Okay.
+[43:22.8 - 43:33.1] So the-- if we were to buy a deal that wasn't doing so well, it'd be-- we would just sell it for what we could get based on market prices, you know, daily market, and, uh, move on to the next
+[43:33.1 - 43:35.7] deal we have.
+[43:35.7 - 43:36.8] Hundreds.
+[43:36.8 - 43:40.5] Uh, they owe hundreds of million dollars.
+[43:40.5 - 43:42.8] This is also a pretty good .
+[43:42.8 - 43:50.9] So we're, we're in a, we're in a rent arbitrage business.
+[43:50.9 - 43:56.0] So basically we take a property, buy it.
+[43:56.0 - 43:58.2] Lots of embellishments going on back there.
+[43:58.2 - 44:00.1] Lots.
+[44:00.1 - 44:03.6] Lots.
+[44:03.6 - 44:07.1] Like five to six thousand units he manages.
+[44:07.1 - 44:09.3] Total of sixteen thousand.
+[44:09.3 - 44:11.3] It changes all the time.
+[44:11.3 - 44:19.6] Because we have negotiated where we're gonna be in a rental environment before hand.
+[44:19.6 - 44:25.6] There were things that had happened that would cause a deal to take a lot longer to make a profit than others.
+[44:25.6 - 44:32.0] And some deals, most of them do a lot better at the beginning of the deal, um, at the beginning.
+[44:32.0 - 44:35.8] I'll give you an example of something that I know about.
+[44:35.8 - 44:39.7] How I'm gonna lose money is, um, like I always do.
+[44:39.7 - 44:44.0] Um, we bought a deal about four years ago in St.
+[44:44.0 - 44:48.3] Charles, Missouri, we had a, um, a building that was never renovated.
+[44:48.3 - 44:50.0] It was not habitable.
+[44:50.0 - 44:53.3] You need defense on this?
+[44:53.3 - 44:53.7] Huh?
+[44:53.7 - 44:54.4] You said what?
+[44:54.4 - 44:55.6] You need defense?
+[44:55.6 - 44:56.3] I know.
+[44:56.3 - 44:56.7] Fuck.
+[44:56.7 - 44:58.9] Well, I don't, I don't see it anywhere here.
+[44:58.9 - 45:04.7] Here are some of the things that can happen.
+[45:04.7 - 45:05.5] You can have a building that you can't have.
+[45:05.5 - 45:05.5] You have a building with mold or some issues like that.
+[45:05.5 - 45:14.4] And, um, so this building was built in nineteen seventy-two, and now the, all the investors have made money.
+[45:14.4 - 45:19.9] We lost some money because it was rented by our property management company and they didn't maintain it, and it's old and it sinks.
+[45:19.9 - 45:22.2] So the investors did really well.
+[45:22.2 - 45:24.7] I had to be the one to hack through.
+[45:24.7 - 45:30.2] Investors didn't see that the cancel features literally broke, uh, foundation problems.
+[45:30.2 - 45:38.3] But if that we-- uh, if that happened, that, you know, that's why you go into-- you're not investing in a building, you're investing in somebody's ability.
+[45:38.3 - 45:40.5] But those are the, those are the things that will stop you.
+[45:40.5 - 45:43.3] You have a bad situation.
+[45:43.3 - 45:45.5] So you keep-- uh, we can avoid the laundry room fire.
+[45:45.5 - 45:49.7] Just so you know, our best five years, I've lost five buildings.
+[45:49.7 - 45:50.4] The worst are okay.
+[45:50.4 - 45:50.4] One's on fire.
+[45:50.4 - 45:56.4] It's either the-- it's either the operator that wasn't happy with the property.
+[45:56.4 - 46:06.4] You do have this time limit where if you can't get a renter in a year or two, you know, and then when you're talking about a property that you're building, basically if you look
+[46:06.4 - 46:16.5] at the end result is that it comes out to be about two hundred and fifty thousand dollars, which is significant when if I told you I can give you a brand-new building from
+[46:16.5 - 46:26.5] nineteen seventy for two hundred and fifty thousand dollars, you'd say, "Take me to it." So, uh, it-- of all the people that I've, um, acquired deals that I've
+[46:26.5 - 46:30.9] had to rebuild, we've made absolute fortunes because the buildings are worth more than they were before.
+[46:30.9 - 46:34.8] We had a building that, um, four years ago burned down.
+[46:34.8 - 46:37.3] It was built in nineteen ninety with Sanders.
+[46:37.3 - 46:39.3] And so it was a place that had an operation.
+[46:39.3 - 46:41.0] That's gone.
+[46:41.0 - 46:42.4] Let's talk about how we made money.
+[46:42.4 - 46:52.3] Well, it, it doesn't work.
+[46:52.3 - 46:58.6] Okay, so there, there's a reason why we do the funds now as opposed to-- we used to basically-- I used to give away all the money.
+[46:58.6 - 47:08.6] Then I would call up my father's friends and say, "How much money are you gonna put in?" And then raise more money in about twenty minutes than you call it a day.
+[47:08.6 - 47:10.7] I did that for twenty-five years.
+[47:10.7 - 47:16.3] One of the investors that invested with me through the IX ninety-two down.
+[47:16.3 - 47:22.9] Another problem I have is that most of my investors are, uh, over eighty.
+[47:22.9 - 47:28.2] And the reality is, is in the next three to four years, a lot of people won't be here.
+[47:28.2 - 47:38.3] So, uh, what changed was that a guy basically who was an investor and he invested in every deal that I've done basically calls me up and I have
+[47:38.3 - 47:48.8] a nephew or a grandson that wants to be in a living network.
+[47:48.8 - 47:50.8] He wants to be part of your network.
+[47:50.8 - 47:59.9] The guy comes in, obviously has spent a lot of time studying, appreciating properties.
+[48:27.6 - 48:33.9] And I have a reason in mind.
+[48:33.9 - 48:35.1] You know what I mean?
+[48:35.1 - 48:41.9] You have my baseline, but it was a lot nicer to go out there and have $350 million in the bank.
+[48:41.9 - 48:46.6] And that way when I would basically show up to any of our holdings, properties...
+[48:46.6 - 48:56.0] You know, I worked just as much with, I explained to the buy-sell that we're gonna go back into properties, so I don't yield because I'm the small guy anymore.
+[48:56.0 - 48:58.6] And the buy-sell had that company saved up afterward.
+[48:58.6 - 49:00.8] So we decided to keep that structure.
+[49:00.8 - 49:10.8] I also think it's a much better, um, structure for the investor, uh, because it forces them to defer the fund, like from my view, where the other deals all
+[49:10.8 - 49:12.7] demanded basically whatever I wanted.
+[49:12.7 - 49:13.7] So a lot of terrible...
+[49:13.7 - 49:17.0] You get them out and they throw up like a big fire sale.
+[49:17.0 - 49:27.3] And, um, it forces people to invest in properties that save money in terms of wholesale versus
+[49:27.3 - 49:27.5] retail.
+[49:27.5 - 49:30.0] So basically it doesn't sound bad.
+[49:30.0 - 49:40.1] So we've done, uh, we've done like a, like almost 1A and 1B and went two
+[49:40.1 - 49:41.0] ways on it.
+[49:41.0 - 49:45.0] Honestly, it's uncomfortable as to why everything went this way.
+[49:45.0 - 49:52.7] I think the reality is that we'll probably try to pull it in- I reset the schedule on that.
+[49:52.7 - 49:53.3] Oh, okay.
+[49:53.3 - 49:55.5] So- So what's the new one?
+[49:55.5 - 50:01.8] Like- It arms every night at 8:00 PM, and it's armed all day over the weekend.
+[50:01.8 - 50:02.6] Oh, okay.
+[50:02.6 - 50:04.4] So just FYI.
+[50:04.4 - 50:09.5] In case I forget something and come back or- Um, just like the, the code is 0502.
+[50:09.5 - 50:09.9] Oh, yeah.
+[50:09.9 - 50:10.2] Okay.
+[50:10.2 - 50:11.0] If you need to get in.
+[50:11.0 - 50:11.8] Perfect.
+[50:11.8 - 50:12.4] I can also...
+[50:12.4 - 50:15.2] We can create you an account, um- Oh ...
+[50:15.2 - 50:17.9] and it can just be your- Whatever I want it to be.
+[50:17.9 - 50:18.4] Okay.
+[50:18.4 - 50:19.2] Yeah.
+[50:19.2 - 50:23.7] I just do the four-digit birthday 'cause it's like, well, you can't forget that.
+[50:23.7 - 50:23.9] Forget that.
+[50:23.9 - 50:25.8] Like, that's just not happening.
+[50:25.8 - 50:26.4] You would think.
+[50:26.4 - 50:29.0] Um, so but if- Okay ...
+[50:29.0 - 50:32.3] I, I just give everybody the master code, if you will- Yeah ...
+[50:32.3 - 50:35.3] 'cause it's like- I already got that one memorized, so we'll just stick with that one, yeah.
+[50:35.3 - 50:35.4] What's the point?
+[50:35.4 - 50:35.4] Yeah.
+[50:35.4 - 50:36.8] It becomes like, what's the point?
+[50:36.8 - 50:40.4] It's not like one code lets you do something versus another not.
+[50:40.4 - 50:40.5] Yeah.
+[50:40.5 - 50:43.4] It's like the only thing is if you need, needed to, like...
+[50:43.4 - 50:47.2] I think there's, like, the one restriction on that master code- Uh-huh ...
+[50:47.2 - 50:54.2] that if you needed to do the one thing of, like, if you're trying to add a user straight on there- Oh ...
+[50:54.2 - 50:55.9] or something, you need to use that code.
+[50:55.9 - 50:56.6] Oh, okay.
+[50:56.6 - 50:56.7] Yeah.
+[50:56.7 - 51:01.5] But in terms of, like, if you're doing something and the alarm is going off- That's just the- ...
+[51:01.5 - 51:03.8] the four-digit code, if I made you a profile- Okay ...
+[51:03.8 - 51:06.9] it, or not, it would just be like, that's what that code does.
+[51:06.9 - 51:07.0] Oh.
+[51:07.0 - 51:10.3] It's not like, "Oh, you used the master code." Now everything's broken.
+[51:10.3 - 51:11.7] And it doesn't, like, log who...
+[51:11.7 - 51:14.1] I mean, it does a video anyway, so.
+[51:14.1 - 51:14.7] And then it's...
+[51:14.7 - 51:24.9] My, my other thing is, like, it's maybe not the best practice, but at the end of the day, if you quit or leave or whatever version of leaving happens,
+[51:24.9 - 51:26.4] I disable the key card.
+[51:26.4 - 51:30.1] So, like, having the inside alarm is like, well- Yeah ...
+[51:30.1 - 51:31.2] the key card is disabled.
+[51:31.2 - 51:32.7] Yeah, so you're breaking in.
+[51:32.7 - 51:33.4] You wouldn't be able to get in- Oh, yeah, yeah, yeah.
+[51:33.4 - 51:33.5] ...
+[51:33.5 - 51:35.5] to then use the code anyways.
+[51:35.5 - 51:35.8] Yeah.
+[51:35.8 - 51:35.8] Yeah.
+[51:35.8 - 51:40.9] Like, it's not- And I don't know why somebody would wanna come back after they left, but...
+[51:40.9 - 51:43.0] Very true, too.
+[51:43.0 - 51:45.8] But I'm just saying in terms of, like, what people get worried about.
+[51:45.8 - 51:46.5] Oh, right.
+[51:46.5 - 51:48.0] It's like, well, it, it wouldn't work anyways, so.
+[51:48.0 - 51:49.8] You can't even get in anyways, yeah.
+[51:49.8 - 51:50.6] Yeah.
+[51:50.6 - 51:52.7] So just, uh, something to keep in mind- Okay ...
+[51:52.7 - 51:56.5] 'cause when, if and when you do come over a weekend, it'll just start doing its thing.
+[51:56.5 - 51:56.6] Okay.
+[51:56.6 - 51:58.3] Are we allowed to use the pool on the weekends?
+[51:58.3 - 51:58.5] No?
+[51:58.5 - 52:00.9] He's let Jeremy do it.
+[52:00.9 - 52:02.1] I mean, he doesn't really care.
+[52:02.1 - 52:07.1] It's a matter of if, if it lines up with a time he was coming here, he would- Oh ...
+[52:07.1 - 52:08.3] care and have an issue, right?
+[52:08.3 - 52:08.3] Sure.
+[52:08.3 - 52:08.5] And you...
+[52:08.5 - 52:11.2] It's like that's obviously we're not privy to that.
+[52:11.2 - 52:11.7] Yeah.
+[52:11.7 - 52:13.9] But generally speaking, like, no, we just don't care.
+[52:13.9 - 52:15.2] Maybe just give him a heads-up.
+[52:15.2 - 52:17.3] I, I mean, I was just generally asking, yeah.
+[52:17.3 - 52:17.3] Yeah.
+[52:17.3 - 52:19.7] Well, but we're obviously- It's not much of a pool, so ...
+[52:19.7 - 52:19.9] capable of using it.
+[52:19.9 - 52:20.3] And yeah, I...
+[52:20.3 - 52:24.1] That's my thing is, like, um, well, it's just- It's more of a stick your feet in type of thing, yeah.
+[52:24.1 - 52:25.8] Yeah, just, like, sit in there and cool off.
+[52:25.8 - 52:25.9] Yeah.
+[52:25.9 - 52:27.7] But it's like you wouldn't be able to, like, swim.
+[52:27.7 - 52:30.2] And, like, the furniture's not really, you know.
+[52:30.2 - 52:32.9] Yeah, you wouldn't be able to swim, and this shit is all, like, stained and fucked up.
+[52:32.9 - 52:35.0] There's, there's not, like, cushions or anything, so.
+[52:35.0 - 52:36.4] Well, this shit when I got here...
+[52:36.4 - 52:37.4] This is the thing that's annoying.
+[52:37.4 - 52:44.5] When I got here, these things, the cool messes she has at that first spot, and it's like nothing ever goes wrong with them.
+[52:44.5 - 52:44.8] Uh-huh.
+[52:44.8 - 52:49.8] But here they get, like, sun worn- Oh ...
+[52:49.8 - 52:50.7] and then they rip.
+[52:50.7 - 52:51.6] Right.
+[52:51.6 - 52:51.7] Right, right.
+[52:51.7 - 52:53.5] Like, if they catch on something and you move it, they just, they tear.
+[52:53.5 - 52:54.3] Yeah, they griddle.
+[52:54.3 - 52:54.7] Yeah.
+[52:54.7 - 52:57.3] They're, yeah, it's like paper mache almost.
+[52:57.3 - 52:57.4] Uh-huh.
+[52:57.4 - 52:58.5] Yeah, like cradles them up.
+[52:58.5 - 52:58.9] It's crazy.
+[52:58.9 - 53:02.4] 'Cause, like, sometimes you're literally pulling it over, and it, like...
+[53:02.4 - 53:07.8] You, you go to pull it, like, over, and you stop here and do, like, the tiniest bit of force, right?
+[53:07.8 - 53:07.9] Yeah.
+[53:07.9 - 53:09.5] Like, you literally, it's like that.
+[53:09.5 - 53:09.8] It's like, like...
+[53:09.8 - 53:09.8] Oh.
+[53:09.8 - 53:10.1] And then it...
+[53:10.1 - 53:14.0] And it's like, dude, this is a little over.
+[53:14.0 - 53:14.3] Is this Walmart?
+[53:14.3 - 53:14.4] Yeah.
+[53:14.4 - 53:15.5] Like, this is over.
+[53:15.5 - 53:18.6] But they're Amazon and not shitty, but she insists on it anyways.
+[53:18.6 - 53:21.1] And then she insists on having them.
+[53:21.1 - 53:21.9] Kinda weird thing.
+[53:21.9 - 53:25.5] The funny thing for me is, like, when I got here- Where are they?
+[53:25.5 - 53:29.3] They're just like this, that, those covers and stuff.
+[53:29.3 - 53:30.3] Oh.
+[53:30.3 - 53:32.1] When- I was looking for, like, cushions.
+[53:32.1 - 53:32.8] Oh.
+[53:32.8 - 53:35.0] Well, that's just a, like, a table.
+[53:35.0 - 53:37.3] There are cushions- Oh, on this side.
+[53:37.3 - 53:37.3] Yeah.
+[53:37.3 - 53:38.4] Oh, I see s- I see some.
+[53:38.4 - 53:45.2] But every one of the cushions is totally ruined and stained and stuff, and she insists on covering them still and stuff.
+[53:45.2 - 53:45.6] It's too late now.
+[53:45.6 - 53:46.8] This all...
+[53:46.8 - 53:50.6] Like, that needs to be redone, and we need new outdoor furniture.
+[53:50.6 - 53:50.7] Yeah.
+[53:50.7 - 53:52.4] We're really trying to sell the house.
+[53:52.4 - 53:53.2] Right.
+[53:53.2 - 53:55.1] Like, you need to at least stage it or something.
+[53:55.1 - 53:55.3] Yeah.
+[53:55.3 - 53:56.1] It's gotta be.
+[53:56.1 - 53:56.2] Like, that shit is ruined.
+[53:56.2 - 53:57.2] That's not gonna work.
+[53:57.2 - 54:02.0] That would be like- Even for, like, or just at least for photography purposes ...
+[54:02.0 - 54:02.9] like, yeah, we're doing floors with all this shit.
+[54:02.9 - 54:02.9] Yeah.
+[54:02.9 - 54:04.6] Like, we moved the furniture around.
+[54:04.6 - 54:07.0] Like, all this shit, the flooring needs to be redone.
+[54:07.0 - 54:07.4] Yeah.
+[54:07.4 - 54:07.9] And it's like, I don't know.
+[54:07.9 - 54:10.8] And that whole wiring room and...
+[54:10.8 - 54:11.0] Yeah.
+[54:11.0 - 54:17.8] So it, it just, it's like, well, that's one of the-- But she always is like, "Oh, it rained.
+[54:17.8 - 54:23.5] You have to go in there and shake off the water and cover them." And it's like, Nicole, these have been rained on like twenty different times.
+[54:23.5 - 54:24.4] Yeah, it's too late now.
+[54:24.4 - 54:24.7] Fuck.
+[54:24.7 - 54:25.8] It's already late.
+[54:25.8 - 54:26.3] Too late.
+[54:26.3 - 54:28.0] They're already trashed.
+[54:28.0 - 54:31.4] But I will report to everybody else that the alarm has started to set.
+[54:31.4 - 54:32.3] Alrighty.
+[54:32.3 - 54:36.9] Turn on a dollar that you use by the time you get it.
+[54:36.9 - 54:47.5] My premises on this business is I'm looking for deals where they have a play in the restricted rent and for the FMR rent or the Section
+[54:47.5 - 54:48.3] Eight rent, okay?
+[54:48.3 - 54:55.4] And then I go to the cities, and then I try to negotiate from the city the way you do it, which is lower rent.
+[54:55.4 - 54:57.9] And, um, I get that through appraisal.
+[54:57.9 - 55:00.3] That's another layer too.
+[55:00.3 - 55:08.4] And then, uh, we use statistics to go out there and tell you, not guesswork, but statistics tell you how much the building's worth.
+[55:08.4 - 55:15.3] And how we do that is we look at the average number of turnover for the last three years.
+[55:15.3 - 55:16.8] We have to apply that to what's going on.
+[55:16.8 - 55:27.8] So we know that if you look at all apartment buildings, if you look at ninety-nine percent of them, if twelve people moved out last year, you put out a unit for twelve people
+[55:27.8 - 55:28.6] next year.
+[55:28.6 - 55:36.3] I, I may be off a number twelve, but I'm just saying it's-- whatever that number is, it's the same throughout the history of what people are buying.
+[55:36.3 - 55:45.5] So in case of a deal, if twelve people move out and the rent goes up a hundred and fifty dollars.
+[55:45.5 - 55:49.5] So it was a hundred and fifty times two hundred.
+[55:49.5 - 55:51.4] That's twelve.
+[55:51.4 - 55:53.0] Seven, two, thirty-five, two.
+[55:53.0 - 55:57.2] That's how much money we're gonna make by that three hundred and fifty a month.
+[55:57.2 - 55:58.7] And this is in, like, four years.
+[55:58.7 - 56:02.0] So that's how much it's worth by then.
+[56:02.0 - 56:11.3] So when you're investing, when you're investing with me, okay, I don't go out there and say, "Okay, twelve units equals one hundred thousand." Like Jen or Joe or someone else does.
+[56:11.3 - 56:12.5] We've got to know the statistics to back it up.
+[56:12.5 - 56:13.3] Okay.
+[56:13.3 - 56:18.6] So how do we know if I manage that asset for you for a building that's worth twelve?
+[56:18.6 - 56:20.1] And then we do all those things to multiple the return.
+[56:20.1 - 56:31.4] You know, like we
+[56:31.4 - 56:41.9] kind of have it in stages where
+[56:41.9 - 56:43.9] we have to do this.
+[56:43.9 - 56:44.8] So, uh, I'm gonna share with you some numbers.
+[56:44.8 - 56:45.3] I'm gonna share with you a couple buildings.
+[56:45.3 - 56:50.8] You can name one you want, and we're gonna see how well the deal looks.
+[56:50.8 - 56:51.7] It's a great building.
+[56:51.7 - 56:52.1] What city is it?
+[56:52.1 - 56:54.8] It's a great building.
+[56:54.8 - 56:55.1] What city is it?
+[56:55.1 - 56:55.4] Yeah.
+[56:55.4 - 57:03.7] The reason why we passed on the deal was is that I negotiated a rent with the government, and the government rented it before we closed on it.
+[57:03.7 - 57:10.2] I was supposed to get ten percent rent increase here, and they only gave me eleven percent.
+[57:10.2 - 57:12.7] We passed.
+[57:12.7 - 57:16.5] We're in the process of renegotiating with the seller right now.
+[57:16.5 - 57:20.2] We, we about a, uh, getting that going.
+[57:20.2 - 57:24.4] By the way, that rent increase we promised to the buyer and seller.
+[57:24.4 - 57:25.3] Fifty-fifty.
+[57:25.3 - 57:27.4] Well, it doesn't close like anything else.
+[57:27.4 - 57:28.1] It depends.
+[57:28.1 - 57:33.6] It closed on, uh, very awful right now because, uh, our bandwidth, uh, interest rates.
+[57:33.6 - 57:43.7] If you talk about interest rates being cut, then because of the inflation factor and now the Fed basically said there's not gonna
+[57:43.7 - 57:47.3] be any interest rate cuts, that's gonna wipe off a lot of people.
+[57:47.3 - 57:52.1] That doesn't, doesn't affect us on the deal.
+[57:52.1 - 57:56.1] Um, but, um, our compensation lies in these numbers is why I buy that deal.
+[57:56.1 - 57:59.1] We're buying ninety percent of the building again.
+[57:59.1 - 58:08.9] So when you're buying at five percent return and you don't get the interest rate cuts we were hoping for a few years ago that we basically got a normal return.
+[58:08.9 - 58:11.4] But, uh, that came out.
+[58:11.4 - 58:11.6] Okay.
+[58:11.6 - 58:15.8] So I'm sharing, um, part of our property tax system.
+[58:15.8 - 58:17.4] We're only getting data here.
+[58:17.4 - 58:19.6] I'm not managing the portfolio or anything like that.
+[58:19.6 - 58:20.5] You know what I could do?
+[58:20.5 - 58:20.7] Uh.
+[58:20.7 - 58:31.7] Maybe Mark can do it
+[58:31.7 - 59:45.2] for a little
+[59:45.2 - 59:48.6] bit.
+[59:48.6 - 59:59.0] It's about three to eight million a year
+[59:59.0 - 59:59.5] old.
+[59:59.5 - 59:59.6] You're right.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_06-23-2026_Save_transcription_20260705_173808.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_06-23-2026_Save_transcription_20260705_173808.txt
+[2J[H[3Jmanus-speech-to-text mp3/ROSE-REC2_06-23-2026_Save.mp3
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_06-23-2026_Save.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: mp3/.ROSE-REC2_06-23-2026_Save_chunks_20260705_173547/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: mp3/.ROSE-REC2_06-23-2026_Save_chunks_20260705_173547/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: mp3/.ROSE-REC2_06-23-2026_Save_chunks_20260705_173547/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: mp3/.ROSE-REC2_06-23-2026_Save_chunks_20260705_173547/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: mp3/.ROSE-REC2_06-23-2026_Save_chunks_20260705_173547/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[55:45.5 - 55:49.5] So it was a hundred and fifty times two hundred.
+[55:49.5 - 55:51.4] That's twelve.
+[55:51.4 - 55:53.0] Seven, two, thirty-five, two.
+[55:53.0 - 55:57.2] That's how much money we're gonna make by that three hundred and fifty a month.
+[55:57.2 - 55:58.7] And this is in, like, four years.
+[55:58.7 - 56:02.0] So that's how much it's worth by then.
+[56:02.0 - 56:11.3] So when you're investing, when you're investing with me, okay, I don't go out there and say, "Okay, twelve units equals one hundred thousand." Like Jen or Joe or someone else does.
+[56:11.3 - 56:12.5] We've got to know the statistics to back it up.
+[56:12.5 - 56:13.3] Okay.
+[56:13.3 - 56:18.6] So how do we know if I manage that asset for you for a building that's worth twelve?
+[56:18.6 - 56:20.1] And then we do all those things to multiple the return.
+[56:20.1 - 56:31.4] You know, like we
+[56:31.4 - 56:41.9] kind of have it in stages where
+[56:41.9 - 56:43.9] we have to do this.
+[56:43.9 - 56:44.8] So, uh, I'm gonna share with you some numbers.
+[56:44.8 - 56:45.3] I'm gonna share with you a couple buildings.
+[56:45.3 - 56:50.8] You can name one you want, and we're gonna see how well the deal looks.
+[56:50.8 - 56:51.7] It's a great building.
+[56:51.7 - 56:52.1] What city is it?
+[56:52.1 - 56:54.8] It's a great building.
+[56:54.8 - 56:55.1] What city is it?
+[56:55.1 - 56:55.4] Yeah.
+[56:55.4 - 57:03.7] The reason why we passed on the deal was is that I negotiated a rent with the government, and the government rented it before we closed on it.
+[57:03.7 - 57:10.2] I was supposed to get ten percent rent increase here, and they only gave me eleven percent.
+[57:10.2 - 57:12.7] We passed.
+[57:12.7 - 57:16.5] We're in the process of renegotiating with the seller right now.
+[57:16.5 - 57:20.2] We, we about a, uh, getting that going.
+[57:20.2 - 57:24.4] By the way, that rent increase we promised to the buyer and seller.
+[57:24.4 - 57:25.3] Fifty-fifty.
+[57:25.3 - 57:27.4] Well, it doesn't close like anything else.
+[57:27.4 - 57:28.1] It depends.
+[57:28.1 - 57:33.6] It closed on, uh, very awful right now because, uh, our bandwidth, uh, interest rates.
+[57:33.6 - 57:43.7] If you talk about interest rates being cut, then because of the inflation factor and now the Fed basically said there's not gonna
+[57:43.7 - 57:47.3] be any interest rate cuts, that's gonna wipe off a lot of people.
+[57:47.3 - 57:52.1] That doesn't, doesn't affect us on the deal.
+[57:52.1 - 57:56.1] Um, but, um, our compensation lies in these numbers is why I buy that deal.
+[57:56.1 - 57:59.1] We're buying ninety percent of the building again.
+[57:59.1 - 58:08.9] So when you're buying at five percent return and you don't get the interest rate cuts we were hoping for a few years ago that we basically got a normal return.
+[58:08.9 - 58:11.4] But, uh, that came out.
+[58:11.4 - 58:11.6] Okay.
+[58:11.6 - 58:15.8] So I'm sharing, um, part of our property tax system.
+[58:15.8 - 58:17.4] We're only getting data here.
+[58:17.4 - 58:19.6] I'm not managing the portfolio or anything like that.
+[58:19.6 - 58:20.5] You know what I could do?
+[58:20.5 - 58:20.7] Uh.
+[58:20.7 - 58:31.7] Maybe Mark can do it
+[58:31.7 - 59:45.2] for a little
+[59:45.2 - 59:48.6] bit.
+[59:48.6 - 59:59.0] It's about three to eight million a year
+[59:59.0 - 59:59.5] old.
+[59:59.5 - 59:59.6] You're right.
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_06-23-2026_Save_transcription_20260705_173808.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_06-23-2026_Save_transcription_20260705_173808.txt

@@ -1,0 +1,270 @@
+Starting Speech-to-Text conversion...
+Audio file size (27.5MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 64 kbps
+Audio file size: 27.47 MB, duration: 3600.1 seconds
+Splitting into 6 chunks (each ~600.0 seconds, max 5 MB)...
+Successfully split into 6 chunks
+Audio file split into 6 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_V2026-07-02-15-55-11.mp3, file size: 27.47 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 6 chunks...
+
+Transcribing chunk 1/6: mp3/.ROSE-REC2_V2026-07-02-15-55-11_chunks_20260706_165559/chunk_000.mp3
+Chunk 1 completed (duration: 600.0s)
+
+Transcribing chunk 2/6: mp3/.ROSE-REC2_V2026-07-02-15-55-11_chunks_20260706_165559/chunk_001.mp3
+Chunk 2 completed (duration: 600.0s)
+
+Transcribing chunk 3/6: mp3/.ROSE-REC2_V2026-07-02-15-55-11_chunks_20260706_165559/chunk_002.mp3
+Chunk 3 completed (duration: 600.0s)
+
+Transcribing chunk 4/6: mp3/.ROSE-REC2_V2026-07-02-15-55-11_chunks_20260706_165559/chunk_003.mp3
+Chunk 4 completed (duration: 600.0s)
+
+Transcribing chunk 5/6: mp3/.ROSE-REC2_V2026-07-02-15-55-11_chunks_20260706_165559/chunk_004.mp3
+Chunk 5 completed (duration: 600.0s)
+
+Transcribing chunk 6/6: mp3/.ROSE-REC2_V2026-07-02-15-55-11_chunks_20260706_165559/chunk_005.mp3
+Chunk 6 completed (duration: 599.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.7 seconds
+Language: eng
+Total Chunks: 6
+Timestamped segments:
+[26:18.0 - 26:45.3] I need to come over here.
+[26:45.3 - 27:04.2] Hmm?
+[27:04.2 - 27:06.6] Okay.
+[27:06.6 - 28:03.2] Motherfucker.
+[28:03.2 - 28:09.5] What the fuck?
+[28:09.5 - 28:31.2] Oh,
+[28:31.2 - 28:38.8] that's what it is.
+[28:38.8 - 29:06.4] Okay.
+[29:06.4 - 29:24.4] Here
+[29:24.4 - 29:29.4] we go.
+[29:29.4 - 29:34.8] This motherfucker.
+[32:00.3 - 32:20.2] That's
+[32:20.2 - 32:29.8] weird.
+[32:29.8 - 34:15.0] Hmm?
+[34:15.0 - 34:18.8] Fuck.
+[34:18.8 - 35:32.8] Hmm.
+[35:32.8 - 35:38.4] That's weird.
+[35:38.4 - 35:59.9] Hmm.
+[41:09.1 - 41:09.9] The fuck is this?
+[41:09.9 - 41:10.1] The fuck is this?
+[41:10.1 - 41:40.3] Strange.
+[41:40.3 - 41:59.4] So
+[41:59.4 - 42:00.0] what?
+[42:00.0 - 42:08.2] Hmm.
+[42:08.2 - 43:08.1] these
+[43:08.1 - 43:10.9] regular seasoned pretzels.
+[43:10.9 - 43:11.2] Ugh.
+[43:11.2 - 43:13.4] Have 'em.
+[43:13.4 - 43:20.5] I figured Well, they all kinda taste the same to me.
+[43:20.5 - 43:25.3] Man, what the fuck?
+[43:25.3 - 43:36.4] Have I
+[43:36.4 - 43:53.6] read
+[43:53.6 - 43:57.9] this before?
+[43:57.9 - 44:03.7] Guess not.
+[44:03.7 - 44:54.2] Motherfucker.
+[44:54.2 - 45:05.0] God.
+[45:05.0 - 45:12.8] Let's go.
+[45:12.8 - 45:24.1] Okay.
+[45:24.1 - 45:51.9] There
+[45:51.9 - 45:55.6] it is.
+[45:55.6 - 46:43.7] Oh,
+[46:43.7 - 46:45.1] fuck.
+[46:45.1 - 47:11.1] Bless
+[47:11.1 - 47:11.2] you.
+[47:11.2 - 47:11.7] Damn.
+[47:11.7 - 47:16.3] Bless you.
+[47:16.3 - 47:28.2] Hey,
+[47:28.2 - 47:29.1] could you keep it down in there?
+[47:29.1 - 47:29.7] Fuck.
+[47:29.7 - 47:30.6] Hey.
+[47:30.6 - 47:31.7] Trying to concentrate.
+[47:31.7 - 47:33.9] Film me, Rick.
+[47:33.9 - 47:34.9] I'll show you up.
+[47:34.9 - 47:35.7] Film me.
+[47:35.7 - 47:37.6] Oh, you don't want that on?
+[47:37.6 - 47:38.2] No.
+[47:38.2 - 47:38.3] Oh.
+[47:38.3 - 47:40.7] Film me with it, with it off.
+[47:40.7 - 47:41.9] Okay, fine.
+[47:41.9 - 47:47.7] I've been playing all day .
+[47:47.7 - 47:49.4] Come on, come on, come on.
+[47:49.4 - 47:49.4] Video.
+[47:49.4 - 47:51.0] All right.
+[47:51.0 - 47:51.3] Ready?
+[47:51.3 - 47:52.9] One, two, three.
+[47:52.9 - 47:57.1] All right.
+[47:57.1 - 48:04.3] See what that is .
+[48:04.3 - 48:19.5] Let's
+[48:19.5 - 48:20.6] do it one more time.
+[48:20.6 - 48:22.7] I need to, I need to see you there staying in the wall.
+[48:22.7 - 48:23.0] Mm-hmm.
+[48:23.0 - 48:24.3] Sorry.
+[48:24.3 - 48:28.2] No problem.
+[48:28.2 - 48:29.1] All right.
+[48:29.1 - 48:29.4] Okay.
+[48:29.4 - 48:31.2] One, two, three.
+[48:31.2 - 48:37.5] Okay.
+[48:37.5 - 48:41.0] Is he pulling a dick out of the TV?
+[50:02.9 - 50:03.5] Again?
+[50:03.5 - 50:04.4] No way.
+[50:04.4 - 50:06.5] You gotta be on that side?
+[50:06.5 - 50:10.6] No, I, I gotta be on this side and you have to be walking, walking up to it.
+[50:10.6 - 50:12.2] Okay, hold on.
+[50:12.2 - 50:18.4] All right.
+[50:18.4 - 50:18.8] Like this one?
+[50:18.8 - 50:20.5] Yeah, it has to.
+[50:20.5 - 50:21.9] I'm gonna go like this and walk up to it.
+[50:21.9 - 50:23.0] The bird's gonna jump on my hand.
+[50:23.0 - 50:25.3] Ready?
+[50:25.3 - 50:25.8] Wait, hold on.
+[50:25.8 - 50:26.2] Get you.
+[50:26.2 - 50:27.8] One, two, three.
+[50:27.8 - 50:29.0] Okay.
+[50:29.0 - 50:37.1] Trim the front or back.
+[50:37.1 - 51:12.6] What
+[51:12.6 - 51:16.2] was that?
+[51:16.2 - 51:17.7] One more time.
+[51:17.7 - 51:19.2] You're kidding me.
+[51:19.2 - 51:23.5] Just do like a really long one and then trim it.
+[51:23.5 - 51:24.7] No, dude, I, I gotta 'cause I gotta...
+[51:24.7 - 51:29.1] It's gotta jump out on my hand, and I gotta go like this and like this.
+[51:29.1 - 51:31.1] What kind of bird is this?
+[51:31.1 - 51:34.1] A pit?
+[51:34.1 - 51:34.5] Yeah.
+[51:34.5 - 51:38.1] And visualize it.
+[51:38.1 - 51:40.3] Ready, boys?
+[51:40.3 - 51:41.9] Make s-- Put yourself in the...
+[51:41.9 - 51:42.4] Okay.
+[51:42.4 - 51:43.7] One, two, three.
+[51:43.7 - 51:51.4] All right.
+[51:51.4 - 51:52.4] Fucking bird.
+[51:52.4 - 51:55.0] It's gonna be an extinct one.
+[51:55.0 - 55:45.4] There
+[55:45.4 - 55:57.2] it is.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2026-07-02-15-55-11_transcription_20260706_165631.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2026-07-02-15-55-11_transcription_20260706_165631.txt
+[2J[H[3Jmanus-speech-to-text mp3/ROSE-REC2_V2026-07-02-15-55-11.mp3
+Starting Speech-to-Text conversion...
+Audio file size (27.5MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 64 kbps
+Audio file size: 27.47 MB, duration: 3600.1 seconds
+Splitting into 6 chunks (each ~600.0 seconds, max 5 MB)...
+Successfully split into 6 chunks
+Audio file split into 6 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_V2026-07-02-15-55-11.mp3, file size: 27.47 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 6 chunks...
+Transcribing chunk 1/6: mp3/.ROSE-REC2_V2026-07-02-15-55-11_chunks_20260706_165559/chunk_000.mp3
+Chunk 1 completed (duration: 600.0s)
+Transcribing chunk 2/6: mp3/.ROSE-REC2_V2026-07-02-15-55-11_chunks_20260706_165559/chunk_001.mp3
+Chunk 2 completed (duration: 600.0s)
+Transcribing chunk 3/6: mp3/.ROSE-REC2_V2026-07-02-15-55-11_chunks_20260706_165559/chunk_002.mp3
+Chunk 3 completed (duration: 600.0s)
+Transcribing chunk 4/6: mp3/.ROSE-REC2_V2026-07-02-15-55-11_chunks_20260706_165559/chunk_003.mp3
+Chunk 4 completed (duration: 600.0s)
+Transcribing chunk 5/6: mp3/.ROSE-REC2_V2026-07-02-15-55-11_chunks_20260706_165559/chunk_004.mp3
+Chunk 5 completed (duration: 600.0s)
+Transcribing chunk 6/6: mp3/.ROSE-REC2_V2026-07-02-15-55-11_chunks_20260706_165559/chunk_005.mp3
+Chunk 6 completed (duration: 599.7s)
+
+Snippet of transcribed content:
+[43:11.2 - 43:13.4] Have 'em.
+[43:13.4 - 43:20.5] I figured Well, they all kinda taste the same to me.
+[43:20.5 - 43:25.3] Man, what the fuck?
+[43:25.3 - 43:36.4] Have I
+[43:36.4 - 43:53.6] read
+[43:53.6 - 43:57.9] this before?
+[43:57.9 - 44:03.7] Guess not.
+[44:03.7 - 44:54.2] Motherfucker.
+[44:54.2 - 45:05.0] God.
+[45:05.0 - 45:12.8] Let's go.
+[45:12.8 - 45:24.1] Okay.
+[45:24.1 - 45:51.9] There
+[45:51.9 - 45:55.6] it is.
+[45:55.6 - 46:43.7] Oh,
+[46:43.7 - 46:45.1] fuck.
+[46:45.1 - 47:11.1] Bless
+[47:11.1 - 47:11.2] you.
+[47:11.2 - 47:11.7] Damn.
+[47:11.7 - 47:16.3] Bless you.
+[47:16.3 - 47:28.2] Hey,
+[47:28.2 - 47:29.1] could you keep it down in there?
+[47:29.1 - 47:29.7] Fuck.
+[47:29.7 - 47:30.6] Hey.
+[47:30.6 - 47:31.7] Trying to concentrate.
+[47:31.7 - 47:33.9] Film me, Rick.
+[47:33.9 - 47:34.9] I'll show you up.
+[47:34.9 - 47:35.7] Film me.
+[47:35.7 - 47:37.6] Oh, you don't want that on?
+[47:37.6 - 47:38.2] No.
+[47:38.2 - 47:38.3] Oh.
+[47:38.3 - 47:40.7] Film me with it, with it off.
+[47:40.7 - 47:41.9] Okay, fine.
+[47:41.9 - 47:47.7] I've been playing all day .
+[47:47.7 - 47:49.4] Come on, come on, come on.
+[47:49.4 - 47:49.4] Video.
+[47:49.4 - 47:51.0] All right.
+[47:51.0 - 47:51.3] Ready?
+[47:51.3 - 47:52.9] One, two, three.
+[47:52.9 - 47:57.1] All right.
+[47:57.1 - 48:04.3] See what that is .
+[48:04.3 - 48:19.5] Let's
+[48:19.5 - 48:20.6] do it one more time.
+[48:20.6 - 48:22.7] I need to, I need to see you there staying in the wall.
+[48:22.7 - 48:23.0] Mm-hmm.
+[48:23.0 - 48:24.3] Sorry.
+[48:24.3 - 48:28.2] No problem.
+[48:28.2 - 48:29.1] All right.
+[48:29.1 - 48:29.4] Okay.
+[48:29.4 - 48:31.2] One, two, three.
+[48:31.2 - 48:37.5] Okay.
+[48:37.5 - 48:41.0] Is he pulling a dick out of the TV?
+[50:02.9 - 50:03.5] Again?
+[50:03.5 - 50:04.4] No way.
+[50:04.4 - 50:06.5] You gotta be on that side?
+[50:06.5 - 50:10.6] No, I, I gotta be on this side and you have to be walking, walking up to it.
+[50:10.6 - 50:12.2] Okay, hold on.
+[50:12.2 - 50:18.4] All right.
+[50:18.4 - 50:18.8] Like this one?
+[50:18.8 - 50:20.5] Yeah, it has to.
+[50:20.5 - 50:21.9] I'm gonna go like this and walk up to it.
+[50:21.9 - 50:23.0] The bird's gonna jump on my hand.
+[50:23.0 - 50:25.3] Ready?
+[50:25.3 - 50:25.8] Wait, hold on.
+[50:25.8 - 50:26.2] Get you.
+[50:26.2 - 50:27.8] One, two, three.
+[50:27.8 - 50:29.0] Okay.
+[50:29.0 - 50:37.1] Trim the front or back.
+[50:37.1 - 51:12.6] What
+[51:12.6 - 51:16.2] was that?
+[51:16.2 - 51:17.7] One more time.
+[51:17.7 - 51:19.2] You're kidding me.
+[51:19.2 - 51:23.5] Just do like a really long one and then trim it.
+[51:23.5 - 51:24.7] No, dude, I, I gotta 'cause I gotta...
+[51:24.7 - 51:29.1] It's gotta jump out on my hand, and I gotta go like this and like this.
+[51:29.1 - 51:31.1] What kind of bird is this?
+[51:31.1 - 51:34.1] A pit?
+[51:34.1 - 51:34.5] Yeah.
+[51:34.5 - 51:38.1] And visualize it.
+[51:38.1 - 51:40.3] Ready, boys?
+[51:40.3 - 51:41.9] Make s-- Put yourself in the...
+[51:41.9 - 51:42.4] Okay.
+[51:42.4 - 51:43.7] One, two, three.
+[51:43.7 - 51:51.4] All right.
+[51:51.4 - 51:52.4] Fucking bird.
+[51:52.4 - 51:55.0] It's gonna be an extinct one.
+[51:55.0 - 55:45.4] There
+[55:45.4 - 55:57.2] it is.
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2026-07-02-15-55-11_transcription_20260706_165631.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2026-07-02-15-55-11_transcription_20260706_165631.txt

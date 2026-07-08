@@ -1,0 +1,19 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: ROSE-REC2_V2025-12-27-16-01-28.mp3, file size: 0.06 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 9.7 seconds
+Language: eng
+Text content:
+
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-27-16-01-28_transcription_20260706_153726.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-27-16-01-28_transcription_20260706_153726.txt
+[2J[H[3Jmanus-speech-to-text ROSE-REC2_V2025-12-27-16-01-28.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: ROSE-REC2_V2025-12-27-16-01-28.mp3, file size: 0.06 MB
+Transcription may take some time depending on file size and audio length...
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-27-16-01-28_transcription_20260706_153726.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-27-16-01-28_transcription_20260706_153726.txt

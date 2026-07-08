@@ -1,0 +1,1210 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-16-08-06.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-16-08-06_chunks_20260706_162531/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-16-08-06_chunks_20260706_162531/chunk_001.mp3
+⚠️  Chunk 2 failed (attempt 1/3): Post "https://api.manus.im/api/llm-proxy/v1/audio/transcriptions": unexpected EOF
+   Retrying in 5s...
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-16-08-06_chunks_20260706_162531/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-16-08-06_chunks_20260706_162531/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-16-08-06_chunks_20260706_162531/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.7 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[00:00.1 - 00:02.9] Working, I don't know, I'm not gonna touch it Whatever it is- I need to reach out.
+[00:02.9 - 00:04.3] I'm not- Why did this one lose- I don't know ...
+[00:04.3 - 00:04.3] average?
+[00:04.3 - 00:06.4] If it happens twice, like- Like, it hit all its targets ...
+[00:06.4 - 00:07.9] 4:00 this morning, like, there's, I'm getting an error, right?
+[00:07.9 - 00:12.8] So, uh, he said, "Let me try it again." I don't understand this There's a line here or something, right?
+[00:12.8 - 00:13.3] Mm-hmm.
+[00:13.3 - 00:13.9] Oh, it worked.
+[00:13.9 - 00:15.6] Yeah.
+[00:15.6 - 00:15.6] I don't know.
+[00:15.6 - 00:16.4] That's, exactly.
+[00:16.4 - 00:18.0] I always try to do that before- I don't know.
+[00:18.0 - 00:18.5] That was the first time- ...
+[00:18.5 - 00:20.8] I bother you guys, but- I don't know.
+[00:20.8 - 00:22.1] Are those...
+[00:22.1 - 00:24.4] I can't 433.
+[00:24.4 - 00:25.0] You know, yeah, I guess.
+[00:25.0 - 00:27.2] It's only $3,000 lower.
+[00:27.2 - 00:27.3] Yeah, I hear you.
+[00:27.3 - 00:29.0] I mean, there's only so much you can do, right?
+[00:29.0 - 00:29.7] When it's a one-off error.
+[00:29.7 - 00:30.4] What's the, what's the...
+[00:30.4 - 00:31.2] Why does it happen?
+[00:31.2 - 00:32.6] Why does the error happen in the first place?
+[00:32.6 - 00:33.0] Look at my list.
+[00:33.0 - 00:37.0] Because, uh- Again, he's been- So there's all this code that looks like that- Let me look at the- ...
+[00:37.0 - 00:37.9] on his email, right?
+[00:37.9 - 00:40.2] And, and when you hit- 4,000 more ...
+[00:40.2 - 00:41.4] refresh- No, that's about right ...
+[00:41.4 - 00:43.5] or you hit a webpage, it's running all this code- This was 17 ...
+[00:43.5 - 00:44.0] from the top to the bottom.
+[00:44.0 - 00:47.5] And if it gets to a part where it says- Which would be lower ...
+[00:47.5 - 00:51.6] so sometimes we ask the database for your username- And this was only 8,000 higher ...
+[00:51.6 - 00:56.8] and it's not in there, for whatever reason, it'll say, "We, we don't know the username." Stop digging on that.
+[00:56.8 - 01:00.4] And then, just so you know what happened- It'll say, "Error online." So if you- Last month- ...
+[01:00.4 - 01:01.2] we don't know the username.
+[01:01.2 - 01:04.2] And so what's happening- You see we're in June right now ...
+[01:04.2 - 01:07.6] it's like, "You don't have a username." The insurance is on this building here.
+[01:07.6 - 01:12.3] But, but sometimes it's, you know, usually my fault, like the editing.
+[01:12.3 - 01:14.2] Insurance expense for 17,000.
+[01:14.2 - 01:16.6] There's a list of- I mean, it's a software company- If we go back to May- ...
+[01:16.6 - 01:17.6] you fix your bugs and keep going.
+[01:17.6 - 01:18.6] Yeah, that's what it is.
+[01:18.6 - 01:18.8] Just keep building.
+[01:18.8 - 01:20.0] It should be a higher number.
+[01:20.0 - 01:20.6] Have you heard of ColdFusion?
+[01:20.6 - 01:21.4] Yes.
+[01:21.4 - 01:23.9] So our insurance premium just went down by 33%.
+[01:23.9 - 01:24.1] Yeah.
+[01:24.1 - 01:24.9] Have you heard of it?
+[01:24.9 - 01:26.3] Yeah, a little bit.
+[01:26.3 - 01:26.3] Cool.
+[01:26.3 - 01:28.2] Now- Like PHP, ASP.
+[01:28.2 - 01:29.5] Yeah, yeah.
+[01:29.5 - 01:29.8] Yeah.
+[01:29.8 - 01:30.1] I haven't seen it in a long time.
+[01:30.1 - 01:30.9] That's interesting.
+[01:30.9 - 01:32.1] Check to this one here.
+[01:32.1 - 01:33.5] This is 55,000.
+[01:33.5 - 01:34.4] Okay.
+[01:34.4 - 01:35.5] For a four-day conference.
+[01:35.5 - 01:36.4] For Marrero?
+[01:36.4 - 01:39.2] With Adobe, ColdFusion Summit 2026.
+[01:39.2 - 01:46.3] Just released, built-in to ColdFusion, is native AI connectivity- Yeah, that one went up ...
+[01:46.3 - 01:47.1] to OpenAI- No way ...
+[01:47.1 - 01:49.9] Amazon, so- 17 ...
+[01:49.9 - 01:51.8] conversation between ChatGPT and- Yeah, that's not right.
+[01:51.8 - 01:54.7] Hold on one s- Well, I think what happened was- I have the insurance premium- ...
+[01:54.7 - 01:55.6] it moved on to probably- Hold on.
+[01:55.6 - 01:57.3] I actually have the raw numbers here ...
+[01:57.3 - 01:58.1] say something and then it happened again.
+[01:58.1 - 02:00.9] Remember when you got the call, when I took you to Beverly Hills.
+[02:00.9 - 02:01.5] Yeah.
+[02:01.5 - 02:04.7] It was lower, it was 25% Hold on one second.
+[02:04.7 - 02:05.6] File or something.
+[02:05.6 - 02:11.9] So yeah, I mean, as far as, I mean, on Blanc, um, we're selling this thing, so.
+[02:11.9 - 02:12.2] Yeah.
+[02:12.2 - 02:15.5] Let me see how, uh...
+[02:15.5 - 02:20.3] There's a lot of com- we had to commercialize as much as possible, unfortunately.
+[02:20.3 - 02:21.5] At least on our end.
+[02:21.5 - 02:26.9] Here, I have the actual premium numbers here.
+[02:26.9 - 02:32.9] All the premium.
+[02:32.9 - 02:33.6] Are you a part of it?
+[02:33.6 - 02:34.0] I mean, not really.
+[02:34.0 - 02:34.2] No.
+[02:34.2 - 02:38.3] It's mostly, it's a, uh, tool that you can use.
+[02:38.3 - 02:39.2] Here are insurance premiums.
+[02:39.2 - 02:41.1] Let's look to see what the actual numbers are.
+[02:41.1 - 02:46.0] There's definitely people in it, but I reckon it's gonna help out.
+[02:46.0 - 02:46.7] Okay.
+[02:46.7 - 02:50.7] So the first home is, uh, um, in Charles.
+[02:50.7 - 02:50.7] St.
+[02:50.7 - 02:50.9] Charles, yeah.
+[02:50.9 - 02:54.0] I'm just giving it like 30 days- 17 ...
+[02:54.0 - 02:59.0] really, uh, just trying to find the product market fit and make sure it's not anything that- 17, right?
+[02:59.0 - 02:59.4] Yep.
+[02:59.4 - 03:01.9] I'm sure there's people- And that Marrero is supposed to be 55.
+[03:01.9 - 03:02.5] No, there are.
+[03:02.5 - 03:03.1] They might be...
+[03:03.1 - 03:04.6] Gotta get them before they buy.
+[03:04.6 - 03:05.5] 38.
+[03:05.5 - 03:07.0] Well, one was 38.
+[03:07.0 - 03:07.4] That's true.
+[03:07.4 - 03:09.7] The thing is with- But this is the current, this is for the, the year.
+[03:09.7 - 03:09.8] Yeah.
+[03:09.8 - 03:10.1] No, that's the, that's what they are.
+[03:10.1 - 03:12.0] Yeah, we need to- 30,000 ...
+[03:12.0 - 03:13.8] even though people can- So they're not correct ...
+[03:13.8 - 03:14.1] do anything with that.
+[03:14.1 - 03:14.4] Okay?
+[03:14.4 - 03:15.0] Mm-hmm.
+[03:15.0 - 03:18.8] So let me go in- We're so, we're so far off from that, that we- You gotta just- With your daily life ...
+[03:18.8 - 03:20.2] the best statistic I could give is- Hold on one second.
+[03:20.2 - 03:21.2] So I'm in June, right?
+[03:21.2 - 03:21.7] ...
+[03:21.7 - 03:22.3] except Rob.
+[03:22.3 - 03:24.2] Yeah.
+[03:24.2 - 03:24.2] Hey.
+[03:24.2 - 03:24.5] Oh, no.
+[03:24.5 - 03:25.8] He's, he's in and he's in and out.
+[03:25.8 - 03:34.6] I'm gonna go to Marrero and make sure- I think, I think, uh, consumer base, I think we're about 16 months out before consumers, all your, your- And then he's addicted to memes.
+[03:34.6 - 03:36.2] Mm-hmm.
+[03:36.2 - 03:37.1] Yeah.
+[03:37.1 - 03:37.2] Oh, yeah.
+[03:37.2 - 03:37.7] It's great.
+[03:37.7 - 03:38.1] Totally.
+[03:38.1 - 03:40.3] So- But, uh- I mean, just electronics in general ...
+[03:40.3 - 03:45.4] we're the, we're the point people I'm gonna need to go through every one of these for July and see if the amount was correct.
+[03:45.4 - 03:46.8] So we're actually using AI more efficiently.
+[03:46.8 - 03:47.1] Yeah.
+[03:47.1 - 03:47.9] I'm gonna do it right now.
+[03:47.9 - 03:48.3] Hold on.
+[03:48.3 - 03:51.3] 7%, I think they say, of the population has never even...
+[03:51.3 - 03:53.6] Doesn't even know how to prompt to use it.
+[03:53.6 - 03:54.1] They just- 38.
+[03:54.1 - 03:55.5] So where did it, where was it wrong?
+[03:55.5 - 03:58.3] And sometimes you can get away with, with a cover prompt.
+[03:58.3 - 03:59.2] I saw a challenge yesterday.
+[03:59.2 - 04:00.3] It was 55.
+[04:00.3 - 04:00.8] These two guys, one guy was famous.
+[04:00.8 - 04:03.1] Maybe you didn't have the right month selected for May.
+[04:03.1 - 04:04.1] Million-dollar, uh, program.
+[04:04.1 - 04:06.4] Maybe we read May and then we, or we are- I'll show you.
+[04:06.4 - 04:08.3] Let me go back to, let me go back to May and then see.
+[04:08.3 - 04:08.5] Yeah.
+[04:08.5 - 04:09.2] I think May was good.
+[04:09.2 - 04:09.8] Four prompts.
+[04:09.8 - 04:10.3] That's right.
+[04:10.3 - 04:12.3] Well, that, that would be like that, isn't it?
+[04:12.3 - 04:17.7] He created this app, yeah, this $250 million note-taker app called, uh, Granola, if you've ever heard of it.
+[04:17.7 - 04:18.4] I use Granola.
+[04:18.4 - 04:19.0] You use Granola?
+[04:19.0 - 04:19.9] But still, St.
+[04:19.9 - 04:21.1] Charles should have changed.
+[04:21.1 - 04:21.7] What?
+[04:21.7 - 04:22.2] St.
+[04:22.2 - 04:24.0] Charles was 17 on both months.
+[04:24.0 - 04:24.3] Right.
+[04:24.3 - 04:25.5] That's where it should have changed.
+[04:25.5 - 04:26.1] Interesting.
+[04:26.1 - 04:27.4] Um, well, was...
+[04:27.4 - 04:29.6] So I'm gonna do- Marrero ...
+[04:29.6 - 04:31.1] kind of a lot in my first prompt, you know?
+[04:31.1 - 04:32.6] And hopefully it doesn't- Insurance.
+[04:32.6 - 04:33.1] Where's insurance?
+[04:33.1 - 04:35.8] You know, and then on my second prompt, I'll probably just explain- Okay.
+[04:35.8 - 04:37.1] So it did go down But St.
+[04:37.1 - 04:40.2] Charles stayed the same when it should have been- A little much in there, maybe.
+[04:40.2 - 04:42.0] A- No, it may, may have not gone down ...
+[04:42.0 - 04:42.8] the other guy.
+[04:42.8 - 04:44.8] Um, 'cause here is the number.
+[04:44.8 - 04:46.7] It should be 17,000.
+[04:46.7 - 04:48.4] If I were Smuckers That's good.
+[04:48.4 - 04:48.5] All right.
+[04:48.5 - 04:49.6] I'm gonna send you this mail.
+[04:49.6 - 04:50.2] Okay.
+[04:50.2 - 04:51.5] And you'll go in and just make sure.
+[04:51.5 - 04:52.9] You'll go into enter data.
+[04:52.9 - 04:53.4] Very close.
+[04:53.4 - 04:59.0] Go into June and make sure that all the numbers are set, and make sure when, when you click the save button- That's right, yeah Mm-hmm ...
+[04:59.0 - 05:01.0] just make sure it shows Florida.
+[05:01.0 - 05:06.0] First guy did the counter- But this is not good, though, because what happens- And waited on the folders, and the second guy did the folders and waited on the counter ...
+[05:06.0 - 05:10.9] is the building should have made money with a lower insurance number, 'cause it was higher definitely before.
+[05:10.9 - 05:12.1] And those were great.
+[05:12.1 - 05:15.1] And so it's like the expenses- Uh, Brandon Or all the other expenses stayed the same.
+[05:15.1 - 05:15.2] Yeah.
+[05:15.2 - 05:16.0] Granola's massive.
+[05:16.0 - 05:18.0] Well, let's go into this again.
+[05:18.0 - 05:19.4] You can also use it for free, but- Uh, June.
+[05:19.4 - 05:20.0] Granola's great.
+[05:20.0 - 05:20.7] You can use it for free?
+[05:20.7 - 05:21.0] Yeah.
+[05:21.0 - 05:21.4] Yeah.
+[05:21.4 - 05:22.5] I use it for everything.
+[05:22.5 - 05:25.0] Well, let's see what the profitability was in May for the property.
+[05:25.0 - 05:25.6] And then you just leave it on.
+[05:25.6 - 05:26.3] Yeah.
+[05:26.3 - 05:26.9] Just leave it on.
+[05:26.9 - 05:30.3] If we're all talking here, it'll pick up all four or five of our, our voices.
+[05:30.3 - 05:31.3] I have something called the Pocket.
+[05:31.3 - 05:33.7] I didn't bring it, but it's like a credit card- St.
+[05:33.7 - 05:34.3] Charles ...
+[05:34.3 - 05:36.4] and you turn it on and then later- Boss button ...
+[05:36.4 - 05:37.4] you go home and sync it to your phone.
+[05:37.4 - 05:39.3] But that was, the expenses were 30,000 more.
+[05:39.3 - 05:41.7] I'm not used to using it yet, so I never used it.
+[05:41.7 - 05:43.5] This makes, this makes sense.
+[05:43.5 - 05:44.1] It was, you can set it.
+[05:44.1 - 05:45.6] I set mine on automation.
+[05:45.6 - 05:45.7] 45, 8.
+[05:45.7 - 05:46.0] Oh, you can?
+[05:46.0 - 05:48.8] So when I plug it in, it, and I gave, like, people profiles.
+[05:48.8 - 05:49.5] That's the folders.
+[05:49.5 - 05:51.4] So Pocket?
+[05:51.4 - 05:51.9] Cool.
+[05:51.9 - 05:52.8] Okay.
+[05:52.8 - 05:52.9] Okay.
+[05:52.9 - 05:54.2] Well, here, here's something weird.
+[05:54.2 - 05:54.8] It's like the bottle of empty.
+[05:54.8 - 05:55.2] Okay?
+[05:55.2 - 05:57.5] Total income.
+[05:57.5 - 05:58.2] Mark started it.
+[05:58.2 - 05:59.8] He's got something- 2045 ...
+[05:59.8 - 06:04.2] cool at the beginning We collected one point five.
+[06:04.2 - 06:05.4] What's it called again, Lucia?
+[06:05.4 - 06:08.2] Why did in June we collect only one thirty-six?
+[06:08.2 - 06:09.0] Oh, yeah.
+[06:09.0 - 06:10.7] That's what the problem is.
+[06:10.7 - 06:10.9] The income is too low.
+[06:10.9 - 06:13.6] I think that's how it's P-L-A-U-D-N-I.
+[06:13.6 - 06:17.8] I assume that's how it's pronounced, but it's like a level.
+[06:17.8 - 06:20.3] The necklace that he's wearing, right?
+[06:20.3 - 06:20.7] Oh, cool.
+[06:20.7 - 06:22.2] Oh, it's pretty.
+[06:22.2 - 06:22.4] Yeah.
+[06:22.4 - 06:23.2] I'll check all those.
+[06:23.2 - 06:24.1] All right.
+[06:24.1 - 06:26.1] Make sure you got green.
+[06:26.1 - 11:30.0] Tell
+[11:30.0 - 11:31.1] him I'll be there in a few minutes.
+[11:31.1 - 11:32.0] Yeah, sounds good.
+[11:32.0 - 11:32.7] How are you, Michael?
+[11:32.7 - 11:37.8] They are right here.
+[11:37.8 - 11:39.4] Oh, you mean there's more?
+[11:39.4 - 11:41.0] A little bit.
+[11:41.0 - 11:43.8] Hey, Bob, you want to see this, uh, rest API?
+[11:43.8 - 11:50.3] Those are all the cars that I own, but...
+[11:50.3 - 11:51.4] Come on up.
+[11:51.4 - 11:52.0] Okay.
+[16:40.3 - 16:41.5] So this is the think tank?
+[16:41.5 - 16:45.5] Or- A lot of, a lot of thinking goes on in here.
+[16:45.5 - 16:46.0] Mm-hmm.
+[16:46.0 - 16:48.9] Did you wanna see this rest API?
+[16:48.9 - 16:50.7] Yeah.
+[16:50.7 - 16:54.9] I'm gonna email it to you, this file that, of course, Manus made me.
+[16:54.9 - 16:58.8] It has the link included.
+[16:58.8 - 17:01.6] Um, uh, what's his name?
+[17:01.6 - 17:03.6] Um, Abraham.
+[17:03.6 - 17:10.6] And then, uh, it has stuff that you understand better than me, but the docs for it- Mm-hmm ...
+[17:10.6 - 17:11.6] and all the rest- Oh, the rest API?
+[17:11.6 - 17:17.1] The re- the endpoints and everything together from this is what I was going off of.
+[17:17.1 - 17:18.6] This is gonna be a SharePoint file.
+[17:18.6 - 17:19.5] Figure out what this is for.
+[17:19.5 - 17:21.7] So I, I thought we had discussed it.
+[17:21.7 - 17:22.6] These are mine.
+[17:22.6 - 17:23.6] Yes.
+[17:23.6 - 17:24.2] The endpoints, right?
+[17:24.2 - 17:24.6] Yeah.
+[17:24.6 - 17:32.6] Well, I'd given them the website, and then I was telling them that you were gonna collect the data for this spreadsheet from a SharePoint route and put it on there.
+[17:32.6 - 17:33.0] So- Okay.
+[17:33.0 - 17:33.7] Yeah.
+[17:33.7 - 17:34.6] So wait.
+[17:34.6 - 17:40.1] And you and I- I mean- Well, you and I had discussed getting an API made for this, so you can just pull.
+[17:40.1 - 17:40.7] Right, right.
+[17:40.7 - 17:41.5] So that's what this is.
+[17:41.5 - 17:42.7] That was the rest API.
+[17:42.7 - 17:43.4] Oh, okay.
+[17:43.4 - 17:43.6] No.
+[17:43.6 - 17:44.0] No?
+[17:44.0 - 17:47.6] Well, it gives the endpoints for this one, does it not?
+[17:47.6 - 17:49.6] Rent comps.
+[17:49.6 - 17:52.3] Well, that's what we pull in, right?
+[17:52.3 - 17:52.9] Yes.
+[17:52.9 - 17:59.4] When, when you're done, you pull that in, uh, because you- But I didn't know what I needed to provide ...
+[17:59.4 - 17:59.9] you upload it to our SharePoint.
+[17:59.9 - 18:03.2] Um, yes It's great.
+[18:03.2 - 18:04.0] It documents it.
+[18:04.0 - 18:11.2] So this is like, I guess- Sample response, market average, yep.
+[18:11.2 - 18:20.2] Yeah, because I went through, um, Yardi and one site, or Real Page, and I got all of the actual PDFs of everybody's rent rolls- Mm-hmm ...
+[18:20.2 - 18:25.4] and put the spreadsheet together, and then it populates it throughout for the current rents on all of 'em.
+[18:25.4 - 18:27.8] So those are now all in there.
+[18:27.8 - 18:28.3] Nice.
+[18:28.3 - 18:36.2] And then I put if it's negative by more than $75, look into a rent increase, so anyway.
+[18:36.2 - 18:38.6] So what I'm gonna get from now on has changed, right?
+[18:38.6 - 18:39.4] Yes.
+[18:39.4 - 18:39.8] Okay.
+[18:39.8 - 18:43.4] So- Well, I'm gonna make this a SharePoint file, and then I'll give you that.
+[18:43.4 - 18:46.9] And then you can use that link in- versus the one that you had before.
+[18:46.9 - 18:47.9] Oh, here we go.
+[18:47.9 - 18:50.0] Brandon bragging again.
+[18:50.0 - 18:54.5] I'm just over here to steal candy.
+[18:54.5 - 18:55.7] That's all anybody's here for.
+[18:55.7 - 18:55.9] Oh, sir.
+[18:55.9 - 18:56.5] Hey, how you doing?
+[18:56.5 - 18:56.9] Good to see you.
+[18:56.9 - 18:57.3] Good.
+[18:57.3 - 18:58.0] How are you?
+[18:58.0 - 18:59.3] Yeah, please.
+[18:59.3 - 18:59.5] Good.
+[18:59.5 - 19:00.2] Good, thanks.
+[19:00.2 - 19:02.8] No photos this time- Less copies for me ...
+[19:02.8 - 19:04.3] 'cause the cars are all working now.
+[19:04.3 - 19:05.0] How you doing, man?
+[19:05.0 - 19:08.4] The cars, the day you come with- So now it's gone ...
+[19:08.4 - 19:12.4] Yeah, the day you come with people, it's like, "Oh, none of the cars work." How are you doing, man?
+[19:12.4 - 19:13.3] It was, I'm sorry again about that.
+[19:13.3 - 19:14.4] You guys have a good day.
+[19:14.4 - 19:20.4] You think your monitor is skinny and wide enough?
+[19:20.4 - 19:24.1] You know, I never used it all until I used this.
+[19:24.1 - 19:24.7] I know.
+[19:24.7 - 19:27.4] Um, so now it's got six com- oh.
+[19:27.4 - 19:29.9] It's got six market comps.
+[19:29.9 - 19:30.9] This is what we'll go off of.
+[19:30.9 - 19:31.2] Okay.
+[19:31.2 - 19:35.9] I put the competition, and then we won't really go off of affordable or benchmarks.
+[19:35.9 - 19:39.6] Just these is really all we're gonna be kind of posting.
+[19:39.6 - 19:50.0] And then down here, I had it put our, the subject properties here, and then it also puts it here, and then it averages-
+[19:50.0 - 19:50.6] Did you email me that?
+[19:50.6 - 19:50.9] Hmm?
+[19:50.9 - 19:52.1] Did you happen to email me that?
+[19:52.1 - 19:53.0] I'm about to.
+[19:53.0 - 19:53.1] Okay.
+[19:53.1 - 19:54.2] Whenever I'm finished with all...
+[19:54.2 - 19:59.5] There's some back here that need to be reformatted, so it's like once I get it all- Can I have another candy?
+[19:59.5 - 19:60.0] Hmm?
+[19:60.0 - 20:00.2] Have another candy?
+[20:00.2 - 20:00.5] Right.
+[20:00.5 - 20:01.7] Well, I have more sugar.
+[20:01.7 - 20:04.0] I mean, I guess I could go ahead and send it.
+[20:04.0 - 20:05.3] It's gonna stay updated.
+[20:05.3 - 20:15.4] You know, I don't have to like save and up- attach it again since it's a live link, but yeah, that's that.
+[20:15.4 - 20:17.8] I'll do all that later.
+[20:17.8 - 20:20.3] I'm gonna make it all pretty now.
+[20:20.3 - 20:22.9] Did you catch that fish?
+[20:22.9 - 20:23.5] What?
+[20:23.5 - 20:28.2] Did you catch that fish?
+[20:28.2 - 20:29.1] Yep.
+[20:29.1 - 20:29.7] Really?
+[20:29.7 - 20:31.5] There's a story behind the fish.
+[20:31.5 - 20:32.2] Is that...
+[20:32.2 - 20:33.7] Yeah, you follow me?
+[20:33.7 - 20:42.9] So you only want us to take- Yeah ...
+[20:42.9 - 20:43.5] the markets.
+[20:43.5 - 20:44.0] Okay.
+[20:44.0 - 20:49.4] Well, you didn't pay for the, uh, you didn't deduct for the insurance when you're looking at properties, right?
+[20:49.4 - 20:52.7] Um, well, really this one, but since these are- Oh, that's a good catch ...
+[20:52.7 - 20:58.1] all the properties, these are the six properties near them, I would put this whole section and then this is the average of these.
+[20:58.1 - 20:58.2] Okay.
+[20:58.2 - 20:58.4] Okay.
+[20:58.4 - 21:06.2] So are they, are they all by any chance the same M18?
+[21:06.2 - 21:07.5] Yes.
+[21:07.5 - 21:07.8] You know what I mean?
+[21:07.8 - 21:09.0] Actually- On every- Mm-hmm ...
+[21:09.0 - 21:10.5] on every- Yeah, I made it redo them all.
+[21:10.5 - 21:10.7] Cool.
+[21:10.7 - 21:11.0] So...
+[21:11.0 - 21:13.5] Well, it should- We made about 63,000.
+[21:13.5 - 21:16.9] 'Cause I'd hate to have like some of them- No, see, like this one because- Yeah, our goal on that property ...
+[21:16.9 - 21:18.5] this one only has two bedrooms- Right ...
+[21:18.5 - 21:20.0] so some of them are two bed- I think is to make- ...
+[21:20.0 - 21:25.0] and four, so it's like- Um, okay, so our down payment on the property was, um- So this one's P ...
+[21:25.0 - 21:27.9] I think 4 or 5 million.
+[21:27.9 - 21:28.9] Maybe on where the- Let's call it 5 million.
+[21:28.9 - 21:31.5] But isn't that what the API endpoint's supposed to do?
+[21:31.5 - 21:32.7] So, you know, we kind of have- Grab the- ...
+[21:32.7 - 21:34.3] at least 12, 15% of that back ...
+[21:34.3 - 21:35.2] that number out of here?
+[21:35.2 - 21:37.5] So if we made like about- Well- ...
+[21:37.5 - 21:40.3] if we made 200,000 in a year on- ...
+[21:40.3 - 21:43.5] the API endpoint is to, to import the file that ended up on our server.
+[21:43.5 - 21:45.2] Then we have to decide what to do with everything.
+[21:45.2 - 21:46.5] Oh, that's annoying for you.
+[21:46.5 - 21:46.6] Yeah.
+[21:46.6 - 21:52.2] And you use that if you want, but- Yeah, so like this one- Yeah, so like this one is the same ...
+[21:52.2 - 21:56.0] how much money have we, how much money have we made in the last, uh, since January?
+[21:56.0 - 21:57.8] This one, yeah.
+[21:57.8 - 22:00.2] So you're saying there's one that has- That's, that's actually very good.
+[22:00.2 - 22:02.3] Well, like this last one- Yeah ...
+[22:02.3 - 22:03.2] it wasn't an M.
+[22:03.2 - 22:03.9] It was a P.
+[22:03.9 - 22:05.6] We need to get, uh, we need to have, uh, five more good months.
+[22:05.6 - 22:08.1] The second one was in P, or?
+[22:08.1 - 22:08.9] Or like this one.
+[22:08.9 - 22:09.6] This one's an M.
+[22:09.6 - 22:10.5] Okay.
+[22:10.5 - 22:13.8] Well, but you don't But see, that one only had- If one's good, they're all gonna be good ...
+[22:13.8 - 22:14.3] they only have...
+[22:14.3 - 22:15.0] Well, what, what was it?
+[22:15.0 - 22:17.5] See, they only have one- I can't have a property- ...
+[22:17.5 - 22:18.0] two bedroom ...
+[22:18.0 - 22:19.2] sitting- And I don't know, for whatever reason- ...
+[22:19.2 - 22:23.0] more than 90 days where they don't do any work on Well, I think that I- Every day ...
+[22:23.0 - 22:24.6] maybe hid one- Yeah.
+[22:24.6 - 22:24.8] Yeah ...
+[22:24.8 - 22:26.0] because it was the AMI.
+[22:26.0 - 22:26.4] Yeah.
+[22:26.4 - 22:28.2] That might put it back.
+[22:28.2 - 22:28.5] To what?
+[22:28.5 - 22:28.7] To M.
+[22:28.7 - 22:29.7] What?
+[22:29.7 - 22:31.0] Wow.
+[22:31.0 - 22:32.1] Oh, no.
+[22:32.1 - 22:33.2] Oh, it made it worse, right?
+[22:33.2 - 22:34.6] Yeah.
+[22:34.6 - 22:40.0] I'll play around, oh, I'll play around with it and see if I can get them all- In M?
+[22:40.0 - 22:40.5] Mm-hmm.
+[22:40.5 - 22:41.1] I understand, though.
+[22:41.1 - 22:41.9] You can't leave a house sitting empty for too long.
+[22:41.9 - 22:43.0] There's a couple ways you can do it.
+[22:43.0 - 22:45.7] I mean, I can always just like move it and then- Yeah ...
+[22:45.7 - 22:47.9] and then do something that makes sense there.
+[22:47.9 - 22:50.1] Is the computer even gonna fit in your car, Bob?
+[22:50.1 - 22:51.9] It's lower than Ray's.
+[22:51.9 - 22:55.0] You know, I was like, that's getting no rent.
+[22:55.0 - 22:58.0] Kind of tiny car for the big old machine.
+[22:58.0 - 22:59.9] Yeah, I guess just- All right.
+[22:59.9 - 23:00.2] Well- ...
+[23:00.2 - 23:01.7] send me that, and I'll- Yeah.
+[23:01.7 - 23:02.9] We'll work my way around it ...
+[23:02.9 - 23:02.9] play around with it.
+[23:02.9 - 23:03.6] Nice meeting everyone.
+[23:03.6 - 23:04.2] Yeah, likewise.
+[23:04.2 - 23:04.4] Yeah.
+[23:04.4 - 23:06.4] Nice meeting you, Mark.
+[23:06.4 - 23:07.9] Good seeing you.
+[23:07.9 - 23:08.3] Yeah.
+[23:08.3 - 23:10.1] Oh, you hadn't met Mark?
+[23:10.1 - 23:12.7] No, no.
+[23:12.7 - 23:12.8] Nice to meet you.
+[23:12.8 - 23:13.7] You hadn't met Mark either?
+[23:13.7 - 23:14.6] Mark?
+[23:14.6 - 23:15.8] No, I haven't met Mark in person.
+[23:15.8 - 23:16.1] Oh.
+[23:16.1 - 23:17.5] I feel like I know him, though.
+[23:17.5 - 23:19.6] You are, y'all talk like you all are best of friends.
+[23:19.6 - 23:22.2] Um, oh my gosh.
+[23:22.2 - 23:23.2] That is a pretty big server.
+[23:23.2 - 23:24.5] Glad you got to see me.
+[23:24.5 - 23:30.4] I don't think we're gonna go out there and agree to sell it for 2,900,000 and pay you a full commission.
+[23:30.4 - 23:39.1] Over here?
+[23:39.1 - 23:48.3] Cool.
+[23:48.3 - 23:58.2] These two.
+[23:58.2 - 23:59.9] What a good-
+[24:00.0 - 24:01.1] I lose that kind of money.
+[24:01.1 - 24:19.0] I
+[24:19.0 - 24:21.1] have a couple questions for you before we finish.
+[24:21.1 - 24:22.1] Yes.
+[24:22.1 - 24:24.6] I want to answer all your doggone questions.
+[24:24.6 - 24:25.6] That's why I'm here today.
+[24:25.6 - 24:26.5] Yeah.
+[24:26.5 - 24:27.4] It's pretty basic.
+[24:27.4 - 24:28.1] Yeah.
+[24:28.1 - 24:35.1] So I'm basically investing in this thing based on, you know, you and my, uh, u- understanding it.
+[24:35.1 - 24:36.7] Yeah.
+[24:36.7 - 24:40.4] So I want to- Um, here's the thing that's gonna hold it up if you give me the wrong answer.
+[24:40.4 - 24:42.5] Okay.
+[24:42.5 - 24:47.2] How much money have you got commitments for besides me?
+[24:47.2 - 24:48.6] Besides you?
+[24:48.6 - 24:49.2] Yeah.
+[24:49.2 - 24:49.8] $4.7 so far.
+[24:49.8 - 24:51.5] Okay.
+[24:51.5 - 24:57.0] My next question is, how much money do you need to actually do this thing?
+[24:57.0 - 25:01.2] You were trying to raise $25 million, and you have, let's say, call it $5 million now.
+[25:01.2 - 25:01.5] No, no.
+[25:01.5 - 25:06.5] I'm trying to raise five off a $25 million valuation, so I'm 90% raised.
+[25:06.5 - 25:07.4] Oh, oh, okay.
+[25:07.4 - 25:09.7] Yeah, I'm only giving up 20%.
+[25:09.7 - 25:14.2] If you want to invest more, I'm willing to go up to 30%, not one- No, I, I, I get that.
+[25:14.2 - 25:15.7] That's not my issue is gonna be.
+[25:15.7 - 25:22.9] Um- The 25 is the current valuation, and I'm only raising up 20% of the five million.
+[25:22.9 - 25:23.2] Okay.
+[25:23.2 - 25:24.9] I thought you were trying to raise $25 million.
+[25:24.9 - 25:25.5] No.
+[25:25.5 - 25:27.5] And then I'm saying, well, if you're not gonna be sure...
+[25:27.5 - 25:31.8] And how long will this $5 million last you?
+[25:31.8 - 25:33.6] That gives me the runway for one year.
+[25:33.6 - 25:34.2] What?
+[25:34.2 - 25:35.0] One year.
+[25:35.0 - 25:36.3] Gives me the runway for one year.
+[25:36.3 - 25:36.8] Okay.
+[25:36.8 - 25:41.3] That's pretty much my only question.
+[25:41.3 - 25:41.7] Yep.
+[25:41.7 - 25:44.2] I wanna show you something 'cause we actually launched today.
+[25:44.2 - 25:45.6] Okay.
+[25:45.6 - 25:46.7] But...
+[25:46.7 - 25:52.3] And this is where our valuation just went up by, you know, um, all the way- I have a whole bunch of other questions.
+[25:52.3 - 25:54.9] If you didn't answer that question right, like you- ...
+[25:54.9 - 25:56.8] said that you raised most of your money- Yeah.
+[25:56.8 - 25:57.8] I raised- Um- ...
+[25:57.8 - 26:00.0] 90% of it, so.
+[26:00.0 - 26:01.4] Do you have the subscription agreement?
+[26:01.4 - 26:04.0] Uh, SAFE agreement?
+[26:04.0 - 26:06.0] The subscription agreement to invest.
+[26:06.0 - 26:07.7] Uh, we do SAFE.
+[26:07.7 - 26:09.2] SAFE.
+[26:09.2 - 26:11.0] Do you know what is SAFE?
+[26:11.0 - 26:13.1] Okay, it's a SAFE note.
+[26:13.1 - 26:14.2] I, I'll explain.
+[26:14.2 - 26:17.4] It's a standard, um, agreement for future equity.
+[26:17.4 - 26:18.6] Okay.
+[26:18.6 - 26:20.2] Do you have it, the agreement?
+[26:20.2 - 26:21.5] Yeah, I can show you.
+[26:21.5 - 26:23.0] Um, so I want to show you something.
+[26:23.0 - 26:24.2] Today we launched.
+[26:24.2 - 26:25.2] That's today.
+[26:25.2 - 26:26.9] What the hell?
+[26:26.9 - 26:31.4] Now, it doesn't say much to you, but let me do the- Well, for one day it is.
+[26:31.4 - 26:36.8] But let me do the- So, uh, the only thing that- I like to know for one day rather than- ...
+[26:36.8 - 26:36.9] this little thing- ...
+[26:36.9 - 26:36.9] $30,000.
+[26:36.9 - 26:38.3] So a hundred, say just $100,000.
+[26:38.3 - 26:41.1] Actually, say it's 100,000 'cause that's the first day, right?
+[26:41.1 - 26:43.2] So we might be shorter.
+[26:43.2 - 26:44.2] Yeah, it's fine.
+[26:44.2 - 26:44.9] You know, it's a five per year.
+[26:44.9 - 26:45.3] It's just a magic.
+[26:45.3 - 26:46.5] Yeah, you just magic.
+[26:46.5 - 26:48.7] It'll stick- That's $36 million of revenue.
+[26:48.7 - 26:51.3] Even if I could do just 2X on the company- My- ...
+[26:51.3 - 26:52.0] that's $72 million in revenue ...
+[26:52.0 - 26:53.5] yeah, yeah, that's fine.
+[26:53.5 - 26:54.7] It should increase significantly.
+[26:54.7 - 26:55.8] And, and how much, uh...
+[26:55.8 - 26:58.5] On $36 million in revenue, how much of it is profit?
+[26:58.5 - 27:02.4] Um, about 37 to 40%.
+[27:02.4 - 27:03.0] Okay.
+[27:03.0 - 27:04.5] All right.
+[27:04.5 - 27:05.6] And that's why it's better.
+[27:05.6 - 27:10.0] If you want, I can walk you through- Wait, can you give me the, um- SAFE?
+[27:10.0 - 27:12.1] Um, I can- Hold on, let me...
+[27:12.1 - 27:13.8] I gotta deal with this guy and...
+[27:13.8 - 27:20.3] Let me just call this guy up and tell him.
+[27:20.3 - 27:22.4] Okay, so I'm in.
+[27:22.4 - 27:25.1] I'll tell you the amount after I read your SAFE agreement.
+[27:25.1 - 27:30.0] Hey, so I'm coming there, I'm coming there tomorrow.
+[27:30.0 - 27:31.7] Where now?
+[27:31.7 - 27:34.1] I land tomorrow at, at eight o'clock.
+[27:34.1 - 27:40.2] Oh.
+[27:40.2 - 27:40.8] Yeah, okay.
+[27:40.8 - 27:46.6] So, uh, figure you'll hear from me, uh, uh, unless I get in at a reasonable time.
+[27:46.6 - 27:48.0] I'll, I'll call you on Friday.
+[27:48.0 - 27:52.3] So you have my new, you have my WhatsApp number.
+[27:52.3 - 27:53.5] You texted me on it.
+[27:53.5 - 27:55.8] It's not the same number as my phone number.
+[27:55.8 - 27:58.5] Okay.
+[27:58.5 - 28:01.8] Yeah, okay.
+[28:01.8 - 28:03.8] And you can talk to me all on WhatsApp.
+[28:03.8 - 28:05.7] You don't have to call me, text me on anything else.
+[28:05.7 - 28:07.2] I, I, I respond on WhatsApp.
+[28:07.2 - 28:09.9] 99% of my people talk to me on WhatsApp.
+[28:09.9 - 28:13.1] Okay.
+[28:13.1 - 28:14.3] All right.
+[28:14.3 - 28:18.0] So, uh, you're in, uh, you're in Miami now, huh?
+[28:18.0 - 28:18.0] Miami.
+[28:18.0 - 28:18.6] I'm sitting in a bar waiting for you.
+[28:18.6 - 28:23.4] We've been talking to some hot- What bar?
+[28:23.4 - 28:26.5] Um, Flannigan's right here in Downtown.
+[28:26.5 - 28:27.6] Oh, God.
+[28:27.6 - 28:28.8] Is that a dump?
+[28:28.8 - 28:32.1] Oh my God.
+[28:32.1 - 28:32.8] Oh my God.
+[28:32.8 - 28:34.6] I say, I go to Flannigan's all the time.
+[28:34.6 - 28:35.8] I know what a dump it is.
+[28:35.8 - 28:45.6] I know, the chicken wings, everything that's, uh, unhealthy for you.
+[28:45.6 - 28:46.5] All right.
+[28:46.5 - 28:47.9] All right.
+[28:47.9 - 28:51.0] All right, I'll see you tom- I'll see you on Friday probably.
+[28:51.0 - 28:51.6] Okay.
+[28:51.6 - 28:52.8] All right.
+[28:52.8 - 28:53.1] Bye.
+[28:53.1 - 29:03.3] Uh,
+[29:03.3 - 29:08.0] I'm just trying to find the original SAFE, and then I'm gonna email it to you.
+[29:08.0 - 29:10.5] And what exactly...
+[29:10.5 - 29:16.8] You're saying this is a- Do you have a whiteboard?
+[29:16.8 - 29:19.2] I can show you how that works.
+[29:19.2 - 29:19.9] You have a what board?
+[29:19.9 - 29:21.3] A whiteboard.
+[29:21.3 - 29:22.1] That's a whiteboard.
+[29:22.1 - 29:22.8] It is?
+[29:22.8 - 29:23.4] Yeah.
+[29:23.4 - 29:24.4] I'm sorry.
+[29:24.4 - 29:27.7] Turn it on.
+[29:27.7 - 29:28.8] Hopefully it'll still work.
+[29:28.8 - 29:29.8] Well, let me see.
+[29:29.8 - 29:31.6] I thought it's a TV.
+[29:31.6 - 29:33.7] It's a lot of things.
+[29:33.7 - 29:34.8] Well- It's fancy.
+[29:34.8 - 29:36.3] Fancy.
+[29:36.3 - 29:38.6] So I listened into the API.
+[29:38.6 - 29:42.6] So are you guys starting exposing, like, certain data points to people or?
+[29:42.6 - 29:43.8] Oh, no.
+[29:43.8 - 29:52.1] We just create reporting systems that need to be pulled from the software that Mark created, so we kind of work together to share- Got it ...
+[29:52.1 - 29:52.7] endpoints, yeah.
+[29:52.7 - 29:55.1] Okay.
+[29:55.1 - 30:13.3] We're
+[30:13.3 - 30:14.7] gonna have to buy another one of these.
+[30:14.7 - 30:29.8] That's
+[30:29.8 - 30:31.7] looks cool if it works.
+[30:31.7 - 30:37.6] The, the thing is, is it's, uh, past its e- its software life on it.
+[30:37.6 - 30:42.2] So it works, but we're just gonna have to buy a new one.
+[30:42.2 - 30:46.4] There we go.
+[30:46.4 - 30:51.8] Here, let me give you a pen.
+[30:51.8 - 30:52.6] Uh-huh.
+[30:52.6 - 30:56.6] Here.
+[30:56.6 - 30:57.1] Thank you.
+[30:57.1 - 31:01.4] Okay, so how the model works, right?
+[31:01.4 - 31:04.3] So OnlyFans, here is the creator.
+[31:04.3 - 31:05.9] Is it working?
+[31:05.9 - 31:06.5] Okay.
+[31:06.5 - 31:06.8] Yeah.
+[31:06.8 - 31:08.0] So this is the creator, right?
+[31:08.0 - 31:12.7] Say the creator made a million dollars, just for simple numbers.
+[31:12.7 - 31:20.8] Then from OnlyFans, the creator gets out of eight hundred thousand dollars, but this really goes to two places, the agency and the creator.
+[31:20.8 - 31:25.1] So four hundred K goes to the agency, four hundred K goes to the creator.
+[31:25.1 - 31:32.3] Better put agency and, and what are the other- Um, so I'm gonna put agency and creator.
+[31:32.3 - 31:32.8] Okay.
+[31:32.8 - 31:34.7] I'm gonna put CR 'cause I- Okay.
+[31:34.7 - 31:38.6] You have a fifty-fifty split with, like, somebody like Lara or something.
+[31:38.6 - 31:40.4] So essentially, that's an agency model, right?
+[31:40.4 - 31:40.5] Yeah.
+[31:40.5 - 31:41.5] Like somebody like Lara.
+[31:41.5 - 31:42.7] I have a fifty-fifty split.
+[31:42.7 - 31:44.8] Now, the creator gets her money.
+[31:44.8 - 31:46.6] She's happy with whatever she got, right?
+[31:46.6 - 31:47.4] And she pays taxes.
+[31:47.4 - 31:51.8] Me, as an agency, I go to many different places with this four hundred K.
+[31:51.8 - 31:54.6] So essentially, about twenty percent is chatting.
+[31:54.6 - 31:59.7] So eighty thousand dollars I'm gonna pay to Chatters as commission on this one million dollars.
+[31:59.7 - 32:02.4] I have about twenty percent marketing cost.
+[32:02.4 - 32:05.7] So give or take another eighty thousand dollars that will go to marketing.
+[32:05.7 - 32:11.0] So say like Chat, Chat, marketing.
+[32:11.0 - 32:16.9] And then I have maybe about five to seven percent operational costs.
+[32:16.9 - 32:19.7] So say give or take like twenty-five thousand dollars.
+[32:19.7 - 32:23.5] Twenty-five K costs.
+[32:23.5 - 32:34.2] So after all this, um, essentially, what I'm making, what, where I'm making money is, is hundred
+[32:34.2 - 32:35.9] to two hundred K give or take.
+[32:35.9 - 32:37.2] So I'm making about two hundred K.
+[32:37.2 - 32:39.1] Gentlemen.
+[32:39.1 - 32:43.5] Now, I have additional, essentially platform and running costs.
+[32:43.5 - 32:43.9] Where is it?
+[32:43.9 - 32:46.1] Oh.
+[32:46.1 - 32:49.1] So I have additional platform and running cost, which is about...
+[32:49.1 - 32:51.8] How, how do I erase from this?
+[32:51.8 - 33:01.8] So the platform and running costs are four hundred
+[33:01.8 - 33:01.9] K.
+[33:01.9 - 33:12.0] So essentially, after every four hundred K, I'm only making a hundred K profit, which if you see that we started from
+[33:12.0 - 33:15.2] one million earnings, my agency makes a hundred K profit.
+[33:15.2 - 33:17.5] So ten percent- Is this considered my, uh, the agency?
+[33:17.5 - 33:18.9] That's not your investment.
+[33:18.9 - 33:21.6] I'm just showing you the model, what's the difference, and why it's better.
+[33:21.6 - 33:22.1] Okay.
+[33:22.1 - 33:22.6] Okay?
+[33:22.6 - 33:24.4] So this is the original OnlyFans model.
+[33:24.4 - 33:26.9] Every one million I make, I make a hundred thousand profit.
+[33:26.9 - 33:27.1] Right.
+[33:27.1 - 33:27.4] Okay.
+[33:27.4 - 33:27.6] Okay?
+[33:27.6 - 33:35.2] Now, how SelectX works, so this is OnlyFans, right?
+[33:35.2 - 33:38.5] How SelectX works, I'm gonna say SelectX.
+[33:38.5 - 33:40.9] That's SelectX.
+[33:40.9 - 33:40.9] Okay.
+[33:40.9 - 33:42.0] That, that's the new one.
+[33:42.0 - 33:42.3] Yeah.
+[33:42.3 - 33:42.8] Okay.
+[33:42.8 - 33:44.7] So essentially, the creator, same thing.
+[33:44.7 - 33:48.5] We start with the creator, makes a million dollars, right?
+[33:48.5 - 33:53.2] Out of the million, here's what SelectX gets out.
+[33:53.2 - 33:57.7] First, they take a platform fee, eight-- thirty thousand, thirty percent.
+[33:57.7 - 34:00.3] So essentially two hundred thousand dollars.
+[34:00.3 - 34:08.3] Out of this two hundred thousand, there's a little bit of expense, which is a three point twenty-nine percent, uh, uh, credit card fee.
+[34:08.3 - 34:19.0] So it's essentially like about, what, six thousand dollars, uh, taken- Why isn't the four hundred there on the same, on the, on the, uh, SelectX?
+[34:19.0 - 34:22.5] 'Cause this, I'm showing you what the agency gets, what the creator gets, right?
+[34:22.5 - 34:22.7] All right.
+[34:22.7 - 34:23.0] Okay.
+[34:23.0 - 34:26.6] Here, I'm showing you all what SelectX gets from the money, okay?
+[34:26.6 - 34:32.5] Um, so the two hundred K is essentially only seventy percent of it.
+[34:32.5 - 34:37.7] So that says about a hundred and forty K profit.
+[34:37.7 - 34:44.5] So from every million, SelectX makes first a hundred and forty K profit.
+[34:44.5 - 34:45.7] That's the clean profit.
+[34:45.7 - 34:47.0] You're saying a hundred and forty?
+[34:47.0 - 34:48.0] Hundred and forty.
+[34:48.0 - 34:51.4] From every million, that's the first profit streamline.
+[34:51.4 - 34:51.7] Okay?
+[34:51.7 - 34:55.3] Why, why, why would it be any different than the top one except for the second row?
+[34:55.3 - 35:00.7] Because me as an agency, after every million, I'm only making a hundred K profit.
+[35:00.7 - 35:03.5] I understand that, but, uh, uh, what happens?
+[35:03.5 - 35:05.2] Where did the other eight hundred thousand go?
+[35:05.2 - 35:07.7] So I, I, I'm showing you.
+[35:07.7 - 35:08.3] Okay.
+[35:08.3 - 35:08.5] Okay.
+[35:08.5 - 35:08.9] I'm showing you.
+[35:08.9 - 35:12.3] So then the creator gets eight hundred K.
+[35:12.3 - 35:12.5] Okay.
+[35:12.5 - 35:15.1] Right?
+[35:15.1 - 35:17.7] And the creator shares with the agency.
+[35:17.7 - 35:20.6] However, now what...
+[35:20.6 - 35:21.8] So this is SelectX.
+[35:21.8 - 35:23.3] I'm gonna just put it as X like this.
+[35:23.3 - 35:24.8] This is SelectX, right?
+[35:24.8 - 35:27.1] This eight hundred K goes two ways.
+[35:27.1 - 35:37.1] It goes to the agency, four hundred K, and it goes to the creator, four hundred
+[35:37.1 - 35:39.8] K.
+[35:39.8 - 35:48.1] But now the agency's marketing, which is this hundred, uh, which is this eighty K cost, now it goes back to SelectX.
+[35:48.1 - 35:56.3] So eighty K goes back to SelectX, where we are making ninety-seven percent profit because we are just recycling on the platform.
+[35:56.3 - 35:59.8] So essentially, now I already made two hundred and thirty K-
+[36:00.2 - 36:01.6] Out of the $1 million.
+[36:01.6 - 36:01.9] Okay?
+[36:01.9 - 36:07.8] What happens to the other, um, uh, uh, 320,000 that the agency got?
+[36:07.8 - 36:11.9] So this, this is the agency's 320,000, right?
+[36:11.9 - 36:14.9] So it goes to chat marketing, ops, and platform fees.
+[36:14.9 - 36:19.6] And that's why I'm only making the 100K profit.
+[36:19.6 - 36:26.5] Okay, but Select X is still paying, uh, 320,000 to the agency, so agency fees.
+[36:26.5 - 36:30.5] Yeah, so I'm, I'm still paying 320,000 to agency fees.
+[36:30.5 - 36:32.9] I can make more profit on that essentially.
+[36:32.9 - 36:38.4] However, what I can do now, I can offer the creator additional marketing.
+[36:38.4 - 36:41.3] This is gonna be creator marketing.
+[36:41.3 - 36:51.6] Where if you remember, I showed you that every $1.40 I invest, I make $12 back.
+[36:51.6 - 36:57.1] So essentially I have an 8X for every dollar I make.
+[36:57.1 - 37:03.0] Because I make 8X on every marketing dollar, I'm giving back 3X to the creator.
+[37:03.0 - 37:07.9] 3X- I'm sorry, my writing is like- 3X to the creator.
+[37:07.9 - 37:11.3] Yeah, at this point in time, we're not gonna sell the house at that price.
+[37:11.3 - 37:21.0] Okay, so here's the logic.
+[37:21.0 - 37:24.2] Now I'm dipping into the creator's money.
+[37:24.2 - 37:29.3] I'm telling the creator that they can use their pending earnings to additional marketing.
+[37:29.3 - 37:32.1] I make 8X on every marketing dollar I do.
+[37:32.1 - 37:39.8] I give back 3X to the creator to incentivize the creator to make money, but I'm making 5X on every marketing dollar spent.
+[37:39.8 - 37:46.9] So I'm expecting a 20% dip in the creator's revenue, which is about another $80,000.
+[37:46.9 - 37:50.1] Um, and on the $80,000, I'm making 5X.
+[37:50.1 - 38:00.2] So essentially, I'm making three to $400,000 on it, which means from 1 million spent in the beginning, I can make up to 1.5
+[38:00.2 - 38:05.7] to 2 million, and Select X's dip is close to $400,000 instead of the $100000 from before.
+[38:05.7 - 38:08.9] Wait, what you're saying there, because remember my ears aren't so great- Yeah ...
+[38:08.9 - 38:13.2] is, is that you're basically getting them to reinvest in themselves so that you make more money.
+[38:13.2 - 38:16.8] For the incentives, because I'm giving them 3X on every reinvested dollar.
+[38:16.8 - 38:17.0] Right.
+[38:17.0 - 38:18.2] Okay.
+[38:18.2 - 38:26.9] Uh, on the three 20 that's coming in, that's still going as agency fees to pay for, uh- Yeah ...
+[38:26.9 - 38:28.9] agency expenses, but that's not going to Select X?
+[38:28.9 - 38:34.1] No, the three 20 still goes to the agency, and they distribute their fees as they want.
+[38:34.1 - 38:36.8] But I'm giving them- Where is the cost structure for the three 20?
+[38:36.8 - 38:39.8] Is that at Select X or is that somewhere else?
+[38:39.8 - 38:46.5] So where I'm helping to the agencies, that about 100K goes to platform fees right now every month for the agencies.
+[38:46.5 - 38:53.1] The reason why, because OnlyFans is not supporting the agencies, so we have to pay for third parties, SAS proxies.
+[38:53.1 - 38:53.5] It's a lot of cost.
+[38:53.5 - 38:54.2] I see that.
+[38:54.2 - 38:57.8] But you're, you're taking- Select X- You're, you're taking...
+[38:57.8 - 39:03.7] You took three 20 per month out of the 400.
+[39:03.7 - 39:05.7] We, we only got 80K, correct?
+[39:05.7 - 39:06.4] No.
+[39:06.4 - 39:12.2] Out, so out of the 400, we get 80 plus 80, plus the marketing budget.
+[39:12.2 - 39:13.1] Right.
+[39:13.1 - 39:16.2] Where does the, where does the, where does the rest of the money go to?
+[39:16.2 - 39:20.4] The agent's gonna pay that because they get 80% of the platform.
+[39:20.4 - 39:21.5] And you're the agency.
+[39:21.5 - 39:24.4] I'm most of these creators' agency.
+[39:24.4 - 39:25.0] Yeah, I know.
+[39:25.0 - 39:26.4] But you're most of the agencies, right?
+[39:26.4 - 39:26.6] Yes.
+[39:26.6 - 39:31.2] But at this point, I don't care if I'm the agency or not because I can scale.
+[39:31.2 - 39:34.4] As an agency, I can only have like 100 creators, right?
+[39:34.4 - 39:39.5] So I have 100 creators, hun- uh, a pop, you know, I'm making 100K on each creator, say.
+[39:39.5 - 39:44.3] But if I have a platform, I can- What's the expenses that the agency has?
+[39:44.3 - 39:48.4] Um, again, chat marketing, ops, and platform fees.
+[39:48.4 - 39:48.6] I know.
+[39:48.6 - 39:50.0] How much does that cost?
+[39:50.0 - 39:50.6] Here.
+[39:50.6 - 39:55.4] So every million dollar we make, it c- the chat costs me $80,000.
+[39:55.4 - 39:57.2] The marketing costs me 80 to 100K.
+[39:57.2 - 40:05.0] Ops cost me about 25K, and the platform fees are really high, so- Well, there's no platform fees anymore, so it's only, uh, uh- And for saving that- ...
+[40:05.0 - 40:06.7] 185,000 out of the 400.
+[40:06.7 - 40:06.9] Yes.
+[40:06.9 - 40:14.5] But the thing is the, the reason why I'm not charging platform fees, because I'm incentivizing the agencies to come to my platform.
+[40:14.5 - 40:15.9] That's my incentive to them.
+[40:15.9 - 40:20.5] Now, if they are saving 10% of their budget, they are coming to my platform.
+[40:20.5 - 40:24.7] 85% of OnlyFans is agency-supported creators.
+[40:24.7 - 40:31.6] So if I get 85% of eight billion to come to my platform because I'm not charging them any fees, then I'm winning.
+[40:31.6 - 40:32.7] Yes.
+[40:32.7 - 40:38.0] So that, that addresses your question of how the users are coming, right?
+[40:38.0 - 40:39.9] No, I, I understand what you're saying.
+[40:39.9 - 40:50.0] You're still making an agency fee, so your agency fee is still, um,
+[40:50.0 - 40:51.3] 320,000.
+[40:51.3 - 40:52.8] Yes.
+[40:52.8 - 40:59.9] And your, your expenses on that three 20 are 185.
+[40:59.9 - 41:00.6] Yes.
+[41:00.6 - 41:04.4] So you're making an additional 125 on this whole model on the second model.
+[41:04.4 - 41:05.5] Yes.
+[41:05.5 - 41:05.8] Okay.
+[41:05.8 - 41:06.7] I just wanna understand it.
+[41:06.7 - 41:08.7] I'm not disagreeing with it, I just wanna understanding it.
+[41:08.7 - 41:09.2] Yeah.
+[41:09.2 - 41:18.5] And then the other thing is, but as my agency, say I onboard 100 models, so I'm making an additional 130, 140 on those 100 models, right?
+[41:18.5 - 41:25.8] But if I have 1,000 models on the platform, then out of the other 900, I'm still making $160,000.
+[41:25.8 - 41:31.3] So pretty much that's, that's the whole point of the platform, that I can scale.
+[41:31.3 - 41:34.0] I understand what you're saying the marketplace is.
+[41:34.0 - 41:35.9] I understand where we're coming from.
+[41:35.9 - 41:38.9] We're reducing pricing several hundred thousand dollars.
+[41:38.9 - 41:40.9] Yeah.
+[41:40.9 - 41:42.9] Hold on.
+[41:42.9 - 41:49.7] Hold on, my phone for some reason- No, I got you.
+[41:49.7 - 41:53.5] Okay.
+[41:53.5 - 42:01.1] What I would like to see you do- Yep ...
+[42:01.1 - 42:11.1] is- Pay us part of the agency fee that you're getting now and then,
+[42:11.1 - 42:19.1] uh, upfront until we get some of our investment back, and then you take it from us.
+[42:19.1 - 42:27.5] We-- W-In, in, in real estate, we call it basically a preferred return.
+[42:27.5 - 42:37.5] So you pay us part of the agency fee that you're getting, and then let's say you, you advance us five hundred thousand dollars on the agency fee over a year
+[42:37.5 - 42:42.0] period of time, then you take the five hundred thousand out at the end of the year.
+[42:42.0 - 42:46.8] Well, depends on how big is the investment we are talking about.
+[42:46.8 - 42:48.2] I think you do it for everybody.
+[42:48.2 - 42:50.6] I mean, that's what's done in real estate deals anyway.
+[42:50.6 - 42:54.9] Um- No, I'm not doing it for anybody else, so that's why I'm- Oh, okay.
+[42:54.9 - 42:55.6] I see what you're saying.
+[42:55.6 - 42:55.9] All right.
+[42:55.9 - 42:58.7] 'Cause my agency, look, my agency, I don't have investors.
+[42:58.7 - 42:59.6] I make good money on it.
+[42:59.6 - 43:02.3] I'm, I'm happy to do a hybrid, but- Okay.
+[43:02.3 - 43:03.2] But do you have this...
+[43:03.2 - 43:07.3] Uh, by the way, whatever this is, you have a-- What kind of agreement is it?
+[43:07.3 - 43:09.9] For the platform?
+[43:09.9 - 43:16.2] When I give you the check, what do I get in return for writing, in wr- in writing of what I bought?
+[43:16.2 - 43:17.0] Yeah.
+[43:17.0 - 43:20.1] So you're getting a SAFE agreement.
+[43:20.1 - 43:27.3] So a SAFE is like essentially a simple agreement of future equity, which means you're gonna get three things out of this deal, essentially.
+[43:27.3 - 43:29.0] You haven't had those agreements done yet?
+[43:29.0 - 43:29.8] Yes, it's here.
+[43:29.8 - 43:30.6] I can send it to you.
+[43:30.6 - 43:31.1] Yeah.
+[43:31.1 - 43:34.1] I'm gonna have my attorney review them so you can get your money quicker, right?
+[43:34.1 - 43:34.8] Yeah, that's no problem.
+[43:34.8 - 43:35.9] I can send it to you.
+[43:35.9 - 43:37.0] Don't worry.
+[43:37.0 - 43:40.1] So essentially, three things happening with this agreement, okay?
+[43:40.1 - 43:44.0] Uh, number one, you're getting a twenty percent discount on the shares.
+[43:44.0 - 43:48.0] So say you invest a million dollars- I'm, I'm not arguing with that at all.
+[43:48.0 - 43:55.2] I'm, I'm just underst-- I, I just wanna be able to take whatever agreement you're gonna give to me, have an attorney review it, and get you your money as quickly as possible.
+[43:55.2 - 43:59.0] No, I, I understand, but I'm just, I just want to be transparent, you know?
+[43:59.0 - 43:59.5] Like- Okay.
+[43:59.5 - 43:59.6] ...
+[43:59.6 - 44:00.6] I, I think you know me already.
+[44:00.6 - 44:01.6] I say as I do.
+[44:01.6 - 44:02.4] Okay.
+[44:02.4 - 44:02.9] Okay.
+[44:02.9 - 44:06.5] And- So, so you get twenty percent extra shares, whatever you're investing.
+[44:06.5 - 44:09.4] Say you invest a million dollar, you get one point two Berkov shares- Right.
+[44:09.4 - 44:09.4] ...
+[44:09.4 - 44:11.3] currently with the twenty-five million valuation.
+[44:11.3 - 44:13.5] SAFE is not for valuation.
+[44:13.5 - 44:21.5] At the financial point where we are, uh, you know, raising again, gonna be a hundred million dollars, say you take four X in those shares.
+[44:21.5 - 44:48.9] So in two years,
+[44:48.9 - 45:26.8] those
+[45:26.8 - 45:37.9] are worth ten times more
+[45:37.9 - 45:38.6] than one point two.
+[45:38.6 - 45:59.3] So what we're
+[45:59.3 - 47:45.0] gonna
+[47:45.0 - 47:56.4] do is we're gonna lock in two
+[47:56.4 - 47:59.9] million shares for you at twenty percent discount, which is two hundred thousand dollars.
+[47:59.9 - 47:59.9] And in that time, when the company is worth more than twenty-five million dollars, you will get paid out on those two million shares.
+[47:59.9 - 47:59.9] Let me get into your thought.
+[47:59.9 - 47:59.9] Let's say we have a twenty dollar safe, okay?
+[47:59.9 - 47:60.0] And I'm giving him one title to the property before that, and I'm giving him twelve dollars and ninety-nine cents.
+[47:60.0 - 47:60.0] And the offer was that I'm giving him the ability to cover the last three years of stock, and I also give him the option to buy more stock in the future.
+[47:60.0 - 47:60.0] So he's a little bit more secure than that offer would be.
+[47:60.0 - 47:60.0] So what I'm, uh, concerned about is that I may be giving him too low of a price.
+[47:60.0 - 47:60.0] That makes sense to you?
+[47:60.0 - 47:60.0] Right after buying twelve million dollars worth of assets, you're gonna have maybe ten dollars by the end of it.
+[47:60.0 - 47:60.0] But my take on that is that I don't wanna take any risk.
+[47:60.0 - 47:60.0] And again, it's great to be in the box.
+[47:60.0 - 47:60.0] It's great to be in the box.
+[47:60.0 - 47:60.0] It's great to be in the box.
+[48:42.3 - 48:48.3] So for the sake of simplicity, we're gonna project these twelve point zero million dollar revenue the first month, okay?
+[48:48.3 - 48:52.8] If I go with the same hundred thirty-five thousand dollars- Let me ask you a question.
+[48:52.8 - 48:56.0] Is a Tuesday any better day than a Saturday for example?
+[48:56.0 - 48:60.0] The weekends are bad or worse, but the weekdays are good.
+[48:60.0 - 49:00.4] Okay.
+[49:00.4 - 49:03.0] The weekends they all party, nobody's there.
+[49:03.0 - 49:08.4] So hundred thirty-five thousand, um, times thirty for...
+[49:08.4 - 49:11.4] So we projected one point four million.
+[49:11.4 - 49:14.3] Remember I told you I'm projecting very low for every month.
+[49:14.3 - 49:18.3] If we go with the same numbers, we are drawing four million this month.
+[49:18.3 - 49:18.8] Uh-huh.
+[49:18.8 - 49:20.7] So it's three X what I projected.
+[49:20.7 - 49:27.4] And that means your first dividend would be August first.
+[49:27.4 - 49:37.6] Um, so the one point four million projection based on that, your first dividend
+[49:37.6 - 49:39.6] would be ten thousand dollars end of the month.
+[49:39.6 - 49:45.3] Um, now if it's gonna grow like this, you're gonna get a thirty thousand dollar dividend in thirty days.
+[49:45.3 - 49:51.3] So essentially you're getting like three percent of your investment in thirty days.
+[49:51.3 - 49:52.3] Let me ask you a question.
+[49:52.3 - 49:56.6] Of the, uh, four or five million that you raised or whatever, where is the money sitting right now?
+[49:56.6 - 50:00.3] Um, it's on Teletech Technologies' bank account.
+[50:00.3 - 50:01.3] Not all of them.
+[50:01.3 - 50:01.3] Can I see it?
+[50:01.3 - 50:03.2] Yeah, not all of them, 'cause we started spending.
+[50:03.2 - 50:05.0] Okay, whatever you have.
+[50:05.0 - 50:11.1] Yeah, but I'll show you.
+[50:11.1 - 50:14.9] Yeah, so this is what I own.
+[50:14.9 - 50:18.3] So we have still three hundred and...
+[50:18.3 - 50:21.5] Three million three hundred and forty-one thousand dollars in my bank account.
+[50:21.5 - 50:22.1] Do me a favor.
+[50:22.1 - 50:26.1] What I'd like you to do is do a complete accounting on that for me, just to show me how much each person...
+[50:26.1 - 50:28.8] I don't care about the names so much as how much I've been told.
+[50:28.8 - 50:30.1] I know, I'll show you.
+[50:30.1 - 50:33.1] So it's in our data room.
+[50:33.1 - 50:35.3] Well, email it to me so I have it.
+[50:35.3 - 50:39.0] I think I did send it to you, but I can send it again, not a problem.
+[50:39.0 - 50:40.7] I'm sure I wouldn't know what it was if you do.
+[50:40.7 - 50:42.2] Yeah, I don't know the questions to ask.
+[50:42.2 - 50:43.2] I learn as I do.
+[50:43.2 - 50:44.6] Yeah, it's all good.
+[50:44.6 - 50:46.5] So this is our cap table, okay?
+[50:46.5 - 50:50.7] So the four hundred is, uh, four million seven hundred and thirty thousand dollars.
+[50:50.7 - 50:55.4] It's actually thirty thousand, it's just for some reason it's, uh, it's an issue.
+[50:55.4 - 50:57.5] So these are our cap table.
+[50:57.5 - 51:01.6] We have currently twenty, twenty-one investors 'cause the last one is not registered yet.
+[51:01.6 - 51:05.0] Um, their amount is- This billionaires club, who are these guys?
+[51:05.0 - 51:06.7] Uh, uh, the billionaire club?
+[51:06.7 - 51:08.3] They are from Slovakia.
+[51:08.3 - 51:10.0] They made OnlyFans' API.
+[51:10.0 - 51:13.3] The reason why is there's a, uh, billionaires in Miami.
+[51:13.3 - 51:14.7] I just thought it may be the same person.
+[51:14.7 - 51:16.2] No, th- no, they are from Slovakia.
+[51:16.2 - 51:18.5] They made OnlyFans' Rest API.
+[51:18.5 - 51:19.3] Okay.
+[51:19.3 - 51:20.5] So they invested in mine.
+[51:20.5 - 51:21.0] Okay.
+[51:21.0 - 51:23.3] And, um, yeah.
+[51:23.3 - 51:26.9] So I have Mark, he's our payment processor through Stripe.
+[51:26.9 - 51:28.5] Um, and then...
+[51:28.5 - 51:33.1] Yeah, if you have any questions, just let me know.
+[51:33.1 - 51:34.3] But there are all the amounts.
+[51:34.3 - 51:37.1] Like, some of them smaller, some of them bigger investors.
+[51:37.1 - 51:38.8] That's a hundred thousand dollar investment there.
+[51:38.8 - 51:40.1] Who's Robin Hood?
+[51:40.1 - 51:41.2] It's Robin Hood Ventures.
+[51:41.2 - 51:42.0] That's a cap...
+[51:42.0 - 51:43.1] venture capital investor.
+[51:43.1 - 51:46.6] Is that the same company that owns the, uh- The Robin Hood platform, yeah.
+[51:46.6 - 51:46.7] Oh.
+[51:46.7 - 51:47.7] And you got that to invest?
+[51:47.7 - 51:48.0] Yes.
+[51:48.0 - 51:49.8] Oh, that's impressive.
+[51:49.8 - 51:56.6] Yeah, Stripe came in through Mark Rafferty 'cause they didn't want to co- they want to come in as a private investor.
+[51:56.6 - 51:57.5] This Mark Rafferty.
+[51:57.5 - 52:00.7] Mark Rafferty, he is, uh, the payment processor guy.
+[52:00.7 - 52:02.8] You actually spoke to him, I think, at one time.
+[52:02.8 - 52:04.4] You were asking for a payment processor.
+[52:04.4 - 52:06.2] He is the Stripe contact.
+[52:06.2 - 52:07.8] He did build payment- I'm sorry, he's who?
+[52:07.8 - 52:08.9] He's a Stripe, Stripe.
+[52:08.9 - 52:09.2] Stripe.
+[52:09.2 - 52:10.5] The payment processor.
+[52:10.5 - 52:11.2] Oh, yeah, okay.
+[52:11.2 - 52:12.0] I remember talking to him.
+[52:12.0 - 52:13.3] Yeah, yeah, yeah, yeah, yeah, yeah.
+[52:13.3 - 52:15.2] Okay.
+[52:15.2 - 52:19.4] All right, so when can I have the agreements?
+[52:19.4 - 52:22.5] Uh, right now I can send you.
+[52:22.5 - 52:36.5] Um,
+[52:36.5 - 52:42.5] yeah, so where do I send it, Michael?
+[52:42.5 - 52:45.1] Should I send WhatsApp, or what's best for you?
+[52:45.1 - 52:55.2] Some people say you're right, and some people
+[52:55.2 - 52:57.0] completely disagree with you.
+[52:57.0 - 53:04.5] I don't know anything about the area, but I'm not willing to sell it and pay a full commission at that price.
+[53:04.5 - 53:14.5] I sent it to
+[53:14.5 - 53:14.5] you.
+[53:14.5 - 53:24.6] Maybe at the end of the year, when I get the listing back, I'll blow the house out where
+[53:24.6 - 53:34.8] I don't have to pay any commission and sell it for below three million dollars, but I'm not paying a full commission at
+[53:34.8 - 53:35.5] that price.
+[53:35.5 - 53:46.9] For a cheap price, I can have anybody sell it and not pay any commission.
+[53:46.9 - 54:04.9] Hey,
+[54:04.9 - 54:07.1] Marc, which, uh, which two cars did you want?
+[54:07.1 - 54:07.7] What?
+[54:07.7 - 54:09.6] Which two cars did you want the transformers on?
+[54:09.6 - 54:11.3] Is it the Rolls?
+[54:11.3 - 54:17.1] Uh, I'll put it on the, uh, the Rolls and the, um, the uh- The Roman?
+[54:17.1 - 54:17.8] The Roman, yeah.
+[54:17.8 - 54:21.0] Do you want the switchable one or the Rolls?
+[54:21.0 - 54:21.9] What?
+[54:21.9 - 54:22.7] The switchable one?
+[54:22.7 - 54:25.9] The only one of them actually lets you select how many people are in the car.
+[54:25.9 - 54:28.2] So if you want, it's like three- Well, obviously, I can't...
+[54:28.2 - 54:30.5] It doesn't matter on the other one.
+[54:30.5 - 54:33.1] The switchable one would be the, uh, Rolls then.
+[54:33.1 - 54:38.2] I only have two seats in the other one .
+[54:38.2 - 54:41.3] You got it?
+[54:41.3 - 54:42.4] I sent the motto.
+[54:42.4 - 54:42.6] What?
+[54:42.6 - 54:44.5] I sent you a motto.
+[54:44.5 - 54:54.5] So this is the
+[54:54.5 - 54:55.4] agreement in here?
+[54:55.4 - 54:56.9] Yeah, this is the same agreement.
+[54:56.9 - 55:02.3] I mean, you know, it's, it's somewhat flexible.
+[55:02.3 - 55:02.4] I, I, I...
+[55:02.4 - 55:05.5] All right, let me go ahead and send this to my lawyer right now.
+[55:05.5 - 55:10.8] And we did some modifications for investors if they wanted to.
+[55:10.8 - 55:15.3] So, you know, I'm, I'm not on flexible- I wouldn't even know what to tell you to modify yet because I don't understand.
+[55:15.3 - 55:15.8] Yeah.
+[55:15.8 - 55:18.4] No, I get it .
+[55:18.4 - 55:24.3] But this is a standard safe agreement that's very, uh, standard in investment for our dinners.
+[55:24.3 - 55:28.7] I didn't read it, so I can't even tell you that.
+[55:28.7 - 55:30.4] Yeah.
+[55:30.4 - 55:34.6] Well, see, I have a law degree, and I don't read contracts.
+[55:34.6 - 55:37.6] You're a law...
+[55:37.6 - 55:38.9] Which school did you go to school at?
+[55:38.9 - 55:40.2] Uh, I did Cambridge.
+[55:40.2 - 55:41.7] I did Cambridge Law.
+[55:41.7 - 55:42.4] Cambridge Law.
+[55:42.4 - 55:42.6] Where?
+[55:42.6 - 55:43.1] In England?
+[55:43.1 - 55:43.7] Mm-hmm.
+[55:43.7 - 55:52.1] Can you review this right away and let me know what you think?
+[55:52.1 - 55:55.5] Let me call my lawyer right now.
+[55:55.5 - 55:58.7] Sure.
+[55:58.7 - 56:00.0] Yeah, I'm going to Miami tomorrow.
+[56:00.0 - 56:03.4] I thought you were staying for the light work, no?
+[56:03.4 - 56:06.5] No, I, uh, I gotta get out of here and...
+[56:06.5 - 56:08.3] Because when I...
+[56:08.3 - 56:16.2] My boat's all fucked up, and I gotta see how to put this all, fixing it in Miami.
+[56:16.2 - 56:19.5] Marc, how are you?
+[56:19.5 - 56:20.4] Good.
+[56:20.4 - 56:30.2] You never got back to me with if you went out there and served Johnny with the, uh- The motion to compel?
+[56:30.2 - 56:30.6] Yeah.
+[56:30.6 - 56:31.9] Yeah.
+[56:31.9 - 56:42.0] Um, he's not here anymore,
+[56:42.0 - 56:42.0] but his attorney was served.
+[56:42.0 - 56:42.4] Okay.
+[56:42.4 - 56:49.7] Then why don't you serve the documents?
+[56:49.7 - 56:52.6] Um, yeah, yeah.
+[56:52.6 - 56:53.6] Um...
+[56:53.6 - 57:02.2] I mean, it, it can't be a, a very long document, Paul.
+[57:02.2 - 57:03.0] What did the guy say?
+[57:03.0 - 57:11.2] He's not gonna give you anything?
+[57:11.2 - 57:11.5] What?
+[57:11.5 - 57:18.2] I don't think he's gonna respond to anything.
+[57:18.2 - 57:19.8] Johnny didn't respond or the attorney didn't respond?
+[57:19.8 - 57:20.4] The attorney didn't respond.
+[57:20.4 - 57:23.3] Great.
+[57:23.3 - 57:32.1] Well, now he's gonna have to respond to a motion to compel and then, you know, if he doesn't respond to that, he's gonna get sanctioned and a lot of other things.
+[57:32.1 - 57:35.3] Yep.
+[57:35.3 - 57:40.6] So Sarah's been cooperative and Orr is not.
+[57:40.6 - 57:42.8] Orr is, um...
+[57:42.8 - 57:45.4] But Sarah has been very cooperative.
+[57:45.4 - 57:45.7] All right.
+[57:45.7 - 57:48.4] Well, I'll, I'll deal with, uh, getting Orr to cooperate.
+[57:48.4 - 57:53.5] I'll just tell him that, you know, I'm gonna make his life miserable for the rest of his foreign days on this planet, so.
+[57:53.5 - 57:56.2] The threat, the threat is what gets results, and it is.
+[57:56.2 - 57:58.0] Yeah.
+[57:58.0 - 57:59.8] All right, I'll deal with him.
+[57:59.8 - 58:00.9] Do me a favor.
+[58:00.9 - 58:02.6] Send me his phone number.
+[58:02.6 - 58:03.3] All right.
+[58:03.3 - 58:04.7] All right.
+[58:04.7 - 58:05.2] I have a thing.
+[58:05.2 - 58:09.8] I just sent you a contract where I'm investing in, uh, a startup company.
+[58:09.8 - 58:13.2] I need you to review the contract.
+[58:13.2 - 58:15.8] I've never seen anything like this type of an agreement before.
+[58:15.8 - 58:17.0] So let me know.
+[58:17.0 - 58:20.8] And do you have any securities lawyer that could look at it?
+[58:20.8 - 58:23.0] I don't have one.
+[58:23.0 - 58:23.4] All right.
+[58:23.4 - 58:24.5] Well then, yeah, look at it.
+[58:24.5 - 58:32.0] But I can certainly help you directly, help him get this- I, I don't, I don't know how any of that, I, I don't know how any of that, I don't, I don't know how that works.
+[58:32.0 - 58:33.5] You explain it to me when you've read it.
+[58:33.5 - 58:39.4] I'd like to go over with you on Friday, and I'll be in Miami on Friday.
+[58:39.4 - 58:40.7] Okay.
+[58:40.7 - 58:41.3] All right.
+[58:41.3 - 58:42.5] All right.
+[58:42.5 - 58:45.2] Let me know when you file the motion to compel.
+[58:45.2 - 58:50.6] And what's going on with the, uh, lawsuit for both, both, both, uh, cars?
+[58:50.6 - 58:54.4] What about my, uh, white car that got hit with the truck?
+[58:54.4 - 58:55.3] Where are we with that?
+[58:55.3 - 59:06.4] That one we have served him with all the
+[59:06.4 - 59:08.9] papers.
+[59:08.9 - 59:13.2] Orr, um, he hasn't responded.
+[59:13.2 - 59:22.0] Yeah, the California one- That one, that one's gonna get dismissed.
+[59:22.0 - 59:25.7] They're gonna consider it.
+[59:25.7 - 59:28.1] Oh, they actually want mediation.
+[59:28.1 - 59:29.1] Mediation?
+[59:29.1 - 59:32.9] Um, mediation means we don't agree to anything?
+[59:32.9 - 59:34.3] Yeah.
+[59:34.3 - 59:41.4] There's no, there's no, uh, specific requirement to mediate prior to going to court.
+[59:41.4 - 59:41.4] So we can go ahead and submit- Good.
+[59:41.4 - 59:46.5] I'll just tell the lawyer that I said that I've done ten of these, and I've won every one of them on, in, in trial.
+[59:46.5 - 59:48.9] So okay, I don't have a problem with that.
+[59:48.9 - 59:59.1] I
+[59:59.1 - 59:59.7] think he needs some-
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-16-08-06_transcription_20260706_163400.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-16-08-06_transcription_20260706_163400.txt
+[2J[H[3Jmanus-speech-to-text "ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-16-08-06.mp3"
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-16-08-06.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-16-08-06_chunks_20260706_162531/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-16-08-06_chunks_20260706_162531/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-16-08-06_chunks_20260706_162531/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-16-08-06_chunks_20260706_162531/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: .ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-16-08-06_chunks_20260706_162531/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[57:19.8 - 57:20.4] The attorney didn't respond.
+[57:20.4 - 57:23.3] Great.
+[57:23.3 - 57:32.1] Well, now he's gonna have to respond to a motion to compel and then, you know, if he doesn't respond to that, he's gonna get sanctioned and a lot of other things.
+[57:32.1 - 57:35.3] Yep.
+[57:35.3 - 57:40.6] So Sarah's been cooperative and Orr is not.
+[57:40.6 - 57:42.8] Orr is, um...
+[57:42.8 - 57:45.4] But Sarah has been very cooperative.
+[57:45.4 - 57:45.7] All right.
+[57:45.7 - 57:48.4] Well, I'll, I'll deal with, uh, getting Orr to cooperate.
+[57:48.4 - 57:53.5] I'll just tell him that, you know, I'm gonna make his life miserable for the rest of his foreign days on this planet, so.
+[57:53.5 - 57:56.2] The threat, the threat is what gets results, and it is.
+[57:56.2 - 57:58.0] Yeah.
+[57:58.0 - 57:59.8] All right, I'll deal with him.
+[57:59.8 - 58:00.9] Do me a favor.
+[58:00.9 - 58:02.6] Send me his phone number.
+[58:02.6 - 58:03.3] All right.
+[58:03.3 - 58:04.7] All right.
+[58:04.7 - 58:05.2] I have a thing.
+[58:05.2 - 58:09.8] I just sent you a contract where I'm investing in, uh, a startup company.
+[58:09.8 - 58:13.2] I need you to review the contract.
+[58:13.2 - 58:15.8] I've never seen anything like this type of an agreement before.
+[58:15.8 - 58:17.0] So let me know.
+[58:17.0 - 58:20.8] And do you have any securities lawyer that could look at it?
+[58:20.8 - 58:23.0] I don't have one.
+[58:23.0 - 58:23.4] All right.
+[58:23.4 - 58:24.5] Well then, yeah, look at it.
+[58:24.5 - 58:32.0] But I can certainly help you directly, help him get this- I, I don't, I don't know how any of that, I, I don't know how any of that, I don't, I don't know how that works.
+[58:32.0 - 58:33.5] You explain it to me when you've read it.
+[58:33.5 - 58:39.4] I'd like to go over with you on Friday, and I'll be in Miami on Friday.
+[58:39.4 - 58:40.7] Okay.
+[58:40.7 - 58:41.3] All right.
+[58:41.3 - 58:42.5] All right.
+[58:42.5 - 58:45.2] Let me know when you file the motion to compel.
+[58:45.2 - 58:50.6] And what's going on with the, uh, lawsuit for both, both, both, uh, cars?
+[58:50.6 - 58:54.4] What about my, uh, white car that got hit with the truck?
+[58:54.4 - 58:55.3] Where are we with that?
+[58:55.3 - 59:06.4] That one we have served him with all the
+[59:06.4 - 59:08.9] papers.
+[59:08.9 - 59:13.2] Orr, um, he hasn't responded.
+[59:13.2 - 59:22.0] Yeah, the California one- That one, that one's gonna get dismissed.
+[59:22.0 - 59:25.7] They're gonna consider it.
+[59:25.7 - 59:28.1] Oh, they actually want mediation.
+[59:28.1 - 59:29.1] Mediation?
+[59:29.1 - 59:32.9] Um, mediation means we don't agree to anything?
+[59:32.9 - 59:34.3] Yeah.
+[59:34.3 - 59:41.4] There's no, there's no, uh, specific requirement to mediate prior to going to court.
+[59:41.4 - 59:41.4] So we can go ahead and submit- Good.
+[59:41.4 - 59:46.5] I'll just tell the lawyer that I said that I've done ten of these, and I've won every one of them on, in, in trial.
+[59:46.5 - 59:48.9] So okay, I don't have a problem with that.
+[59:48.9 - 59:59.1] I
+[59:59.1 - 59:59.7] think he needs some-
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-16-08-06_transcription_20260706_163400.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-16-08-06_transcription_20260706_163400.txt

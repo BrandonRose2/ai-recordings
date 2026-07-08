@@ -1,0 +1,50 @@
+Starting Speech-to-Text conversion...
+Audio file size (11.7MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 11.69 MB, duration: 2042.5 seconds
+Splitting into 3 chunks (each ~680.8 seconds, max 5 MB)...
+Successfully split into 3 chunks
+Audio file split into 3 chunks for batch processing
+Transcribing audio file: downloads/ROSE-REC2_V2026-07-04-12-39-41.mp3, file size: 11.69 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 3 chunks...
+
+Transcribing chunk 1/3: downloads/.ROSE-REC2_V2026-07-04-12-39-41_chunks_20260706_195739/chunk_000.mp3
+Chunk 1 completed (duration: 680.8s)
+
+Transcribing chunk 2/3: downloads/.ROSE-REC2_V2026-07-04-12-39-41_chunks_20260706_195739/chunk_001.mp3
+Chunk 2 completed (duration: 680.8s)
+
+Transcribing chunk 3/3: downloads/.ROSE-REC2_V2026-07-04-12-39-41_chunks_20260706_195739/chunk_002.mp3
+Chunk 3 completed (duration: 680.5s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 2042.1 seconds
+Language: eng
+Total Chunks: 3
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/downloads/ROSE-REC2_V2026-07-04-12-39-41_transcription_20260706_195750.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/downloads/ROSE-REC2_V2026-07-04-12-39-41_transcription_20260706_195750.txt
+[2J[H[3Jmanus-speech-to-text downloads/ROSE-REC2_V2026-07-04-12-39-41.mp3
+Starting Speech-to-Text conversion...
+Audio file size (11.7MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 11.69 MB, duration: 2042.5 seconds
+Splitting into 3 chunks (each ~680.8 seconds, max 5 MB)...
+Successfully split into 3 chunks
+Audio file split into 3 chunks for batch processing
+Transcribing audio file: downloads/ROSE-REC2_V2026-07-04-12-39-41.mp3, file size: 11.69 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 3 chunks...
+Transcribing chunk 1/3: downloads/.ROSE-REC2_V2026-07-04-12-39-41_chunks_20260706_195739/chunk_000.mp3
+Chunk 1 completed (duration: 680.8s)
+Transcribing chunk 2/3: downloads/.ROSE-REC2_V2026-07-04-12-39-41_chunks_20260706_195739/chunk_001.mp3
+Chunk 2 completed (duration: 680.8s)
+Transcribing chunk 3/3: downloads/.ROSE-REC2_V2026-07-04-12-39-41_chunks_20260706_195739/chunk_002.mp3
+Chunk 3 completed (duration: 680.5s)
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/downloads/ROSE-REC2_V2026-07-04-12-39-41_transcription_20260706_195750.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/downloads/ROSE-REC2_V2026-07-04-12-39-41_transcription_20260706_195750.txt

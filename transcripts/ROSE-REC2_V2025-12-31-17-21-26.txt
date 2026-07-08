@@ -1,0 +1,248 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2025-12-31-17-21-26.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: .ROSE-REC2_V2025-12-31-17-21-26_chunks_20260706_160115/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: .ROSE-REC2_V2025-12-31-17-21-26_chunks_20260706_160115/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: .ROSE-REC2_V2025-12-31-17-21-26_chunks_20260706_160115/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: .ROSE-REC2_V2025-12-31-17-21-26_chunks_20260706_160115/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: .ROSE-REC2_V2025-12-31-17-21-26_chunks_20260706_160115/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.6 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[19:24.0 - 19:24.1] Hey, brother.
+[19:24.1 - 19:24.6] Hey, how are you?
+[19:24.6 - 19:26.4] I'm good.
+[19:26.4 - 19:26.4] How are you?
+[19:26.4 - 19:27.4] Good.
+[19:27.4 - 19:27.8] Good to see you.
+[19:27.8 - 19:28.8] What's new and exciting?
+[19:28.8 - 19:29.7] You're looking fit.
+[19:29.7 - 19:30.6] Oh, I don't know how.
+[19:30.6 - 19:32.4] I haven't been to the gym- Oh, stop it.
+[19:32.4 - 19:33.9] in about eight months.
+[19:33.9 - 19:34.4] Really?
+[19:34.4 - 19:35.5] What's new, man?
+[19:35.5 - 19:39.4] I started working at a new job over here in Seven Oaks Hills.
+[19:39.4 - 19:40.5] What is this called?
+[19:40.5 - 19:43.2] Apartment- Uh, the company's called Apartment Corp, but this...
+[19:43.2 - 19:50.1] I was supposed to be just, like, the executive, uh, assistant to the CEO, but I'm now building software and doing all sorts of stuff.
+[19:50.1 - 19:50.8] Are you enjoying it?
+[19:50.8 - 19:54.4] Yeah, except he's a very, uh, difficult personality.
+[19:54.4 - 19:54.5] Yeah.
+[19:54.5 - 19:55.0] I'll say that.
+[19:55.0 - 19:57.3] You know, five Ferraris, yachts.
+[19:57.3 - 19:58.1] Oh, yeah.
+[19:58.1 - 19:59.5] It's just ridiculous.
+[19:59.5 - 20:00.9] Just trying to make ends meet.
+[20:00.9 - 20:07.9] Yeah, he owns twelve thousand apartment com-- uh, units throughout the US, and we micromanage four thousand of them.
+[20:07.9 - 20:09.7] Like, and I say micromanage.
+[20:09.7 - 20:10.2] Oh, yeah.
+[20:10.2 - 20:13.0] Like, to the every...
+[20:13.0 - 20:14.2] Like, we all have an app on our phone.
+[20:14.2 - 20:16.9] We're all recorded, and it all sorts the AI.
+[20:16.9 - 20:21.1] It's a little too much micromanagement.
+[20:21.1 - 20:22.2] It's- You know what?
+[20:22.2 - 20:23.2] Learn what you can.
+[20:23.2 - 20:24.0] Yeah, that's what I'm doing.
+[20:24.0 - 20:28.8] Learn what you can, suck it up until you can't suck it up anymore, and then start looking for something else.
+[20:28.8 - 20:29.5] Yeah, that's the deal.
+[20:29.5 - 20:30.1] I mean, I'm looking for something else already.
+[20:30.1 - 20:32.4] Well, you know, good for you.
+[20:32.4 - 20:38.2] So I'll just-- he pays for all of my credit, so I'm using AI to do my own stuff, Andrew's stuff, and so.
+[20:38.2 - 20:38.8] Nice.
+[20:38.8 - 20:43.6] It's a pretty chill job whenever he's not there, which is half of every month.
+[20:43.6 - 20:44.6] He's in Miami, so.
+[20:44.6 - 20:45.3] Oh, yeah.
+[20:45.3 - 20:46.6] All right.
+[20:46.6 - 20:49.8] But it's re- and it's real estate related, so.
+[20:49.8 - 20:50.4] Yeah.
+[20:50.4 - 20:51.3] You know.
+[20:51.3 - 20:52.0] Hey, it's just gonna...
+[20:52.0 - 20:53.3] It'll look good on your resume.
+[20:53.3 - 20:53.8] Yeah.
+[20:53.8 - 20:55.1] And you'll have more, you'll have more skills.
+[20:55.1 - 20:57.2] Do you eat anywhere else besides here?
+[20:57.2 - 20:58.8] That's a good question.
+[20:58.8 - 20:59.5] Fair question.
+[20:59.5 - 21:02.2] Mostly here.
+[21:02.2 - 21:02.5] Yeah.
+[21:02.5 - 21:05.1] When I'm not playing golf or doing something during the day.
+[21:05.1 - 21:05.8] Your stomach's used to it.
+[21:05.8 - 21:07.3] I live two, three blocks away.
+[21:07.3 - 21:08.1] Yeah, me too, so.
+[21:08.1 - 21:08.6] It's easy.
+[21:08.6 - 21:09.9] And the tanning salon's right side me.
+[21:09.9 - 21:10.3] Oh, yeah.
+[21:10.3 - 21:11.6] One-stop shop for me.
+[21:11.6 - 21:12.7] Haven't used the tanning salon.
+[21:12.7 - 21:14.6] Well, good to see you.
+[21:14.6 - 21:15.4] All right, brother.
+[21:15.4 - 21:15.5] Good to see you.
+[21:15.5 - 21:16.3] Have a good one.
+[21:16.3 - 21:28.2] Uh,
+[21:28.2 - 21:29.9] picking up for Brandon.
+[21:29.9 - 21:30.5] Brandon.
+[21:30.5 - 21:36.1] And could I get a Italian vinaigrette and a water cup?
+[21:36.1 - 21:36.6] Yeah.
+[21:36.6 - 21:38.4] Vinaigrette?
+[21:38.4 - 21:39.8] And a water cup if you don't mind.
+[21:39.8 - 21:46.3] Thank you.
+[21:46.3 - 21:46.4] There you go.
+[21:46.4 - 21:46.4] Thank you.
+[21:46.4 - 21:47.0] Have a good one.
+[21:47.0 - 21:54.3] Have a good day.
+[21:54.3 - 22:04.8] Thank
+[22:04.8 - 22:05.7] you.
+[22:05.7 - 22:06.4] Well, that was fast.
+[22:06.4 - 22:06.8] Yeah.
+[22:06.8 - 22:07.8] I've used the app.
+[22:07.8 - 22:09.3] Oh, smart.
+[22:09.3 - 22:09.9] Have a good one.
+[22:09.9 - 22:14.2] You too.
+[25:04.4 - 25:08.8] Hey Siri, play mellow classic rock on my Spotify.
+[25:08.8 - 25:14.9] Now playing mellow classic rock mix on Spotify.
+[25:14.9 - 25:35.8] Old
+[25:35.8 - 25:38.0] man, look at my life.
+[25:38.0 - 25:41.8] I'm a lot like you were.
+[25:41.8 - 25:46.6] Old man, look at my life.
+[25:46.6 - 25:52.3] I'm a lot like you were.
+[25:52.3 - 26:03.1] Old
+[26:03.1 - 26:05.4] man, look at my life.
+[26:05.4 - 26:08.8] Twenty-four and there's so much more.
+[26:08.8 - 26:16.9] Live alone in the paradise that makes me think of you.
+[26:16.9 - 26:18.8] Love lies are such a crime.
+[26:18.8 - 26:25.8] Give me things that don't get old, like a coin I can't get dull.
+[26:25.8 - 26:37.4] Old
+[26:37.4 - 26:39.4] man, take a look at my life.
+[26:39.4 - 26:41.8] I'm a lot like you.
+[26:41.8 - 26:48.5] I need someone to love me the whole day through.
+[26:48.5 - 27:03.2] Ah, one look in my eyes and you'll know that's true.
+[27:03.2 - 27:13.3] All the boys looking for
+[27:13.3 - 27:17.4] us run around the same old town.
+[27:17.4 - 27:22.1] Doesn't mean that-- mean that much.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-31-17-21-26_transcription_20260706_160159.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-31-17-21-26_transcription_20260706_160159.txt
+[2J[H[3Jmanus-speech-to-text ROSE-REC2_V2025-12-31-17-21-26.mp3
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2025-12-31-17-21-26.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: .ROSE-REC2_V2025-12-31-17-21-26_chunks_20260706_160115/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: .ROSE-REC2_V2025-12-31-17-21-26_chunks_20260706_160115/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: .ROSE-REC2_V2025-12-31-17-21-26_chunks_20260706_160115/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: .ROSE-REC2_V2025-12-31-17-21-26_chunks_20260706_160115/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: .ROSE-REC2_V2025-12-31-17-21-26_chunks_20260706_160115/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[20:30.1 - 20:32.4] Well, you know, good for you.
+[20:32.4 - 20:38.2] So I'll just-- he pays for all of my credit, so I'm using AI to do my own stuff, Andrew's stuff, and so.
+[20:38.2 - 20:38.8] Nice.
+[20:38.8 - 20:43.6] It's a pretty chill job whenever he's not there, which is half of every month.
+[20:43.6 - 20:44.6] He's in Miami, so.
+[20:44.6 - 20:45.3] Oh, yeah.
+[20:45.3 - 20:46.6] All right.
+[20:46.6 - 20:49.8] But it's re- and it's real estate related, so.
+[20:49.8 - 20:50.4] Yeah.
+[20:50.4 - 20:51.3] You know.
+[20:51.3 - 20:52.0] Hey, it's just gonna...
+[20:52.0 - 20:53.3] It'll look good on your resume.
+[20:53.3 - 20:53.8] Yeah.
+[20:53.8 - 20:55.1] And you'll have more, you'll have more skills.
+[20:55.1 - 20:57.2] Do you eat anywhere else besides here?
+[20:57.2 - 20:58.8] That's a good question.
+[20:58.8 - 20:59.5] Fair question.
+[20:59.5 - 21:02.2] Mostly here.
+[21:02.2 - 21:02.5] Yeah.
+[21:02.5 - 21:05.1] When I'm not playing golf or doing something during the day.
+[21:05.1 - 21:05.8] Your stomach's used to it.
+[21:05.8 - 21:07.3] I live two, three blocks away.
+[21:07.3 - 21:08.1] Yeah, me too, so.
+[21:08.1 - 21:08.6] It's easy.
+[21:08.6 - 21:09.9] And the tanning salon's right side me.
+[21:09.9 - 21:10.3] Oh, yeah.
+[21:10.3 - 21:11.6] One-stop shop for me.
+[21:11.6 - 21:12.7] Haven't used the tanning salon.
+[21:12.7 - 21:14.6] Well, good to see you.
+[21:14.6 - 21:15.4] All right, brother.
+[21:15.4 - 21:15.5] Good to see you.
+[21:15.5 - 21:16.3] Have a good one.
+[21:16.3 - 21:28.2] Uh,
+[21:28.2 - 21:29.9] picking up for Brandon.
+[21:29.9 - 21:30.5] Brandon.
+[21:30.5 - 21:36.1] And could I get a Italian vinaigrette and a water cup?
+[21:36.1 - 21:36.6] Yeah.
+[21:36.6 - 21:38.4] Vinaigrette?
+[21:38.4 - 21:39.8] And a water cup if you don't mind.
+[21:39.8 - 21:46.3] Thank you.
+[21:46.3 - 21:46.4] There you go.
+[21:46.4 - 21:46.4] Thank you.
+[21:46.4 - 21:47.0] Have a good one.
+[21:47.0 - 21:54.3] Have a good day.
+[21:54.3 - 22:04.8] Thank
+[22:04.8 - 22:05.7] you.
+[22:05.7 - 22:06.4] Well, that was fast.
+[22:06.4 - 22:06.8] Yeah.
+[22:06.8 - 22:07.8] I've used the app.
+[22:07.8 - 22:09.3] Oh, smart.
+[22:09.3 - 22:09.9] Have a good one.
+[22:09.9 - 22:14.2] You too.
+[25:04.4 - 25:08.8] Hey Siri, play mellow classic rock on my Spotify.
+[25:08.8 - 25:14.9] Now playing mellow classic rock mix on Spotify.
+[25:14.9 - 25:35.8] Old
+[25:35.8 - 25:38.0] man, look at my life.
+[25:38.0 - 25:41.8] I'm a lot like you were.
+[25:41.8 - 25:46.6] Old man, look at my life.
+[25:46.6 - 25:52.3] I'm a lot like you were.
+[25:52.3 - 26:03.1] Old
+[26:03.1 - 26:05.4] man, look at my life.
+[26:05.4 - 26:08.8] Twenty-four and there's so much more.
+[26:08.8 - 26:16.9] Live alone in the paradise that makes me think of you.
+[26:16.9 - 26:18.8] Love lies are such a crime.
+[26:18.8 - 26:25.8] Give me things that don't get old, like a coin I can't get dull.
+[26:25.8 - 26:37.4] Old
+[26:37.4 - 26:39.4] man, take a look at my life.
+[26:39.4 - 26:41.8] I'm a lot like you.
+[26:41.8 - 26:48.5] I need someone to love me the whole day through.
+[26:48.5 - 27:03.2] Ah, one look in my eyes and you'll know that's true.
+[27:03.2 - 27:13.3] All the boys looking for
+[27:13.3 - 27:17.4] us run around the same old town.
+[27:17.4 - 27:22.1] Doesn't mean that-- mean that much.
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-31-17-21-26_transcription_20260706_160159.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-31-17-21-26_transcription_20260706_160159.txt

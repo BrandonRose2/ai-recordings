@@ -1,0 +1,902 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2025-12-27-19-21-04.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: .ROSE-REC2_V2025-12-27-19-21-04_chunks_20260706_153929/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: .ROSE-REC2_V2025-12-27-19-21-04_chunks_20260706_153929/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: .ROSE-REC2_V2025-12-27-19-21-04_chunks_20260706_153929/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: .ROSE-REC2_V2025-12-27-19-21-04_chunks_20260706_153929/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: .ROSE-REC2_V2025-12-27-19-21-04_chunks_20260706_153929/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.6 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[01:25.4 - 01:25.8] There we go.
+[01:25.8 - 02:04.6] I've
+[02:04.6 - 02:06.9] just done a search, and there's no cars available.
+[02:06.9 - 02:11.8] I've just done a search, and there's no cars anywhere close to that price range for that car.
+[02:11.8 - 02:34.2] Let
+[02:34.2 - 02:35.1] me ask you a question.
+[02:35.1 - 02:42.1] With the depreciation, what were they asking you to do that wasn't already done in the report?
+[02:42.1 - 02:51.2] Well, this was the report that they had was a PDF, and they wanted it in Excel, and they wanted it all to be double-checked with the numbers and...
+[02:51.2 - 02:58.8] So basically, I had to build this out of these cost segregation studies, um, for every building.
+[02:58.8 - 03:00.2] So I had to do the summary.
+[03:00.2 - 03:02.2] It's si- that's a hundred and...
+[03:02.2 - 03:05.0] Some of them had a hundred and thirty pages, some of them had...
+[03:05.0 - 03:06.2] This one has sixty.
+[03:06.2 - 03:11.3] So had to go through there and get all these built for each one.
+[03:11.3 - 03:16.1] It was quite, quite the project.
+[03:16.1 - 03:19.0] I'm just double-checking them all.
+[03:19.0 - 03:28.3] Well, the guy was anxious to send over a check here, get me paid out, so I'm gonna give him a call later today when I have some time to discuss it with him.
+[03:28.3 - 03:37.6] I don't know how in the hell you don't weigh three hundred pounds.
+[03:37.6 - 03:40.1] I don't eat that much.
+[03:40.1 - 03:41.1] I just snack a little.
+[03:41.1 - 03:43.3] No, you snack a lot.
+[03:43.3 - 03:44.2] But I don't eat a lot of big meals.
+[03:44.2 - 03:47.1] You have, you have more fucking snacks here than 7-Eleven.
+[03:47.1 - 03:49.2] That's what Nicole says.
+[03:49.2 - 03:51.1] Like a convenience store.
+[03:51.1 - 03:54.5] Five oh three, good.
+[03:54.5 - 04:02.1] Five oh three, nine twenty.
+[04:02.1 - 04:09.7] Um, looking at the spreadsheet and, uh, property rents for Coral Village, they're different.
+[04:09.7 - 04:11.8] The, the- Let me ask you a question.
+[04:11.8 - 04:12.7] Um, did...
+[04:12.7 - 04:16.2] What is the loan balance on the spreadsheet?
+[04:16.2 - 04:34.8] Maybe if we've got somebody-
+[04:34.8 - 04:36.9] No, I think that's it.
+[04:36.9 - 04:45.2] That's what I'm saying.
+[04:45.2 - 04:47.0] Mm-hmm.
+[04:47.0 - 05:11.2] I
+[05:11.2 - 05:26.9] have
+[05:26.9 - 05:27.7] a question.
+[05:27.7 - 05:39.4] Okay, go ahead.
+[05:39.4 - 05:46.3] Oh, okay.
+[05:46.3 - 05:46.9] Good.
+[05:46.9 - 06:20.6] Yeah,
+[06:20.6 - 06:25.5] that's cool.
+[06:25.5 - 06:25.8] Hmm.
+[06:25.8 - 06:29.1] That's for-- That's the-- That's, uh, Coal Village.
+[06:29.1 - 06:33.5] And it's for a...
+[06:33.5 - 06:34.0] Oh, wait a second.
+[06:34.0 - 06:35.6] This is Sacramento you said, right?
+[06:35.6 - 06:39.9] Can you do me a favor while I-- I put you on hold?
+[06:39.9 - 06:43.8] I'm gonna call the manager up and ask her if he knows anything about this.
+[06:43.8 - 06:51.1] It'll take me back for a second.
+[06:51.1 - 06:51.5] You're on hold.
+[06:51.5 - 07:01.7] What's, uh, the address
+[07:01.7 - 07:01.9] number?
+[07:01.9 - 07:02.6] What?
+[07:02.6 - 07:02.7] Two-two.
+[07:02.7 - 07:05.4] Two five or two six?
+[07:05.4 - 07:06.6] Two five.
+[07:06.6 - 07:08.5] Sorry.
+[07:08.5 - 07:09.4] No, I understand that.
+[07:09.4 - 07:11.9] I, I, I just really can't hear you in my office.
+[07:11.9 - 07:12.6] No, I know.
+[07:12.6 - 07:17.4] You're reasonable.
+[07:17.4 - 07:17.7] Go on then.
+[07:17.7 - 07:17.7] Two five.
+[07:17.7 - 07:20.7] Give us a phone number with better digit use.
+[07:20.7 - 07:25.7] Um, there's some kind of charge to six hundred dollars for a credit application or something.
+[07:25.7 - 07:28.8] But for a stove?
+[07:28.8 - 07:30.0] Six hundred dollars?
+[07:30.0 - 07:30.0] Okay.
+[07:30.0 - 07:32.6] Uh, uh, for a stove, it's okay.
+[07:32.6 - 07:39.7] Uh, I'll call you back.
+[07:39.7 - 07:42.0] Uh, okay, y'all hold on.
+[07:42.0 - 07:42.7] That's great.
+[07:42.7 - 07:44.2] Oh, wow.
+[07:44.2 - 07:48.4] Okay, got that.
+[07:48.4 - 07:51.5] We'll be headed to the house now.
+[07:51.5 - 07:52.2] Got the issue.
+[07:52.2 - 07:56.2] Um, uh, who are we gonna pay for?
+[07:56.2 - 08:06.4] What's the new loan amount
+[08:06.4 - 08:07.0] gonna be?
+[08:07.0 - 08:08.3] We haven't picked an amount yet.
+[08:08.3 - 08:08.3] What?
+[08:08.3 - 08:08.3] Still.
+[08:08.3 - 08:10.3] And what's the payment gonna be?
+[08:10.3 - 08:11.6] Cunt.
+[08:11.6 - 08:14.1] Um, let me just see your book.
+[08:14.1 - 08:19.5] New loan amount is gonna be seven point- Dealing.
+[08:19.5 - 08:21.2] Where is...
+[08:21.2 - 08:21.6] Okay.
+[08:21.6 - 08:24.3] I know.
+[08:24.3 - 08:36.3] And, um, uh,
+[08:36.3 - 08:40.3] okay, so this is where I'm...
+[08:40.3 - 08:42.9] I, I, I, I'll tell you right now where I...
+[08:42.9 - 08:46.9] Um, I'm very concerned about the stock market crash.
+[08:46.9 - 08:50.5] Um, I, I don't like the direction.
+[08:50.5 - 08:53.2] Uh, putting it into bonds, I don't have a problem with doing now.
+[08:53.2 - 09:03.3] I'm really concerned about putting it in equities because either the prices are gonna continue to go up, and the economy is gonna be great because they've set us to solve this
+[09:03.3 - 09:06.5] problem with Iran, or it's gonna come like...
+[09:06.5 - 09:11.3] The stock market's gonna drop like fifteen percent, and then once it drops, I would then put it in.
+[09:11.3 - 09:13.6] Um, why don't you take, why don't you take the...
+[09:13.6 - 09:23.9] Why don't you take what I told you, bring it to your guy, and then see if it's just worth waiting another thirty to sixty days before investing it into stocks to see what happens?
+[09:23.9 - 09:28.7] Because I'm very, very nervous about the whole economy right now.
+[09:28.7 - 09:32.6] You know, every, every day you hear something thing in there.
+[09:32.6 - 09:41.6] And I, I mean, and the, and the stock market is, is, um, too exube- it's too exuberant for what I feel comfortable with.
+[09:41.6 - 09:45.1] I don't know.
+[09:45.1 - 09:50.1] I feel like Well, I understand that it is.
+[09:50.1 - 09:59.8] I mean, you don't recognize it, but only companies that seem to be doing well are the ones that are, uh, prep and the people that make home PC and stuff on the side.
+[09:59.8 - 10:02.8] And, and, and trucking companies are doing well.
+[10:02.8 - 10:09.0] I mean, the only businesses that I'm involved with are the ones that are strictly local.
+[10:09.0 - 10:12.6] And, and, and we have seven days or no.
+[10:12.6 - 10:27.8] Look
+[10:27.8 - 10:28.5] at your weight lift.
+[10:28.5 - 10:29.2] It has to match.
+[10:29.2 - 10:36.4] What's the first one for the, the three bedroom?
+[10:36.4 - 10:36.7] Look it up.
+[10:36.7 - 10:37.0] What do you need?
+[10:37.0 - 10:39.8] Where'd you say you sent those?
+[10:39.8 - 10:40.6] Oh.
+[10:40.6 - 10:41.2] We're moving.
+[10:41.2 - 10:43.1] Yeah.
+[10:43.1 - 10:44.1] You need this?
+[10:44.1 - 10:46.2] Yes, but we need to know what day they applied.
+[10:46.2 - 10:49.2] This one right here.
+[10:49.2 - 10:49.2] Those are...
+[10:49.2 - 10:50.5] They're not on there.
+[10:50.5 - 10:52.1] But look at her and see when she applied.
+[10:52.1 - 10:54.8] Um, let me see.
+[10:54.8 - 10:55.9] And I'll tell you.
+[10:55.9 - 10:57.8] Let me ask Lindsey what day we should show.
+[10:57.8 - 10:59.6] I'll call you right back.
+[10:59.6 - 10:59.6] Bye.
+[10:59.6 - 11:02.8] You said you sent me three.
+[11:02.8 - 11:04.6] Yeah, I shared them with you.
+[11:04.6 - 11:06.7] I sent it to your-- I invited you to collaborate.
+[11:06.7 - 11:07.5] Oh.
+[11:07.5 - 11:08.4] Oh.
+[11:08.4 - 11:09.6] So...
+[11:09.6 - 11:10.2] Hmm.
+[11:10.2 - 11:11.5] Normally, I get an email.
+[11:11.5 - 11:15.3] You're not on the- I don't get an email.
+[11:15.3 - 11:17.6] Maybe it went to junk.
+[11:17.6 - 11:19.2] Hmm.
+[11:19.2 - 11:22.0] Oh, yeah, right there.
+[11:22.0 - 11:24.2] Cask, Gates website, Arborcrest website.
+[11:24.2 - 11:25.8] Oh, I guess it just added it.
+[11:25.8 - 11:26.1] Walnut Hill website.
+[11:26.1 - 11:26.2] Oh.
+[11:26.2 - 11:28.8] Normally, I get an email, but cool.
+[11:28.8 - 11:32.6] Nice.
+[11:32.6 - 11:39.6] Go to, um, go to, uh, Walnut Hill.
+[11:39.6 - 11:41.2] Uh, go to Gates and go to, uh...
+[11:41.2 - 11:41.6] Let me see.
+[11:41.6 - 11:42.5] Let me show you real quick.
+[11:42.5 - 11:43.9] Check this shit out.
+[11:43.9 - 11:47.7] Oh.
+[11:47.7 - 11:50.7] How'd you do the floor plans?
+[11:50.7 - 11:53.3] Oh, I did that.
+[11:53.3 - 11:53.5] What?
+[11:53.5 - 11:54.4] Whoa.
+[11:54.4 - 11:56.0] Does that use that IM- What?
+[11:56.0 - 11:56.8] -matter port?
+[11:56.8 - 11:57.0] Yeah.
+[11:57.0 - 11:58.4] What?
+[11:58.4 - 11:59.5] Yeah, I like matter port.
+[11:59.5 - 11:59.9] I've ne-
+[12:00.0 - 12:02.4] never used it, but I know that's...
+[12:02.4 - 12:03.3] I'll be damned.
+[12:03.3 - 12:04.8] Shh.
+[12:04.8 - 12:05.6] Flexing on 'em.
+[12:05.6 - 12:06.3] That's, that's awesome.
+[12:06.3 - 12:07.5] Flexing on 'em.
+[12:07.5 - 12:08.5] How'd you do...
+[12:08.5 - 12:11.5] Did Matterport do the floor plans too, or did you do like CubiCasa?
+[12:11.5 - 12:12.5] I, I didn't do any of that.
+[12:12.5 - 12:13.8] I just go to apartments.com.
+[12:13.8 - 12:14.2] Oh.
+[12:14.2 - 12:16.7] Run it.
+[12:16.7 - 12:17.5] Run it.
+[12:17.5 - 12:21.2] Oh, that's cool.
+[12:21.2 - 12:27.3] So what'd you swim to?
+[12:27.3 - 12:37.4] All the ones I have right now, just
+[12:37.4 - 12:39.0] do the last one, right?
+[12:39.0 - 12:46.0] Did you get Ginger's email that now we can add and edit photos in apartments.com?
+[12:46.0 - 12:47.6] We have, like, the rights to.
+[12:47.6 - 12:48.9] I have Maya's email.
+[12:48.9 - 12:49.3] Oh, okay.
+[12:49.3 - 12:50.1] That's what she sent.
+[12:50.1 - 12:50.2] That's what I have.
+[12:50.2 - 12:50.6] Yeah.
+[12:50.6 - 12:50.9] Okay.
+[12:50.9 - 12:53.0] That's what she sent me and Mark earlier.
+[12:53.0 - 12:55.2] That's what I'm doing.
+[12:55.2 - 12:56.5] I'm going down the list- Hm ...
+[12:56.5 - 12:57.9] of the apartments that they have.
+[12:57.9 - 12:58.1] Yeah.
+[12:58.1 - 12:59.7] That Arbor Crest is the first apartment.
+[12:59.7 - 13:00.7] That's why I just did that website.
+[13:00.7 - 13:01.1] Oh, okay.
+[13:01.1 - 13:05.4] Those two websites Mark wanted me to do because Gage is our main money maker.
+[13:05.4 - 13:05.6] Oh.
+[13:05.6 - 13:08.0] And Mullet Hill, um, we just bought that.
+[13:08.0 - 13:10.2] Wh- which one has the most vacancies right now?
+[13:10.2 - 13:10.8] I don't know.
+[13:10.8 - 13:11.3] I'm just going down the list right now.
+[13:11.3 - 13:12.0] Should probably do that one.
+[13:12.0 - 13:13.6] Well, I'm just...
+[13:13.6 - 13:13.9] I'm...
+[13:13.9 - 13:17.4] What I'm doing is I'm going to apartments.com and saving that webpage.
+[13:17.4 - 13:19.9] And then- Apartments.com webpage.
+[13:19.9 - 13:20.0] Uh-huh.
+[13:20.0 - 13:25.4] Saving it as a whole and then uploading it into Manus and saying, "Fucking make me-" Make this better.
+[13:25.4 - 13:26.2] "...
+[13:26.2 - 13:27.5] make me a website." Yeah.
+[13:27.5 - 13:30.0] And I'm buying the domain and fucking...
+[13:30.0 - 13:32.3] We're looking like fucking rock stars.
+[13:32.3 - 13:33.3] Sweet.
+[13:33.3 - 13:35.4] Um...
+[13:35.4 - 13:45.2] And then I'm linking those to apartments.com to the, our apartment corp dot com page, adding the resident portal button.
+[13:45.2 - 13:46.6] Nice.
+[13:46.6 - 13:49.5] Resident portal button.
+[13:49.5 - 13:51.5] Okay.
+[13:51.5 - 13:52.7] Let's see here.
+[13:52.7 - 13:55.5] Where was I?
+[13:55.5 - 13:59.7] Building five, six.
+[13:59.7 - 14:04.1] Did Mark see your, um, your coffee mug?
+[14:04.1 - 14:05.8] No, I don't think...
+[14:05.8 - 14:07.4] Well, he might not have known what it was.
+[14:07.4 - 14:08.0] I'm gonna show him it.
+[14:08.0 - 14:10.4] Oh, yeah, 'cause he likes photography, right?
+[14:10.4 - 14:18.5] Mark.
+[14:18.5 - 14:27.8] How's it going?
+[14:27.8 - 14:28.9] You screw off the top?
+[14:28.9 - 14:36.7] Yeah.
+[14:36.7 - 14:37.0] All right.
+[14:37.0 - 14:42.1] Fucking ordering anything?
+[14:42.1 - 14:42.2] What?
+[14:42.2 - 14:46.1] Yeah, I'm ordering, yeah.
+[14:46.1 - 14:47.6] Oh.
+[14:47.6 - 14:55.2] This has gotta be the coolest fucking thing ever.
+[14:55.2 - 14:55.6] Right?
+[14:55.6 - 14:57.7] I don't even know why it popped up on my feed.
+[14:57.7 - 15:01.9] Oh, it's 'cause I bought this in the past, so it, like, just gave me random ideas, you know?
+[15:01.9 - 15:03.8] I, I, I looked for the one they don't have.
+[15:03.8 - 15:04.8] It's a Krylon can.
+[15:04.8 - 15:06.6] A Krylon can?
+[15:06.6 - 15:07.2] Like a spray can.
+[15:07.2 - 15:07.5] Oh, yeah.
+[15:07.5 - 15:09.1] Like a Krylon can, but it's a coffee mug.
+[15:09.1 - 15:09.9] Oh, yeah.
+[15:09.9 - 15:11.0] They didn't have it on Amazon.
+[15:11.0 - 15:11.3] Oh.
+[15:11.3 - 15:12.9] I saw on Instagram they did have it.
+[15:12.9 - 15:14.1] Get a Narcan.
+[15:14.1 - 15:17.8] Come on.
+[15:17.8 - 15:25.6] Check this out.
+[15:25.6 - 15:28.1] So all I have to do now...
+[15:28.1 - 15:34.5] Well, I don't even have to do it 'cause I set up a schedule, but let's see.
+[15:34.5 - 15:35.1] Which one is it?
+[15:35.1 - 15:35.7] This one maybe.
+[15:35.7 - 15:39.4] Nope.
+[15:39.4 - 15:39.8] Nope.
+[15:39.8 - 15:44.0] Where'd it go?
+[15:44.0 - 15:48.4] Hm.
+[15:48.4 - 15:53.1] Maybe it's Claude.
+[15:53.1 - 15:59.2] Downloads.
+[15:59.2 - 16:03.3] Maybe it's this one.
+[16:03.3 - 16:05.0] Oh, yeah.
+[16:05.0 - 16:11.0] So right here, all I gotta do is click this install button, and it brings up this terminal.
+[16:11.0 - 16:14.0] Hit okay, and then I hit run scraper.
+[16:14.0 - 16:19.8] Mm-hmm.
+[16:19.8 - 16:22.8] Just gotta replace that, I guess.
+[16:22.8 - 16:26.9] And then I go in here and hit...
+[16:26.9 - 16:28.0] What was it?
+[16:28.0 - 16:29.6] Scrape inspections, I think.
+[16:29.6 - 16:30.9] Oh, no, it's run scraper.
+[16:30.9 - 16:34.2] I'm gonna hit okay.
+[16:34.2 - 16:38.8] This might not, not be the right version.
+[16:38.8 - 16:41.9] What's this?
+[16:41.9 - 16:44.2] Pop.
+[16:44.2 - 16:46.4] All done.
+[16:46.4 - 16:47.3] Damn it.
+[16:47.3 - 16:48.4] Which one was it?
+[16:48.4 - 16:53.2] Hm.
+[16:53.2 - 16:56.3] Let's try this one.
+[16:56.3 - 16:56.5] Okay.
+[16:56.5 - 17:08.5] It's 'cause I'll have to install.
+[17:08.5 - 17:18.0] Well, this is a terrible example.
+[17:18.0 - 17:24.6] And then run scraper.
+[17:24.6 - 17:27.3] Yeah, see that?
+[17:27.3 - 17:31.3] It logs into My Loan Workers, and it goes through all the buildings, finds them all.
+[17:31.3 - 17:36.8] If it has a PDF, it grabs a PDF.
+[17:36.8 - 17:41.4] And then whenever it's done, it opens up a dashboard with all the buildings.
+[17:41.4 - 17:45.0] Nifty, right?
+[17:45.0 - 17:50.0] This is the one through Claude, but I can do the same thing in Manus.
+[17:50.0 - 17:55.0] So you can do that with anything, really.
+[17:55.0 - 17:56.1] You just...
+[17:56.1 - 17:59.5] If there's something to log into on your browser- I even...
+[17:59.5 - 18:00.8] I showed you that Jarvis thing, right?
+[18:00.8 - 18:01.4] Huh?
+[18:01.4 - 18:01.8] Uh-uh.
+[18:01.8 - 18:03.4] You seen Iron Man?
+[18:03.4 - 18:04.2] Yeah.
+[18:04.2 - 18:07.5] So look, I'm working on this right now.
+[18:07.5 - 18:10.7] When I do get this, I'm gonna-- I'm, I'll have it done in like a week.
+[18:10.7 - 18:11.4] Look at this.
+[18:11.4 - 18:12.2] Jarvis.
+[18:12.2 - 18:13.5] I don't remember.
+[18:13.5 - 18:16.1] It's been a while.
+[18:16.1 - 18:19.5] I picked it up at Target.
+[18:19.5 - 18:21.2] Got it on sale .
+[18:21.2 - 18:22.9] Two for one special.
+[18:22.9 - 18:25.5] Hey, Jarvis, wake up.
+[18:25.5 - 18:26.2] Now you saw him.
+[18:26.2 - 18:27.1] How's the app doing?
+[18:27.1 - 18:29.9] Oh yeah, I know Jarvis.
+[18:29.9 - 18:31.3] Pulling up our app stats now.
+[18:31.3 - 18:39.4] Over the last seven days, we had two thousand four hundred and fifty-nine new downloads, and generated four thousand two hundred and eighty-nine dollars in revenue.
+[18:39.4 - 18:41.1] What are you doing it for?
+[18:41.1 - 18:43.0] For just my control panel.
+[18:43.0 - 18:43.6] Every- Oh, yeah .
+[18:43.6 - 18:47.3] Every time I log into it, they'll say be like, "Yo, pull up the inspection- Word .
+[18:47.3 - 18:48.2] Pull up the inspection part.
+[18:48.2 - 18:48.8] Oh, yeah.
+[18:48.8 - 18:49.4] You know what I'm saying?
+[18:49.4 - 18:51.6] Yeah, you can do it for- Do this, do that.
+[18:51.6 - 18:52.9] So you're learning all this shit- Yeah ...
+[18:52.9 - 18:55.3] I'm learning like the- The full thing?
+[18:55.3 - 18:55.8] Yeah.
+[18:55.8 - 18:56.8] Then when you plug them together.
+[18:56.8 - 18:58.7] Well, just a voice command.
+[18:58.7 - 19:00.2] Do this, do that, do this, do that.
+[19:00.2 - 19:00.8] Oh, yeah.
+[19:00.8 - 19:05.5] I'm building that for Nicole's- Run the P&L, run the AR, run the AP.
+[19:05.5 - 19:08.9] I'm doing that for Nicole's computer 'cause all her shit's documented- Oh ...
+[19:08.9 - 19:11.2] so meticulously, so I'm building- You have to send me that link.
+[19:11.2 - 19:13.5] I'm building that- Does it give like a cloud code or something like that?
+[19:13.5 - 19:13.5] Yeah.
+[19:13.5 - 19:14.6] I, I'll send you all the...
+[19:14.6 - 19:14.8] Yeah.
+[19:14.8 - 19:15.2] Oh, yeah.
+[19:15.2 - 19:16.5] There are like-- It's like four things.
+[19:16.5 - 19:18.5] You have to plug in your voice things for free.
+[19:18.5 - 19:19.3] There's a cloud thing.
+[19:19.3 - 19:21.0] I, I, I'll-- I'm almost done.
+[19:21.0 - 19:21.9] Almost .
+[19:21.9 - 19:22.8] Yeah, I bet.
+[19:22.8 - 19:25.4] I bet that's quite the tedious task.
+[19:25.4 - 19:27.5] That's fun, though.
+[19:27.5 - 19:31.5] There's probably a GitHub repository for it.
+[19:31.5 - 19:32.1] There is.
+[19:32.1 - 19:35.7] Yeah .
+[19:35.7 - 23:30.6] Huh?
+[23:30.6 - 23:33.0] Look at it, it'll blow your mind.
+[23:33.0 - 23:34.0] Oh, it'll blow your mind.
+[23:34.0 - 23:34.6] Blow your mind.
+[23:34.6 - 23:49.7] It'll give you a little
+[23:49.7 - 23:57.4] screen that basically...
+[23:57.4 - 23:59.5] Yeah, this is not gonna work.
+[23:59.5 - 23:59.9] You need-
+[24:17.3 - 24:27.7] What happens if he wants to reject it or, um, uh, add
+[24:27.7 - 24:28.6] a note to it?
+[24:28.6 - 24:32.1] So you can go to add a note.
+[24:32.1 - 24:34.6] Um, you can reject it.
+[24:34.6 - 24:35.6] You can add it.
+[24:35.6 - 24:42.4] You can add a note and then send it back for further review.
+[24:42.4 - 24:52.5] By hitting the reject button and, uh, uh, uh, uh, uh, further information or something like
+[24:52.5 - 24:52.5] that.
+[24:52.5 - 25:03.7] You need more information.
+[25:03.7 - 25:11.6] Oh, what is it?
+[25:11.6 - 25:16.4] You've got approve, reject, and more info.
+[25:16.4 - 25:26.2] More info would be, yeah.
+[25:26.2 - 25:29.1] Yeah.
+[25:29.1 - 25:34.6] And maybe he checkboxed it, and maybe it's sent it to the other two approvers.
+[25:34.6 - 25:40.4] Which he'll have to pay as well.
+[25:40.4 - 25:46.5] Yeah.
+[25:46.5 - 26:07.4] Just
+[26:07.4 - 26:16.3] saying that he might come back and say, "Why haven't you said I don't like it?" Because, uh, you know, he, he's not never.
+[26:16.3 - 26:19.9] The guy is the actual person knows what he's doing.
+[26:19.9 - 26:20.4] Yeah.
+[26:20.4 - 26:23.1] Or he wants that way.
+[26:23.1 - 26:25.1] He can add a better question.
+[26:25.1 - 26:30.0] Or some other information is needed.
+[26:30.0 - 26:39.9] You know, he can come back with, "I need more info." Number two, um, this is an improper way of doing it, and perhaps if you do it this way, or three...
+[26:39.9 - 26:41.1] Very good.
+[26:41.1 - 26:46.9] You also need to put in there the vendor phone number, so he can call the vendor himself.
+[26:46.9 - 26:50.2] Oh, we need to add it.
+[26:50.2 - 26:54.3] No, this is for the contractor.
+[26:54.3 - 26:58.2] Contractor is, is a construction guy that works for me.
+[26:58.2 - 27:03.4] The other guy that understands construction is a contractor that's an employee of mine.
+[27:03.4 - 27:04.5] I understand.
+[27:04.5 - 27:11.2] So what happens is, a, a manager will go out there and get three bids from a vendor.
+[27:11.2 - 27:12.4] Oh.
+[27:12.4 - 27:14.4] And then- Why?
+[27:14.4 - 27:18.7] -he has to review all of the vendors, and then he's the one that...
+[27:18.7 - 27:20.5] He's the only decision that really matters.
+[27:20.5 - 27:24.6] I decide on the money, he decides on who the vendor is.
+[27:24.6 - 27:25.8] Yeah.
+[27:25.8 - 27:28.6] No.
+[27:28.6 - 27:29.0] Huh.
+[27:29.0 - 27:39.6] He's, he, uh, he, he, uh Yeah.
+[27:39.6 - 27:48.0] Sort of like a type of construction or a contractor or validating your opinion.
+[27:48.0 - 27:58.1] So anyway,
+[27:58.1 - 27:58.4] you got it.
+[27:58.4 - 28:00.9] So then you do the work flow, get it covered, and then the guy makes his little decision.
+[28:00.9 - 28:00.9] Oh, fuck.
+[28:00.9 - 28:00.9] And then he can look at all three bids and say...
+[28:00.9 - 28:12.2] And, and he's got to be able to say, "I like this bid, I don't like this bid," and then, "I like this bid, but..." And, and then he may have questions about
+[28:12.2 - 28:12.3] it.
+[28:12.3 - 28:17.3] No.
+[28:17.3 - 28:19.9] Because they're in so many states.
+[28:19.9 - 28:23.1] He needs to find, he needs to move his vendors in twenty-five cities.
+[28:23.1 - 28:33.2] We rely on the manager to go out there and, um, and
+[28:33.2 - 28:33.8] do it.
+[28:33.8 - 28:43.8] If he rejects it, he needs to be able to put in the reason why he rejected with notes that go back to everybody that says that he, now
+[28:43.8 - 28:45.0] you may need to get a new bid.
+[28:45.0 - 28:50.3] There's something not right here.
+[28:50.3 - 29:03.3] Picture that you were running the construction department for my company, my house, my company
+[29:03.3 - 29:15.1] that's in-house, and you had to review bids from
+[29:15.1 - 29:16.9] two different managers.
+[29:16.9 - 29:21.0] What you would do is you would have more information than that, the kind of thing you would do.
+[29:21.0 - 29:21.0] This is the guy that's making the determining decision, not me, not Earl.
+[29:21.0 - 29:21.0] The money is my decision.
+[29:21.0 - 29:21.0] The...
+[29:21.0 - 29:23.2] He goes out there and, you know, he knows what basically construction costs are.
+[29:23.2 - 29:23.7] Mm-hmm.
+[29:23.7 - 29:30.3] If they're reasonable, I'm the guy that basically has to decide whether it's okay.
+[29:30.3 - 29:41.6] Then I have to approve it just because I don't want
+[29:41.6 - 29:41.6] to fight with that.
+[29:41.6 - 29:50.1] That's not okay.
+[29:50.1 - 29:58.5] Last stop every year.
+[29:58.5 - 29:59.9] That's what it is, this.
+[29:59.9 - 31:18.4] Missing the personal property number
+[31:18.4 - 31:18.6] Mm-hmm.
+[31:18.6 - 31:24.6] Property value is ten P.
+[31:24.6 - 31:29.7] Then I'll bring in my camera, then I'll bring- And you multiply it by the cap rate.
+[31:29.7 - 31:40.2] Take the yearly net operating income, divide by the cap
+[31:40.2 - 31:40.4] rate.
+[31:40.4 - 31:53.0] All
+[31:53.0 - 31:54.3] right, easy.
+[31:54.3 - 31:54.9] Manager bro.
+[31:54.9 - 31:57.5] Oh, hey.
+[31:57.5 - 32:00.7] I thought you were gone, but I was like, "Hmm." Later, man.
+[32:00.7 - 32:00.8] Have a good one.
+[32:00.8 - 32:02.3] All right, bro.
+[32:02.3 - 32:05.5] Don't forget to clock out.
+[32:05.5 - 32:06.7] Yeah.
+[32:06.7 - 32:08.1] Okay, copy that then.
+[32:08.1 - 32:08.3] Yeah.
+[32:08.3 - 32:17.5] I'll check that.
+[32:17.5 - 32:18.4] Mm-hmm.
+[32:18.4 - 32:20.7] That's where it was.
+[32:20.7 - 32:22.7] Uh-huh.
+[32:22.7 - 32:29.5] Okay.
+[32:29.5 - 32:31.8] Um, give me...
+[32:31.8 - 32:32.5] Give me that first.
+[32:32.5 - 32:34.2] Oh yeah, yeah, yeah.
+[32:34.2 - 32:34.7] No problem.
+[32:34.7 - 32:34.7] Yeah.
+[32:34.7 - 32:36.2] I'll meet you guys up there.
+[32:36.2 - 32:37.4] Yeah, let's eat.
+[32:37.4 - 32:37.4] See ya later, man.
+[32:37.4 - 32:38.9] All right, bro.
+[32:38.9 - 32:40.1] Have a good one.
+[32:40.1 - 32:40.1] Sure.
+[32:40.1 - 32:40.6] See ya.
+[32:40.6 - 32:45.5] Try and get it in by tomorrow.
+[32:45.5 - 32:45.5] All right.
+[32:45.5 - 32:45.8] Have a good day.
+[32:45.8 - 32:46.2] Absolutely.
+[32:46.2 - 32:46.5] Yeah.
+[32:46.5 - 32:47.5] Call me if you need anything.
+[32:47.5 - 32:47.8] Yeah.
+[32:47.8 - 32:56.9] Get the fuck out of here, you fuck.
+[32:56.9 - 32:57.0] Mm-hmm.
+[32:57.0 - 33:06.2] I need to, to clock out for Ani, right?
+[33:06.2 - 33:07.3] Huh?
+[33:07.3 - 33:07.8] Tomorrow.
+[33:07.8 - 33:08.8] I mean yesterday.
+[33:08.8 - 33:11.3] You didn't clock out, I saw.
+[33:11.3 - 33:12.1] Well, I wasn't here.
+[33:12.1 - 33:15.0] Still not okay.
+[33:15.0 - 33:19.6] Maybe I can mask myself in this geo fence somehow.
+[33:19.6 - 33:22.4] I could've just driven to, like, In-N-Out Burger.
+[33:22.4 - 33:25.6] You were lucky, dude.
+[33:25.6 - 33:26.4] Right?
+[33:26.4 - 33:30.9] I, I came back from lunch, and then Robert was like, "You have ideas due tomorrow." I didn't think, I didn't think he'd be for it.
+[33:30.9 - 33:31.1] Yeah.
+[33:31.1 - 33:33.1] What the fuck?
+[33:33.1 - 33:33.9] Why the fuck did I come back?
+[33:33.9 - 33:34.7] Why the fuck?
+[33:34.7 - 33:40.4] I just made it sound very time-sensitive that I'd get this done, 'cause really, they said that it was, so...
+[33:40.4 - 33:46.9] And now I've got, like, almost all of it to him, and now Cricket's kind of like, "Okay." That's the thing with Beth?
+[33:46.9 - 33:50.4] Yeah, which was for the accountant also.
+[33:50.4 - 33:53.8] So it's pretty much done.
+[33:53.8 - 33:56.6] What, to secure the loan that they're getting?
+[33:56.6 - 33:58.6] Uh, I don't know if it's...
+[33:58.6 - 34:02.2] It has to do with the K-1s, and I don't know if they're...
+[34:02.2 - 34:03.9] Are they selling a property or something?
+[34:03.9 - 34:09.8] I don't- No, I'm just seeing Coral Village, and Mark was just calling today about the loan finalizing and getting the numbers.
+[34:09.8 - 34:11.9] Oh, it's for 10 properties actually.
+[34:11.9 - 34:12.6] Mm-hmm.
+[34:12.6 - 34:21.6] It's, um- Well, they couldn't get the loan- It's a cost segregation study where they es- uh, accelerate the depreciation of the buildings within- Oh, that bullshit.
+[34:21.6 - 34:22.5] It's a scheduling.
+[34:22.5 - 34:24.0] Yeah, it's boring as fuck.
+[34:24.0 - 34:25.2] Oh, I see.
+[34:25.2 - 34:26.1] No, I know what it is.
+[34:26.1 - 34:27.9] And I didn't know anything about it until last week.
+[34:27.9 - 34:31.4] It's like the appliances, like, inside of the building, you can depreciate and shit.
+[34:31.4 - 34:35.9] Yeah, so I had to do each building of every property, and Grace was fun.
+[34:35.9 - 34:38.0] It's- 'Cause that was, what?
+[34:38.0 - 34:41.0] 26 buildings plus- Well, and it seems to be- ...
+[34:41.0 - 34:42.0] a pool house, plus some- ...
+[34:42.0 - 34:52.9] from what I'm hearing whispers of, is that every time that they do this, they go with the one who's, like, offering the most, that, who offering to get them the most, but then paying
+[34:52.9 - 34:54.4] them the cheapest, you know?
+[34:54.4 - 34:54.4] Oh.
+[34:54.4 - 34:58.8] So it's like they're the cheapest one to pay money to do this thing for them.
+[34:58.8 - 34:58.9] Oh.
+[34:58.9 - 35:00.2] And then they all end up doing it, and it's fucked up.
+[35:00.2 - 35:01.2] And get terrible result.
+[35:01.2 - 35:01.5] Yeah.
+[35:01.5 - 35:02.6] And it, and it's like Pretty much.
+[35:02.6 - 35:04.2] Yeah, the company was awful.
+[35:04.2 - 35:06.5] Yeah.
+[35:06.5 - 35:11.5] I don't know what they paid them, but probably a lot.
+[35:11.5 - 35:22.3] All
+[35:22.3 - 35:27.8] right, I'm gonna talk to you overhead, and don't work straight ahead longer than 15 minutes.
+[35:27.8 - 35:28.4] Okay.
+[35:28.4 - 35:33.2] I just need to know.
+[35:33.2 - 35:35.4] You what?
+[35:35.4 - 35:40.5] I'm gonna do 8:00 to 1:00.
+[35:40.5 - 35:42.8] It's like 10:15.
+[35:42.8 - 35:52.8] Um, if you chart out the one now where you're supposed to leave and plan to do it in a couple days, you
+[35:52.8 - 35:56.2] can finish it before I'm off.
+[35:56.2 - 35:57.0] Hey, bro.
+[35:57.0 - 35:59.8] I'm waiting for your manager to send me the information I need-
+[36:00.1 - 36:03.4] Getting close to for me to go home, so I got, I got plans.
+[36:03.4 - 36:05.9] They're, they're supposed to send me...
+[36:05.9 - 36:07.8] I'm, I'm not trying to get him in trouble.
+[36:07.8 - 36:09.0] I'm not trying to get him in trouble.
+[36:09.0 - 36:20.9] I just Oh,
+[36:20.9 - 36:21.6] okay.
+[36:21.6 - 36:21.8] Okay.
+[36:21.8 - 36:28.9] I just wanted to make sure.
+[36:28.9 - 36:29.3] Okay.
+[36:29.3 - 36:32.1] Um, do I have a deadline tomorrow morning?
+[36:32.1 - 36:34.3] Do I have it-- Do I need it tomorrow morning?
+[36:34.3 - 36:37.0] Can I do it-- I'll, I'ma do, do my best to do it today, but...
+[36:37.0 - 36:41.1] It has to be done tonight.
+[36:41.1 - 36:48.5] I have a client coming over after work, and I'm gonna be done with him about eight or nine.
+[36:48.5 - 36:49.4] After that, I'll do it.
+[36:49.4 - 36:54.7] I get here about six thirty.
+[36:54.7 - 37:04.7] I'll finish it tonight
+[37:04.7 - 37:07.0] before I go to bed because I don't wanna have to worry about it in the morning.
+[37:07.0 - 37:10.2] In the morning, I like to come here and make my shake and you know...
+[37:10.2 - 37:11.9] Yeah.
+[37:11.9 - 37:12.5] Okay.
+[37:12.5 - 37:12.8] All right.
+[37:12.8 - 37:13.1] Bye.
+[37:13.1 - 37:14.5] No problem.
+[37:14.5 - 37:21.4] Let me ask you a question.
+[37:21.4 - 37:32.1] Does it have the, the, is the name a separate question?
+[37:32.1 - 37:33.2] Yeah.
+[37:33.2 - 38:00.3] Okay.
+[38:00.3 - 38:29.3] I'll
+[38:29.3 - 38:31.5] wait for you while you're doing that.
+[38:31.5 - 38:32.3] I don't want to stay on the phone.
+[38:32.3 - 38:36.8] I don't want you to get, you know, perhaps any questions from the front desk.
+[38:36.8 - 38:48.0] Let us know.
+[38:48.0 - 39:00.9] Why
+[39:00.9 - 39:07.8] is it that there's no full date process, um, in the, um...
+[39:07.8 - 39:21.9] Okay.
+[39:21.9 - 39:23.9] So the, uh, created date.
+[39:23.9 - 39:25.1] The created date.
+[39:25.1 - 39:25.6] Okay.
+[39:25.6 - 39:26.9] Yeah.
+[39:26.9 - 39:30.4] Okay.
+[39:30.4 - 39:33.0] All right.
+[39:33.0 - 39:35.8] Hi, uh...
+[39:35.8 - 39:36.2] You're done.
+[39:36.2 - 39:39.4] I'll talk to you guys later.
+[39:39.4 - 39:45.4] Okay.
+[39:45.4 - 39:47.4] It's, it's a PDF.
+[39:47.4 - 39:48.5] Can I open a PDF?
+[39:48.5 - 39:52.5] Yeah.
+[39:52.5 - 39:54.7] Well, what you see when you're texting me.
+[39:54.7 - 39:56.5] I'm texting you.
+[39:56.5 - 39:57.7] It would be impossible for that error.
+[39:57.7 - 40:00.4] This should be in the support for your texting.
+[40:00.4 - 40:27.9] Um, we're
+[40:27.9 - 40:34.6] seeing, um, failures throughout the back when it comes to, uh, sewer line cleaning.
+[40:34.6 - 40:35.0] Yeah.
+[40:35.0 - 40:45.2] Is there any, um, possibility that, like, if we ran a line from the, uh, input of the hot water
+[40:45.2 - 40:55.7] tank into the hot water tank, we could start it and follow the line all the way down
+[40:55.7 - 40:57.9] to the sensor?
+[40:57.9 - 41:07.9] Is there a way to focus
+[41:07.9 - 41:42.2] the hot air from the blast out?
+[41:42.2 - 41:53.4] So,
+[41:53.4 - 41:56.0] so like at a, you know, like a ten-millimeter.
+[41:56.0 - 41:57.4] I'm not talking just a normal head.
+[41:57.4 - 41:59.4] So we come from overhead and then vent it from outside, and then we heat, uh, the point where we get inside to that.
+[41:59.4 - 42:00.1] Does that make sense?
+[42:00.1 - 44:13.5] Hmm.
+[44:13.5 - 44:17.6] That is not that.
+[44:17.6 - 44:54.2] What?
+[44:54.2 - 46:07.6] That's
+[46:07.6 - 46:08.6] great, though.
+[46:08.6 - 46:14.6] Voila.
+[46:14.6 - 47:06.6] Mm-hmm.
+[47:06.6 - 47:12.0] Command R.
+[47:60.0 - 48:02.3] I was gonna look at now and less.
+[48:02.3 - 48:10.4] About fifty percent of the time that I forget something important, but I can remember almost.
+[48:10.4 - 48:14.6] Then is there another question that you think we should ask them before we go?
+[48:14.6 - 48:16.5] I think so.
+[48:16.5 - 48:17.0] Right.
+[48:17.0 - 49:17.7] Yeah,
+[49:17.7 - 49:18.9] but, you know, then you're asking the...
+[49:18.9 - 49:23.1] I mean, you might be asking specifically too complicated, you know?
+[49:23.1 - 49:23.8] Yeah, all right.
+[49:23.8 - 49:28.5] All right.
+[49:28.5 - 49:30.2] Hello.
+[49:30.2 - 49:40.2] So you just talked about how you talked to him, and I just wanted to ask how you went about determining the feasibility
+[49:40.2 - 49:42.8] of being able to do what we wanted to do.
+[49:42.8 - 49:49.1] So I had my engineer and my wife kind of just go through and do a viability study on it.
+[49:49.1 - 50:36.4] From the, uh, Want
+[50:36.4 - 50:37.2] some cold?
+[50:37.2 - 50:38.4] Not yet.
+[50:38.4 - 50:44.6] Well.
+[50:44.6 - 50:47.4] Hello.
+[50:47.4 - 50:53.2] Sorry, I just figured I'd start with a fresh phone call.
+[50:53.2 - 50:57.3] So basically what we did was, is we went through the entire database you have.
+[50:57.3 - 51:00.5] There's one or two more questions that we have to get it fully operational.
+[51:00.5 - 51:08.6] Um, uh, p-part of the problem, to be honest with you, is, is that the programmers are not understanding financial statements.
+[51:08.6 - 51:16.7] So I had to educate them on how to read a financial statement first, so they could actually talk to Mona over there, who is a bookkeeper.
+[51:16.7 - 51:21.6] So, you know, when you deal with programmers, y-you give them a problem, they can solve it.
+[51:21.6 - 51:26.6] But if they don't know how to read and understand what the data is, then that was an issue.
+[51:26.6 - 51:33.5] Now, this exercise helped me in that matter because now they know what- Uh, I got off the phone with Jeremy.
+[51:33.5 - 51:37.9] He checked Assembly, OpenAI, and got all the things from our end.
+[51:37.9 - 51:44.1] It's hitting the bucket, and the calls are hitting all of it, so it's, it's on Chris and Bob or anybody- Okay, go ahead and tell Chris and Bob that, please.
+[51:44.1 - 51:45.0] Okay.
+[51:45.0 - 51:45.2] Yeah.
+[51:45.2 - 51:55.3] Um, so there's a couple of things that we don't have, which we could figure out in the next day or two, which would be where is your mortgage balances.
+[51:55.3 - 51:56.7] Um...
+[51:56.7 - 52:03.0] No, I, I know that she has the mortgage balance, but we're trying to find it in the data somewhere, you know.
+[52:03.0 - 52:09.0] We, we know we can get it manually from you, but we'd like to be able to pull it directly from your, um...
+[52:09.0 - 52:17.1] You don't put the mortgage balance on your, on your financial statement?
+[52:17.1 - 52:25.3] I mean, you're-- Generally, what happens is, is that when you have-- When you set up a set-- When you set up a financial statement...
+[52:25.3 - 52:32.4] When you set up a financial statement, you basically put down a balance sheet on there, and then you put what the mortgage balance is.
+[52:32.4 - 52:42.6] And then what happens is, is as you're writing, you know, your monthly checks around, um, and you make, if you make an interest and principal payment, the,
+[52:42.6 - 52:46.2] the, um, principal portion of the thing deducts it from your mortgage balance.
+[52:46.2 - 52:50.2] So I'd be surprised if you didn't, but it's possible you don't have it in there.
+[52:50.2 - 52:52.5] Okay.
+[52:52.5 - 52:55.7] But if, if you do have it in there, we know how to make...
+[52:55.7 - 52:58.1] We, we can talk to Red Manager flawlessly now.
+[52:58.1 - 53:04.1] We just need to, you know, give it the right command to go out there and pull the GL code that it's taking it from.
+[53:04.1 - 53:05.7] Um, but anyway.
+[53:05.7 - 53:15.7] So, and then getting all the other stuff hooked up, I, I, I would say that within a week or less, um, they can have the screens operating
+[53:15.7 - 53:19.5] in your office, and you'd be fully connected on the financial side of the whole thing.
+[53:19.5 - 53:23.7] Um, well, okay, so here's the other thing.
+[53:23.7 - 53:29.0] So let me just tell you what the costs are involved because there's costs obviously associated.
+[53:29.0 - 53:38.7] So being the fact that you're my best buddy and I'm brand new and you'll be the second customer to use it, I'm willing to give you fifty percent off of the pricing on it.
+[53:38.7 - 53:48.8] So basically charging you half, which basically I'm making, you know, a couple of hundred bucks a month profit on the whole thing,
+[53:48.8 - 53:51.0] um, just to get you online there.
+[53:51.0 - 53:54.6] So I'm not-- It's not like I'm getting rich doing it.
+[53:54.6 - 53:57.5] It's more of a proof of concept that we can get to the next customer.
+[53:57.5 - 54:00.3] So, um, you may or may...
+[54:00.3 - 54:02.8] You know, now you have to determine whether it's worth it to you or not.
+[54:02.8 - 54:08.5] So basically from the financial side of the system- That will show up the screens.
+[54:08.5 - 54:16.0] Um, everything that you-- All hardware you have to buy, we'll order it for you, and it'll have it shipped to your office.
+[54:16.0 - 54:22.2] And then basically, you'll be buying a couple of TV sets, and, um, we'll ship a little box.
+[54:22.2 - 54:23.0] What?
+[54:23.0 - 54:24.2] We'll ship...
+[54:24.2 - 54:26.6] Well, they have to be 4K TV.
+[54:26.6 - 54:30.5] Uh, we'll, we'll give you the minimum specifications, but they have to be 4K TVs.
+[54:30.5 - 54:33.8] They- And we're gonna give you a little box that you'll plug in.
+[54:33.8 - 54:40.5] It has to be-- You have to have Wi-Fi near the, the little box that we plug in, so it can talk to the internet, obviously.
+[54:40.5 - 54:44.9] And then, um, uh...
+[54:44.9 - 54:53.8] A- And I'm sure since you don't have the greatest IT staff over there, that's gonna be a little bit of a struggle to get stuff, um, working.
+[54:53.8 - 54:56.2] So you'll get as many screens as you need.
+[54:56.2 - 55:03.3] Um, uh, uh, uh, so you just provide the TVs and the, and the, and we'll provide the...
+[55:03.3 - 55:04.4] We'll get you the boxes.
+[55:04.4 - 55:07.4] And then you- Do we buy our own TVs?
+[55:07.4 - 55:07.6] Yeah.
+[55:07.6 - 55:09.1] I mean, I would buy, buy the TV.
+[55:09.1 - 55:11.3] Yeah, you buy the T- 'cause I'm not gonna...
+[55:11.3 - 55:12.0] What am I gonna do?
+[55:12.0 - 55:13.6] Yeah, you buy a 4K TV.
+[55:13.6 - 55:19.2] We'll tell you which ones that we like and that work well, and then you-- whether, you know, uh, you know...
+[55:19.2 - 55:22.1] They're not-- The, the, the TVs are cheap now, so.
+[55:22.1 - 55:27.6] And depending upon how big, how much room you have on the wall, you want bigger, the better, so you can see everything clearer.
+[55:27.6 - 55:36.4] Um, and then, um, um, the, uh...
+[55:36.4 - 55:38.0] So you'll have the vacancy show up.
+[55:38.0 - 55:42.4] Um, you'll get complete training on with...
+[55:42.4 - 55:45.7] Uh, how many managers or people are inputting data at your, at your...
+[55:45.7 - 55:48.0] How many properties are we talking about, by the way?
+[55:48.0 - 55:53.4] H-H-How many, how many different properties do you have?
+[55:53.4 - 55:55.3] Is it, like, six?
+[55:55.3 - 55:56.1] Uh, six.
+[55:56.1 - 55:59.2] Yeah.
+[55:59.2 - 55:59.8] We've got a lot of them connected.
+[55:59.8 - 56:00.9] I guess seven.
+[56:00.9 - 56:01.3] Six, seven.
+[56:01.3 - 56:01.6] Okay.
+[56:01.6 - 56:06.8] Well, uh, o-okay, let me ask you, how, how many people are, uh, how many people are running the properties?
+[56:06.8 - 56:09.5] Four or five.
+[56:09.5 - 56:10.8] Okay, so you have four or five people.
+[56:10.8 - 56:13.4] So the, all four or five people will be trained.
+[56:13.4 - 56:17.7] Um, we'll start off with one monkey first, and then we'll train 'em.
+[56:17.7 - 56:26.6] And then, um, uh, a-after that goes out and the questions are going on, then we'll, uh, you know, we'll train 'em in groups of three or four at a time.
+[56:26.6 - 56:32.7] But we'll get one person trained one-on-one with, uh, uh, the person via Zoom calls.
+[56:32.7 - 56:36.4] Now, does your, does your PCs have, like, little cameras on 'em or no?
+[56:36.4 - 56:41.4] Yes.
+[56:41.4 - 56:41.6] Okay.
+[56:41.6 - 56:43.6] So, you know, we can do an adequate Zoom call.
+[56:43.6 - 56:44.0] Okay.
+[56:44.0 - 56:46.9] And then the training takes an hour.
+[56:46.9 - 56:52.7] Employee initial training and then an hour follow-up when they use the system.
+[56:52.7 - 56:59.0] You know, some questions, and then pretty much they should be pretty fluent in the system.
+[56:59.0 - 57:03.1] Well, okay.
+[57:03.1 - 57:07.4] Who's gonna enter in the amount of rent collected?
+[57:07.4 - 57:11.6] I think it's the manager.
+[57:11.6 - 57:13.0] Oh, you have manager, uh, enter in the rent?
+[57:13.0 - 57:14.7] Yeah.
+[57:14.7 - 57:15.0] Okay.
+[57:15.0 - 57:16.5] Uh, everybody works differently.
+[57:16.5 - 57:17.1] Okay.
+[57:17.1 - 57:19.1] And then who enters in the vacancies?
+[57:19.1 - 57:22.3] I guess it's the manager.
+[57:22.3 - 57:23.7] But it's-- W- I mean, do you want...
+[57:23.7 - 57:30.7] Don't you want your manager every time if, if somebody vacates an apartment, don't you want the manager to do that?
+[57:30.7 - 57:34.3] I guess.
+[57:34.3 - 57:34.7] Yes.
+[57:34.7 - 57:35.2] Yes, I do.
+[57:35.2 - 57:35.5] Okay.
+[57:35.5 - 57:35.8] Yeah.
+[57:35.8 - 57:36.9] Okay.
+[57:36.9 - 57:41.5] And then who's gonna go out there and tell us the condition every day of the apartment when it's being prepped?
+[57:41.5 - 57:42.9] The manager.
+[57:42.9 - 57:43.1] Okay.
+[57:43.1 - 57:47.4] So the manager's gonna be entering in the, uh, in the vacancy data.
+[57:47.4 - 57:49.2] Okay.
+[57:49.2 - 57:58.3] We're, we're just talking about, we're talking about vacancy and financials as one piece.
+[57:58.3 - 57:59.9] Okay.
+[57:59.9 - 58:01.3] Okay.
+[58:01.3 - 58:04.7] So in other words, you'll get a status of the, uh...
+[58:04.7 - 58:08.4] Like, you know, on my board, I have every vacancy listed and what the status of rent readiness is.
+[58:08.4 - 58:10.1] That's part of the financial piece.
+[58:10.1 - 58:20.1] So you'll have cash flow statements, you'll have rent collected, and it'll all be on an app on your phones as well as, um, you can
+[58:20.1 - 58:22.6] get to it via tablet or whatever.
+[58:22.6 - 58:27.8] Um, like, you know, when I open up my phone, and I look at it all day, I can tell you how much rent I collected as I'm...
+[58:27.8 - 58:29.9] So that's all a part of the financial piece.
+[58:29.9 - 58:32.3] Okay.
+[58:32.3 - 58:36.6] The other part of the system is the AI calling.
+[58:36.6 - 58:44.4] So all the phone calls coming in, the, uh, follow-ups, the note-taking, and all that stuff is the other piece.
+[58:44.4 - 58:46.6] That's the, that's the AI piece.
+[58:46.6 - 58:47.8] Okay.
+[58:47.8 - 58:49.2] And those are the two pieces.
+[58:49.2 - 58:57.7] And then the other, the other modules that you may or may not wanna do, depending upon it is, um, who goes out and inspects the apartment buildings?
+[58:57.7 - 58:59.0] Um- Mm-hmm.
+[58:59.0 - 59:05.2] Uh, do you have somebody that goes out, checks the building once a week, or, uh...
+[59:05.2 - 59:10.4] We, we inspect, like, for instance, every month, we inspect ten percent of the units to make sure the tenants aren't trashing them.
+[59:10.4 - 59:11.8] Do you guys do that?
+[59:11.8 - 59:13.5] No.
+[59:13.5 - 59:14.1] Okay.
+[59:14.1 - 59:15.1] Are you gonna wanna do that?
+[59:15.1 - 59:17.7] Yeah.
+[59:17.7 - 59:19.3] Okay.
+[59:19.3 - 59:20.6] And let me ask you another question.
+[59:20.6 - 59:20.7] Mm-hmm.
+[59:20.7 - 59:25.5] Who inspects the actual condition of the hallways and all that stuff to make sure that they're staying clean and everything?
+[59:25.5 - 59:29.6] Our boy.
+[59:29.6 - 59:31.0] Well, no, we have harassing.
+[59:31.0 - 59:32.8] I need somebody to go do that.
+[59:32.8 - 59:35.0] I have some...
+[59:35.0 - 59:42.6] I do have somebody.
+[59:42.6 - 59:44.3] I have four people.
+[59:44.3 - 59:46.6] They just like clean the hallways and stuff.
+[59:46.6 - 59:46.6] Um, I mean, we make sure.
+[59:46.6 - 59:46.6] We have people that clean the hallways and stuff.
+[59:46.6 - 59:46.9] Okay.
+[59:46.9 - 59:48.9] So there, there's two systems for that.
+[59:48.9 - 59:49.5] Okay?
+[59:49.5 - 59:55.4] There's the maintenance piece, which you're gonna get if you go with the, the AI calling part of it.
+[59:55.4 - 59:59.6] When somebody calls in, okay, what-
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-27-19-21-04_transcription_20260706_154217.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-27-19-21-04_transcription_20260706_154217.txt
+[2J[H[3Jmanus-speech-to-text ROSE-REC2_V2025-12-27-19-21-04.mp3
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2025-12-27-19-21-04.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: .ROSE-REC2_V2025-12-27-19-21-04_chunks_20260706_153929/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: .ROSE-REC2_V2025-12-27-19-21-04_chunks_20260706_153929/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: .ROSE-REC2_V2025-12-27-19-21-04_chunks_20260706_153929/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: .ROSE-REC2_V2025-12-27-19-21-04_chunks_20260706_153929/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: .ROSE-REC2_V2025-12-27-19-21-04_chunks_20260706_153929/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[57:30.7 - 57:34.3] I guess.
+[57:34.3 - 57:34.7] Yes.
+[57:34.7 - 57:35.2] Yes, I do.
+[57:35.2 - 57:35.5] Okay.
+[57:35.5 - 57:35.8] Yeah.
+[57:35.8 - 57:36.9] Okay.
+[57:36.9 - 57:41.5] And then who's gonna go out there and tell us the condition every day of the apartment when it's being prepped?
+[57:41.5 - 57:42.9] The manager.
+[57:42.9 - 57:43.1] Okay.
+[57:43.1 - 57:47.4] So the manager's gonna be entering in the, uh, in the vacancy data.
+[57:47.4 - 57:49.2] Okay.
+[57:49.2 - 57:58.3] We're, we're just talking about, we're talking about vacancy and financials as one piece.
+[57:58.3 - 57:59.9] Okay.
+[57:59.9 - 58:01.3] Okay.
+[58:01.3 - 58:04.7] So in other words, you'll get a status of the, uh...
+[58:04.7 - 58:08.4] Like, you know, on my board, I have every vacancy listed and what the status of rent readiness is.
+[58:08.4 - 58:10.1] That's part of the financial piece.
+[58:10.1 - 58:20.1] So you'll have cash flow statements, you'll have rent collected, and it'll all be on an app on your phones as well as, um, you can
+[58:20.1 - 58:22.6] get to it via tablet or whatever.
+[58:22.6 - 58:27.8] Um, like, you know, when I open up my phone, and I look at it all day, I can tell you how much rent I collected as I'm...
+[58:27.8 - 58:29.9] So that's all a part of the financial piece.
+[58:29.9 - 58:32.3] Okay.
+[58:32.3 - 58:36.6] The other part of the system is the AI calling.
+[58:36.6 - 58:44.4] So all the phone calls coming in, the, uh, follow-ups, the note-taking, and all that stuff is the other piece.
+[58:44.4 - 58:46.6] That's the, that's the AI piece.
+[58:46.6 - 58:47.8] Okay.
+[58:47.8 - 58:49.2] And those are the two pieces.
+[58:49.2 - 58:57.7] And then the other, the other modules that you may or may not wanna do, depending upon it is, um, who goes out and inspects the apartment buildings?
+[58:57.7 - 58:59.0] Um- Mm-hmm.
+[58:59.0 - 59:05.2] Uh, do you have somebody that goes out, checks the building once a week, or, uh...
+[59:05.2 - 59:10.4] We, we inspect, like, for instance, every month, we inspect ten percent of the units to make sure the tenants aren't trashing them.
+[59:10.4 - 59:11.8] Do you guys do that?
+[59:11.8 - 59:13.5] No.
+[59:13.5 - 59:14.1] Okay.
+[59:14.1 - 59:15.1] Are you gonna wanna do that?
+[59:15.1 - 59:17.7] Yeah.
+[59:17.7 - 59:19.3] Okay.
+[59:19.3 - 59:20.6] And let me ask you another question.
+[59:20.6 - 59:20.7] Mm-hmm.
+[59:20.7 - 59:25.5] Who inspects the actual condition of the hallways and all that stuff to make sure that they're staying clean and everything?
+[59:25.5 - 59:29.6] Our boy.
+[59:29.6 - 59:31.0] Well, no, we have harassing.
+[59:31.0 - 59:32.8] I need somebody to go do that.
+[59:32.8 - 59:35.0] I have some...
+[59:35.0 - 59:42.6] I do have somebody.
+[59:42.6 - 59:44.3] I have four people.
+[59:44.3 - 59:46.6] They just like clean the hallways and stuff.
+[59:46.6 - 59:46.6] Um, I mean, we make sure.
+[59:46.6 - 59:46.6] We have people that clean the hallways and stuff.
+[59:46.6 - 59:46.9] Okay.
+[59:46.9 - 59:48.9] So there, there's two systems for that.
+[59:48.9 - 59:49.5] Okay?
+[59:49.5 - 59:55.4] There's the maintenance piece, which you're gonna get if you go with the, the AI calling part of it.
+[59:55.4 - 59:59.6] When somebody calls in, okay, what-
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-27-19-21-04_transcription_20260706_154217.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-27-19-21-04_transcription_20260706_154217.txt

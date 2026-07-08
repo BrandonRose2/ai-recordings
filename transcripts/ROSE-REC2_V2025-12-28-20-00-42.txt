@@ -1,0 +1,360 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2025-12-28-20-00-42.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: .ROSE-REC2_V2025-12-28-20-00-42_chunks_20260706_155056/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: .ROSE-REC2_V2025-12-28-20-00-42_chunks_20260706_155056/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: .ROSE-REC2_V2025-12-28-20-00-42_chunks_20260706_155056/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: .ROSE-REC2_V2025-12-28-20-00-42_chunks_20260706_155056/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: .ROSE-REC2_V2025-12-28-20-00-42_chunks_20260706_155056/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.7 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[12:00.4 - 12:00.6] Hmm.
+[12:00.6 - 12:20.3] Hmm.
+[12:20.3 - 13:04.7] Eric?
+[13:04.7 - 13:05.0] Yeah.
+[13:05.0 - 13:09.8] Coming.
+[13:09.8 - 13:43.4] Yeah,
+[13:43.4 - 13:47.5] Python's a little more advanced, but makes you do a lot more reading.
+[37:03.0 - 37:03.4] What's up?
+[37:03.4 - 37:04.6] You leaving for work?
+[37:04.6 - 37:05.3] Yeah, I'm about to.
+[37:05.3 - 37:06.8] He's still with the doctors.
+[37:06.8 - 37:07.3] Oh, really?
+[37:07.3 - 37:07.9] Yeah.
+[37:07.9 - 37:12.1] That's what he gets for leaving at two thirty or three.
+[37:12.1 - 37:15.1] Yeah, I'm gonna take this check to Ellie.
+[37:15.1 - 37:16.5] Well, you should have left at five.
+[37:16.5 - 37:17.6] Yeah.
+[37:17.6 - 37:19.4] Like, why are you here, bro?
+[37:19.4 - 37:25.4] All right.
+[37:25.4 - 37:28.4] Friday.
+[37:28.4 - 40:21.8] Hello?
+[40:21.8 - 41:40.7] Shit.
+[41:40.7 - 41:53.1] I have
+[41:53.1 - 41:54.7] a checkup and it's at the house, so...
+[41:54.7 - 42:05.5] Hey,
+[42:05.5 - 42:05.9] Siri.
+[42:05.9 - 42:09.3] Play Kygo Radio on my Spotify.
+[42:09.3 - 42:29.3] Hey,
+[42:29.3 - 42:29.7] Siri.
+[42:29.7 - 42:33.9] Play Kygo Radio on my Spotify.
+[42:33.9 - 42:43.8] I'm having trouble with the connection.
+[42:43.8 - 42:45.5] Please try again later.
+[42:45.5 - 42:58.7] Hey,
+[42:58.7 - 42:59.1] Siri.
+[42:59.1 - 43:02.7] Play Kygo Radio on my Spotify.
+[43:02.7 - 43:12.8] I'm having
+[43:12.8 - 43:13.8] trouble with the connection.
+[43:13.8 - 43:15.5] Please try again later.
+[43:15.5 - 43:25.7] Time keeps its own
+[43:25.7 - 43:26.4] time.
+[43:26.4 - 43:30.1] Here we stand at beginning.
+[43:30.1 - 43:34.3] And in the pressing us behind.
+[43:34.3 - 43:41.4] I, I, I can dream for us all.
+[43:41.4 - 43:44.6] Now I will make the same mistakes.
+[43:44.6 - 43:49.7] Time and time again.
+[43:49.7 - 44:31.1] Know
+[44:31.1 - 44:32.6] you struggle.
+[44:32.6 - 44:35.4] When you get older, oh.
+[44:35.4 - 44:40.6] Just don't show your struggle.
+[44:40.6 - 44:43.1] When you get older.
+[44:43.1 - 44:46.5] Oh.
+[44:46.5 - 44:48.2] Things aren't easy.
+[44:48.2 - 44:50.8] So just believe me now.
+[44:50.8 - 44:56.5] If you don't keep it cool now.
+[44:56.5 - 44:59.4] You'll never make the sound.
+[44:59.4 - 45:13.4] Hello?
+[45:13.4 - 45:17.5] Hello?
+[45:17.5 - 45:21.6] I'm getting Dr.
+[45:21.6 - 45:21.6] Garcia.
+[45:21.6 - 45:23.2] Uh, no, this is Brandon Brose.
+[45:23.2 - 45:26.4] It's okay.
+[45:26.4 - 45:27.0] Uh, bye.
+[45:27.0 - 45:32.8] All the lies will die away.
+[45:32.8 - 45:36.7] If you get to hear me now.
+[45:36.7 - 45:40.4] All the fears will fade away.
+[45:40.4 - 45:45.0] If you get to hear me now.
+[45:45.0 - 45:52.6] If you get to hear me now.
+[45:52.6 - 46:00.4] If you get to hear me now.
+[46:00.4 - 46:04.5] This is just a song to speak out your mouth now.
+[46:04.5 - 46:12.4] And though it might sound rough, you're not always loved now.
+[46:12.4 - 46:21.5] Things aren't easy, so just believe me now.
+[46:21.5 - 46:28.3] And don't run and hide away, just let me show you how.
+[46:28.3 - 46:36.4] All the lies will die away.
+[46:36.4 - 46:40.0] If you get to hear me now.
+[46:40.0 - 46:44.1] All the fears will fade away.
+[46:44.1 - 46:47.5] If you get to hear me now.
+[46:47.5 - 46:54.1] If you get to hear me now.
+[46:54.1 - 46:55.7] If you get to hear me now.
+[46:55.7 - 47:04.1] If you get to hear me now.
+[47:04.1 - 47:12.8] If you get to hear me now.
+[47:12.8 - 47:19.6] If you get to hear me now.
+[47:19.6 - 47:32.9] If
+[47:32.9 - 47:35.4] you get to hear me now.
+[47:35.4 - 47:45.6] Some days I really wanna hate you.
+[47:45.6 - 47:50.2] 'Cause you always know just what to say.
+[47:50.2 - 47:51.7] Stupid bitch.
+[47:51.7 - 47:55.3] Oh, now I know the words to break you.
+[47:55.3 - 47:56.2] Fucking idiots.
+[47:56.2 - 47:57.6] But you know what breaks me.
+[47:57.6 - 47:59.9] Keep tying your fucking shoes in the morning, you dumb bitch
+[48:00.4 - 48:08.3] When things get heated, we say things we don't mean and though we know they ain't true.
+[48:08.3 - 48:15.3] Say you're leaving, get careless with our feelings.
+[48:15.3 - 48:18.0] What's the worst we can do?
+[48:18.0 - 48:24.3] I didn't tell you all my secrets just to pull my heart out.
+[48:24.3 - 48:29.2] I didn't take you to my family just to show you the house.
+[48:29.2 - 48:29.2] That's early.
+[48:29.2 - 48:29.5] You're gonna regret it.
+[48:29.5 - 48:34.3] I didn't work this hard to get this far then leave it so soon.
+[48:34.3 - 48:36.9] I didn't love to lose somebody like you.
+[48:36.9 - 48:39.9] Yeah, I don't hand deliver stuff for their fucking kids.
+[48:39.9 - 48:44.5] Some nights we're closer than ever.
+[48:44.5 - 48:50.0] Sometimes we're running out of space.
+[48:50.0 - 48:54.3] When we're high it can't get any better.
+[48:54.3 - 48:57.5] Until we come down again.
+[48:57.5 - 49:07.4] Things get heated, we say things we don't mean and though we know they ain't true.
+[49:07.4 - 49:09.5] Yeah, I don't hand deliver this little stuff.
+[49:09.5 - 49:14.5] Say you're leaving, get careless with our feelings.
+[49:14.5 - 49:17.0] What's the worst we can do?
+[49:17.0 - 49:23.3] I didn't tell you all my secrets just to pull my heart out.
+[49:23.3 - 49:24.3] But I know that.
+[49:24.3 - 49:28.2] I didn't take you to my family just to show you the house.
+[49:28.2 - 49:33.0] I didn't work this hard to get this far then leave it so soon.
+[49:33.0 - 49:36.3] I didn't love to lose somebody like you.
+[49:36.3 - 49:36.6] I don't leave it at the doorbell.
+[49:36.6 - 49:39.3] Somebody like you.
+[49:39.3 - 49:41.5] Deal with it.
+[49:41.5 - 49:44.2] Oh, oh, somebody like you.
+[49:44.2 - 49:45.7] Oh, oh.
+[49:45.7 - 49:48.9] Keep doing it, see what's up.
+[49:48.9 - 49:55.5] When things get heated, we say things we don't mean and though we know they ain't true.
+[49:55.5 - 49:57.8] Yeah, I don't hand deliver to people that just slap their kids.
+[49:57.8 - 50:02.4] I didn't tell you all my secrets just to pull my heart out.
+[50:02.4 - 50:07.5] I didn't take you to my family just to show you the house.
+[50:07.5 - 50:12.5] I didn't work this hard to get this far then leave it so soon.
+[50:12.5 - 50:14.7] I didn't love to lose somebody like you.
+[50:14.7 - 50:21.2] Yeah, people who slap their kids in the face don't get a hand delivery either.
+[50:21.2 - 50:23.5] Somebody like you.
+[50:23.5 - 50:24.0] Oh, oh.
+[50:24.0 - 50:28.5] Somebody, somebody like you.
+[50:28.5 - 50:29.3] Oh, oh.
+[50:29.3 - 50:29.3] Somebody like you.
+[50:29.3 - 50:29.3] Oh, oh.
+[50:29.3 - 50:31.4] Somebody, somebody like you.
+[50:31.4 - 50:32.1] Oh.
+[50:32.1 - 50:35.4] I didn't love to lose somebody like you.
+[50:35.4 - 50:38.0] Somebody like you.
+[50:38.0 - 50:49.0] Only
+[50:49.0 - 50:50.9] twenty-four hours in a day.
+[50:50.9 - 50:53.3] Twenty-four hours to escape.
+[50:53.3 - 50:56.5] My heart could never be in the wrong place.
+[50:56.5 - 50:60.0] Rocking, grey cloud in my head.
+[50:60.0 - 51:02.6] Can I hear my bed?
+[51:02.6 - 51:39.6] I'm
+[51:39.6 - 51:40.9] walking up there.
+[51:40.9 - 52:37.3] Knock,
+[52:37.3 - 52:40.0] knock.
+[52:40.0 - 52:41.0] Hi, bringing a check.
+[52:41.0 - 52:42.4] How are you?
+[52:42.4 - 52:44.2] Good.
+[52:44.2 - 52:44.2] How are you?
+[52:44.2 - 52:44.8] I'm good.
+[52:44.8 - 52:46.6] Do I give it to you, I guess?
+[52:46.6 - 52:47.9] Yeah.
+[52:47.9 - 52:48.2] Have a good one.
+[52:48.2 - 52:48.5] All right.
+[52:48.5 - 52:50.3] Good to see you.
+[52:50.3 - 52:57.6] Did you say something to me?
+[52:57.6 - 52:58.7] You're good.
+[52:58.7 - 52:59.6] Okay, see ya.
+[52:59.6 - 54:01.1] Sorry.
+[54:01.1 - 54:12.6] Baby
+[54:12.6 - 54:14.0] tell me why.
+[54:14.0 - 54:18.0] Why you filling my eyes, oh why?
+[54:18.0 - 54:19.3] Oh why, yeah.
+[54:19.3 - 54:26.6] Oh I, I lock the doors, but you get closer.
+[54:26.6 - 54:30.8] Hey Siri, open my paychecks app.
+[54:30.8 - 54:36.2] So I'm up and down.
+[54:36.2 - 54:40.6] I keep you out, but I just can't get enough.
+[54:40.6 - 54:42.5] I'm craving your love.
+[54:42.5 - 54:46.1] Whenever you want, I give in.
+[54:46.1 - 54:48.0] I just can't get enough.
+[54:48.0 - 54:50.9] You run through my blood.
+[54:50.9 - 54:54.0] I long for your touch on my skin.
+[54:54.0 - 54:56.3] Oh, I just can't get enough.
+[54:56.3 - 55:12.4] Remember
+[55:12.4 - 55:16.4] when I said you would only end up lonely?
+[55:16.4 - 55:19.2] Don't love me, yeah.
+[55:19.2 - 55:21.4] Oh, I think I changed my mind.
+[55:21.4 - 55:24.5] Now I need you here tonight to hold me.
+[55:24.5 - 55:27.2] Come hold me, yeah.
+[55:27.2 - 55:36.0] I, I lock the doors, but you get closer.
+[55:36.0 - 55:40.3] I, so I'm up and down.
+[55:40.3 - 55:44.8] I keep you out, but I just can't get enough.
+[55:44.8 - 55:46.3] I'm craving your love.
+[55:46.3 - 55:50.2] Whenever you want, I give in.
+[55:50.2 - 55:52.8] I just can't get enough.
+[55:52.8 - 55:54.8] You run through my blood.
+[55:54.8 - 56:11.1] I long for your touch on my- Yeah.
+[56:11.1 - 56:13.9] A new place, a new home.
+[56:13.9 - 56:18.4] For a while, let me feel alive.
+[56:18.4 - 56:22.1] Nothing to hold me back.
+[56:22.1 - 56:24.9] Take my time, just enjoy the ride.
+[56:24.9 - 56:30.3] Unknown land passing by.
+[56:30.3 - 56:33.3] Life is good, best I've ever felt.
+[56:33.3 - 56:38.5] Get me up, somewhere new.
+[56:38.5 - 56:41.8] Somewhere I can find myself.
+[56:41.8 - 56:50.6] Oh, I feel, I feel, I feel, I feel so alive.
+[56:50.6 - 56:58.8] As I reach out, reach out, reach out, reach out to the sky.
+[56:58.8 - 57:02.7] I found my way.
+[57:02.7 - 57:04.6] I found my way.
+[57:04.6 - 57:09.6] I was in the dark, against it all, I made it through the day.
+[57:09.6 - 57:10.8] 'Cause I found my way.
+[57:10.8 - 57:13.2] I found my way.
+[57:13.2 - 57:17.0] In bad times, I know I'll be okay.
+[57:17.0 - 57:19.3] 'Cause I found my way.
+[57:19.3 - 57:27.5] 'Cause I found my way.
+[57:27.5 - 57:30.2] Go puta!
+[57:30.2 - 57:32.2] Fucking bitch.
+[57:32.2 - 57:38.0] 'Cause I found my way, my way, my way.
+[57:38.0 - 57:40.9] I found my way, my way.
+[57:40.9 - 57:48.2] 'Cause I found my way, my way, my way.
+[57:48.2 - 57:51.8] I found my way, my way.
+[57:51.8 - 57:52.2] I found my way.
+[57:52.2 - 57:54.2] I found my way.
+[57:54.2 - 57:59.2] I was in the dark, against it all, I made it through the day.
+[57:59.2 - 58:00.8] 'Cause I found my way.
+[58:00.8 - 58:02.4] I found my way.
+[58:02.4 - 58:07.1] In bad times, I know I'll be okay.
+[58:07.1 - 58:09.3] 'Cause I found my way.
+[58:09.3 - 58:24.2] 'Cause
+[58:24.2 - 58:45.5] I found
+[58:45.5 - 58:49.7] my way.
+[58:49.7 - 58:56.8] I wish people would stop parking like jackasses.
+[58:56.8 - 58:58.1] 'Cause I found my way.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-28-20-00-42_transcription_20260706_155155.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-28-20-00-42_transcription_20260706_155155.txt
+[2J[H[3Jmanus-speech-to-text ROSE-REC2_V2025-12-28-20-00-42.mp3
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2025-12-28-20-00-42.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: .ROSE-REC2_V2025-12-28-20-00-42_chunks_20260706_155056/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: .ROSE-REC2_V2025-12-28-20-00-42_chunks_20260706_155056/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: .ROSE-REC2_V2025-12-28-20-00-42_chunks_20260706_155056/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: .ROSE-REC2_V2025-12-28-20-00-42_chunks_20260706_155056/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: .ROSE-REC2_V2025-12-28-20-00-42_chunks_20260706_155056/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[52:46.6 - 52:47.9] Yeah.
+[52:47.9 - 52:48.2] Have a good one.
+[52:48.2 - 52:48.5] All right.
+[52:48.5 - 52:50.3] Good to see you.
+[52:50.3 - 52:57.6] Did you say something to me?
+[52:57.6 - 52:58.7] You're good.
+[52:58.7 - 52:59.6] Okay, see ya.
+[52:59.6 - 54:01.1] Sorry.
+[54:01.1 - 54:12.6] Baby
+[54:12.6 - 54:14.0] tell me why.
+[54:14.0 - 54:18.0] Why you filling my eyes, oh why?
+[54:18.0 - 54:19.3] Oh why, yeah.
+[54:19.3 - 54:26.6] Oh I, I lock the doors, but you get closer.
+[54:26.6 - 54:30.8] Hey Siri, open my paychecks app.
+[54:30.8 - 54:36.2] So I'm up and down.
+[54:36.2 - 54:40.6] I keep you out, but I just can't get enough.
+[54:40.6 - 54:42.5] I'm craving your love.
+[54:42.5 - 54:46.1] Whenever you want, I give in.
+[54:46.1 - 54:48.0] I just can't get enough.
+[54:48.0 - 54:50.9] You run through my blood.
+[54:50.9 - 54:54.0] I long for your touch on my skin.
+[54:54.0 - 54:56.3] Oh, I just can't get enough.
+[54:56.3 - 55:12.4] Remember
+[55:12.4 - 55:16.4] when I said you would only end up lonely?
+[55:16.4 - 55:19.2] Don't love me, yeah.
+[55:19.2 - 55:21.4] Oh, I think I changed my mind.
+[55:21.4 - 55:24.5] Now I need you here tonight to hold me.
+[55:24.5 - 55:27.2] Come hold me, yeah.
+[55:27.2 - 55:36.0] I, I lock the doors, but you get closer.
+[55:36.0 - 55:40.3] I, so I'm up and down.
+[55:40.3 - 55:44.8] I keep you out, but I just can't get enough.
+[55:44.8 - 55:46.3] I'm craving your love.
+[55:46.3 - 55:50.2] Whenever you want, I give in.
+[55:50.2 - 55:52.8] I just can't get enough.
+[55:52.8 - 55:54.8] You run through my blood.
+[55:54.8 - 56:11.1] I long for your touch on my- Yeah.
+[56:11.1 - 56:13.9] A new place, a new home.
+[56:13.9 - 56:18.4] For a while, let me feel alive.
+[56:18.4 - 56:22.1] Nothing to hold me back.
+[56:22.1 - 56:24.9] Take my time, just enjoy the ride.
+[56:24.9 - 56:30.3] Unknown land passing by.
+[56:30.3 - 56:33.3] Life is good, best I've ever felt.
+[56:33.3 - 56:38.5] Get me up, somewhere new.
+[56:38.5 - 56:41.8] Somewhere I can find myself.
+[56:41.8 - 56:50.6] Oh, I feel, I feel, I feel, I feel so alive.
+[56:50.6 - 56:58.8] As I reach out, reach out, reach out, reach out to the sky.
+[56:58.8 - 57:02.7] I found my way.
+[57:02.7 - 57:04.6] I found my way.
+[57:04.6 - 57:09.6] I was in the dark, against it all, I made it through the day.
+[57:09.6 - 57:10.8] 'Cause I found my way.
+[57:10.8 - 57:13.2] I found my way.
+[57:13.2 - 57:17.0] In bad times, I know I'll be okay.
+[57:17.0 - 57:19.3] 'Cause I found my way.
+[57:19.3 - 57:27.5] 'Cause I found my way.
+[57:27.5 - 57:30.2] Go puta!
+[57:30.2 - 57:32.2] Fucking bitch.
+[57:32.2 - 57:38.0] 'Cause I found my way, my way, my way.
+[57:38.0 - 57:40.9] I found my way, my way.
+[57:40.9 - 57:48.2] 'Cause I found my way, my way, my way.
+[57:48.2 - 57:51.8] I found my way, my way.
+[57:51.8 - 57:52.2] I found my way.
+[57:52.2 - 57:54.2] I found my way.
+[57:54.2 - 57:59.2] I was in the dark, against it all, I made it through the day.
+[57:59.2 - 58:00.8] 'Cause I found my way.
+[58:00.8 - 58:02.4] I found my way.
+[58:02.4 - 58:07.1] In bad times, I know I'll be okay.
+[58:07.1 - 58:09.3] 'Cause I found my way.
+[58:09.3 - 58:24.2] 'Cause
+[58:24.2 - 58:45.5] I found
+[58:45.5 - 58:49.7] my way.
+[58:49.7 - 58:56.8] I wish people would stop parking like jackasses.
+[58:56.8 - 58:58.1] 'Cause I found my way.
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-28-20-00-42_transcription_20260706_155155.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-28-20-00-42_transcription_20260706_155155.txt

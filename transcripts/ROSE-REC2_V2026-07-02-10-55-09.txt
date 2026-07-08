@@ -1,0 +1,389 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2026-07-02-10-55-09.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: .ROSE-REC2_V2026-07-02-10-55-09_chunks_20260706_160943/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: .ROSE-REC2_V2026-07-02-10-55-09_chunks_20260706_160943/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: .ROSE-REC2_V2026-07-02-10-55-09_chunks_20260706_160943/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: .ROSE-REC2_V2026-07-02-10-55-09_chunks_20260706_160943/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: .ROSE-REC2_V2026-07-02-10-55-09_chunks_20260706_160943/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.7 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[18:21.7 - 18:24.4] I got my peaches out in Georgia.
+[18:24.4 - 18:31.8] I get my weed from California.
+[18:31.8 - 20:14.9] Oh,
+[20:14.9 - 20:18.0] I, I sent an email to get you an account for that, man.
+[20:18.0 - 20:18.7] Huh?
+[20:18.7 - 20:21.2] Uh, hold on, hold on one second.
+[20:21.2 - 20:21.6] Oh, I thought you were talking to me.
+[20:21.6 - 21:08.3] Fuck.
+[21:08.3 - 21:18.3] Uh, I just said, um, I sent an email to get you an account for that
+[21:18.3 - 21:22.0] 'cause I don't have the ability to like create new users anymore- Oh ...
+[21:22.0 - 21:23.6] for whatever reason, but- A Potty account?
+[21:23.6 - 21:26.4] A Potty account?
+[21:26.4 - 21:26.6] Yep.
+[21:26.6 - 21:29.3] Yeah, I was like, "What?" Uh- Yeah.
+[21:29.3 - 21:37.3] But, um, just so you know, it's not that simple because managers have to put notices on the door to go in.
+[21:37.3 - 21:38.6] They don't wanna do it.
+[21:38.6 - 21:39.5] You send them- Oh ...
+[21:39.5 - 21:41.5] emails, you send them whatever.
+[21:41.5 - 21:50.1] What they usually do is I'll send them a screenshot, but I just- But like can you go in and see which ones are online and not, or they have to do something?
+[21:50.1 - 21:50.6] No.
+[21:50.6 - 21:51.0] Oh, okay.
+[21:51.0 - 21:55.9] You can go into the system and see everything, but they have the ability to go into the system.
+[21:55.9 - 21:59.1] When we remind them, all they do is print out...
+[21:59.1 - 22:03.0] Now it's a screenshot 'cause they used to export per building.
+[22:03.0 - 22:04.5] Uh, they would export- Oh ...
+[22:04.5 - 22:05.3] the work orders- Okay ...
+[22:05.3 - 22:06.9] that have like leaks.
+[22:06.9 - 22:10.2] Now you have to just sort it and take a screenshot, so that's- Oh ...
+[22:10.2 - 22:13.2] stupid and whatever, and you can do a maintenance thing to do that.
+[22:13.2 - 22:17.0] But anyways, all this is to say, what happens is I would send them the PDF.
+[22:17.0 - 22:18.8] Like, "Hey, these are low batteries.
+[22:18.8 - 22:19.7] Here's a...
+[22:19.7 - 22:22.1] Here's just a generic email of like- Okay ...
+[22:22.1 - 22:22.9] low battery.
+[22:22.9 - 22:25.4] Here's the directions." Like the area code.
+[22:25.4 - 22:27.2] "Call, call me if you need batteries- Yeah ...
+[22:27.2 - 22:28.6] 'cause I order them on, uh- Oh ...
+[22:28.6 - 22:29.0] Amazon.
+[22:29.0 - 22:29.8] No problem." Right.
+[22:29.8 - 22:29.8] Right?
+[22:29.8 - 22:29.9] Yeah.
+[22:29.9 - 22:35.6] I'll send them off to you if, if it's the reason that they're messed up is the only the low battery thing.
+[22:35.6 - 22:35.8] Mm-hmm.
+[22:35.8 - 22:40.8] If you have batteries, 'cause they come in like they're those, they're those circle batteries, those 2032s.
+[22:40.8 - 22:41.4] Oh, yeah.
+[22:41.4 - 22:42.7] The CR2032s.
+[22:42.7 - 22:43.1] Yeah.
+[22:43.1 - 22:45.6] They're those, and so they come in like eight packs.
+[22:45.6 - 22:50.5] So when they have eight offline, I order them two, and they have eight extras, right?
+[22:50.5 - 22:50.6] Yeah.
+[22:50.6 - 22:52.2] They just lose them- Makes sense ...
+[22:52.2 - 22:52.7] or use them for other stuff, whatever.
+[22:52.7 - 22:53.6] I mean- Their personal use.
+[22:53.6 - 22:53.9] Yeah.
+[22:53.9 - 22:55.2] This is the thing.
+[22:55.2 - 22:57.8] They fucking grab the work order thing.
+[22:57.8 - 22:58.2] Uh-huh.
+[22:58.2 - 23:02.0] The maintenance guys just say that they looked and checked it out and stuff.
+[23:02.0 - 23:03.0] They just scribble on it.
+[23:03.0 - 23:03.0] Oh.
+[23:03.0 - 23:09.0] And so it's like Mark's whole thing is like- Well, can't you like set a reminder to like check again in like a day and see if they did it or no?
+[23:09.0 - 23:10.7] You can do anything, but dude- That does not happen ...
+[23:10.7 - 23:13.3] regionals get pissed about it when you bother them.
+[23:13.3 - 23:13.4] Oh.
+[23:13.4 - 23:13.9] The fucking...
+[23:13.9 - 23:14.3] And the...
+[23:14.3 - 23:18.9] Everyone gets all annoyed that you're bothering them with it, and they don't wanna do it.
+[23:18.9 - 23:19.3] Yeah.
+[23:19.3 - 23:27.5] So it's a, it's a fight, and it's just gonna be one of those things where they're like, "Well, now we hate whoever even more." And it's like I've done it.
+[23:27.5 - 23:27.9] Oh.
+[23:27.9 - 23:32.2] And then now it got dropped back onto my plate, and it's like, it always doesn't work.
+[23:32.2 - 23:32.5] Yeah.
+[23:32.5 - 23:41.0] And then the other problem is when the gateway is offline, even when I have the smart plugs that I have, it doesn't reset it when I turn it off and on a lot of the time.
+[23:41.0 - 23:41.9] Oh.
+[23:41.9 - 23:46.9] And so like- Well, maybe I'll just set it up where it like flags which ones are offline- But it, it- ...
+[23:46.9 - 23:47.9] and then- You wanna know the IP?
+[23:47.9 - 23:47.9] ...
+[23:47.9 - 23:52.2] then I'll give that to Mark and say, "What do you want me to do?" They also have access to all of it.
+[23:52.2 - 23:53.0] Yeah.
+[23:53.0 - 23:57.7] Like a manager has access to their building, and most of them don't go in to fix it.
+[23:57.7 - 23:59.9] Maybe I could make it a quick access button
+[24:00.2 - 24:01.8] For them just to make it easier, so.
+[24:01.8 - 24:02.8] You can do whatever.
+[24:02.8 - 24:03.0] Yeah.
+[24:03.0 - 24:04.0] It's not, it's, it's not a problem.
+[24:04.0 - 24:06.7] It just- You and I both know what will actually happen, but- Yeah ...
+[24:06.7 - 24:08.7] as long as I have it set up like I told him I would.
+[24:08.7 - 24:14.1] I know you know what that deal is, and it's like I constantly email the managers.
+[24:14.1 - 24:17.0] I at least do the bare minimum now of like- Yeah ...
+[24:17.0 - 24:18.6] "Hey, your gateway's offline.
+[24:18.6 - 24:21.9] Please, like, unplug it and plug it back in." Right.
+[24:21.9 - 24:25.0] 'Cause also my smart plug is offline- Get them the necessary, yeah ...
+[24:25.0 - 24:26.1] or something like that too and whatnot.
+[24:26.1 - 24:26.8] What's a smart plug?
+[24:26.8 - 24:31.2] Uh, it's, it's basically, it's a Wi-Fi outlet.
+[24:31.2 - 24:31.6] Oh, okay.
+[24:31.6 - 24:35.8] It just plugs into the outlet, and then they can plug in the, the power cable to it.
+[24:35.8 - 24:36.3] For the toilet.
+[24:36.3 - 24:36.9] And then I can...
+[24:36.9 - 24:38.3] For the gateway, yeah.
+[24:38.3 - 24:39.0] Oh, okay.
+[24:39.0 - 24:41.7] That thing that's in their office that sends us all the data.
+[24:41.7 - 24:42.1] Oh.
+[24:42.1 - 24:43.4] And then I can- For the valve ...
+[24:43.4 - 24:44.8] when I turn it off- Okay ...
+[24:44.8 - 24:48.0] it cuts the power to the outlet, so it turns it off.
+[24:48.0 - 24:48.5] Oh, it resets it.
+[24:48.5 - 24:50.5] Then I turn it back on and it resets it- Oh ...
+[24:50.5 - 24:53.6] which is basically what it needs to reset.
+[24:53.6 - 24:57.6] But then still there's a few, like Boca Ciega, she just won't help.
+[24:57.6 - 24:58.8] And she's like- ...
+[24:58.8 - 24:59.4] "Oh, I don't know.
+[24:59.4 - 25:00.0] It's not online.
+[25:00.0 - 25:01.1] I've switched it off.
+[25:01.1 - 25:02.5] I've, I've switched all the things.
+[25:02.5 - 25:03.3] It's not online." Oh.
+[25:03.3 - 25:03.8] I'm like, "All right.
+[25:03.8 - 25:05.6] Well, like-" Fuck me then.
+[25:05.6 - 25:06.0] Do you...
+[25:06.0 - 25:06.3] I do...
+[25:06.3 - 25:06.8] It's like- Yeah ...
+[25:06.8 - 25:08.6] "Do you have anything else plugged into the switch?" Yeah.
+[25:08.6 - 25:09.9] She's like, "Yeah, and it works." Right.
+[25:09.9 - 25:12.9] It's like, "I kinda don't believe you." Well, I don't care if they actually do it.
+[25:12.9 - 25:18.4] I'm just gonna set up what I told Mark I'd set up, so But he's only doing it 'cause this motherfucker- Oh ...
+[25:18.4 - 25:20.1] told him that that's the best thing.
+[25:20.1 - 25:23.0] It's gonna be such a huge selling point to everybody else.
+[25:23.0 - 25:24.5] Wow.
+[25:24.5 - 25:30.9] If that's what he thinks the selling point is, then he hadn't, he hadn't looked at the whole system very close .
+[25:30.9 - 25:31.8] Nope.
+[25:31.8 - 25:33.8] The selling point is if it works.
+[25:33.8 - 25:34.4] Smitty.
+[25:34.4 - 25:35.1] Yeah.
+[25:35.1 - 25:38.3] Did you need me for something?
+[25:38.3 - 25:38.5] What?
+[25:38.5 - 25:40.6] Okay.
+[25:40.6 - 25:54.3] Do you want to take
+[25:54.3 - 26:08.5] or, uh, or should
+[26:08.5 - 26:14.6] I just- We'll switch it.
+[26:14.6 - 26:14.9] Okay.
+[26:14.9 - 26:29.0] That'd
+[26:29.0 - 26:33.8] actually be better if you, uh, scoot the table out of the way so you can actually see the whole setup.
+[26:33.8 - 26:34.4] All right.
+[26:34.4 - 26:45.9] Why
+[26:45.9 - 26:46.4] do you use it?
+[26:46.4 - 26:48.7] Huh?
+[26:48.7 - 27:10.1] I'll show
+[27:10.1 - 27:21.8] you
+[27:21.8 - 27:45.5] a little
+[27:45.5 - 27:46.5] bit.
+[27:46.5 - 27:46.9] Okay.
+[27:46.9 - 27:55.0] I wanna dance by a fire in the Mexican sky.
+[27:55.0 - 27:59.8] Drink some margarita vodka with pretty eyes.
+[27:59.8 - 28:02.6] Listen to mariachis playin' in the night.
+[28:02.6 - 28:03.4] Jammin' in here.
+[28:03.4 - 28:05.2] Are you into that?
+[28:05.2 - 28:05.2] I know.
+[28:05.2 - 28:07.5] I wanna hook up those, those big speakers.
+[28:07.5 - 28:52.1] Are
+[28:52.1 - 28:56.0] you into that?
+[28:56.0 - 29:06.5] Listen to mariachis playin' in the night.
+[29:06.5 - 29:09.2] Are you into that?
+[29:09.2 - 29:25.5] Are you into that?
+[29:25.5 - 29:31.8] I wanna dance by a fire in the Mexican sky.
+[29:31.8 - 29:33.7] Drink some margarita vodka with pretty eyes.
+[29:33.7 - 29:39.2] Listen to mariachis playin' in the night.
+[29:39.2 - 29:41.4] Are you into that?
+[29:41.4 - 29:49.1] Are you into that?
+[29:49.1 - 29:54.5] Hmm.
+[29:54.5 - 29:55.9] Are you into that?
+[29:55.9 - 29:57.8] I wanna dance by a fire in the Mexican sky.
+[29:57.8 - 30:00.9] Drink some margarita vodka with pretty eyes.
+[30:00.9 - 30:02.7] Listen to mariachis playin' in the night.
+[30:02.7 - 30:03.0] Are you into that?
+[30:03.0 - 30:03.0] Are you into that?
+[30:03.0 - 30:03.0] Hmm.
+[30:03.0 - 30:03.0] Are you into that?
+[30:03.0 - 30:19.1] Are you- Well,
+[30:19.1 - 30:21.9] I mean, it looks like you're basically there.
+[30:21.9 - 30:27.8] See you Monday.
+[30:27.8 - 30:29.7] I just walked in.
+[30:29.7 - 30:31.8] Half a day?
+[30:31.8 - 30:34.5] Okay, Mark.
+[30:34.5 - 30:40.1] Don't do anything I wouldn't do, but if you do, name it after me.
+[30:40.1 - 30:45.5] I'll give you a twenty fourteen Diet Coke too.
+[30:45.5 - 30:51.4] He, uh, he was at, uh, lunch with me one time.
+[30:51.4 - 30:57.2] He s-- or dinner, whatever, and he said, um, "Can I get a..." What was it?
+[30:57.2 - 31:05.4] "A nineteen eighty-one Diet Coke?" And I said, I said, "Is that when they stopped putting cocaine in it?" That's probably honest.
+[31:05.4 - 31:07.0] He didn't really react.
+[31:07.0 - 31:08.8] I don't think he even listened to me.
+[31:08.8 - 31:13.0] He doesn't like when you call out his jokes.
+[31:13.0 - 31:17.9] Why is all this shit off the kitchen table?
+[31:17.9 - 31:18.7] What happened?
+[31:18.7 - 31:21.9] Oh, I was making a video with, uh, for Robert.
+[42:06.4 - 42:06.6] Huh?
+[42:06.6 - 42:08.6] Did you do the PropertyMac website?
+[42:08.6 - 42:09.9] Oh, I was gonna tell you, actually.
+[42:09.9 - 42:10.8] I was looking at it earlier.
+[42:10.8 - 42:12.4] It's fucking garbage.
+[42:12.4 - 42:22.5] Well, I'm gonna als- also do some UI with, um, this one I'm creating for the comps, just to make it more interactive so we can use
+[42:22.5 - 42:23.8] the subscription stuff.
+[42:23.8 - 42:24.2] Um- Yeah.
+[42:24.2 - 42:31.7] But I'm saying if, if, like, should we get the homeboy downstairs to see, like, like what he wants?
+[42:31.7 - 42:35.3] I fucking love it.
+[42:35.3 - 42:42.0] Um, what- Yo, is that shit recycling?
+[42:42.0 - 42:42.8] What?
+[42:42.8 - 42:45.8] That on the- Oh, no, I just, I- You mean all that stuff?
+[42:45.8 - 42:47.1] Oh, no, yeah, that stuff.
+[42:47.1 - 42:47.5] Yeah.
+[42:47.5 - 42:49.7] I need to throw that shit back, but...
+[42:49.7 - 42:50.5] No, you're good.
+[42:50.5 - 42:52.2] I just didn't wanna, like, open it.
+[42:52.2 - 42:54.9] I didn't know if it was recycling or what the deal was.
+[42:54.9 - 43:00.8] I moved it, I moved all that shit upstairs to get it out of the way so it's not on the...
+[43:00.8 - 43:03.9] I put it in the Ferrari bag that isn't fucked up.
+[43:03.9 - 43:05.6] Yeah, this is, this is done.
+[43:05.6 - 43:06.9] I'll throw it away.
+[43:06.9 - 43:09.0] Yeah, just toss it or whatever.
+[43:09.0 - 43:09.9] I just thought I was...
+[43:09.9 - 43:19.6] That's what I was, like, cleaning all of the other shit up, and I was like, "I don't know what that is." Um, here we go.
+[43:19.6 - 43:27.2] I was gonna say, uh, whenever I was gonna go in here and, like, tell for my rent comps to fund the website for the properties.
+[43:27.2 - 43:32.0] Do you think it should be investment portfolio or, like, apartment corp- property portfolio?
+[43:32.0 - 43:32.8] Change it.
+[43:32.8 - 43:35.5] Oh, I'm part of that, uh, Manus, right?
+[43:35.5 - 43:36.2] Yeah.
+[43:36.2 - 43:36.6] Okay, cool.
+[43:36.6 - 43:41.3] Um, I was gonna also show you.
+[43:41.3 - 43:48.2] So with these GitHubs, the repositories, you can do, um, whatever I was showing your friend.
+[43:48.2 - 43:51.1] You can do it on, for any of them.
+[43:51.1 - 43:53.2] So, like, say if you...
+[43:53.2 - 43:53.9] Where's my GitHub?
+[43:53.9 - 44:03.9] Say if I went
+[44:03.9 - 44:10.8] to my repositories, or actually I can go to my home, and I have a whole bunch of stuff, like, starred that I wanna...
+[44:10.8 - 44:13.0] Where's my stars?
+[44:13.0 - 44:14.2] Oh, that's my dashboard.
+[44:14.2 - 44:20.3] Um, where?
+[44:20.3 - 44:25.6] Anyway, I could do...
+[44:25.6 - 44:33.3] Here.
+[44:33.3 - 44:34.2] Repositories.
+[44:34.2 - 44:39.0] And then go to a couple of them.
+[44:39.0 - 44:44.5] Oh, this is a cool one I can show you.
+[44:44.5 - 44:48.0] Um, I'll show you that in a second.
+[44:48.0 - 44:50.2] I get all Mark's emails.
+[44:50.2 - 44:52.3] Oh, shit.
+[44:52.3 - 44:54.5] Um, rent comps.
+[44:54.5 - 44:60.0] Okay, here's one, like, superpowers, an agentic skills framework and software development methodology.
+[44:60.0 - 45:00.6] Let's see.
+[45:00.6 - 45:10.8] And I can go take this, and I can copy it, and then go to my Docker and
+[45:10.8 - 45:21.2] use this Gordon, it's the AI for the Docker, and do new session, and say, um, "Walk me through
+[45:21.2 - 45:28.1] the ins- uh, setting up this repo." And then I can do paste.
+[45:28.1 - 45:35.2] And then it will give me all the codes to put in my terminal, so I can go over here.
+[45:35.2 - 45:37.2] What terminal was that?
+[45:37.2 - 45:37.7] Manus?
+[45:37.7 - 45:40.0] Oh, I just made my own little window.
+[45:40.0 - 45:41.6] Um, it's just the regular terminal.
+[45:41.6 - 45:42.1] For what?
+[45:42.1 - 45:43.1] For Mac.
+[45:43.1 - 45:45.0] I know, but for what AI?
+[45:45.0 - 45:48.5] Um, it's for whatever you wanna install.
+[45:48.5 - 45:55.8] Like, so if I wanna install this repo, I just go through here, put the codes in, like paste, and then it installs everything for you.
+[45:55.8 - 45:58.1] Oh, I have that on my laptop.
+[45:58.1 - 45:59.2] I don't have that on my work computer.
+[45:59.2 - 46:02.0] No, on your work computer, it would be, like, PowerShell.
+[46:02.0 - 46:03.0] Windows PowerShell.
+[46:03.0 - 46:03.5] Yeah, yeah.
+[46:03.5 - 46:05.4] Or, or Ubuntu is good.
+[46:05.4 - 46:06.1] Got it.
+[46:06.1 - 46:07.4] But then you'd have to have the...
+[46:07.4 - 46:10.4] I don't like to do that 'cause then you have the admin password, and you gotta do all that.
+[46:10.4 - 46:12.6] That's why, I, that's why I'm not exploring with that yet.
+[46:12.6 - 46:14.0] I will though.
+[46:14.0 - 46:20.2] That's why you need to have your, uh, MacBook open at home, and you can use Google Chrome and get on it at any time.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2026-07-02-10-55-09_transcription_20260706_161114.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2026-07-02-10-55-09_transcription_20260706_161114.txt
+[2J[H[3Jmanus-speech-to-text ROSE-REC2_V2026-07-02-10-55-09.mp3
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2026-07-02-10-55-09.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: .ROSE-REC2_V2026-07-02-10-55-09_chunks_20260706_160943/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: .ROSE-REC2_V2026-07-02-10-55-09_chunks_20260706_160943/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: .ROSE-REC2_V2026-07-02-10-55-09_chunks_20260706_160943/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: .ROSE-REC2_V2026-07-02-10-55-09_chunks_20260706_160943/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: .ROSE-REC2_V2026-07-02-10-55-09_chunks_20260706_160943/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[43:09.9 - 43:19.6] That's what I was, like, cleaning all of the other shit up, and I was like, "I don't know what that is." Um, here we go.
+[43:19.6 - 43:27.2] I was gonna say, uh, whenever I was gonna go in here and, like, tell for my rent comps to fund the website for the properties.
+[43:27.2 - 43:32.0] Do you think it should be investment portfolio or, like, apartment corp- property portfolio?
+[43:32.0 - 43:32.8] Change it.
+[43:32.8 - 43:35.5] Oh, I'm part of that, uh, Manus, right?
+[43:35.5 - 43:36.2] Yeah.
+[43:36.2 - 43:36.6] Okay, cool.
+[43:36.6 - 43:41.3] Um, I was gonna also show you.
+[43:41.3 - 43:48.2] So with these GitHubs, the repositories, you can do, um, whatever I was showing your friend.
+[43:48.2 - 43:51.1] You can do it on, for any of them.
+[43:51.1 - 43:53.2] So, like, say if you...
+[43:53.2 - 43:53.9] Where's my GitHub?
+[43:53.9 - 44:03.9] Say if I went
+[44:03.9 - 44:10.8] to my repositories, or actually I can go to my home, and I have a whole bunch of stuff, like, starred that I wanna...
+[44:10.8 - 44:13.0] Where's my stars?
+[44:13.0 - 44:14.2] Oh, that's my dashboard.
+[44:14.2 - 44:20.3] Um, where?
+[44:20.3 - 44:25.6] Anyway, I could do...
+[44:25.6 - 44:33.3] Here.
+[44:33.3 - 44:34.2] Repositories.
+[44:34.2 - 44:39.0] And then go to a couple of them.
+[44:39.0 - 44:44.5] Oh, this is a cool one I can show you.
+[44:44.5 - 44:48.0] Um, I'll show you that in a second.
+[44:48.0 - 44:50.2] I get all Mark's emails.
+[44:50.2 - 44:52.3] Oh, shit.
+[44:52.3 - 44:54.5] Um, rent comps.
+[44:54.5 - 44:60.0] Okay, here's one, like, superpowers, an agentic skills framework and software development methodology.
+[44:60.0 - 45:00.6] Let's see.
+[45:00.6 - 45:10.8] And I can go take this, and I can copy it, and then go to my Docker and
+[45:10.8 - 45:21.2] use this Gordon, it's the AI for the Docker, and do new session, and say, um, "Walk me through
+[45:21.2 - 45:28.1] the ins- uh, setting up this repo." And then I can do paste.
+[45:28.1 - 45:35.2] And then it will give me all the codes to put in my terminal, so I can go over here.
+[45:35.2 - 45:37.2] What terminal was that?
+[45:37.2 - 45:37.7] Manus?
+[45:37.7 - 45:40.0] Oh, I just made my own little window.
+[45:40.0 - 45:41.6] Um, it's just the regular terminal.
+[45:41.6 - 45:42.1] For what?
+[45:42.1 - 45:43.1] For Mac.
+[45:43.1 - 45:45.0] I know, but for what AI?
+[45:45.0 - 45:48.5] Um, it's for whatever you wanna install.
+[45:48.5 - 45:55.8] Like, so if I wanna install this repo, I just go through here, put the codes in, like paste, and then it installs everything for you.
+[45:55.8 - 45:58.1] Oh, I have that on my laptop.
+[45:58.1 - 45:59.2] I don't have that on my work computer.
+[45:59.2 - 46:02.0] No, on your work computer, it would be, like, PowerShell.
+[46:02.0 - 46:03.0] Windows PowerShell.
+[46:03.0 - 46:03.5] Yeah, yeah.
+[46:03.5 - 46:05.4] Or, or Ubuntu is good.
+[46:05.4 - 46:06.1] Got it.
+[46:06.1 - 46:07.4] But then you'd have to have the...
+[46:07.4 - 46:10.4] I don't like to do that 'cause then you have the admin password, and you gotta do all that.
+[46:10.4 - 46:12.6] That's why, I, that's why I'm not exploring with that yet.
+[46:12.6 - 46:14.0] I will though.
+[46:14.0 - 46:20.2] That's why you need to have your, uh, MacBook open at home, and you can use Google Chrome and get on it at any time.
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2026-07-02-10-55-09_transcription_20260706_161114.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2026-07-02-10-55-09_transcription_20260706_161114.txt

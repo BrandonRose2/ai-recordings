@@ -1,0 +1,446 @@
+Starting Speech-to-Text conversion...
+Audio file size (27.5MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 64 kbps
+Audio file size: 27.47 MB, duration: 3600.2 seconds
+Splitting into 6 chunks (each ~600.0 seconds, max 5 MB)...
+Successfully split into 6 chunks
+Audio file split into 6 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_V2026-07-02-14-55-10.mp3, file size: 27.47 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 6 chunks...
+
+Transcribing chunk 1/6: mp3/.ROSE-REC2_V2026-07-02-14-55-10_chunks_20260706_165435/chunk_000.mp3
+Chunk 1 completed (duration: 600.0s)
+
+Transcribing chunk 2/6: mp3/.ROSE-REC2_V2026-07-02-14-55-10_chunks_20260706_165435/chunk_001.mp3
+Chunk 2 completed (duration: 600.0s)
+
+Transcribing chunk 3/6: mp3/.ROSE-REC2_V2026-07-02-14-55-10_chunks_20260706_165435/chunk_002.mp3
+Chunk 3 completed (duration: 600.0s)
+
+Transcribing chunk 4/6: mp3/.ROSE-REC2_V2026-07-02-14-55-10_chunks_20260706_165435/chunk_003.mp3
+Chunk 4 completed (duration: 600.0s)
+
+Transcribing chunk 5/6: mp3/.ROSE-REC2_V2026-07-02-14-55-10_chunks_20260706_165435/chunk_004.mp3
+Chunk 5 completed (duration: 600.0s)
+
+Transcribing chunk 6/6: mp3/.ROSE-REC2_V2026-07-02-14-55-10_chunks_20260706_165435/chunk_005.mp3
+Chunk 6 completed (duration: 599.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.7 seconds
+Language: eng
+Total Chunks: 6
+Timestamped segments:
+[00:20.6 - 00:23.1] Same phone as always.
+[00:23.1 - 00:29.9] Shit.
+[00:29.9 - 00:40.9] Now
+[00:40.9 - 00:41.6] I'll see you later.
+[00:41.6 - 02:32.6] Yeah.
+[02:32.6 - 04:17.7] Hmm.
+[04:17.7 - 09:39.2] Oh,
+[09:39.2 - 09:42.4] fuck.
+[10:27.4 - 10:28.9] Okay, that's good.
+[10:28.9 - 16:25.2] Okay.
+[16:25.2 - 16:39.1] Unassigned.
+[46:18.7 - 46:19.3] See you Monday.
+[46:19.3 - 46:20.6] See you.
+[46:20.6 - 46:25.0] Oh, the whole container- Oh ...
+[46:25.0 - 46:25.8] in the car thing.
+[46:25.8 - 46:28.3] Don't wanna forget it.
+[46:28.3 - 46:29.7] I forget...
+[46:29.7 - 46:34.3] I literally, if I leave it sitting on my desk as part of my keyboard, I forget it all the time.
+[46:34.3 - 46:35.5] You should have- Like, every time I- ...
+[46:35.5 - 46:37.4] like, a spare I do.
+[46:37.4 - 46:38.6] It's not...
+[46:38.6 - 46:39.9] I have the other one.
+[46:39.9 - 46:40.9] I have 10 of these.
+[46:40.9 - 46:41.9] I bet so .
+[46:41.9 - 46:44.3] I don't- So it's like they're all gonna be that one Nobody buys singles, yeah.
+[46:44.3 - 46:45.3] It's not, like, an issue.
+[46:45.3 - 46:50.4] It's just, like, then I gotta fucking put two in my car seat, and they clink together on the- Oh ...
+[46:50.4 - 46:51.0] drive home.
+[46:51.0 - 46:51.5] Yeah, I know.
+[46:51.5 - 46:52.2] I'm the same way.
+[46:52.2 - 46:52.5] Yeah.
+[46:52.5 - 46:54.2] You've got a set way of doing things.
+[46:54.2 - 46:54.5] Yeah.
+[46:54.5 - 46:58.3] My friends tell me I- And it just throws you all, your whole psyche off Yeah.
+[46:58.3 - 46:58.4] Yeah.
+[46:58.4 - 47:00.2] My friends tell me I have routine-tism.
+[47:00.2 - 47:01.7] I like that.
+[47:01.7 - 47:06.1] You know, I would be lying if I said I didn't, too, to an extent.
+[47:06.1 - 47:07.9] I, I definitely do.
+[47:07.9 - 47:08.9] I'm just like, "All right.
+[47:08.9 - 47:10.4] Relax, guys." Yeah.
+[47:10.4 - 47:12.7] "I'm chilling." Like, don't label it.
+[47:12.7 - 48:07.3] Oh,
+[48:07.3 - 48:08.1] I had Chipotle.
+[48:08.1 - 48:11.5] It always tears my stomach up , but it's good.
+[48:11.5 - 48:12.5] Yeah.
+[48:12.5 - 48:18.1] South Park didn't make an episode of South Park about Chipotle- ...
+[48:18.1 - 48:18.8] for nothing.
+[48:18.8 - 48:19.6] That's true.
+[48:19.6 - 48:21.6] I was...
+[48:21.6 - 48:25.1] You know, speaking of routine, I used to do it every single day.
+[48:25.1 - 48:33.5] I would go and have it ordered on my app, then I'd go park, and I would tan next door, and I'd pick up my food, and- There you go.
+[48:33.5 - 48:33.6] Oh ...
+[48:33.6 - 48:35.3] my stomach is used to it if you...
+[48:35.3 - 48:38.4] Yeah, stomach's used to it if you do it every day, but I haven't had it in a while.
+[48:38.4 - 48:39.5] Oh, yeah, I can...
+[48:39.5 - 48:41.6] Even still, it still fucks with me.
+[48:41.6 - 48:42.0] Yeah.
+[48:42.0 - 48:45.2] Like, I eat fast food and stuff, and if I have drinks at night...
+[48:45.2 - 48:45.8] I've been better.
+[48:45.8 - 48:46.3] I've been...
+[48:46.3 - 48:53.6] I lost a few lbs 'cause I haven't been doing it, but when I have drinks at night, I order some shit off Postmates all the time.
+[48:53.6 - 48:54.1] Oh, yeah?
+[48:54.1 - 48:55.2] It's always like a- You pay- ...
+[48:55.2 - 48:59.3] buy one get one sort of thing, so it makes it at least kind of worth it- Yeah ...
+[48:59.3 - 49:02.0] even though it's still too expensive The service charge, the delivery's double- Exactly ...
+[49:02.0 - 49:02.6] what you paid for.
+[49:02.6 - 49:02.9] Exactly.
+[49:02.9 - 49:03.0] Yeah.
+[49:03.0 - 49:06.5] So I try to do the buy one get one free, and it's still...
+[49:06.5 - 49:11.1] I was doing it, like, way too much, and it's bad, but- Yeah ...
+[49:11.1 - 49:12.6] it still messes with your stomach.
+[49:12.6 - 49:13.1] Oh, yeah.
+[49:13.1 - 49:16.0] Like, I, I- And my go-tos are Chipotle- For me, I just don't do it every day, so ...
+[49:16.0 - 49:18.7] and, uh, Panda Express, which are both, like, terrible for you.
+[49:18.7 - 49:19.9] I, I love them both, too.
+[49:19.9 - 49:20.1] Yeah.
+[49:20.1 - 49:21.5] 'Cause they're right there.
+[49:21.5 - 49:21.8] Yeah.
+[49:21.8 - 49:22.9] For real.
+[49:22.9 - 49:25.0] They're basically walking distance.
+[49:25.0 - 49:27.3] It's just, it's an annoying walk.
+[49:27.3 - 49:27.6] Yeah.
+[49:27.6 - 49:30.3] It's like a little further, and then I'm trained- Me too ...
+[49:30.3 - 49:32.4] so like I'm not- 'Cause I'm just right down that Pavilion ...
+[49:32.4 - 49:32.5] gonna drive ...
+[49:32.5 - 49:36.3] you know, basically That's a bad idea, even with it being so close.
+[49:36.3 - 49:37.6] It's like, I'm just...
+[49:37.6 - 49:37.7] Ugh.
+[49:37.7 - 49:38.0] Yeah.
+[49:38.0 - 49:38.7] Let's not.
+[49:38.7 - 49:39.0] Right.
+[49:39.0 - 49:39.9] Let's not be one of those guys.
+[49:39.9 - 49:45.2] And if you get the, like, the bigger box, the bigger plate or whatever, then it's like two meals easy, you know?
+[49:45.2 - 49:45.5] So.
+[49:45.5 - 49:46.8] Yeah.
+[49:46.8 - 49:49.2] But dude, that shit is my weakness.
+[49:49.2 - 49:50.4] The queso?
+[49:50.4 - 49:50.6] Yeah.
+[49:50.6 - 49:53.1] Fucking love the queso from Chipotle.
+[49:53.1 - 49:54.6] Shit is so good.
+[49:54.6 - 49:55.4] What do you need?
+[49:55.4 - 49:56.0] It's like being married, dude.
+[49:56.0 - 49:56.7] What do you need?
+[49:56.7 - 49:58.5] I'm fucking married if you like.
+[49:58.5 - 49:59.7] Fucking married?
+[50:00.5 - 50:01.2] Get some, get some sunglasses.
+[50:01.2 - 50:01.9] You don't got any.
+[50:01.9 - 50:05.2] I've got a whole Versace case full of them.
+[50:05.2 - 50:10.2] My friend worked in an ophthalmology office, and uh- No one tells you to marry peptides, so.
+[50:10.2 - 50:11.1] Yeah.
+[50:11.1 - 50:11.1] Sure.
+[50:11.1 - 50:12.0] Why don't you marry them?
+[50:12.0 - 50:12.8] All right.
+[50:12.8 - 50:22.8] Um, my friend used to work at an ophthalmology office, and they were getting rid of those big, you know, sunglass case, like Versace and
+[50:22.8 - 50:23.2] Gucci.
+[50:23.2 - 50:23.4] Oh.
+[50:23.4 - 50:28.7] And they said, "If you, uh, if you can bring your truck, you can have one for free." So I have like a big Versace one at my house.
+[50:28.7 - 50:29.9] You have- It's full of sunglasses ...
+[50:29.9 - 50:30.0] what was this?
+[50:30.0 - 50:30.8] You said Sunglass Hut?
+[50:30.8 - 50:31.6] No.
+[50:31.6 - 50:33.9] My friend worked at an ophthalmology office.
+[50:33.9 - 50:34.9] I don't get it, no.
+[50:34.9 - 50:34.9] Mm.
+[50:34.9 - 50:36.2] Probably those were like worse glasses.
+[50:36.2 - 50:39.9] 'Cause they update the cases to the new ones, and they were like needing to get rid of them.
+[50:39.9 - 50:43.8] I was like, "Yeah, fuck yeah, I'll do that." And they were just kind of like, "Nah, we're just throwing it in the trash." So.
+[50:43.8 - 50:45.0] Yeah, and I had the truck.
+[50:45.0 - 50:46.1] It made sense.
+[50:46.1 - 50:47.2] Nice.
+[50:47.2 - 50:48.0] There you go.
+[50:48.0 - 50:49.1] That's cool.
+[50:49.1 - 50:51.2] So I've got it stocked full.
+[50:51.2 - 50:52.8] Yeah.
+[50:52.8 - 50:55.0] I don't buy expensive ones anymore.
+[50:55.0 - 50:56.0] I used to, but...
+[50:56.0 - 50:59.0] I have a couple untouched Oakleys.
+[50:59.0 - 51:02.8] My last pair's in the bottom of the ocean in Capri.
+[51:02.8 - 51:05.6] That's the last one I decided I was gonna buy, Persols.
+[51:05.6 - 51:15.6] My brother almost lost his Oakley, 'cause I do the thing, I have a couple really cheap, shitty, like shady Ray's glasses that were, they're
+[51:15.6 - 51:18.1] just cheap, but they have polarized lenses.
+[51:18.1 - 51:21.6] So at most I'll bring those on a vacation.
+[51:21.6 - 51:21.9] Yeah.
+[51:21.9 - 51:24.7] Just 'cause it's like you know some shit like is gonna happen.
+[51:24.7 - 51:25.1] Right.
+[51:25.1 - 51:27.5] Especially if you're going on a- Leave them on the table or something and- ...
+[51:27.5 - 51:27.5] a vacation at a beach.
+[51:27.5 - 51:29.3] Mm-hmm Or anything like that too.
+[51:29.3 - 51:30.9] I'm like, you know something's gonna happen.
+[51:30.9 - 51:35.2] My brother just has the like the one pair of Oakleys.
+[51:35.2 - 51:35.7] Yeah.
+[51:35.7 - 51:37.5] And so he brought those.
+[51:37.5 - 51:40.3] And he got like nailed from behind.
+[51:40.3 - 51:41.9] We went on a cruise- Oh, so we're...
+[51:41.9 - 51:42.0] Yeah ...
+[51:42.0 - 51:45.6] for our cousin's wedding, and he got nailed from behind with a wave, and they like...
+[51:45.6 - 51:47.2] And so he like did that.
+[51:47.2 - 51:47.5] Oh, right.
+[51:47.5 - 51:49.0] And they fell off.
+[51:49.0 - 51:52.0] We borrowed our, uh- I dealt with the men on my head ...
+[51:52.0 - 51:53.2] our whatever it's called- Forgot their name ...
+[51:53.2 - 51:56.3] when your cousin has daughters.
+[51:56.3 - 51:58.8] I don't know, second cousins, whatever they are.
+[51:58.8 - 51:58.8] Yeah.
+[51:58.8 - 51:59.2] Incest?
+[51:59.2 - 51:59.4] Off.
+[51:59.4 - 52:00.2] Incest?
+[52:00.2 - 52:01.4] It's Arkansas.
+[52:01.4 - 52:04.9] Incest when your cousin has a daughter?
+[52:04.9 - 52:08.1] Only if she's fucking sister or they're...
+[52:08.1 - 52:11.1] Your cousin has a daughter, that's just the same...
+[52:11.1 - 52:12.0] It's just your cousin, right?
+[52:12.0 - 52:12.5] Like.
+[52:12.5 - 52:13.2] Yeah.
+[52:13.2 - 52:15.6] Or that's what I think a second cousin is.
+[52:15.6 - 52:15.7] Oh, okay.
+[52:15.7 - 52:17.3] 'Cause it's like one more removed.
+[52:17.3 - 52:17.8] Yeah, okay.
+[52:17.8 - 52:19.8] Where it's that's, you know.
+[52:19.8 - 52:21.4] But, um, whatever.
+[52:21.4 - 52:24.9] His like, I guess it's stepdaughter, 'cause it's his wife's daughter.
+[52:24.9 - 52:25.9] Anyway, whatever.
+[52:25.9 - 52:26.4] You got a lot going on there.
+[52:26.4 - 52:31.9] She had goggles, 'cause she's, she was like a kid, but she was the only one with goggles, and we tried to borrow them.
+[52:31.9 - 52:32.2] Mm-hmm.
+[52:32.2 - 52:36.3] And she starts freaking out when we had them for like, you know, three minutes looking.
+[52:36.3 - 52:37.3] Oh, yeah.
+[52:37.3 - 52:47.5] So we got them, take them back, and then all of a sudden one of the waves goes out, and I like catch a glimpse of his sunglasses somehow, and I jumped blindly- Whoa
+[52:47.5 - 52:47.5] ...
+[52:47.5 - 52:49.4] and into, into the ocean and like I nabbed them.
+[52:49.4 - 52:50.5] Did you James Bond them?
+[52:50.5 - 52:52.2] It was, it was amazing.
+[52:52.2 - 52:53.1] And I grabbed them.
+[52:53.1 - 52:54.1] He was all pissed.
+[52:54.1 - 52:59.7] 'Cause it's like it was, we were still only halfway through the trip and on a cruise, so it was like, "Oh, dude." Mm.
+[52:59.7 - 53:01.4] "It's gonna be the worst." Mm-hmm.
+[53:01.4 - 53:05.2] 'Cause you're just outside in the pool area, 'cause the kids and shit like...
+[53:05.2 - 53:06.4] Where was the cruise to?
+[53:06.4 - 53:07.9] Bermuda.
+[53:07.9 - 53:11.8] Well, they probably have like those people on the beach selling sunglasses you could- Yeah ...
+[53:11.8 - 53:12.9] Jew down to $3.
+[53:12.9 - 53:13.8] I was like, "Oh, yeah." Yeah.
+[53:13.8 - 53:14.7] Dude, dirt...
+[53:14.7 - 53:24.9] My whole family, I don't get it, the whole, my mom and dad were both from Hartford, Connecticut, and that's where like the cousins are still
+[53:24.9 - 53:26.0] and- I shouldn't have said Jew down.
+[53:26.0 - 53:26.4] Sorry.
+[53:26.4 - 53:27.3] Go.
+[53:27.3 - 53:29.2] I'm a Jew, I wouldn't have minded.
+[53:29.2 - 53:30.2] I would've said it.
+[53:30.2 - 53:32.7] I've just, I've just trained it out of myself.
+[53:32.7 - 53:39.2] I was telling my friend too, I was like, "At least we weren't that wrong with the..." Like, a lot of people are always dropping the N word.
+[53:39.2 - 53:42.3] It was like, we talk like Jewing down, like Jew you out or something.
+[53:42.3 - 53:42.4] Yeah.
+[53:42.4 - 53:44.8] It's like, hey, at least we weren't that wrong.
+[53:44.8 - 53:45.5] Look at Israel.
+[53:45.5 - 53:47.3] I mean, we weren't like, we were- Right.
+[53:47.3 - 53:47.7] ...
+[53:47.7 - 53:49.7] kinda on the right path if that's who we were...
+[53:49.7 - 53:52.7] It's not great, but- Yeah ...
+[53:52.7 - 53:54.7] the reality is they're real bad.
+[53:54.7 - 53:55.2] Right.
+[53:55.2 - 54:00.9] Um, but no, he, they love cruises, all of them.
+[54:00.9 - 54:01.4] Of the boat cruise.
+[54:01.4 - 54:02.2] From Connecticut.
+[54:02.2 - 54:05.2] And it's like, dude, and like- That's where she's going.
+[54:05.2 - 54:05.7] She's going on one.
+[54:05.7 - 54:07.2] I guess- But she's going on like a nice all expensive one.
+[54:07.2 - 54:08.0] But it, right.
+[54:08.0 - 54:10.0] And they go on the one, and I guess it's...
+[54:10.0 - 54:17.5] The only thing I can think of is because you have k- they have kids with them, and it gives them like a, "Hey, just go, like run around.
+[54:17.5 - 54:18.5] We're on a cruise ship.
+[54:18.5 - 54:20.4] You can't like..." Yeah.
+[54:20.4 - 54:27.3] You can get into trouble, but it's a lot safer than just going anywhere you want in a hotel of whatever, like- Mm-hmm ...
+[54:27.3 - 54:29.2] and just running around and getting into trouble.
+[54:29.2 - 54:32.6] It's harder on a cruise ship, and they have like a curfew and whatnot for kids.
+[54:32.6 - 54:33.3] Sure, yeah.
+[54:33.3 - 54:36.8] But it's like, dude- Lots of shirts ...
+[54:36.8 - 54:38.2] this shit is not the fun...
+[54:38.2 - 54:39.2] Like hers- Yeah ...
+[54:39.2 - 54:44.7] again, being like an all a- adult and having like a limited number of people is one thing.
+[54:44.7 - 54:45.0] Yeah.
+[54:45.0 - 54:48.8] But dude, these Carnival Cruises- I went on one Carnival one- ...
+[54:48.8 - 54:48.9] are a shit ton of kids ...
+[54:48.9 - 54:50.6] and my sister managed- And it's like- Yeah.
+[54:50.6 - 54:54.4] My little sister managed to rack up like thousands of dollars on a phone bill.
+[54:54.4 - 54:59.1] She's dating like this real hood guy, like this gangster Black guy that used to beat her up and stuff.
+[54:59.1 - 55:02.7] And, but anyway, she like kept him a secret- Oh ...
+[55:02.7 - 55:08.6] while she was trying to date him, and so she was like dialing home on the ship, like using the - Why?
+[55:08.6 - 55:09.8] To talk to Omari.
+[55:09.8 - 55:13.6] But like why was it so, like, just don't...
+[55:13.6 - 55:16.6] Just be like, "Hey, I'm like kinda out of commission for a week." Like.
+[55:16.6 - 55:18.8] Well, they're in high school, you know, freshman and junior.
+[55:18.8 - 55:19.8] Oh, okay.
+[55:19.8 - 55:20.1] Well.
+[55:20.1 - 55:22.9] I was 14, so she was 13.
+[55:22.9 - 55:23.3] Yeah.
+[55:23.3 - 55:23.8] Okay.
+[55:23.8 - 55:24.2] Yeah.
+[55:24.2 - 55:25.2] So that, yeah.
+[55:25.2 - 55:26.6] That makes more sense.
+[55:26.6 - 55:26.6] Mm-hmm.
+[55:26.6 - 55:33.3] I was like, when you're like 20, you'd just be like, "It sucks," but like talking on the phone on one of those things also sucks.
+[55:33.3 - 55:34.8] It's like all choppy.
+[55:34.8 - 55:35.2] Yeah.
+[55:35.2 - 55:36.7] You can barely even hear anybody.
+[55:36.7 - 55:44.8] 'Cause it, I dealt with it just like they were trying, my dad and mom were supposed to come, but it was when my mom got sick.
+[55:44.8 - 55:44.9] Oh.
+[55:44.9 - 55:45.8] And so we were trying to...
+[55:45.8 - 55:55.2] They, she forced us to go when we were just gonna not go, and so it was like trying to talk and get updates, and it was fucked, 'cause it was so hard.
+[55:55.2 - 55:55.9] Yeah.
+[55:55.9 - 55:57.7] See, I don't know.
+[55:57.7 - 55:58.6] I never tried to use the phone.
+[55:58.6 - 55:59.7] I was eating the buffet.
+[55:59.7 - 56:01.4] I was eating the buffet.
+[56:01.4 - 56:01.6] Yeah.
+[56:01.6 - 56:02.5] I was eating the buffet.
+[56:02.5 - 56:03.9] So all I did- Yeah.
+[56:03.9 - 56:07.0] It was a buffet of kinda shitty food, but you make do.
+[56:07.0 - 56:08.6] It's- Yeah.
+[56:08.6 - 56:10.9] And then there's drinks that are like- It's like a buffet in Vegas.
+[56:10.9 - 56:11.0] Yeah.
+[56:11.0 - 56:11.8] It's not that great.
+[56:11.8 - 56:14.0] They're- But it's good 'cause you're there, and you're hungover or whatever.
+[56:14.0 - 56:14.6] Yeah.
+[56:14.6 - 56:17.5] And there are fucking drinks that have like 45 a day.
+[56:17.5 - 56:21.7] Well, I wouldn't know how much to drink, but it was Mexico.
+[56:21.7 - 56:24.9] But they water down that shit so much.
+[56:24.9 - 56:26.8] Or not water it down, but you know.
+[56:26.8 - 56:27.6] Maybe I did drink.
+[56:27.6 - 56:29.4] I remember I was-- It was-- We went to...
+[56:29.4 - 56:30.6] Oh, no, that was a separate trip.
+[56:30.6 - 56:31.9] Never mind.
+[56:31.9 - 56:37.2] I was gonna say that was Cabo, but that was a different thing.
+[56:37.2 - 56:37.8] Spam.
+[56:37.8 - 56:38.8] Let's see who this is.
+[56:38.8 - 56:39.9] Hello?
+[56:39.9 - 56:42.7] Hello?
+[56:42.7 - 56:42.9] Hello?
+[56:42.9 - 56:44.9] Yes.
+[56:44.9 - 56:47.3] Um, is this Garcia?
+[56:47.3 - 56:47.7] No, this is Mr.
+[56:47.7 - 56:48.3] Rose.
+[56:48.3 - 56:51.2] Hi, this is Danielle talking.
+[56:51.2 - 56:52.2] Are you looking for a Mr.
+[56:52.2 - 56:53.0] Garcia?
+[56:53.0 - 56:54.0] Because this is not a Mr.
+[56:54.0 - 56:54.7] Garcia.
+[56:54.7 - 56:57.2] My camera.
+[56:57.2 - 56:57.8] Yes, thank you.
+[56:57.8 - 56:58.2] Bye-bye.
+[56:58.2 - 57:02.5] Fuck.
+[57:02.5 - 57:04.6] Take me off your calling list.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2026-07-02-14-55-10_transcription_20260706_165559.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2026-07-02-14-55-10_transcription_20260706_165559.txt
+[2J[H[3Jmanus-speech-to-text mp3/ROSE-REC2_V2026-07-02-14-55-10.mp3
+Starting Speech-to-Text conversion...
+Audio file size (27.5MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 64 kbps
+Audio file size: 27.47 MB, duration: 3600.2 seconds
+Splitting into 6 chunks (each ~600.0 seconds, max 5 MB)...
+Successfully split into 6 chunks
+Audio file split into 6 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_V2026-07-02-14-55-10.mp3, file size: 27.47 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 6 chunks...
+Transcribing chunk 1/6: mp3/.ROSE-REC2_V2026-07-02-14-55-10_chunks_20260706_165435/chunk_000.mp3
+Chunk 1 completed (duration: 600.0s)
+Transcribing chunk 2/6: mp3/.ROSE-REC2_V2026-07-02-14-55-10_chunks_20260706_165435/chunk_001.mp3
+Chunk 2 completed (duration: 600.0s)
+Transcribing chunk 3/6: mp3/.ROSE-REC2_V2026-07-02-14-55-10_chunks_20260706_165435/chunk_002.mp3
+Chunk 3 completed (duration: 600.0s)
+Transcribing chunk 4/6: mp3/.ROSE-REC2_V2026-07-02-14-55-10_chunks_20260706_165435/chunk_003.mp3
+Chunk 4 completed (duration: 600.0s)
+Transcribing chunk 5/6: mp3/.ROSE-REC2_V2026-07-02-14-55-10_chunks_20260706_165435/chunk_004.mp3
+Chunk 5 completed (duration: 600.0s)
+Transcribing chunk 6/6: mp3/.ROSE-REC2_V2026-07-02-14-55-10_chunks_20260706_165435/chunk_005.mp3
+Chunk 6 completed (duration: 599.7s)
+
+Snippet of transcribed content:
+[55:08.6 - 55:09.8] To talk to Omari.
+[55:09.8 - 55:13.6] But like why was it so, like, just don't...
+[55:13.6 - 55:16.6] Just be like, "Hey, I'm like kinda out of commission for a week." Like.
+[55:16.6 - 55:18.8] Well, they're in high school, you know, freshman and junior.
+[55:18.8 - 55:19.8] Oh, okay.
+[55:19.8 - 55:20.1] Well.
+[55:20.1 - 55:22.9] I was 14, so she was 13.
+[55:22.9 - 55:23.3] Yeah.
+[55:23.3 - 55:23.8] Okay.
+[55:23.8 - 55:24.2] Yeah.
+[55:24.2 - 55:25.2] So that, yeah.
+[55:25.2 - 55:26.6] That makes more sense.
+[55:26.6 - 55:26.6] Mm-hmm.
+[55:26.6 - 55:33.3] I was like, when you're like 20, you'd just be like, "It sucks," but like talking on the phone on one of those things also sucks.
+[55:33.3 - 55:34.8] It's like all choppy.
+[55:34.8 - 55:35.2] Yeah.
+[55:35.2 - 55:36.7] You can barely even hear anybody.
+[55:36.7 - 55:44.8] 'Cause it, I dealt with it just like they were trying, my dad and mom were supposed to come, but it was when my mom got sick.
+[55:44.8 - 55:44.9] Oh.
+[55:44.9 - 55:45.8] And so we were trying to...
+[55:45.8 - 55:55.2] They, she forced us to go when we were just gonna not go, and so it was like trying to talk and get updates, and it was fucked, 'cause it was so hard.
+[55:55.2 - 55:55.9] Yeah.
+[55:55.9 - 55:57.7] See, I don't know.
+[55:57.7 - 55:58.6] I never tried to use the phone.
+[55:58.6 - 55:59.7] I was eating the buffet.
+[55:59.7 - 56:01.4] I was eating the buffet.
+[56:01.4 - 56:01.6] Yeah.
+[56:01.6 - 56:02.5] I was eating the buffet.
+[56:02.5 - 56:03.9] So all I did- Yeah.
+[56:03.9 - 56:07.0] It was a buffet of kinda shitty food, but you make do.
+[56:07.0 - 56:08.6] It's- Yeah.
+[56:08.6 - 56:10.9] And then there's drinks that are like- It's like a buffet in Vegas.
+[56:10.9 - 56:11.0] Yeah.
+[56:11.0 - 56:11.8] It's not that great.
+[56:11.8 - 56:14.0] They're- But it's good 'cause you're there, and you're hungover or whatever.
+[56:14.0 - 56:14.6] Yeah.
+[56:14.6 - 56:17.5] And there are fucking drinks that have like 45 a day.
+[56:17.5 - 56:21.7] Well, I wouldn't know how much to drink, but it was Mexico.
+[56:21.7 - 56:24.9] But they water down that shit so much.
+[56:24.9 - 56:26.8] Or not water it down, but you know.
+[56:26.8 - 56:27.6] Maybe I did drink.
+[56:27.6 - 56:29.4] I remember I was-- It was-- We went to...
+[56:29.4 - 56:30.6] Oh, no, that was a separate trip.
+[56:30.6 - 56:31.9] Never mind.
+[56:31.9 - 56:37.2] I was gonna say that was Cabo, but that was a different thing.
+[56:37.2 - 56:37.8] Spam.
+[56:37.8 - 56:38.8] Let's see who this is.
+[56:38.8 - 56:39.9] Hello?
+[56:39.9 - 56:42.7] Hello?
+[56:42.7 - 56:42.9] Hello?
+[56:42.9 - 56:44.9] Yes.
+[56:44.9 - 56:47.3] Um, is this Garcia?
+[56:47.3 - 56:47.7] No, this is Mr.
+[56:47.7 - 56:48.3] Rose.
+[56:48.3 - 56:51.2] Hi, this is Danielle talking.
+[56:51.2 - 56:52.2] Are you looking for a Mr.
+[56:52.2 - 56:53.0] Garcia?
+[56:53.0 - 56:54.0] Because this is not a Mr.
+[56:54.0 - 56:54.7] Garcia.
+[56:54.7 - 56:57.2] My camera.
+[56:57.2 - 56:57.8] Yes, thank you.
+[56:57.8 - 56:58.2] Bye-bye.
+[56:58.2 - 57:02.5] Fuck.
+[57:02.5 - 57:04.6] Take me off your calling list.
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2026-07-02-14-55-10_transcription_20260706_165559.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2026-07-02-14-55-10_transcription_20260706_165559.txt

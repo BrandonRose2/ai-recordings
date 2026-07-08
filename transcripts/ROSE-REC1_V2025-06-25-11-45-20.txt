@@ -1,0 +1,654 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.7MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.70 MB, duration: 3617.9 seconds
+Splitting into 5 chunks (each ~723.6 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: downloads/ROSE-REC1_V2025-06-25-11-45-20.mp3, file size: 20.70 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: downloads/.ROSE-REC1_V2025-06-25-11-45-20_chunks_20260706_231250/chunk_000.mp3
+Chunk 1 completed (duration: 723.5s)
+
+Transcribing chunk 2/5: downloads/.ROSE-REC1_V2025-06-25-11-45-20_chunks_20260706_231250/chunk_001.mp3
+Chunk 2 completed (duration: 723.6s)
+
+Transcribing chunk 3/5: downloads/.ROSE-REC1_V2025-06-25-11-45-20_chunks_20260706_231250/chunk_002.mp3
+Chunk 3 completed (duration: 723.5s)
+
+Transcribing chunk 4/5: downloads/.ROSE-REC1_V2025-06-25-11-45-20_chunks_20260706_231250/chunk_003.mp3
+Chunk 4 completed (duration: 723.6s)
+
+Transcribing chunk 5/5: downloads/.ROSE-REC1_V2025-06-25-11-45-20_chunks_20260706_231250/chunk_004.mp3
+Chunk 5 completed (duration: 723.3s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3617.5 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[00:00.1 - 00:02.7] Hey, Aaron.
+[00:02.7 - 00:10.2] So I have a bit of a problem with, um, about the problem with adding one of our phones.
+[00:10.2 - 00:15.0] Uh, like, uh, the battery's full.
+[00:15.0 - 00:23.5] It seems like it's working, uh, but when we call it, it just goes straight to voicemail.
+[00:23.5 - 00:23.5] It's just like a sugar battery that's run out of water.
+[00:23.5 - 00:24.4] Make sure you get, get a pad.
+[00:24.4 - 00:26.3] Ask Brandon if he has a pad.
+[00:26.3 - 00:36.5] Just, just if he asks you questions, you have somewhere to tell him, like, "Yeah, I know this is in the bottom and this is how it would go." Um, and if he asks you and then say, like, "That
+[00:36.5 - 00:48.3] or this." That or we can just, uh, maybe- No, the captain then-- I mean, we can talk to the captain because the, the problem I'm having is every time we change from Kevin to Tom, it doesn't
+[00:48.3 - 00:48.6] seem to be saving.
+[00:48.6 - 00:58.8] So they tell me, like, "Let's just do that." And I think I'm that guy, maybe, you know, when I close one tab and I open a new tab, I have to change
+[00:58.8 - 00:58.9] it.
+[00:58.9 - 01:00.4] So, uh, yeah.
+[01:00.4 - 01:03.4] So, um, you know, if I-- There's a folder.
+[01:03.4 - 01:07.8] I don't know if it's where I would want to move the next call.
+[01:07.8 - 01:10.8] Um, so, so if he asks you, I go through this.
+[01:10.8 - 01:12.3] Yeah.
+[01:12.3 - 01:14.5] That's really not that, yeah.
+[01:14.5 - 01:17.2] Your email on your phone?
+[01:17.2 - 01:18.6] What?
+[01:18.6 - 01:22.5] Your email on your phone?
+[01:22.5 - 01:22.5] Yeah.
+[01:22.5 - 01:30.3] I have your email.
+[01:30.3 - 01:35.5] I can give him that back.
+[01:35.5 - 01:37.0] Yeah, we have the email.
+[01:37.0 - 01:38.2] Well, I mean, basically, yeah, that, you know, seems like a no-brainer.
+[01:38.2 - 01:49.9] I would be like I said, if, uh, you know, if I was the tech holder, I- That's the problem.
+[01:49.9 - 01:52.7] That's the problem.
+[01:52.7 - 02:02.9] The problem is we have- But is there a way for Tyler to maybe get it maybe,
+[02:02.9 - 02:05.3] uh- Yeah, it's probably better.
+[02:05.3 - 02:08.2] I didn't find it, but it's like useful or not.
+[02:08.2 - 02:09.2] So it's not- I'm, I'm good.
+[02:09.2 - 02:12.3] I've only got four, so- Okay.
+[02:12.3 - 02:18.4] What happens to my, um, my, uh, coordinating, uh- Oh, I got-- Uh, it, it-- We're moving forward.
+[02:18.4 - 02:21.8] There's no more, there's no more, uh, what do you call it?
+[02:21.8 - 02:22.6] Uh, resistance.
+[02:22.6 - 02:24.8] Why was there any resistance in the first place?
+[02:24.8 - 02:27.9] I got-- Well, because, you know, the whole figure was...
+[02:27.9 - 02:30.2] Your, your brother disagreed.
+[02:30.2 - 02:33.7] I didn't get any-- I didn't-- I was gonna-- I didn't get a chance to ask him.
+[02:33.7 - 02:36.0] But- Are the distributions ready?
+[02:36.0 - 02:38.6] Did I ask you to do yesterday's?
+[02:38.6 - 02:41.1] They're not ready, no.
+[02:41.1 - 02:50.5] I sent them to John, and I need to check with him if he's- Well, I thought you were just handling them directly here, and I get- I was going to, but since I didn't have Excel, I asked him to do it, so I need to check with him.
+[02:50.5 - 02:51.4] Well, you have Excel now.
+[02:51.4 - 02:53.3] Okay.
+[02:53.3 - 02:53.4] I will.
+[02:53.4 - 02:55.3] I need to have them done, like, in the next hour.
+[02:55.3 - 03:00.7] Mark, I take-- It takes some time, so- I know, but I thought you were doing them yourself.
+[03:00.7 - 03:01.3] Uh, okay.
+[03:01.3 - 03:03.3] Again, I will take care of it.
+[03:03.3 - 03:10.9] So your wife asked me yesterday for a five thousand dollar check for a horse show, so there's that.
+[03:10.9 - 03:11.8] Okay.
+[03:11.8 - 03:15.4] Then I have the two checks for your father.
+[03:15.4 - 03:19.5] Uh, yeah, for citizens.
+[03:19.5 - 03:23.3] Uh, the one to Fred and the one to Rick Wilsey.
+[03:23.3 - 03:27.7] Now, as I said, it-- the account is thirty thousand dollars short.
+[03:27.7 - 03:29.1] Figure that out in a couple of days.
+[03:29.1 - 03:31.4] Well, it's not about-- And he wants me to FedEx it.
+[03:31.4 - 03:32.3] FedEx it.
+[03:32.3 - 03:42.4] But the account is short, so I either need to deposit from Genesis, which means I need to go to the bank, or you need to transfer from your savings to j- to,
+[03:42.4 - 03:44.1] like you've done before.
+[03:44.1 - 03:47.1] If First Citizens transfer from savings to checking- We'll do that.
+[03:47.1 - 03:47.8] We'll do that.
+[03:47.8 - 03:48.3] Okay, good.
+[03:48.3 - 03:48.6] Thank you.
+[03:48.6 - 03:49.7] So I'll have to go to the bank.
+[03:49.7 - 03:53.5] Can you get my distributions ready?
+[03:53.5 - 03:54.0] Yes.
+[03:54.0 - 04:01.8] It'll be done.
+[04:01.8 - 10:17.3] I
+[10:17.3 - 10:20.1] have to get back to the gym and get my fifteen pounds back.
+[10:20.1 - 10:22.3] Yeah.
+[10:22.3 - 10:41.6] Looks
+[10:41.6 - 10:43.0] like I get to see Ellie today.
+[10:43.0 - 10:46.2] Lucky me.
+[10:46.2 - 11:24.6] What's
+[11:24.6 - 11:25.4] up?
+[11:25.4 - 11:28.3] Huh?
+[11:28.3 - 11:28.3] Huh?
+[11:28.3 - 11:32.5] What'd you say?
+[11:32.5 - 11:49.3] I
+[11:49.3 - 11:59.7] was talking to Nicole.
+[11:59.7 - 12:01.4] Oh.
+[24:27.4 - 25:06.2] Do you have
+[25:06.2 - 25:08.9] pickups?
+[25:08.9 - 25:12.9] Oh, yeah.
+[25:12.9 - 25:13.4] One second.
+[25:13.4 - 25:14.9] Yeah.
+[25:14.9 - 25:17.3] I believe this is it.
+[25:17.3 - 25:17.8] Okay, thank you.
+[25:17.8 - 25:17.8] Thank you.
+[25:17.8 - 25:19.0] Thanks a lot.
+[25:19.0 - 25:19.5] Mm-hmm.
+[25:19.5 - 25:34.9] Um,
+[25:34.9 - 25:37.0] are you doing it?
+[25:37.0 - 25:39.0] Yeah, I'm getting it all installed over here.
+[25:39.0 - 25:41.0] What are you, what are you doing it with?
+[25:41.0 - 25:43.4] I install everything through my terminal.
+[25:43.4 - 25:45.6] Through the codes.
+[25:45.6 - 25:46.3] Do you not do that?
+[25:46.3 - 25:48.9] I t- I try it, I just don't...
+[25:48.9 - 25:49.8] I don't fucking...
+[25:49.8 - 25:58.7] Like for instance, if you wanted to install, uh, this Droid one, you just take it and throw that in, in here.
+[25:58.7 - 26:03.1] Yeah, I have that, but then how do you, um, use it, like?
+[26:03.1 - 26:07.0] Um, well, normally you have to like read what it's doing.
+[26:07.0 - 26:09.6] Like, it'll install it into your applications and then like...
+[26:09.6 - 26:15.5] Here's the one that I'm now installing, like the Gamma, which is great, um, Llama.
+[26:15.5 - 26:19.1] And then you hook up all your connectors apparently.
+[26:19.1 - 26:21.7] I'm gonna put my Notion, my Gmail, my Drive, my...
+[26:21.7 - 26:23.3] Kinda like I have- You're gonna have to do it, do it for me, bro.
+[26:23.3 - 26:25.7] You're gonna have to do it for me, bro.
+[26:25.7 - 26:27.4] I mean, I don't know how it all works.
+[26:27.4 - 26:29.4] I'm just like- I'll give you a fucking C-max for it.
+[26:29.4 - 26:35.8] Uh, let me see if I can get mine set up.
+[26:35.8 - 26:36.7] Let's see.
+[26:36.7 - 26:47.3] I
+[26:47.3 - 26:48.8] gotta go take this to Ellie later.
+[26:48.8 - 26:51.2] Mark's not coming back.
+[26:51.2 - 26:54.9] Said he's going to doctor's and then somebody's gonna take him to a hotel.
+[26:54.9 - 26:58.4] That's about right.
+[26:58.4 - 26:59.0] Where's my phone?
+[26:59.0 - 27:01.3] I'll take a nap.
+[27:01.3 - 27:02.3] All right.
+[27:02.3 - 27:12.6] Um, a friend told me about how you can, like, use this website called Grabify,
+[27:12.6 - 27:18.0] and you can embed different links inside of emojis and GIFs and memes.
+[27:18.0 - 27:18.5] Did you know that?
+[27:18.5 - 27:20.3] Like, if somebody...
+[27:20.3 - 27:27.6] If you were to entice someone to click or on, like, a meme, it would navigate them to the site that you built into it.
+[27:27.6 - 27:31.8] But then it would give you their real-time data of where they are, where their IP address is at all times.
+[27:31.8 - 27:32.7] Damn.
+[27:32.7 - 27:36.9] That's what Grabify, that thing I sent you yesterday was.
+[27:36.9 - 27:40.6] Yep.
+[27:40.6 - 27:45.7] Um, I know some, uh, pretty cool tricks.
+[27:45.7 - 27:49.2] Let's see.
+[27:49.2 - 28:00.6] Um.
+[28:00.6 - 28:11.8] Can I see
+[28:11.8 - 28:11.9] this?
+[28:11.9 - 28:12.5] I'm over here.
+[28:12.5 - 28:14.5] I'm not looking for you.
+[28:14.5 - 28:14.8] Oh.
+[28:14.8 - 28:17.0] Mark's not here, right?
+[28:17.0 - 28:17.4] Correct.
+[28:17.4 - 28:20.0] You guys have to Uber back, never mind.
+[28:20.0 - 28:20.0] Yeah.
+[28:20.0 - 28:23.3] I was like, "Well, no one's over there." Uh-huh.
+[28:23.3 - 28:26.8] He's coming back probably now.
+[28:26.8 - 28:31.1] No, it's after I would just call and said that he's taking him to a, um, hotel.
+[28:31.1 - 28:32.3] A meeting.
+[28:32.3 - 28:33.8] Yeah, a meeting.
+[28:33.8 - 28:34.1] Uh-huh.
+[28:34.1 - 28:36.9] Uh, he needs to move some money.
+[28:36.9 - 28:40.4] He's in, literally inside of a doctor right now.
+[28:40.4 - 28:43.4] Okay.
+[28:43.4 - 28:46.0] He'll be pretty grouchy for about an hour.
+[28:46.0 - 28:48.2] I think he's just doing the test.
+[28:48.2 - 28:49.7] He's not getting any procedure done.
+[28:49.7 - 28:51.1] They're just doing a test on him.
+[28:51.1 - 28:54.2] Oh yeah, he's doing the MRI today, I think.
+[28:54.2 - 28:58.9] He needs to move some money before those checks are deposited tomorrow.
+[28:58.9 - 29:01.9] Should I pull your text up?
+[29:01.9 - 29:04.6] Give him a half hour.
+[29:04.6 - 29:05.6] Okay.
+[29:05.6 - 29:06.0] Or here.
+[29:06.0 - 29:08.2] I can give you this number.
+[29:08.2 - 29:13.6] You can leave the note from Diablo.
+[29:13.6 - 29:14.1] Oh, okay.
+[29:14.1 - 29:17.9] It's not Diablo right now.
+[29:17.9 - 29:19.5] Oh.
+[29:19.5 - 29:23.2] That seems to be working out okay so far.
+[29:23.2 - 29:24.1] What?
+[29:24.1 - 29:27.4] I said that seems to be- Mark really loves him.
+[29:27.4 - 29:28.4] Better him than me.
+[29:28.4 - 29:31.6] Well, I heard.
+[29:31.6 - 29:32.1] That's the Mark- He's doing good.
+[29:32.1 - 29:32.7] That's the Mark I met yesterday.
+[29:32.7 - 29:33.1] Yeah.
+[29:33.1 - 29:35.2] He's like .
+[29:35.2 - 29:37.0] Drop whatever he's doing and react.
+[29:37.0 - 29:40.4] Whatever they throw at him, he'll just take it.
+[29:40.4 - 29:41.7] He's perfect.
+[29:41.7 - 29:46.2] Saw, um, we saw Ellie get Victoria.
+[29:46.2 - 29:49.5] It was like weird, so weird.
+[29:49.5 - 29:50.8] Like I haven't heard that one.
+[29:50.8 - 29:51.9] That's a new one for me.
+[29:51.9 - 29:54.1] I really don't want to say anything about that.
+[29:54.1 - 29:59.2] I'll let you know where we're at next.
+[29:59.2 - 30:01.8] Yeah, that was Steve in there.
+[30:01.8 - 30:05.8] I heard him first.
+[30:05.8 - 30:32.5] Alex told me that he, uh, he was there when she-
+[30:32.5 - 30:57.9] Yeah, she's
+[30:57.9 - 30:58.6] very sweet.
+[42:31.7 - 43:11.6] I'm gonna leave this out here
+[43:11.6 - 43:14.8] since .
+[43:14.8 - 43:16.0] Eating a bowl of cereal?
+[43:16.0 - 43:18.3] No, it's Mongolian beef stir-fry.
+[43:18.3 - 43:19.4] I'm letting it cool off.
+[43:19.4 - 43:20.6] Oh.
+[43:20.6 - 43:22.7] It's already very ...
+[43:22.7 - 43:27.0] I've already tried it and almost burned my mouth off, so Take these.
+[43:27.0 - 43:29.3] I've been using them in my lemon ginger tea.
+[43:29.3 - 43:30.1] Yes.
+[43:30.1 - 43:30.9] You know what?
+[43:30.9 - 43:32.0] We have lemons.
+[43:32.0 - 43:34.9] Uh, they're beautiful, and I ...
+[43:34.9 - 43:36.9] Oh, you know, this one may not be so beautiful.
+[43:36.9 - 43:41.2] It's got a little- What?
+[43:41.2 - 43:43.8] Oh.
+[43:43.8 - 43:45.2] Yeah, maybe not so beautiful.
+[43:45.2 - 43:45.7] Maybe not.
+[43:45.7 - 43:46.6] But you know what?
+[43:46.6 - 43:47.6] You need to cut into it.
+[43:47.6 - 43:47.7] Maybe it's fine.
+[43:47.7 - 43:49.3] Yeah, just cut off the tip.
+[43:49.3 - 43:50.0] Yeah.
+[43:50.0 - 43:53.5] Maybe a little, just a little thing came off, but there's nothing in there.
+[43:53.5 - 43:56.3] Still better than all the- There could be, you know, a whole nest of things in there.
+[43:56.3 - 43:59.3] It's still better than the chemicals they pump into the ones at the store.
+[43:59.3 - 44:00.1] Yeah.
+[44:00.1 - 44:02.2] So- So ...
+[44:02.2 - 44:03.9] you know, I bring these and people laugh at me.
+[44:03.9 - 44:09.2] I'm like, "Okay, well then I'll give them to my neighbors." No, I, I- So you can take them all.
+[44:09.2 - 44:12.1] Still no more grapefruits, huh?
+[44:12.1 - 44:16.3] Hell, yeah, you said that was probably a one time- Yeah.
+[44:16.3 - 44:19.5] Um- I don't know how, I don't know how that works ...
+[44:19.5 - 44:19.7] I haven't checked the tree.
+[44:19.7 - 44:19.7] I haven't checked the tree in a while.
+[44:19.7 - 44:21.8] 'Cause my landlord loved it.
+[44:21.8 - 44:26.0] I have one in the fridge, but it's old.
+[44:26.0 - 44:27.5] Not so bueno.
+[44:27.5 - 44:28.3] Not so bueno.
+[44:28.3 - 44:29.0] Mm-hmm.
+[44:29.0 - 44:38.7] Well, see, we were talking, you know, Mike said he hates me 'cause I don't take a shit.
+[44:38.7 - 44:40.4] 'Cause you don't take a shit, yeah.
+[44:40.4 - 44:43.2] I think that's why he kind of stays away from me, too.
+[44:43.2 - 44:46.0] Yeah, 'cause I talk crap now.
+[44:46.0 - 44:47.8] So he's, he's ready for me to leave.
+[44:47.8 - 44:49.9] Like, I don't even ask him anymore.
+[44:49.9 - 44:50.6] I say, "You know what?
+[44:50.6 - 45:01.5] I'm ready
+[45:01.5 - 45:09.8] now." You're like, "I was ready yesterday." Can go to the beach tomorrow.
+[45:09.8 - 45:12.3] I could buy- Are you going on vacation soon?
+[45:12.3 - 45:12.4] Yes.
+[45:12.4 - 45:13.0] Where are you headed?
+[45:13.0 - 45:17.4] Uh, I am going on a cruise to Alaska for two weeks.
+[45:17.4 - 45:18.6] Oh, yeah, you mentioned that.
+[45:18.6 - 45:20.3] Very nice.
+[45:20.3 - 45:23.6] Yeah, in, uh, first and second week of July.
+[45:23.6 - 45:24.3] Very nice.
+[45:24.3 - 45:27.1] And we did, uh- Talk when- ...
+[45:27.1 - 45:29.3] finalize a date for Apartment Fest in Miami.
+[45:29.3 - 45:29.4] Yes.
+[45:29.4 - 45:31.1] It's gonna be the last week of September.
+[45:31.1 - 45:32.0] I saw your email.
+[45:32.0 - 45:35.4] So who knows?
+[45:35.4 - 45:37.4] If I'm still there for that or not.
+[45:37.4 - 45:41.2] A whole month.
+[45:41.2 - 45:41.7] He must be happy.
+[45:41.7 - 45:43.4] He, he ...
+[45:43.4 - 45:46.2] He's so fed up with me, he thinks he's gonna be happy when I leave.
+[45:46.2 - 45:48.7] Yeah.
+[45:48.7 - 45:49.4] Yeah.
+[45:49.4 - 45:52.6] Like, he doesn't realize- He doesn't realize how much easier you make his life.
+[45:52.6 - 46:00.7] Maybe I should- I only know the surface of it, and I already know that that's the truth.
+[46:00.7 - 46:09.2] And he could make his life real easy, but he doesn't let me, uh, allow me to help him out.
+[46:09.2 - 46:11.2] So it's like, well, keep doing it, whatever you're doing.
+[46:11.2 - 46:11.6] You sh- ...
+[46:11.6 - 46:15.8] What about the whole, um- Oh, Abraham?
+[46:15.8 - 46:16.2] Yeah.
+[46:16.2 - 46:17.6] I don't know.
+[46:17.6 - 46:20.0] I mean, they've just been meeting every day for an hour.
+[46:20.0 - 46:21.1] It's just kind of strange.
+[46:21.1 - 46:22.2] So you're not saying anything?
+[46:22.2 - 46:24.0] Yeah.
+[46:24.0 - 46:25.2] I need to talk to Abraham.
+[46:25.2 - 46:26.8] No, you need to talk to Mark.
+[46:26.8 - 46:28.1] Abraham doesn't make the decision.
+[46:28.1 - 46:31.8] Well, he told me to get with Abraham, so I need to just get with Abraham.
+[46:31.8 - 46:32.9] But it's kind of awkward.
+[46:32.9 - 46:34.0] It's like, well, they're already meeting.
+[46:34.0 - 46:36.5] Like, am I supposed to meet with them as a three, or ...
+[46:36.5 - 46:40.6] Here's what I would do.
+[46:40.6 - 46:48.2] I believe, and I could be mistaken, Ethan doesn't wanna have anything to do with it.
+[46:48.2 - 46:49.9] I believe so, too.
+[46:49.9 - 46:50.2] Yeah.
+[46:50.2 - 46:54.2] Unless he's, now that he's sat there a while, he, unless he's decided- ...
+[46:54.2 - 46:55.4] "Oh, this is really cool.
+[46:55.4 - 46:58.8] This is interesting." Which nobody's gonna really think it's that interesting.
+[46:58.8 - 47:00.1] Well, that's not true.
+[47:00.1 - 47:03.0] I mean, it's, it's- Well- ...
+[47:03.0 - 47:03.3] when you ...
+[47:03.3 - 47:08.7] It's like one of those things when you're doing deals it, it's interesting, but, like, just learning the facts about it, it's not, like, that thrilling.
+[47:08.7 - 47:10.8] I don't ...
+[47:10.8 - 47:12.5] So I don't wanna put words in his mouth- So, yeah.
+[47:12.5 - 47:13.8] ...
+[47:13.8 - 47:17.2] but let's assume we are correct, and he really doesn't want this.
+[47:17.2 - 47:17.7] Right.
+[47:17.7 - 47:22.9] So just say to him, "Hey, I underst- I believe ...
+[47:22.9 - 47:26.3] I'm asking you, do you want this?" So I should probably ask Ethan, yeah.
+[47:26.3 - 47:26.8] Yeah.
+[47:26.8 - 47:26.9] Right.
+[47:26.9 - 47:29.9] Ask Ethan, and he's probably gonna say, "No." Okay.
+[47:29.9 - 47:31.2] And just- That's probably a better approach, yeah.
+[47:31.2 - 47:31.5] Yeah.
+[47:31.5 - 47:32.4] And then say, "Okay.
+[47:32.4 - 47:36.6] Well then, I think I could do well here- And I'm interested ...
+[47:36.6 - 47:39.6] and I would like to have this, and I am interested." Okay.
+[47:39.6 - 47:40.2] Yeah, I'll do that.
+[47:40.2 - 47:43.1] How about- That would take away any kind of awkwardness.
+[47:43.1 - 47:43.1] So, yeah.
+[47:43.1 - 47:44.1] That would take away the awkwardness.
+[47:44.1 - 47:44.1] Mm-hmm.
+[47:44.1 - 47:45.1] So I would ask Ethan.
+[47:45.1 - 47:46.2] Yeah, I'll do that when I get to tomorrow.
+[47:46.2 - 47:47.7] Because it was offered to him first.
+[47:47.7 - 47:49.6] It was kind of forced upon him.
+[47:49.6 - 47:50.2] It was forced upon him.
+[47:50.2 - 47:50.4] Yeah.
+[47:50.4 - 47:51.7] I know he doesn't want it.
+[47:51.7 - 47:52.0] Yeah.
+[47:52.0 - 47:53.0] He doesn't want it.
+[47:53.0 - 47:54.2] Yeah.
+[47:54.2 - 47:56.6] A- again, unless something has changed, he doesn't want it.
+[47:56.6 - 47:57.1] Right.
+[47:57.1 - 47:59.6] So maybe- Have you overheard conversation down there?
+[47:59.6 - 48:01.0] Like, uh, is he learning?
+[48:01.0 - 48:01.9] Is he ...
+[48:01.9 - 48:02.4] Are they doing ...
+[48:02.4 - 48:03.1] I don't know.
+[48:03.1 - 48:03.1] I don't know.
+[48:03.1 - 48:07.1] No.
+[48:07.1 - 48:09.3] God.
+[48:09.3 - 48:12.8] Uh, but you need to take action soon because Abraham is not gonna do this.
+[48:12.8 - 48:13.6] Right.
+[48:13.6 - 48:14.0] I will-
+[48:14.3 - 48:14.8] Ethan tomorrow.
+[48:14.8 - 48:23.0] And the thing is, you'll probably learn the modeling very quickly- Mm-hmm ...
+[48:23.0 - 48:26.3] 'cause you already understand the underlying concepts.
+[48:26.3 - 48:26.8] Right.
+[48:26.8 - 48:31.6] You know, you already, you already have a base.
+[48:31.6 - 48:33.2] When you have a base, it's easy.
+[48:33.2 - 48:33.6] Right.
+[48:33.6 - 48:35.7] And, and, and things make sense.
+[48:35.7 - 48:37.1] When you don't have a base- Yeah ...
+[48:37.1 - 48:37.9] it's just a bunch of numbers.
+[48:37.9 - 48:39.4] I already have sources, like...
+[48:39.4 - 48:49.4] Well, that too, but just, I mean, right now it's all about the modeling, about, you know, every, every investor or broker or
+[48:49.4 - 48:50.8] whatever has their own model.
+[48:50.8 - 48:51.5] Sure.
+[48:51.5 - 48:54.3] You know, their own way of analyzing a deal.
+[48:54.3 - 48:55.6] You just have to learn the model.
+[48:55.6 - 48:56.1] Right.
+[48:56.1 - 49:03.6] And that's what they're kind of also has been working on for months, some sort of program, or is that having something to do with something else?
+[49:03.6 - 49:08.7] My understanding is that Mark is trying to somehow automate the underwriting pro- process.
+[49:08.7 - 49:09.7] Oh.
+[49:09.7 - 49:16.1] It's unclear to me how that works because there's two parts to underwriting.
+[49:16.1 - 49:22.5] There's strictly data entry, but then there's also...
+[49:22.5 - 49:29.5] You have to look at the numbers and say, "Do these make sense?" To my portfolio, like...
+[49:29.5 - 49:31.6] Or in general, yeah.
+[49:31.6 - 49:33.8] Do these make sense for this type of property?
+[49:33.8 - 49:37.6] Do these make sense for what it is I'm looking for?
+[49:37.6 - 49:39.5] Do these numbers make sense?
+[49:39.5 - 49:44.1] I don't know that AI can determine if the numbers make sense.
+[49:44.1 - 49:47.3] It, it depends what- Yeah, it's a lot of dependents and variables.
+[49:47.3 - 49:47.3] Yeah.
+[49:47.3 - 49:49.7] It depends on what, uh, parameters...
+[49:49.7 - 49:53.6] Oh, cheesecake.
+[49:53.6 - 49:59.3] Well, yeah, he's like, he got up and he's like, "Take care of the bill while I'm gone." Okay.
+[49:59.3 - 50:00.7] Can I get a cheesecake?
+[50:00.7 - 50:05.2] I love cheesecake.
+[50:05.2 - 50:09.2] You want a piece?
+[50:09.2 - 50:10.4] Sure.
+[50:10.4 - 50:11.8] Those are really good, too.
+[50:11.8 - 50:12.3] They are.
+[50:12.3 - 50:14.6] And you know, 42 grams of protein.
+[50:14.6 - 50:16.5] You can't beat that.
+[50:16.5 - 50:20.5] As you age, you're supposed to get more protein so that you don't lose any muscle.
+[50:20.5 - 50:25.5] As you're trying to bulk up, you're supposed to get 1.5 grams per pound you weigh.
+[50:25.5 - 50:26.0] Yes.
+[50:26.0 - 50:32.5] Your body can only synthesize 35 to 40 grams- A day?
+[50:32.5 - 50:32.6] ...
+[50:32.6 - 50:33.5] every three to four hours.
+[50:33.5 - 50:34.0] Oh.
+[50:34.0 - 50:36.0] Well, I'm not eating protein.
+[50:36.0 - 50:40.0] I'm not even eating 100 grams of protein at a meal.
+[50:40.0 - 50:40.9] Right.
+[50:40.9 - 50:49.0] Anyways, the bottom line is I think it'll be easy for you, and it, and for you it might actually be interesting because- Right.
+[50:49.0 - 50:50.0] 'Cause I already know.
+[50:50.0 - 50:51.1] Yeah.
+[50:51.1 - 50:52.8] I was in real estate for six years.
+[50:52.8 - 50:53.0] Yeah.
+[50:53.0 - 50:55.2] You know, don't wait any longer.
+[50:55.2 - 50:56.1] Okay.
+[50:56.1 - 50:58.0] So but you can talk to Mark.
+[50:58.0 - 50:58.8] I will talk to him.
+[50:58.8 - 50:59.9] Yeah.
+[50:59.9 - 51:04.4] Has Ethan spoken about liking the material and his one-on-one?
+[51:04.4 - 51:05.8] He, he's not spoken about anything.
+[51:05.8 - 51:07.5] He's just- He hates it.
+[51:07.5 - 51:08.4] He hates it.
+[51:08.4 - 51:09.7] Okay, good.
+[51:09.7 - 51:10.4] Well, there you go.
+[51:10.4 - 51:10.7] There's your answer.
+[51:10.7 - 51:11.9] You know what?
+[51:11.9 - 51:13.0] That's what I wanted to hear.
+[51:13.0 - 51:14.4] He wants to do it.
+[51:14.4 - 51:15.2] He would be good at it.
+[51:15.2 - 51:16.5] Yeah.
+[51:16.5 - 51:18.8] He would be good at it.
+[51:18.8 - 51:20.9] He knows how to go out and find deals.
+[51:20.9 - 51:27.3] He knows how to talk to people, and he knows how to- I go to, I used to go to 10- It's a little political.
+[51:27.3 - 51:27.3] Huh?
+[51:27.3 - 51:27.3] It's a little political.
+[51:27.3 - 51:30.6] Yeah, I used to go to 1031 Exchange lunches every- It's a little political.
+[51:30.6 - 51:32.3] Well, I know what you're saying about political.
+[51:32.3 - 51:38.1] Mark thinks it's a promotion for Ethan because you are- No, I'm glad, I'm glad you jumped on this.
+[51:38.1 - 51:38.3] Yeah.
+[51:38.3 - 51:39.3] Because you jumped on him?
+[51:39.3 - 51:40.4] No, not at all.
+[51:40.4 - 51:43.3] Well, that's the politics.
+[51:43.3 - 51:49.7] Oh.
+[51:49.7 - 51:49.8] Oh.
+[51:49.8 - 51:56.4] So it's just like- Okay, so then you know what?
+[51:56.4 - 51:58.8] That's because then he doesn't know how to look for the right deals.
+[51:58.8 - 51:59.2] That's it.
+[51:59.2 - 52:03.8] That's what I'm saying, there's no ego, so- Yeah, but the other- He's gonna go in there with a handicap already because of that.
+[52:03.8 - 52:04.7] I disagree.
+[52:04.7 - 52:06.3] No, I'm telling you- I disagree.
+[52:06.3 - 52:11.4] If you bring quality deals to the table- Then they can't, they can't say no.
+[52:11.4 - 52:11.6] Yeah ...
+[52:11.6 - 52:11.9] that's what they want.
+[52:11.9 - 52:12.0] They'll take what they want.
+[52:12.0 - 52:12.9] They want quality deals.
+[52:12.9 - 52:15.5] Maybe what he's bringing is not quality deals.
+[52:15.5 - 52:19.1] Let me tell you, Ethan, he's, and he's hustling.
+[52:19.1 - 52:20.2] Oh, of course.
+[52:20.2 - 52:24.9] No, he's just waiting for things, for people to send him stuff.
+[52:24.9 - 52:29.2] So when you wait for people to send you stuff, you're just gonna get- He'll be fabulous at it.
+[52:29.2 - 52:31.6] You're gonna get automated text messages on a list.
+[52:31.6 - 52:40.6] Hmm?
+[52:40.6 - 53:00.4] That
+[53:00.4 - 53:03.4] was a little spicier than I was expecting.
+[53:03.4 - 53:43.5] Nevertheless,
+[53:43.5 - 53:53.8] bottom
+[53:53.8 - 53:56.3] line- Yeah.
+[53:56.3 - 54:00.4] No, I mean- Mark knows what he's doing.
+[54:00.4 - 54:00.9] Who's not?
+[54:00.9 - 54:01.9] Ethan.
+[54:01.9 - 54:02.8] Oh, yeah.
+[54:02.8 - 54:03.3] He's sleeping.
+[54:03.3 - 54:05.0] He's not doing something he's not...
+[54:05.0 - 54:05.6] Who told you that?
+[54:05.6 - 54:05.6] No.
+[54:05.6 - 54:07.6] His mom and his dad are taking him.
+[54:07.6 - 54:09.3] Oh, that's what I figured.
+[54:09.3 - 54:13.3] I thought you already put in like a three-month- He's on my desk.
+[54:13.3 - 54:13.6] Huh?
+[54:13.6 - 54:14.1] He's on my desk.
+[54:14.1 - 54:14.3] Oh, on your desk?
+[54:14.3 - 54:19.4] This was months ago though.
+[54:19.4 - 54:19.9] I understand.
+[54:19.9 - 54:22.3] Oh, I thought he put in like a three-month notice.
+[54:22.3 - 54:22.3] Yeah.
+[54:22.3 - 54:22.7] Hmm.
+[54:22.7 - 54:25.0] It's about three months ago.
+[54:25.0 - 54:27.1] Oh, not in that business.
+[54:27.1 - 54:36.0] You're stalling him out and getting like, building as they were doing- He could really not, not want to leave.
+[54:36.0 - 54:36.9] And it's like, oh, yeah, I could do it too.
+[54:36.9 - 54:37.0] Hmm.
+[54:37.0 - 54:39.2] Well, that sucks.
+[54:39.2 - 54:40.5] Well, I don't know.
+[54:40.5 - 54:47.2] I think he's probably just being lazy because it-- Well, with a rental property, it's right there.
+[54:47.2 - 54:50.4] If you're not gonna push it back then I'll just...
+[54:50.4 - 54:52.5] Well, it's your-- it's your game.
+[54:52.5 - 55:00.5] Mark told me to try and accommodate that, so I just suggested to the other one, "I'm not gonna push you out.
+[55:00.5 - 55:02.5] I'll still do this." And then Mark said, "Ethan down there." What do you think he's thinking?
+[55:02.5 - 55:07.4] He doesn't need it.
+[55:07.4 - 55:08.6] He's just not really doing anything.
+[55:08.6 - 55:20.9] He's taking your hand back to the train, taking
+[55:20.9 - 55:23.7] your hand sort of path.
+[55:23.7 - 55:27.1] Well, Ethan does like to go slow.
+[55:27.1 - 55:30.2] In his, that defense.
+[55:30.2 - 55:37.3] I'm like, "I, I knew where you were going five minutes ago with that." True.
+[55:37.3 - 55:41.6] Ethan is very verbose.
+[55:41.6 - 55:44.6] That's a good way of saying it nicely.
+[55:44.6 - 55:46.6] And he was a lot of detail.
+[55:46.6 - 55:48.2] Mm-hmm.
+[55:48.2 - 55:51.2] Like I didn't even know what color her shirt was, where she was sitting in the room.
+[55:51.2 - 55:52.7] I didn't even know- All we need was that name.
+[55:52.7 - 55:53.1] Yeah.
+[55:53.1 - 55:57.4] Just wanted to know if she was there.
+[55:57.4 - 56:06.9] I don't know.
+[56:06.9 - 56:08.8] There's just gonna be a lot of changes.
+[56:08.8 - 56:17.6] I'm gonna send him an RLA soon for the listing for this house.
+[56:17.6 - 56:21.0] See how that response goes.
+[56:21.0 - 56:29.1] Even something-- And I realize it, it's just, it's just his mental personality sort of thing.
+[56:29.1 - 56:31.0] Like it's the way he works, he functions.
+[56:31.0 - 56:36.5] Even if it will take zero energy and have zero effect on him, he'll make you wait.
+[56:36.5 - 56:37.9] Mark.
+[56:37.9 - 56:40.1] It's 'cause he's got twenty-five things going.
+[56:40.1 - 56:43.8] Something, something so big that you would expect that, okay, that, that's-- you, you should wait on something that big.
+[56:43.8 - 56:49.2] But the same thing that has this much effect on him, he will just make you wait just because.
+[56:49.2 - 56:50.7] You get it?
+[56:50.7 - 56:51.7] I, I don't, I don't get it.
+[56:51.7 - 56:52.0] I don't.
+[56:52.0 - 56:54.2] That's 'cause he's got forty-five things going at once.
+[56:54.2 - 56:55.2] Yeah, but they're, they're rad.
+[56:55.2 - 56:56.7] I told him, I asked him for two weeks ago.
+[56:56.7 - 56:57.8] I gave it to him.
+[56:57.8 - 57:02.2] I'm like, "Mark," it was for him a different, but it was for one of his girls.
+[57:02.2 - 57:04.2] I'm like, "Sweet." He said, "Oh, sweet.
+[57:04.2 - 57:12.4] Just wait, just wait." And he's like, "I'm putting it in next week." I said, "Oh, you did last time." "No, I swear." Fine.
+[57:12.4 - 57:12.4] Like I, I need it paid on the ninth.
+[57:12.4 - 57:12.4] Just give it back.
+[57:12.4 - 57:12.4] I can sell it immediately.
+[57:12.4 - 57:12.4] "Oh, just you then." I'm like, "I just bought a fucking house.
+[57:12.4 - 57:16.5] You stupid scumbag." You know what?
+[57:16.5 - 57:19.9] If he has to pay money, he'll make moves.
+[57:19.9 - 57:20.7] He'll make moves.
+[57:20.7 - 57:21.5] That's what I'm saying.
+[57:21.5 - 57:24.6] If it's this big or this big, it doesn't, it doesn't matter.
+[57:24.6 - 57:29.7] If it's money for him, like he's walking out, "Did you do those distributions?" He'll be banging the door down to get it.
+[57:29.7 - 57:30.1] That's right.
+[57:30.1 - 57:32.9] He's like, "Why didn't you do those distributions?" Because you know what?
+[57:32.9 - 57:35.6] Money for him, right now.
+[57:35.6 - 57:41.6] Money for others, thirty days, sixty days, hundred and twenty days.
+[57:41.6 - 57:42.4] Doesn't matter.
+[57:42.4 - 57:43.0] I'll float it.
+[57:43.0 - 57:49.4] Doesn't matter.
+[57:49.4 - 57:49.4] All right, well...
+[57:49.4 - 57:52.0] I have a light if you need to talk.
+[57:52.0 - 57:52.4] You what?
+[57:52.4 - 57:54.0] I have a light if you need to talk.
+[57:54.0 - 57:58.0] I feel like I'm going further into a darker one.
+[57:58.0 - 58:02.2] Like a hole.
+[58:02.2 - 58:05.3] I'm not so sure about...
+[58:05.3 - 58:12.2] I'm gonna teach my computer to do everything for me real quick.
+[58:12.2 - 58:16.1] You could get a HoloLens or something.
+[58:16.1 - 58:17.7] Oh, that's an idea.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/downloads/ROSE-REC1_V2025-06-25-11-45-20_transcription_20260706_231448.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/downloads/ROSE-REC1_V2025-06-25-11-45-20_transcription_20260706_231448.txt
+[2J[H[3Jmanus-speech-to-text downloads/ROSE-REC1_V2025-06-25-11-45-20.mp3
+Starting Speech-to-Text conversion...
+Audio file size (20.7MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.70 MB, duration: 3617.9 seconds
+Splitting into 5 chunks (each ~723.6 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: downloads/ROSE-REC1_V2025-06-25-11-45-20.mp3, file size: 20.70 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: downloads/.ROSE-REC1_V2025-06-25-11-45-20_chunks_20260706_231250/chunk_000.mp3
+Chunk 1 completed (duration: 723.5s)
+Transcribing chunk 2/5: downloads/.ROSE-REC1_V2025-06-25-11-45-20_chunks_20260706_231250/chunk_001.mp3
+Chunk 2 completed (duration: 723.6s)
+Transcribing chunk 3/5: downloads/.ROSE-REC1_V2025-06-25-11-45-20_chunks_20260706_231250/chunk_002.mp3
+Chunk 3 completed (duration: 723.5s)
+Transcribing chunk 4/5: downloads/.ROSE-REC1_V2025-06-25-11-45-20_chunks_20260706_231250/chunk_003.mp3
+Chunk 4 completed (duration: 723.6s)
+Transcribing chunk 5/5: downloads/.ROSE-REC1_V2025-06-25-11-45-20_chunks_20260706_231250/chunk_004.mp3
+Chunk 5 completed (duration: 723.3s)
+
+Snippet of transcribed content:
+[55:51.2 - 55:52.7] I didn't even know- All we need was that name.
+[55:52.7 - 55:53.1] Yeah.
+[55:53.1 - 55:57.4] Just wanted to know if she was there.
+[55:57.4 - 56:06.9] I don't know.
+[56:06.9 - 56:08.8] There's just gonna be a lot of changes.
+[56:08.8 - 56:17.6] I'm gonna send him an RLA soon for the listing for this house.
+[56:17.6 - 56:21.0] See how that response goes.
+[56:21.0 - 56:29.1] Even something-- And I realize it, it's just, it's just his mental personality sort of thing.
+[56:29.1 - 56:31.0] Like it's the way he works, he functions.
+[56:31.0 - 56:36.5] Even if it will take zero energy and have zero effect on him, he'll make you wait.
+[56:36.5 - 56:37.9] Mark.
+[56:37.9 - 56:40.1] It's 'cause he's got twenty-five things going.
+[56:40.1 - 56:43.8] Something, something so big that you would expect that, okay, that, that's-- you, you should wait on something that big.
+[56:43.8 - 56:49.2] But the same thing that has this much effect on him, he will just make you wait just because.
+[56:49.2 - 56:50.7] You get it?
+[56:50.7 - 56:51.7] I, I don't, I don't get it.
+[56:51.7 - 56:52.0] I don't.
+[56:52.0 - 56:54.2] That's 'cause he's got forty-five things going at once.
+[56:54.2 - 56:55.2] Yeah, but they're, they're rad.
+[56:55.2 - 56:56.7] I told him, I asked him for two weeks ago.
+[56:56.7 - 56:57.8] I gave it to him.
+[56:57.8 - 57:02.2] I'm like, "Mark," it was for him a different, but it was for one of his girls.
+[57:02.2 - 57:04.2] I'm like, "Sweet." He said, "Oh, sweet.
+[57:04.2 - 57:12.4] Just wait, just wait." And he's like, "I'm putting it in next week." I said, "Oh, you did last time." "No, I swear." Fine.
+[57:12.4 - 57:12.4] Like I, I need it paid on the ninth.
+[57:12.4 - 57:12.4] Just give it back.
+[57:12.4 - 57:12.4] I can sell it immediately.
+[57:12.4 - 57:12.4] "Oh, just you then." I'm like, "I just bought a fucking house.
+[57:12.4 - 57:16.5] You stupid scumbag." You know what?
+[57:16.5 - 57:19.9] If he has to pay money, he'll make moves.
+[57:19.9 - 57:20.7] He'll make moves.
+[57:20.7 - 57:21.5] That's what I'm saying.
+[57:21.5 - 57:24.6] If it's this big or this big, it doesn't, it doesn't matter.
+[57:24.6 - 57:29.7] If it's money for him, like he's walking out, "Did you do those distributions?" He'll be banging the door down to get it.
+[57:29.7 - 57:30.1] That's right.
+[57:30.1 - 57:32.9] He's like, "Why didn't you do those distributions?" Because you know what?
+[57:32.9 - 57:35.6] Money for him, right now.
+[57:35.6 - 57:41.6] Money for others, thirty days, sixty days, hundred and twenty days.
+[57:41.6 - 57:42.4] Doesn't matter.
+[57:42.4 - 57:43.0] I'll float it.
+[57:43.0 - 57:49.4] Doesn't matter.
+[57:49.4 - 57:49.4] All right, well...
+[57:49.4 - 57:52.0] I have a light if you need to talk.
+[57:52.0 - 57:52.4] You what?
+[57:52.4 - 57:54.0] I have a light if you need to talk.
+[57:54.0 - 57:58.0] I feel like I'm going further into a darker one.
+[57:58.0 - 58:02.2] Like a hole.
+[58:02.2 - 58:05.3] I'm not so sure about...
+[58:05.3 - 58:12.2] I'm gonna teach my computer to do everything for me real quick.
+[58:12.2 - 58:16.1] You could get a HoloLens or something.
+[58:16.1 - 58:17.7] Oh, that's an idea.
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/downloads/ROSE-REC1_V2025-06-25-11-45-20_transcription_20260706_231448.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/downloads/ROSE-REC1_V2025-06-25-11-45-20_transcription_20260706_231448.txt

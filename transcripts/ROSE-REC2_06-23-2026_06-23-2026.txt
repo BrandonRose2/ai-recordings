@@ -1,0 +1,104 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: mp3/ROSE-REC2_06-23-2026_06-23-2026.mp3, file size: 1.75 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 305.3 seconds
+Language: eng
+Timestamped segments:
+[00:00.2 - 00:06.7] Until recently, we did not have the rights to the pictures, so that's why y'all haven't been able to save the images and, you know- Oh ...
+[00:06.7 - 00:07.5] do whatever.
+[00:07.5 - 00:07.9] Uh-huh.
+[00:07.9 - 00:14.7] And now there's a way to go into any one of our properties, any one of our accounts, you can actually remove pictures and you can- Oh ...
+[00:14.7 - 00:15.6] upload new pictures.
+[00:15.6 - 00:16.1] Oh, great.
+[00:16.1 - 00:18.4] So that's a new feature that they just added recently.
+[00:18.4 - 00:18.9] Awesome.
+[00:18.9 - 00:21.8] So, um- Great news ...
+[00:21.8 - 00:24.2] we're actually doing a test run of it right now.
+[00:24.2 - 00:25.2] Okay.
+[00:25.2 - 00:27.1] So if you want, I'll send you the instructions.
+[00:27.1 - 00:28.0] Yeah, that'd be great.
+[00:28.0 - 00:30.4] I think you'll be able to figure it out once you go on there.
+[00:30.4 - 00:32.8] Where, where can you go to upload the pictures?
+[00:32.8 - 00:38.7] I'll be at the office in, like, 20 minutes, so I will look at it whenever I get there.
+[00:38.7 - 00:40.8] Go to the media tab.
+[00:40.8 - 00:41.2] Okay.
+[00:41.2 - 00:43.4] Perfect.
+[00:43.4 - 00:47.3] Okay.
+[00:47.3 - 00:50.0] Remove.
+[00:50.0 - 00:50.5] Right.
+[00:50.5 - 00:50.9] Okay.
+[00:50.9 - 00:53.0] Okay.
+[00:53.0 - 00:55.9] Well, I think once you get to the media tab, you'll be able to figure it all out.
+[00:55.9 - 00:56.2] Oh, yeah.
+[00:56.2 - 00:57.1] Okay, great.
+[00:57.1 - 00:58.0] Great.
+[00:58.0 - 00:58.4] Okay.
+[00:58.4 - 00:58.7] A- awesome.
+[00:58.7 - 00:59.7] Okay, thanks, Ginger.
+[00:59.7 - 01:00.2] Okay.
+[01:00.2 - 01:00.5] You're the best.
+[01:00.5 - 01:00.8] Thanks.
+[01:00.8 - 01:01.2] Bye.
+[01:01.2 - 01:21.0] Okay,
+[01:21.0 - 01:25.6] jeez.
+[01:25.6 - 02:22.6] One
+[02:22.6 - 02:23.5] at a time.
+[02:23.5 - 04:08.6] There's
+[04:08.6 - 04:40.8] a transition,
+[04:40.8 - 04:41.0] but...
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_06-23-2026_06-23-2026_transcription_20260705_173359.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_06-23-2026_06-23-2026_transcription_20260705_173359.txt
+[2J[H[3Jmanus-speech-to-text mp3/ROSE-REC2_06-23-2026_06-23-2026.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: mp3/ROSE-REC2_06-23-2026_06-23-2026.mp3, file size: 1.75 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:00.2 - 00:06.7] Until recently, we did not have the rights to the pictures, so that's why y'all haven't been able to save the images and, you know- Oh ...
+[00:06.7 - 00:07.5] do whatever.
+[00:07.5 - 00:07.9] Uh-huh.
+[00:07.9 - 00:14.7] And now there's a way to go into any one of our properties, any one of our accounts, you can actually remove pictures and you can- Oh ...
+[00:14.7 - 00:15.6] upload new pictures.
+[00:15.6 - 00:16.1] Oh, great.
+[00:16.1 - 00:18.4] So that's a new feature that they just added recently.
+[00:18.4 - 00:18.9] Awesome.
+[00:18.9 - 00:21.8] So, um- Great news ...
+[00:21.8 - 00:24.2] we're actually doing a test run of it right now.
+[00:24.2 - 00:25.2] Okay.
+[00:25.2 - 00:27.1] So if you want, I'll send you the instructions.
+[00:27.1 - 00:28.0] Yeah, that'd be great.
+[00:28.0 - 00:30.4] I think you'll be able to figure it out once you go on there.
+[00:30.4 - 00:32.8] Where, where can you go to upload the pictures?
+[00:32.8 - 00:38.7] I'll be at the office in, like, 20 minutes, so I will look at it whenever I get there.
+[00:38.7 - 00:40.8] Go to the media tab.
+[00:40.8 - 00:41.2] Okay.
+[00:41.2 - 00:43.4] Perfect.
+[00:43.4 - 00:47.3] Okay.
+[00:47.3 - 00:50.0] Remove.
+[00:50.0 - 00:50.5] Right.
+[00:50.5 - 00:50.9] Okay.
+[00:50.9 - 00:53.0] Okay.
+[00:53.0 - 00:55.9] Well, I think once you get to the media tab, you'll be able to figure it all out.
+[00:55.9 - 00:56.2] Oh, yeah.
+[00:56.2 - 00:57.1] Okay, great.
+[00:57.1 - 00:58.0] Great.
+[00:58.0 - 00:58.4] Okay.
+[00:58.4 - 00:58.7] A- awesome.
+[00:58.7 - 00:59.7] Okay, thanks, Ginger.
+[00:59.7 - 01:00.2] Okay.
+[01:00.2 - 01:00.5] You're the best.
+[01:00.5 - 01:00.8] Thanks.
+[01:00.8 - 01:01.2] Bye.
+[01:01.2 - 01:21.0] Okay,
+[01:21.0 - 01:25.6] jeez.
+[01:25.6 - 02:22.6] One
+[02:22.6 - 02:23.5] at a time.
+[02:23.5 - 04:08.6] There's
+[04:08.6 - 04:40.8] a transition,
+[04:40.8 - 04:41.0] but...
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_06-23-2026_06-23-2026_transcription_20260705_173359.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_06-23-2026_06-23-2026_transcription_20260705_173359.txt

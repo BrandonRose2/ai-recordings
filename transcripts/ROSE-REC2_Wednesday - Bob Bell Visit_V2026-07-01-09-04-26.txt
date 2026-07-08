@@ -1,0 +1,451 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-09-04-26.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: mp3/.ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-09-04-26_chunks_20260705_194407/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: mp3/.ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-09-04-26_chunks_20260705_194407/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: mp3/.ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-09-04-26_chunks_20260705_194407/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: mp3/.ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-09-04-26_chunks_20260705_194407/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: mp3/.ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-09-04-26_chunks_20260705_194407/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.7 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[15:02.4 - 15:17.7] Not
+[15:17.7 - 15:20.7] a lot.
+[15:20.7 - 17:33.8] It's
+[17:33.8 - 17:34.2] quick.
+[17:34.2 - 17:39.4] Yo, Mark's flying tomorrow, right?
+[17:39.4 - 17:40.1] Yeah.
+[17:40.1 - 17:40.3] Yeah.
+[17:40.3 - 17:44.0] But he's like, "Oh, yeah, I just need to get in here.
+[17:44.0 - 17:58.5] I wanna hit the ground running." And you know Mark's not gonna get in till like the whole day.
+[17:58.5 - 18:08.7] Yeah, I don't wanna set him up and then have Mark get mad that he's like, "Well, there's too much access." I
+[18:08.7 - 18:10.3] tried to opt for the security.
+[18:10.3 - 18:11.7] Yeah, it's like out of security.
+[18:11.7 - 18:17.9] You don't have to get off this meeting, by the way.
+[18:17.9 - 18:25.7] What the You, you throw me off so bad where I was like, I, I didn't know there-- the question I could ask.
+[18:25.7 - 18:27.2] Like, what does that mean?
+[18:27.2 - 18:30.0] Like- Like, do you know where you're in your office?
+[18:30.0 - 18:31.4] Sale.
+[18:31.4 - 18:33.0] Oh, boy.
+[18:33.0 - 18:36.2] Why?
+[18:36.2 - 18:40.5] He's selling property taxes.
+[18:40.5 - 18:48.4] Interesting.
+[18:48.4 - 18:48.8] The...
+[18:48.8 - 18:56.3] Or maybe he- It- Yeah, it, uh, he doesn't have the full paper that is on his phone, so...
+[18:56.3 - 18:59.5] Which means we're not gonna figure it out.
+[18:59.5 - 19:01.0] Yeah.
+[19:01.0 - 19:10.4] That's not, you know, he was just-- Mark was just, is, isn't that like, "Oh, well, if he's here like this, like let, let's not have him wasting time.
+[19:10.4 - 19:15.8] Let's just make him do something." And it was gonna be like he wants to go through phone calls.
+[19:15.8 - 19:19.0] I'm using the AI for web browsing.
+[19:19.0 - 19:22.2] Let's take the out of office and their, up their all the screen time code, right?
+[19:22.2 - 19:32.6] That is like, that is where it's just like he sends one thing to someone, and you hear it, and then you're just sitting there when he then turns to the person
+[19:32.6 - 19:35.2] that he was talking about, and it was like the opposite.
+[19:35.2 - 19:40.1] It's like, "What are we doing?" Um, I tried calling Mark to see what access to give you.
+[19:40.1 - 19:40.9] Right.
+[19:40.9 - 19:43.0] He didn't answer, which is typical.
+[19:43.0 - 19:46.1] Uh, Robert's gonna call up William again in a few minutes.
+[19:46.1 - 19:51.4] That's the only hesitation on whether or not I want to just move on.
+[19:51.4 - 19:52.5] I've seen how you work a little.
+[19:52.5 - 19:58.9] I'm just not in the mood to get yelled at for giving you over access or under access, so I'm just gonna- Don't worry about it.
+[19:58.9 - 20:00.1] We did say that we'll figure it out as well.
+[20:00.1 - 20:00.6] Yeah.
+[20:00.6 - 20:03.4] But we, we don't wanna wait 'cause he closed at ten thirty.
+[20:03.4 - 20:05.3] Work standard time means- Uh.
+[20:05.3 - 20:06.5] Early is anybody.
+[20:06.5 - 20:07.5] Yeah.
+[20:07.5 - 20:09.6] As much as I wanna help you- Yeah.
+[20:09.6 - 20:11.1] But I don't wanna lose my job too.
+[20:11.1 - 20:12.7] Yeah.
+[20:12.7 - 20:14.2] So, but I- Yeah.
+[20:14.2 - 20:16.7] The thing we don't do is bother Mark in the morning.
+[20:16.7 - 20:17.6] I know how to get help.
+[20:17.6 - 20:22.1] And I don't wanna be good at bothering him just because it's like he knows you're coming in, so.
+[20:22.1 - 20:22.4] He's good.
+[20:22.4 - 20:25.6] Well, wait, I, I have, uh, there's other stuff I can figure out if you're done.
+[20:25.6 - 20:26.0] Cool.
+[20:26.0 - 20:26.3] Yeah.
+[20:26.3 - 20:29.6] Uh, but we, you know, I wanna get you set up.
+[20:29.6 - 20:37.1] I, I kinda, like I said, leave Mark and do that at the last second, so I kinda dropped the ball on just asking him back what- Definitely not property max for this.
+[20:37.1 - 20:37.7] Oh, okay.
+[20:37.7 - 20:38.9] I'll follow you.
+[20:38.9 - 20:40.1] I appreciate it again.
+[20:40.1 - 20:41.9] But yeah, so- What are, what are the rules in here?
+[20:41.9 - 20:44.6] I mean- Uh, that's a coffee thing.
+[20:44.6 - 20:47.5] You gotta talk to him or him about it 'cause I don't know fuck all.
+[20:47.5 - 20:48.2] Rules?
+[20:48.2 - 20:49.1] There's no rules.
+[20:49.1 - 20:52.2] Um, he's drinking something.
+[20:52.2 - 20:56.9] The, the drink setup that I chose, whatever, obviously the boss's mortgage against this dude.
+[20:56.9 - 21:00.5] Like, uh, it's It's- He's offering you to go.
+[21:00.5 - 21:02.7] Yeah, it's all for everybody.
+[21:02.7 - 21:07.4] This shit, I don't know, it's usually someone's hot sauce or whatnot.
+[21:07.4 - 21:09.3] Obviously, this is all you.
+[21:09.3 - 21:12.1] It's been there for, like, ten years or something.
+[21:12.1 - 21:13.1] That is a shame, man.
+[21:13.1 - 21:13.7] And it's just...
+[21:13.7 - 21:14.9] I don't have any.
+[21:14.9 - 21:16.1] Some of them date Mark.
+[21:16.1 - 21:16.8] Yeah.
+[21:16.8 - 21:19.0] It says number one something on it.
+[21:19.0 - 21:20.1] It's just sat there.
+[21:20.1 - 21:23.3] I worked here for four and a half years, and it's been in there every day.
+[21:23.3 - 21:23.8] Yeah.
+[21:23.8 - 21:30.3] I think, I think the first time I came here was, like, a year and a half ago, a year into one of our, our club things.
+[21:30.3 - 21:30.8] Oh, yeah.
+[21:30.8 - 21:37.9] And I walked in, and I was like, "What the fuck is happening here?" And I found the app, and then it all got better.
+[21:37.9 - 21:38.3] Yeah.
+[21:38.3 - 21:44.6] He, he prefers rather than renting off the space and getting nothing out of it, he just put his stuff in there.
+[21:44.6 - 21:48.8] Work out a year, and then it's always like- He said it's the papers one is like- Yeah.
+[21:48.8 - 21:51.1] You just gotta be a little careful with it.
+[21:51.1 - 21:52.3] No, they're cool.
+[21:52.3 - 21:53.3] This one's cool.
+[21:53.3 - 21:56.4] These ones are new, and we don't really interact with.
+[21:56.4 - 22:04.7] Oh, and then those ones, the house, like above us that way, is always in the way because we park there, and they can't...
+[22:04.7 - 22:06.3] They, uh, suck at driving.
+[22:06.3 - 22:06.8] Oh.
+[22:06.8 - 22:11.4] So they can't fit in their car 'cause they have a really tiny two-car driveway, so they can't...
+[22:11.4 - 22:20.2] They back straight out to the car and be like, "These assholes, we can't fit in." And they always get hit, I think.
+[22:20.2 - 22:21.4] Right?
+[22:21.4 - 22:22.0] I think the car does.
+[22:22.0 - 22:22.7] I just...
+[22:22.7 - 22:22.8] Can we talk about it?
+[22:22.8 - 22:25.4] I don't know.
+[22:25.4 - 22:27.3] It's like, look at how many cars.
+[22:27.3 - 22:27.7] Yeah.
+[22:27.7 - 22:29.7] We now have to go wherever it's parked.
+[22:29.7 - 22:30.1] Yeah.
+[22:30.1 - 22:32.1] I, I always park in front of there.
+[22:32.1 - 22:33.0] Mark's calling me.
+[22:33.0 - 22:34.0] Perfect.
+[22:34.0 - 22:34.5] Hey, Mark.
+[22:34.5 - 22:44.8] Yeah, I'm here with Sam, and I just wanted to see, uh, I wanna give him a property max login, and I, I was touching base with you about how much access.
+[22:44.8 - 22:50.1] Like, should I set him up with operations and, uh, manager office stuff?
+[22:50.1 - 22:57.7] Okay.
+[22:57.7 - 22:59.7] So just set it up.
+[22:59.7 - 23:02.7] Or should I not even set it up or?
+[23:02.7 - 23:03.9] Okay.
+[23:03.9 - 23:06.7] So make him, like, regional, regional one.
+[23:06.7 - 23:09.0] Okay.
+[23:09.0 - 23:12.3] Well, Mark, I, I, I need like- How's your week treating you?
+[23:12.3 - 23:14.4] Dude, I can't complain, man.
+[23:14.4 - 23:16.7] It's, uh, it's gloomy outside, so.
+[23:16.7 - 23:17.4] It's what?
+[23:17.4 - 23:18.2] It's gloomy.
+[23:18.2 - 23:19.0] Yeah, I know.
+[23:19.0 - 23:19.4] I love it.
+[23:19.4 - 23:20.2] It's been a weird little weather.
+[23:20.2 - 23:21.2] It's my kind of weather.
+[23:21.2 - 23:22.8] I don't like the heat.
+[23:22.8 - 23:23.5] What about you?
+[23:23.5 - 23:24.2] You got a video here?
+[23:24.2 - 23:25.0] Yeah.
+[23:25.0 - 23:28.9] Um, always something to do around here.
+[23:28.9 - 23:31.9] Give him regional one.
+[23:31.9 - 23:32.7] Regional one.
+[23:32.7 - 23:34.9] What the fuck did that?
+[23:34.9 - 23:39.5] I'm gonna- Oh, dude, working for Mark is probably great, bro.
+[23:39.5 - 23:40.1] You're- What's that?
+[23:40.1 - 23:41.6] Working for Mark is probably great.
+[23:41.6 - 23:43.3] I don't know if that's the word.
+[23:43.3 - 23:43.7] All right.
+[23:43.7 - 23:45.1] Here's the setup.
+[23:45.1 - 23:54.5] And then he said that, like, by tomorrow, he's gonna give you, like, a read-only access to everything and have the guys set that-- the programmer set it up for you.
+[23:54.5 - 23:54.9] Yeah.
+[23:54.9 - 23:59.1] And so this login will be taken away or whatever, but I'm just gonna...
+[23:59.1 - 23:59.9] He just said set-
+[24:00.1 - 24:00.9] up as region one.
+[24:00.9 - 24:04.6] It didn't give me an answer as, like, what type of employee, which really circulates.
+[24:04.6 - 24:08.6] I'm gonna set you up as a property manager in region one- Oh, yeah ...
+[24:08.6 - 24:11.5] and give you a couple properties so you can just kind of see- Yeah, sure ...
+[24:11.5 - 24:12.1] what the deal is and stuff.
+[24:12.1 - 24:12.9] I just had this came...
+[24:12.9 - 24:16.9] Yeah, I just had this came through and I have to just check out the modules and I have to, like, just go- Yeah, yeah.
+[24:16.9 - 24:22.5] So, so having a couple properties will give you a good rundown of, like, all the modules and everything- Yeah ...
+[24:22.5 - 24:22.8] and whatnot.
+[24:22.8 - 24:25.0] And I have a summary that I train people with.
+[24:25.0 - 24:26.5] I can s- email it to you.
+[24:26.5 - 24:27.2] That'd be great if you can.
+[24:27.2 - 24:27.5] Yeah.
+[24:27.5 - 24:28.2] Yeah.
+[24:28.2 - 24:28.3] Yeah.
+[24:28.3 - 24:30.9] Um, could you- Maybe just, you could just do it to Sam Elia.
+[24:30.9 - 24:32.9] Uh, probably would go through the apartment board one.
+[24:32.9 - 24:33.8] Sam Elia Department board.
+[24:33.8 - 24:35.0] Sam Lai?
+[24:35.0 - 24:35.3] Yeah.
+[24:35.3 - 24:35.9] Uh, M-O...
+[24:35.9 - 24:36.7] Oh, here, you want me to write it down.
+[24:36.7 - 24:37.8] Sorry, yeah.
+[24:37.8 - 24:38.0] M-O.
+[24:38.0 - 24:38.0] Yeah, yeah.
+[24:38.0 - 24:39.3] So for some reason- No, you're fine.
+[24:39.3 - 24:39.8] ...
+[24:39.8 - 24:40.5] I wouldn't have been able to spell that.
+[24:40.5 - 24:45.1] Um, I normally have a, a booklet here, but this is gonna...
+[24:45.1 - 24:48.8] Oh.
+[24:48.8 - 24:54.7] Yeah, this is gonna...
+[24:54.7 - 24:55.8] Yeah.
+[24:55.8 - 24:56.8] Obviously you're gonna- Perfect.
+[24:56.8 - 24:57.3] Thank you.
+[24:57.3 - 24:58.0] That'd be awesome.
+[24:58.0 - 24:58.6] Yeah.
+[24:58.6 - 24:59.6] Um, 'cause you work with the soft...
+[24:59.6 - 25:01.8] You, you do a lot of onboarding, right?
+[25:01.8 - 25:03.1] Um, yes.
+[25:03.1 - 25:06.4] I do all of the, like, training with the new managers- Yeah ...
+[25:06.4 - 25:06.9] and stuff, so.
+[25:06.9 - 25:07.1] Okay.
+[25:07.1 - 25:09.0] Do you find a lot of bugs with the software at all?
+[25:09.0 - 25:10.6] Or- Yeah, I do actually.
+[25:10.6 - 25:11.6] Yeah.
+[25:11.6 - 25:12.2] I mean, I could see.
+[25:12.2 - 25:12.7] Do you...
+[25:12.7 - 25:13.7] And then I'm assuming...
+[25:13.7 - 25:14.5] I mean, what, you guys have...
+[25:14.5 - 25:16.5] use, like, a wire, wire frame system?
+[25:16.5 - 25:17.1] Um, yeah.
+[25:17.1 - 25:27.2] Well, we have the developers, um, that do all of that on the back end, and then I just grab the rest API key from them and pull the data that I need whenever I'm making reporting
+[25:27.2 - 25:28.1] systems and stuff.
+[25:28.1 - 25:28.3] Mm.
+[25:28.3 - 25:30.4] Um, but- Yeah ...
+[25:30.4 - 25:40.4] it seems like whenever we have an issue in the system, like, say one manager has a problem with their profile or their dashboard or something, they'll get it resolved for that one manager, but
+[25:40.4 - 25:42.3] they won't do it across the board, and it's like...
+[25:42.3 - 25:43.2] Interesting.
+[25:43.2 - 25:44.6] I mean, I'm assuming that...
+[25:44.6 - 25:47.3] Yeah, I gotta meet with these guys, these fucking developers, whoever they are.
+[25:47.3 - 25:48.6] D- yeah, I mean- Yeah ...
+[25:48.6 - 25:51.7] they're a dev shop in India mo- for the most part.
+[25:51.7 - 25:59.6] Um, I mean, it's two guys, Bob and Chris, and then I think that they outsource other stuff from- They outsource to the, to the dev shops.
+[25:59.6 - 25:59.9] Yeah.
+[25:59.9 - 26:05.4] Uh- And I, and I can tell that they, you know, use AI and a lot of it's, like, bootstrapped and stuff.
+[26:05.4 - 26:13.3] So it's like I wish that we could've just kind of started over and- You know, it's, it's funny 'cause, uh, most of the time that's what you need to do.
+[26:13.3 - 26:13.7] Yeah.
+[26:13.7 - 26:15.0] If you're really gonna start, you're gonna...
+[26:15.0 - 26:17.1] I mean, depending on, like, how it's, uh...
+[26:17.1 - 26:19.5] depending on how they coded it.
+[26:19.5 - 26:20.0] I mean, I hope...
+[26:20.0 - 26:21.0] I mean, this is- Yeah ...
+[26:21.0 - 26:21.5] something when I code.
+[26:21.5 - 26:24.8] And the flow in general to me is just kind of...
+[26:24.8 - 26:28.8] Like, if you gave it to a user and said, "Figure out how to use this-" There's no way.
+[26:28.8 - 26:29.2] Yeah ...
+[26:29.2 - 26:29.9] it's like, what?
+[26:29.9 - 26:30.5] And there's...
+[26:30.5 - 26:34.1] I mean, I made my own version, which I think, you know- Yeah ...
+[26:34.1 - 26:34.6] I'm, I'm partial.
+[26:34.6 - 26:35.8] Of course.
+[26:35.8 - 26:37.2] Um- No, it's tough.
+[26:37.2 - 26:38.9] Software's is, is a, is- 'Cause- Yeah.
+[26:38.9 - 26:39.3] Yeah.
+[26:39.3 - 26:39.6] On the...
+[26:39.6 - 26:39.9] They had...
+[26:39.9 - 26:42.5] We're working on it, I think, like, seven months before I got here.
+[26:42.5 - 26:46.3] I started, like, the end, very end of February, and then, like, on the third day he was like, "Learn this.
+[26:46.3 - 26:49.3] Train them on it." I was like, "Okay." So.
+[26:49.3 - 26:51.8] Yeah, they, yeah, this, uh, uh, sounds like, yeah, six months of development.
+[26:51.8 - 26:53.6] And then the launch was April 1st.
+[26:53.6 - 26:54.4] Yeah.
+[26:54.4 - 26:58.2] So that's how long it's been, and we're still, still bugs, so it's like- Of course.
+[26:58.2 - 26:59.3] There's still gonna be lots of bugs.
+[26:59.3 - 26:59.5] Yeah.
+[26:59.5 - 27:03.0] Uh, hopefully with me coming on board, maybe the software will- Yeah.
+[27:03.0 - 27:05.0] Do you do, I guess, software development- Yeah ...
+[27:05.0 - 27:06.6] or you do more of the sell of the software?
+[27:06.6 - 27:08.7] Uh, just, like, go to market kind of- Oh, okay ...
+[27:08.7 - 27:08.8] deal.
+[27:08.8 - 27:09.0] Yeah.
+[27:09.0 - 27:10.0] So- Very nice ...
+[27:10.0 - 27:10.7] hopefully when they go to market.
+[27:10.7 - 27:15.0] But, you know, for that tech, tech-cal, technicality has to come into that play as well.
+[27:15.0 - 27:18.8] You know, there's that bridge between us and the developers being able to like, "Hey, these wire-" Sure.
+[27:18.8 - 27:20.8] We're, we're gonna try to commercialize it as much as possible, obviously.
+[27:20.8 - 27:21.2] Oh, okay.
+[27:21.2 - 27:25.2] So just making it as bare, like, bearers to sell as possible.
+[27:25.2 - 27:25.5] Right.
+[27:25.5 - 27:27.4] That'll obviously be a lot of...
+[27:27.4 - 27:29.8] We have to- Yeah ...
+[27:29.8 - 27:39.9] do a lot of, you know- I've even, like, built, like, an investor pitch deck for him and an MVP and, like, a website, but he's got his way if he, how he wants
+[27:39.9 - 27:40.3] to do it.
+[27:40.3 - 27:40.8] Mm-hmm.
+[27:40.8 - 27:41.3] What his...
+[27:41.3 - 27:46.5] He wants to charge per unit and didn't really look at what I sent him, I don't think.
+[27:46.5 - 27:49.3] The tier system was kind of perfect I thought, but...
+[27:49.3 - 27:53.4] How did you do it, if you don't- Um, you know, it'd have to be- Send that to me too.
+[27:53.4 - 27:53.4] I'll take a look ...
+[27:53.4 - 27:54.5] it was such a long time ago.
+[27:54.5 - 27:55.2] Yeah, I will.
+[27:55.2 - 27:55.7] Send that to me too.
+[27:55.7 - 27:56.4] I'll take a look at it.
+[27:56.4 - 27:57.0] That's awesome.
+[27:57.0 - 27:57.4] Yeah.
+[27:57.4 - 27:58.5] Uh, yeah, dude, this...
+[27:58.5 - 28:00.1] It's just software is a, it's a tough game.
+[28:00.1 - 28:04.9] I mean, I've been doing it for a little while, but it's, it's just one of those things that it- Yeah ...
+[28:04.9 - 28:08.9] it really all depends on, uh, are people gonna buy it.
+[28:08.9 - 28:09.3] Yeah.
+[28:09.3 - 28:18.2] And you'll find out real quick that, like, he tasks these developers a bunch of stuff to do and then supersedes it with other stuff.
+[28:18.2 - 28:20.2] And then just passes it- And then it will just be like- Passes it again ...
+[28:20.2 - 28:24.8] kind of, you know, all over the place and- Yeah ...
+[28:24.8 - 28:25.5] so.
+[28:25.5 - 28:25.7] It's not...
+[28:25.7 - 28:28.1] Yeah, hopefully we can make it a little- There's a lot of, like, ADD going on.
+[28:28.1 - 28:30.8] Hopefully I can kinda mitigate some of that.
+[28:30.8 - 28:31.1] Yeah.
+[28:31.1 - 28:31.8] If you could get a...
+[28:31.8 - 28:32.9] Yeah, that'd be great.
+[28:32.9 - 28:34.0] That's, that's what I'm here for.
+[28:34.0 - 28:35.5] But I appreciate it.
+[28:35.5 - 28:35.8] Yeah.
+[28:35.8 - 28:37.4] I will send you both of those things.
+[28:37.4 - 28:38.0] Thank you so much.
+[28:38.0 - 28:38.6] Of course.
+[28:38.6 - 28:39.6] And I apologize, but- Okay.
+[28:39.6 - 28:42.2] And it'll be come from Brandon at Apartment Corp, so.
+[28:42.2 - 28:42.7] Thank you.
+[28:42.7 - 28:42.9] All right.
+[28:42.9 - 28:56.0] What
+[28:56.0 - 28:56.9] extension is he?
+[28:56.9 - 29:01.7] Well, Brandon, I was sitting and saying to the others that the phone there is 241.
+[29:01.7 - 29:02.3] Okay.
+[29:02.3 - 29:04.5] Um, so- To PMS Oh, okay ...
+[29:04.5 - 29:10.3] so that he'll be able to do the- Can you probably- It won't kill me if I have to go to the- ...
+[29:10.3 - 29:11.0] right after I set it up, so.
+[29:11.0 - 29:11.7] Oh, okay.
+[29:11.7 - 29:22.4] Um, do you look at it?
+[29:22.4 - 29:32.9] Um,
+[29:32.9 - 29:37.6] in order to be ordered, you gotta just like to reach out to the vendor.
+[29:37.6 - 29:37.6] Yeah.
+[29:37.6 - 29:40.7] We, we profit maybe like 100 a day.
+[29:40.7 - 29:49.3] But if, if, if they do that, if they're the only vendor that's out there, then they're not letting the profit get in or something.
+[29:49.3 - 29:56.1] And we, we need that because all of our, our tents, we have extra tents, water, tables, you know, everything.
+[29:56.1 - 29:58.7] Everything is based on what you are doing.
+[29:58.7 - 30:12.0] It's all based, like-
+[30:12.0 - 30:17.8] Yeah, it's not, it's not just like, "Oh, yeah, we can do your permit." Like, no, you have to have a license in order to do your permit.
+[30:17.8 - 30:22.0] You know, the license, they charge like thirty grand per, per license.
+[30:22.0 - 30:23.5] That's why I'm sure.
+[30:23.5 - 30:31.7] And like you say you do, you probably are, are capable, but to say you do mean you have a license, and if you're not even familiar with the name, then I don't know if you, you actually do.
+[30:31.7 - 30:36.8] Just shoot me an email, robert@apartmentsgroup.com.
+[30:36.8 - 30:39.3] Sorry about- That Robert, you know.
+[30:39.3 - 30:39.6] No problem.
+[30:39.6 - 30:40.0] Good morning.
+[30:40.0 - 30:40.8] Getting closer and closer to that Alaskan air.
+[30:40.8 - 30:44.6] I know.
+[30:44.6 - 30:48.9] So jealous.
+[30:48.9 - 33:36.7] Hello.
+[33:36.7 - 33:38.0] Good morning.
+[33:38.0 - 33:43.0] Getting closer and closer to that Alaskan air.
+[33:43.0 - 33:45.6] I know.
+[33:45.6 - 33:46.3] So jealous.
+[54:45.1 - 54:46.5] I thought Mark was flying out today.
+[54:46.5 - 54:51.3] I was really upset when I found out that- What's that?
+[54:51.3 - 54:53.5] I said I thought that Mark was flying out today.
+[54:53.5 - 54:54.9] I was very upset when I found out.
+[54:54.9 - 54:56.7] Oh, you didn't-- Oh, we didn't tell you yesterday?
+[54:56.7 - 54:59.1] Well, just in my mind, I guess I thought it was already the day.
+[54:59.1 - 54:59.5] I don't know.
+[54:59.5 - 55:03.8] No, well, he had to change his ticket yesterday.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-09-04-26_transcription_20260705_194520.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-09-04-26_transcription_20260705_194520.txt
+[2J[H[3Jmanus-speech-to-text "mp3/ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-09-04-26.mp3"
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-09-04-26.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: mp3/.ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-09-04-26_chunks_20260705_194407/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: mp3/.ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-09-04-26_chunks_20260705_194407/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: mp3/.ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-09-04-26_chunks_20260705_194407/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: mp3/.ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-09-04-26_chunks_20260705_194407/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: mp3/.ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-09-04-26_chunks_20260705_194407/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[28:31.8 - 28:32.9] Yeah, that'd be great.
+[28:32.9 - 28:34.0] That's, that's what I'm here for.
+[28:34.0 - 28:35.5] But I appreciate it.
+[28:35.5 - 28:35.8] Yeah.
+[28:35.8 - 28:37.4] I will send you both of those things.
+[28:37.4 - 28:38.0] Thank you so much.
+[28:38.0 - 28:38.6] Of course.
+[28:38.6 - 28:39.6] And I apologize, but- Okay.
+[28:39.6 - 28:42.2] And it'll be come from Brandon at Apartment Corp, so.
+[28:42.2 - 28:42.7] Thank you.
+[28:42.7 - 28:42.9] All right.
+[28:42.9 - 28:56.0] What
+[28:56.0 - 28:56.9] extension is he?
+[28:56.9 - 29:01.7] Well, Brandon, I was sitting and saying to the others that the phone there is 241.
+[29:01.7 - 29:02.3] Okay.
+[29:02.3 - 29:04.5] Um, so- To PMS Oh, okay ...
+[29:04.5 - 29:10.3] so that he'll be able to do the- Can you probably- It won't kill me if I have to go to the- ...
+[29:10.3 - 29:11.0] right after I set it up, so.
+[29:11.0 - 29:11.7] Oh, okay.
+[29:11.7 - 29:22.4] Um, do you look at it?
+[29:22.4 - 29:32.9] Um,
+[29:32.9 - 29:37.6] in order to be ordered, you gotta just like to reach out to the vendor.
+[29:37.6 - 29:37.6] Yeah.
+[29:37.6 - 29:40.7] We, we profit maybe like 100 a day.
+[29:40.7 - 29:49.3] But if, if, if they do that, if they're the only vendor that's out there, then they're not letting the profit get in or something.
+[29:49.3 - 29:56.1] And we, we need that because all of our, our tents, we have extra tents, water, tables, you know, everything.
+[29:56.1 - 29:58.7] Everything is based on what you are doing.
+[29:58.7 - 30:12.0] It's all based, like-
+[30:12.0 - 30:17.8] Yeah, it's not, it's not just like, "Oh, yeah, we can do your permit." Like, no, you have to have a license in order to do your permit.
+[30:17.8 - 30:22.0] You know, the license, they charge like thirty grand per, per license.
+[30:22.0 - 30:23.5] That's why I'm sure.
+[30:23.5 - 30:31.7] And like you say you do, you probably are, are capable, but to say you do mean you have a license, and if you're not even familiar with the name, then I don't know if you, you actually do.
+[30:31.7 - 30:36.8] Just shoot me an email, robert@apartmentsgroup.com.
+[30:36.8 - 30:39.3] Sorry about- That Robert, you know.
+[30:39.3 - 30:39.6] No problem.
+[30:39.6 - 30:40.0] Good morning.
+[30:40.0 - 30:40.8] Getting closer and closer to that Alaskan air.
+[30:40.8 - 30:44.6] I know.
+[30:44.6 - 30:48.9] So jealous.
+[30:48.9 - 33:36.7] Hello.
+[33:36.7 - 33:38.0] Good morning.
+[33:38.0 - 33:43.0] Getting closer and closer to that Alaskan air.
+[33:43.0 - 33:45.6] I know.
+[33:45.6 - 33:46.3] So jealous.
+[54:45.1 - 54:46.5] I thought Mark was flying out today.
+[54:46.5 - 54:51.3] I was really upset when I found out that- What's that?
+[54:51.3 - 54:53.5] I said I thought that Mark was flying out today.
+[54:53.5 - 54:54.9] I was very upset when I found out.
+[54:54.9 - 54:56.7] Oh, you didn't-- Oh, we didn't tell you yesterday?
+[54:56.7 - 54:59.1] Well, just in my mind, I guess I thought it was already the day.
+[54:59.1 - 54:59.5] I don't know.
+[54:59.5 - 55:03.8] No, well, he had to change his ticket yesterday.
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-09-04-26_transcription_20260705_194520.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Wednesday - Bob Bell Visit_V2026-07-01-09-04-26_transcription_20260705_194520.txt

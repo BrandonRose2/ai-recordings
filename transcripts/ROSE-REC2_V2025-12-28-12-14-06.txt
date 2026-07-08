@@ -1,0 +1,374 @@
+Starting Speech-to-Text conversion...
+Audio file size (6.4MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 6.37 MB, duration: 1114.1 seconds
+Splitting into 2 chunks (each ~557.0 seconds, max 5 MB)...
+Successfully split into 2 chunks
+Audio file split into 2 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2025-12-28-12-14-06.mp3, file size: 6.37 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 2 chunks...
+
+Transcribing chunk 1/2: .ROSE-REC2_V2025-12-28-12-14-06_chunks_20260706_154314/chunk_000.mp3
+Chunk 1 completed (duration: 557.0s)
+
+Transcribing chunk 2/2: .ROSE-REC2_V2025-12-28-12-14-06_chunks_20260706_154314/chunk_001.mp3
+Chunk 2 completed (duration: 556.8s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 1113.7 seconds
+Language: eng
+Total Chunks: 2
+Timestamped segments:
+[02:26.1 - 02:26.5] What up?
+[02:26.5 - 02:29.5] What's good?
+[02:29.5 - 02:30.8] How are y'all?
+[02:30.8 - 02:31.5] What up, man?
+[02:31.5 - 02:35.6] Top of the morning.
+[02:35.6 - 02:35.6] Good, you?
+[02:35.6 - 02:37.1] Yeah.
+[02:37.1 - 02:38.7] Yeah.
+[02:38.7 - 02:40.2] Or worse, actually.
+[02:40.2 - 02:41.3] Yeah.
+[02:41.3 - 02:44.7] Especially whenever, uh, both out of town.
+[02:44.7 - 02:45.3] Amen.
+[02:45.3 - 02:48.8] Just amen.
+[02:48.8 - 02:53.7] I mean, I don't know if you've seen a blow up yet, so you probably be pretty chill.
+[02:53.7 - 02:55.4] Yeah, he hasn't seen a blow up yet.
+[02:55.4 - 02:58.2] You should've seen him yell at me yesterday.
+[02:58.2 - 02:58.2] Oh.
+[02:58.2 - 02:58.4] Man.
+[02:58.4 - 03:00.4] It's the worst I've ever seen him yell at me.
+[03:00.4 - 03:00.7] Dang.
+[03:00.7 - 03:04.8] Uh, from where he is right before lunch, so almost two miles out.
+[03:04.8 - 03:07.1] And I was driving whenever we came in.
+[03:07.1 - 03:09.9] He, he yelled at me the day before yesterday.
+[03:09.9 - 03:15.0] And then yesterday, I was out with Derek, and then Beth was there.
+[03:15.0 - 03:15.4] Dang.
+[03:15.4 - 03:18.5] Yeah, yeah.
+[03:18.5 - 03:22.2] He was trying to-- It was right at like eleven fifteen or something.
+[03:22.2 - 03:25.3] Ethan was trying to put the soccer game, he game in.
+[03:25.3 - 03:32.2] And, um, he says, "What are you, what are you doing an evening trip?" I'm like, "I'm about to go to work." And he wasn't mad about that.
+[03:32.2 - 03:35.1] But then, you know, he got into a tussle with Nicole.
+[03:35.1 - 03:36.0] Oh, yeah.
+[03:36.0 - 03:46.5] And then when I heard him, he was like, "You need to reset." And then we came up, he said, "You're not, so we're not gonna talk to her anymore." Then he said, "Oh, Scott makes a different day for him." I was like, "Oh,
+[03:46.5 - 03:49.4] oh, okay, I'm sorry.
+[03:49.4 - 03:50.4] I'm just having a hard day." Yeah.
+[03:50.4 - 03:51.9] And then we went out.
+[03:51.9 - 04:00.6] I think Ben is like, "Oh, yeah." But when?
+[04:00.6 - 04:04.9] Oh, I didn't know if I'd teach her AI, but I just have a program on AI.
+[04:04.9 - 04:11.9] So just like push a button, and then afterwards, she'll get rid of horseback riding this weekend.
+[04:11.9 - 04:12.7] Yeah.
+[04:12.7 - 04:14.3] I like that area.
+[04:14.3 - 04:15.4] Yes.
+[04:15.4 - 04:17.2] Did you ever get to meet this new kitten?
+[04:17.2 - 04:18.7] Oh, I've seen her actually.
+[04:18.7 - 04:19.1] Yeah.
+[04:19.1 - 04:19.1] Yeah.
+[04:19.1 - 04:24.0] She went like- She walked around.
+[04:24.0 - 04:24.8] She went in like four minutes.
+[04:24.8 - 04:24.8] She went in the foyer, right?
+[04:24.8 - 04:25.6] Yeah, she's, she's smart.
+[04:25.6 - 04:26.2] Oh, man.
+[04:26.2 - 04:27.2] She's very smart.
+[04:27.2 - 04:29.3] Of course, she's a great student.
+[04:29.3 - 04:29.6] Oh, yeah.
+[04:29.6 - 04:29.8] You should see her.
+[04:29.8 - 04:29.8] Oh, my God.
+[04:29.8 - 04:33.8] There's a can over there.
+[04:33.8 - 04:38.9] There's two pieces of black panada, and I want to show him the twelve-inch pieces that are like- No, it's four pieces.
+[04:38.9 - 04:40.1] Basically top ten hardest pieces.
+[04:40.1 - 04:43.1] She would have been great at college, too.
+[04:43.1 - 04:44.2] Oh, way.
+[04:44.2 - 04:45.0] Yeah.
+[04:45.0 - 04:45.7] When?
+[04:45.7 - 04:47.1] She was there in, uh...
+[04:47.1 - 04:49.8] She had a problem with the doors and feeders.
+[04:49.8 - 04:51.0] She ran out the door.
+[04:51.0 - 04:51.9] Oh, she did?
+[04:51.9 - 05:00.3] So she, she was like-- So I was in the, I was in the, um, I was in the truck ready, and then I was waiting for her outside because I was holding the door open for her.
+[05:00.3 - 05:04.3] And then, uh, Gary was in his garage.
+[05:04.3 - 05:09.2] And he came on the shade, and then he like closed her in the shade while I was outside.
+[05:09.2 - 05:09.4] Oh, yeah.
+[05:09.4 - 05:10.6] And I was like, "Cool." And then she went all the way up the road.
+[05:10.6 - 05:11.9] So sweet.
+[05:11.9 - 05:12.0] Yeah.
+[05:12.0 - 05:13.1] That's a nice girl.
+[05:13.1 - 05:15.8] She drove it off at nothing, too.
+[05:15.8 - 05:18.0] Well, I gotta get her, get her other options.
+[05:18.0 - 05:19.4] But yeah.
+[05:19.4 - 05:21.7] Is she gonna run track and be a team girl?
+[05:21.7 - 05:22.4] Oh, yeah.
+[05:22.4 - 05:25.4] I'm gonna teach her all sorts of shit today.
+[05:25.4 - 05:27.3] She'll like start to like it.
+[05:27.3 - 05:27.8] Yeah.
+[05:27.8 - 05:29.5] I'm trying to make it interesting for her.
+[05:29.5 - 05:38.2] I mean, like her learning portal has like, uh, horseback riding preferences and piano and, uh, swimming.
+[05:38.2 - 05:42.2] So she's learning something, like teach her baseball if you want.
+[05:42.2 - 05:42.5] Yeah.
+[05:42.5 - 05:44.0] But she can go out and run the mouse.
+[05:44.0 - 05:44.2] Yeah.
+[05:44.2 - 05:47.1] You guys heard of that?
+[05:47.1 - 05:48.5] Yeah.
+[05:48.5 - 05:50.6] You can't interpret that.
+[05:50.6 - 05:55.2] I guess she's like always using the trackpad on her laptop, which is fine.
+[05:55.2 - 05:57.8] Because it's crazy to just, you know, put a new phone today.
+[05:57.8 - 05:58.2] Yeah.
+[05:58.2 - 06:40.7] What
+[06:40.7 - 07:01.1] part
+[07:01.1 - 07:02.7] of town do you come from when you come to work?
+[07:02.7 - 07:06.4] Right down the street.
+[07:06.4 - 07:06.6] Oh, okay.
+[07:06.6 - 07:09.5] The new house on the, uh, back end in the woodland.
+[07:09.5 - 07:10.0] Oh, okay.
+[07:10.0 - 07:11.4] Yeah, close to me.
+[07:11.4 - 07:13.7] I'm on Chester and Maria over- Oh, okay.
+[07:13.7 - 07:14.8] By the Williams's.
+[07:14.8 - 07:15.1] Yeah.
+[07:15.1 - 07:16.3] Down there a block over.
+[07:16.3 - 07:17.1] Oh, yeah.
+[07:17.1 - 07:20.9] Yeah, right off the freeway, right there on that end.
+[07:20.9 - 07:21.6] Oh, okay.
+[07:21.6 - 07:27.7] Which one?
+[07:27.7 - 07:32.5] Right there on the south side of the one oh one.
+[07:32.5 - 07:34.6] Oh, got it.
+[07:34.6 - 07:35.3] I was like...
+[07:35.3 - 07:37.2] I don't remember the name of the alley.
+[07:37.2 - 07:39.3] Uh, no, it's one oh one.
+[07:39.3 - 07:39.4] Okay.
+[07:39.4 - 07:41.8] So, and other than that, uh...
+[07:41.8 - 07:49.2] Oh, I meant to tell you, with that car, I have a membership for it at Ocean Car Wash on Bay Knight.
+[07:49.2 - 07:49.2] Yeah.
+[07:49.2 - 07:50.7] So it has a barcode on the window.
+[07:50.7 - 07:53.7] You just pull up, and you don't even have to roll the window down.
+[07:53.7 - 07:54.0] Mm-hmm.
+[07:54.0 - 07:54.6] It's fast.
+[07:54.6 - 07:56.6] That's called Ocean Car Wash.
+[07:56.6 - 08:02.0] That across from the, uh, there's a tire guy.
+[08:02.0 - 08:02.3] There's a tire place right there.
+[08:02.3 - 08:05.2] Yeah, yeah, that's my- Yes.
+[08:05.2 - 08:05.6] Ocean Car Wash.
+[08:05.6 - 08:05.9] Yeah.
+[08:05.9 - 08:06.6] It's down the road.
+[08:06.6 - 08:08.7] Yeah, that's my go-to place.
+[08:08.7 - 08:10.3] Okay, so yeah.
+[08:10.3 - 08:12.2] And he likes it, and so yeah.
+[08:12.2 - 08:14.7] And you can go a lot more places now.
+[08:14.7 - 08:23.3] Yeah .
+[08:23.3 - 08:24.7] Hey, does he bite?
+[08:24.7 - 08:24.7] That thing bites.
+[08:24.7 - 08:24.7] Yeah, he's old.
+[08:24.7 - 08:24.7] He doesn't...
+[08:24.7 - 08:24.7] I don't ask him to do stuff.
+[08:24.7 - 08:24.7] Yeah.
+[08:24.7 - 08:25.3] He would not be into it.
+[08:25.3 - 08:27.9] Old people, you know, my boss learned not to mess with them a lot.
+[08:27.9 - 08:36.5] Married?
+[08:36.5 - 08:37.4] Have kids?
+[08:37.4 - 08:37.8] You don't?
+[08:37.8 - 08:38.2] No.
+[08:38.2 - 08:39.6] No kids.
+[08:39.6 - 08:42.0] Girlfriend?
+[08:42.0 - 08:46.4] No significant?
+[08:46.4 - 08:46.8] No.
+[08:46.8 - 08:47.9] No, I never had kids.
+[08:47.9 - 08:51.6] Me neither.
+[08:51.6 - 08:55.5] My twin brother, he has a, he has a, he has a fifteen-year-old boy.
+[08:55.5 - 08:55.7] Yeah.
+[08:55.7 - 08:57.2] And that's good enough for me.
+[08:57.2 - 09:02.3] Yeah, I have two nieces and one nephew at home right now.
+[09:02.3 - 09:03.2] Cool for a dog.
+[09:03.2 - 09:04.6] Yeah.
+[09:04.6 - 09:06.3] Definitely.
+[09:06.3 - 09:07.5] Go home and see them.
+[09:07.5 - 09:09.5] Where are you from?
+[09:09.5 - 09:10.7] Small town Texas.
+[09:10.7 - 09:11.8] Lubbock, Texas.
+[09:11.8 - 09:15.6] Is it- Well, even a smaller city, though, than Texas.
+[09:15.6 - 09:16.3] That's where you grew up?
+[09:16.3 - 09:16.8] Yeah.
+[09:17.0 - 09:19.4] I'll be down here around 30.
+[09:19.4 - 09:22.4] After hearing that COVID hit.
+[09:22.4 - 09:25.7] Yeah, COVID was a good time to be out.
+[09:25.7 - 09:25.7] Yeah.
+[09:25.7 - 09:25.7] I didn't mind it.
+[09:25.7 - 09:27.9] It sounded like you did.
+[09:27.9 - 09:28.2] So it was like...
+[09:28.2 - 09:35.2] When I was in the relationship, like, they all came by the business all the time because I was doing tech work.
+[09:35.2 - 09:37.8] You can only do so much wine fucking.
+[09:37.8 - 09:37.8] Yeah.
+[09:37.8 - 09:42.2] We're totally done with that this week.
+[09:42.2 - 09:46.6] Well, I thought he beat the charge there in the end.
+[09:46.6 - 09:51.6] He told somebody on the phone the other day that he was...
+[09:51.6 - 09:54.3] He showered and had like- He had to.
+[09:54.3 - 10:00.8] I went through...
+[10:00.8 - 10:04.3] I get there, he's like, "See you tomorrow." I was like, "Nevermind." I was in the car.
+[10:04.3 - 10:04.9] No?
+[10:04.9 - 10:15.9] I was like, "I'll take care of it." I was like, "I don't know." He's like, "I'll take care of it." I was like, "I don't know." I was like, "I'll take care of it." I was like, "I don't know." I was like, "I'll take care of it." I was like, "I don't know." I was like, "I'll take care of it." I was like, "I don't know."
+[10:15.9 - 10:23.2] I'm really trying to sell that software.
+[10:23.2 - 10:23.8] What?
+[10:23.8 - 10:28.9] I'm really trying to sell that software.
+[10:28.9 - 10:30.5] I had a meeting with a guy in the living room.
+[10:30.5 - 10:39.5] He goes in and the guy on me starts walking me downstairs and, uh, getting off his little face and I get a hefty salary.
+[10:39.5 - 10:42.7] Why don't you fix the software first?
+[10:42.7 - 10:46.4] Or here.
+[10:46.4 - 10:53.4] You're gonna die alone.
+[10:53.4 - 10:59.6] Possibly gonna die alone.
+[10:59.6 - 10:59.9] How long?
+[10:59.9 - 11:02.8] Two years and a year after the end of the fucking world.
+[11:02.8 - 11:05.6] Yeah, I've heard terrible things.
+[11:05.6 - 11:08.1] You know, you know.
+[11:08.1 - 11:13.0] Trying to pull the trick shit.
+[11:13.0 - 11:17.4] And it made the, the delivery.
+[11:17.4 - 11:27.5] For our first dinner, my like, drive back from the airport coming home, and they're like sitting out front like table watching shit out of this massive almost like cold game thing.
+[11:27.5 - 11:35.0] They're like, "Oh, I wanna be with that one." I said, "Keep that bag of, out of the bag." I said, "I got a million dollars worth of jewelry in it." "Drop with that on the floor.
+[11:35.0 - 11:35.7] Take off your shoes.
+[11:35.7 - 11:41.6] Go scratch the floor with that." And of course, they're like, "Are you high?" It's just like...
+[11:41.6 - 11:42.2] They do that.
+[11:42.2 - 12:05.9] Every day for like a pattern I started
+[12:05.9 - 12:24.7] getting into.
+[12:24.7 - 12:36.2] And then after eight months
+[12:36.2 - 12:47.9] or so, it
+[12:47.9 - 13:12.2] didn't
+[13:12.2 - 13:30.2] ask me
+[13:30.2 - 15:02.6] anything
+[15:02.6 - 15:06.3] that I had.
+[15:06.3 - 15:11.3] It was just me interacting with the guy every day and he would like, make sure I was comfortable.
+[15:11.3 - 15:12.7] So he would come over and he would run American Express and I would just bring some money.
+[15:12.7 - 15:15.3] She walked out, she was like, "I hate this alley." I was like, "Fuck that guy." Yeah.
+[15:15.3 - 15:16.6] Oh, walk off and never look back.
+[15:16.6 - 15:17.1] Yeah, she finally just said, she, she said the same thing too was like, "Dude, I hate this bar." Yeah.
+[15:17.1 - 15:17.1] Like, "I hate this bar." She said you're doing nails.
+[15:17.1 - 15:17.1] I know.
+[15:17.1 - 15:17.1] Do what?
+[15:17.1 - 15:17.1] I even see it as like, how are you gonna get there?
+[15:17.1 - 15:17.1] You know what I mean?
+[15:17.1 - 15:17.1] Like, I mean, you wanna go upstairs?
+[15:17.1 - 15:17.1] Sure.
+[15:17.1 - 15:17.1] But like, just like the last part about the contest.
+[15:17.1 - 15:17.1] Luciana, believe Luciana, you're gonna between nine and eight.
+[15:17.1 - 15:17.1] Oh, yeah?
+[15:17.1 - 15:17.1] That's lucky.
+[15:17.1 - 15:17.1] Luciana's love-- Luciana's sweet.
+[15:17.1 - 15:17.1] She, she's a, she's a sweetheart.
+[15:17.1 - 15:17.1] Yeah, I've heard multiple conversations.
+[15:17.1 - 15:17.1] She is, you know, she's very cute.
+[15:17.1 - 15:17.1] She's sweet.
+[15:17.1 - 15:17.1] She just is delusional.
+[15:17.1 - 15:17.1] Oh.
+[15:17.1 - 15:17.1] She's super delusional.
+[15:17.1 - 15:17.1] Oh.
+[15:17.1 - 15:17.1] And she even got bad lines.
+[15:17.1 - 15:17.1] She's a really good liar.
+[15:17.1 - 15:17.1] I don't know how you look somebody fucking.
+[15:17.1 - 15:17.1] You know Luciana, you should work for a year.
+[15:17.1 - 15:17.1] She has the same story all the time.
+[15:17.1 - 15:17.1] I'm just curious about that.
+[15:17.1 - 15:17.1] Yeah, I'll say that much.
+[15:17.1 - 15:17.1] And I think for you to say it, it has to be more fucking fabulous.
+[15:17.1 - 15:17.1] That's what she said?
+[15:17.1 - 15:17.1] Uh, word is, uh, that that's what she said.
+[15:17.1 - 15:17.1] Is this another week long day?
+[15:17.1 - 15:17.1] Yeah.
+[15:17.1 - 15:17.1] Should we make it this also?
+[15:17.1 - 15:17.1] Or- Yeah, I thought I'd say...
+[15:17.1 - 15:17.1] Yeah, I'm just gonna take the day off today.
+[15:17.1 - 15:17.1] That's cool.
+[15:17.1 - 15:17.1] Take my day off.
+[15:17.1 - 15:17.1] That's...
+[15:17.1 - 15:17.1] Vertical?
+[15:17.1 - 15:17.1] Yeah.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-28-12-14-06_transcription_20260706_154414.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-28-12-14-06_transcription_20260706_154414.txt
+[2J[H[3Jmanus-speech-to-text ROSE-REC2_V2025-12-28-12-14-06.mp3
+Starting Speech-to-Text conversion...
+Audio file size (6.4MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 6.37 MB, duration: 1114.1 seconds
+Splitting into 2 chunks (each ~557.0 seconds, max 5 MB)...
+Successfully split into 2 chunks
+Audio file split into 2 chunks for batch processing
+Transcribing audio file: ROSE-REC2_V2025-12-28-12-14-06.mp3, file size: 6.37 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 2 chunks...
+Transcribing chunk 1/2: .ROSE-REC2_V2025-12-28-12-14-06_chunks_20260706_154314/chunk_000.mp3
+Chunk 1 completed (duration: 557.0s)
+Transcribing chunk 2/2: .ROSE-REC2_V2025-12-28-12-14-06_chunks_20260706_154314/chunk_001.mp3
+Chunk 2 completed (duration: 556.8s)
+
+Snippet of transcribed content:
+[10:42.7 - 10:46.4] Or here.
+[10:46.4 - 10:53.4] You're gonna die alone.
+[10:53.4 - 10:59.6] Possibly gonna die alone.
+[10:59.6 - 10:59.9] How long?
+[10:59.9 - 11:02.8] Two years and a year after the end of the fucking world.
+[11:02.8 - 11:05.6] Yeah, I've heard terrible things.
+[11:05.6 - 11:08.1] You know, you know.
+[11:08.1 - 11:13.0] Trying to pull the trick shit.
+[11:13.0 - 11:17.4] And it made the, the delivery.
+[11:17.4 - 11:27.5] For our first dinner, my like, drive back from the airport coming home, and they're like sitting out front like table watching shit out of this massive almost like cold game thing.
+[11:27.5 - 11:35.0] They're like, "Oh, I wanna be with that one." I said, "Keep that bag of, out of the bag." I said, "I got a million dollars worth of jewelry in it." "Drop with that on the floor.
+[11:35.0 - 11:35.7] Take off your shoes.
+[11:35.7 - 11:41.6] Go scratch the floor with that." And of course, they're like, "Are you high?" It's just like...
+[11:41.6 - 11:42.2] They do that.
+[11:42.2 - 12:05.9] Every day for like a pattern I started
+[12:05.9 - 12:24.7] getting into.
+[12:24.7 - 12:36.2] And then after eight months
+[12:36.2 - 12:47.9] or so, it
+[12:47.9 - 13:12.2] didn't
+[13:12.2 - 13:30.2] ask me
+[13:30.2 - 15:02.6] anything
+[15:02.6 - 15:06.3] that I had.
+[15:06.3 - 15:11.3] It was just me interacting with the guy every day and he would like, make sure I was comfortable.
+[15:11.3 - 15:12.7] So he would come over and he would run American Express and I would just bring some money.
+[15:12.7 - 15:15.3] She walked out, she was like, "I hate this alley." I was like, "Fuck that guy." Yeah.
+[15:15.3 - 15:16.6] Oh, walk off and never look back.
+[15:16.6 - 15:17.1] Yeah, she finally just said, she, she said the same thing too was like, "Dude, I hate this bar." Yeah.
+[15:17.1 - 15:17.1] Like, "I hate this bar." She said you're doing nails.
+[15:17.1 - 15:17.1] I know.
+[15:17.1 - 15:17.1] Do what?
+[15:17.1 - 15:17.1] I even see it as like, how are you gonna get there?
+[15:17.1 - 15:17.1] You know what I mean?
+[15:17.1 - 15:17.1] Like, I mean, you wanna go upstairs?
+[15:17.1 - 15:17.1] Sure.
+[15:17.1 - 15:17.1] But like, just like the last part about the contest.
+[15:17.1 - 15:17.1] Luciana, believe Luciana, you're gonna between nine and eight.
+[15:17.1 - 15:17.1] Oh, yeah?
+[15:17.1 - 15:17.1] That's lucky.
+[15:17.1 - 15:17.1] Luciana's love-- Luciana's sweet.
+[15:17.1 - 15:17.1] She, she's a, she's a sweetheart.
+[15:17.1 - 15:17.1] Yeah, I've heard multiple conversations.
+[15:17.1 - 15:17.1] She is, you know, she's very cute.
+[15:17.1 - 15:17.1] She's sweet.
+[15:17.1 - 15:17.1] She just is delusional.
+[15:17.1 - 15:17.1] Oh.
+[15:17.1 - 15:17.1] She's super delusional.
+[15:17.1 - 15:17.1] Oh.
+[15:17.1 - 15:17.1] And she even got bad lines.
+[15:17.1 - 15:17.1] She's a really good liar.
+[15:17.1 - 15:17.1] I don't know how you look somebody fucking.
+[15:17.1 - 15:17.1] You know Luciana, you should work for a year.
+[15:17.1 - 15:17.1] She has the same story all the time.
+[15:17.1 - 15:17.1] I'm just curious about that.
+[15:17.1 - 15:17.1] Yeah, I'll say that much.
+[15:17.1 - 15:17.1] And I think for you to say it, it has to be more fucking fabulous.
+[15:17.1 - 15:17.1] That's what she said?
+[15:17.1 - 15:17.1] Uh, word is, uh, that that's what she said.
+[15:17.1 - 15:17.1] Is this another week long day?
+[15:17.1 - 15:17.1] Yeah.
+[15:17.1 - 15:17.1] Should we make it this also?
+[15:17.1 - 15:17.1] Or- Yeah, I thought I'd say...
+[15:17.1 - 15:17.1] Yeah, I'm just gonna take the day off today.
+[15:17.1 - 15:17.1] That's cool.
+[15:17.1 - 15:17.1] Take my day off.
+[15:17.1 - 15:17.1] That's...
+[15:17.1 - 15:17.1] Vertical?
+[15:17.1 - 15:17.1] Yeah.
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-28-12-14-06_transcription_20260706_154414.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-28-12-14-06_transcription_20260706_154414.txt

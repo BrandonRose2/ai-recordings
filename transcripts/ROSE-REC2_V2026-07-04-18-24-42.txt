@@ -1,0 +1,510 @@
+Starting Speech-to-Text conversion...
+Audio file size (11.7MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 11.66 MB, duration: 2037.9 seconds
+Splitting into 3 chunks (each ~679.3 seconds, max 5 MB)...
+Successfully split into 3 chunks
+Audio file split into 3 chunks for batch processing
+Transcribing audio file: downloads/ROSE-REC2_V2026-07-04-18-24-42.mp3, file size: 11.66 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 3 chunks...
+
+Transcribing chunk 1/3: downloads/.ROSE-REC2_V2026-07-04-18-24-42_chunks_20260706_195750/chunk_000.mp3
+Chunk 1 completed (duration: 679.3s)
+
+Transcribing chunk 2/3: downloads/.ROSE-REC2_V2026-07-04-18-24-42_chunks_20260706_195750/chunk_001.mp3
+Chunk 2 completed (duration: 679.3s)
+
+Transcribing chunk 3/3: downloads/.ROSE-REC2_V2026-07-04-18-24-42_chunks_20260706_195750/chunk_002.mp3
+Chunk 3 completed (duration: 679.0s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 2037.5 seconds
+Language: eng
+Total Chunks: 3
+Timestamped segments:
+[00:00.6 - 00:01.3] Huh?
+[00:01.3 - 01:04.5] Someone
+[01:04.5 - 01:08.0] called me dingy.
+[01:08.0 - 01:09.1] Dingy?
+[01:09.1 - 01:09.9] Dingy?
+[01:09.9 - 01:13.4] He was like, and you're looking down at your phone all like...
+[01:13.4 - 01:15.2] It's yeah, 'cause you're not hot.
+[01:15.2 - 01:17.7] No, he was calling me not hot.
+[01:17.7 - 01:20.3] Oh, really?
+[01:20.3 - 01:22.4] Is it 'cause you weren't giving him any love?
+[01:22.4 - 01:23.3] Literally.
+[01:23.3 - 01:26.8] That happens a lot, especially in this establishment.
+[01:26.8 - 01:27.9] Except he was right.
+[01:27.9 - 01:30.2] You know?
+[01:30.2 - 01:31.5] I did look wrecked.
+[01:31.5 - 01:34.5] It's like, yeah, you should've told me you got slammed last night.
+[01:34.5 - 01:35.5] I was up all night getting fucked.
+[01:35.5 - 01:36.2] Mm.
+[01:36.2 - 01:37.9] You didn't wanna disclose that?
+[01:37.9 - 01:38.5] No.
+[01:38.5 - 01:41.5] I don't have to.
+[01:41.5 - 01:42.5] No, you don't.
+[01:42.5 - 01:44.1] But you disclosed it for me.
+[01:44.1 - 01:47.9] Here's some rose water for some refreshingness, since you just left the spa.
+[01:47.9 - 01:51.7] Hardly a spa.
+[01:51.7 - 01:57.9] I'm going to the wrong places, 'cause like none of- You need to go to Century.
+[01:57.9 - 01:59.6] I hear that's good ...
+[01:59.6 - 02:02.8] none, none of the people I talked to today is like...
+[02:02.8 - 02:06.6] What?
+[02:06.6 - 02:10.6] They were just thinking I was gonna be a fucking cum dump today.
+[02:10.6 - 02:12.6] Well- Oh my God ...
+[02:12.6 - 02:13.2] the mysteries.
+[02:13.2 - 02:23.2] You're about to be
+[02:23.2 - 02:23.9] a cum dump.
+[02:23.9 - 02:25.3] Oh my God.
+[02:25.3 - 02:25.3] What?
+[02:25.3 - 02:30.6] You're so eager.
+[02:30.6 - 02:30.9] Huh?
+[02:30.9 - 02:32.4] You're so eager.
+[02:32.4 - 02:33.4] I'm scared.
+[02:33.4 - 02:37.7] I'll take good care of you, buddy.
+[02:37.7 - 02:38.5] Oh, no.
+[02:38.5 - 02:39.1] I'm scared.
+[02:39.1 - 02:47.5] How's the girlfriend?
+[02:47.5 - 02:49.6] Oh.
+[02:49.6 - 02:53.6] Last time, uh, we spoke y'all were having a little trouble in paradise.
+[02:53.6 - 02:55.9] She's always trouble.
+[02:55.9 - 02:57.1] Nonstop trouble.
+[02:57.1 - 02:58.5] She's Armenian.
+[02:58.5 - 03:01.3] She sounds like a pain in the ass.
+[03:01.3 - 03:03.6] That's what she sounds like.
+[03:03.6 - 03:06.3] She's a manager.
+[03:06.3 - 03:06.7] She's Armenian.
+[03:06.7 - 03:10.7] Nice aromatherapy blend.
+[03:10.7 - 03:13.5] So you've been smoking.
+[03:13.5 - 03:14.2] Huh?
+[03:14.2 - 03:15.7] You've been smoking.
+[03:15.7 - 03:17.3] Every day, all day.
+[03:17.3 - 03:18.0] Oh my God.
+[03:18.0 - 03:18.6] I love it.
+[03:18.6 - 03:26.1] Would you like some THC?
+[03:26.1 - 03:27.0] It'll make you feel better.
+[03:27.0 - 03:30.4] Is that the- Huh?
+[03:30.4 - 03:31.5] Is that the crack?
+[03:31.5 - 03:34.0] That's the, the thing.
+[03:34.0 - 03:38.3] I literally smoked two puffs of it before.
+[03:38.3 - 03:40.8] And it helped put this in my butt while I was stropping.
+[03:40.8 - 03:44.2] Dude, it feels fabulous.
+[03:44.2 - 03:48.1] There you go.
+[03:48.1 - 03:50.7] I was supposed to go meet that guy at the park, but- You did?
+[03:50.7 - 03:50.7] ...
+[03:50.7 - 03:52.8] he took like eight minutes to respond.
+[03:52.8 - 03:55.6] I was like, "Eh, I'm gonna go." That's good.
+[03:55.6 - 03:56.7] You know, I'm all irritable.
+[03:56.7 - 04:01.0] He wasn't cute enough to give that many fucks.
+[04:01.0 - 04:03.3] Oh, really?
+[04:03.3 - 04:07.2] He had just gotten home and shaved his hole for me though, which I thought was quite- Really?
+[04:07.2 - 04:07.2] ...
+[04:07.2 - 04:07.8] thoughtful.
+[04:07.8 - 04:10.9] That's very thoughtful.
+[04:10.9 - 04:12.9] Oh my God.
+[04:12.9 - 04:14.3] We're about to go make some fireworks.
+[04:14.3 - 04:14.9] No.
+[04:14.9 - 04:16.9] You need that shaved hole.
+[04:16.9 - 04:21.4] God, I hate that.
+[04:21.4 - 04:22.2] What?
+[04:22.2 - 04:23.5] Let's go do that.
+[04:23.5 - 04:24.1] What?
+[04:24.1 - 04:25.3] That shaved hole.
+[04:25.3 - 04:26.0] You wanna do it?
+[04:26.0 - 04:27.3] You do it.
+[04:27.3 - 04:28.5] Again.
+[04:28.5 - 04:31.7] I don't, I just, I didn't even like see if he responded on Snaps.
+[04:31.7 - 04:33.5] Does he PM here?
+[04:33.5 - 04:33.8] Huh?
+[04:33.8 - 04:35.5] Does he PM here?
+[04:35.5 - 04:36.4] I don't give a fuck.
+[04:36.4 - 04:38.5] I don't ask people to send dick pics.
+[04:38.5 - 04:40.3] Do you PM mine?
+[04:40.3 - 04:41.5] Huh?
+[04:41.5 - 04:41.6] That's hot.
+[04:41.6 - 04:41.6] You're gonna get him hard.
+[04:41.6 - 04:43.5] You know, that's why it's called Get Burned.
+[04:43.5 - 04:51.3] You know what?
+[04:51.3 - 04:53.0] I learned a piano song yesterday.
+[04:53.0 - 04:58.8] And I was listening to my liked songs, and there's like a featured really good piece.
+[04:58.8 - 04:59.7] Hold on.
+[04:59.7 - 05:01.6] It's not gonna make sense till I just play it.
+[05:01.6 - 05:06.7] No, I'm not gonna make you listen to a piano song right now.
+[05:06.7 - 05:08.1] I want to.
+[05:08.1 - 05:09.8] Why not?
+[05:09.8 - 05:10.6] What was it?
+[05:10.6 - 05:14.9] Fuck.
+[05:14.9 - 05:16.1] What was it called?
+[05:16.1 - 05:20.8] Oh, it was called Idea 22?
+[05:20.8 - 05:23.0] Idea 12?
+[05:23.0 - 05:25.7] There's so many.
+[05:25.7 - 05:29.6] It's maybe...
+[05:29.6 - 05:34.9] I love this song.
+[05:34.9 - 05:35.8] You know this one?
+[05:35.8 - 05:40.2] It's, it's not this one, but it's, it's one like it.
+[05:40.2 - 05:45.9] I think it's Idea 10, actually.
+[05:45.9 - 05:48.6] Let me see.
+[05:48.6 - 05:49.6] Yeah, nope.
+[05:49.6 - 05:54.6] This isn't it.
+[05:54.6 - 05:55.1] 15?
+[05:55.1 - 05:58.8] No.
+[05:58.8 - 05:59.8] 25?
+[05:59.8 - 06:02.2] Uh, could he name them something else?
+[06:02.2 - 06:13.6] Wait, buddy I dreamed that you're getting married.
+[06:13.6 - 06:14.9] Miritable.
+[06:14.9 - 06:17.8] I'm gonna keep-- My mom's like, "You have road rage." Like, I am a drug addict.
+[06:17.8 - 06:18.6] Ooh.
+[06:18.6 - 06:21.8] Oh, that explains so much.
+[06:21.8 - 06:22.7] What?
+[06:22.7 - 06:26.5] My road rage.
+[06:26.5 - 06:30.0] I mean, I've always had it, even like as a sober gent.
+[06:30.0 - 06:40.2] This is not the song
+[06:40.2 - 06:40.2] I want.
+[06:40.2 - 06:44.6] I wish we could go like on past songs.
+[06:44.6 - 06:45.5] Can you do that?
+[06:45.5 - 06:46.3] It's fun time.
+[06:46.3 - 06:51.1] Mm-hmm.
+[06:51.1 - 06:59.6] Ah, here it is.
+[06:59.6 - 07:02.1] I like literally learned this piano song yesterday.
+[07:02.1 - 07:08.1] Look at those eyes so brown.
+[07:08.1 - 07:17.5] Walking down this old road love, I know it's you, it's you.
+[07:17.5 - 07:28.0] People come and go, but I won't let you go and try to make
+[07:28.0 - 07:28.7] you see.
+[07:28.7 - 07:36.8] Don't you think I know the kind of damage you are to me?
+[07:36.8 - 07:57.9] Out of the skies forever.
+[07:57.9 - 07:58.8] Oh.
+[07:58.8 - 08:03.3] And I'm walking in a dream.
+[08:03.3 - 08:14.5] Take control of my chains and
+[08:14.5 - 08:18.2] set me free.
+[08:18.2 - 08:24.1] I would only fall in love with you if I could.
+[08:24.1 - 08:28.1] Is the amazing how boring my taste for all the great songs is?
+[08:28.1 - 08:28.1] What an awful idea.
+[08:28.1 - 08:29.4] Place you on me.
+[08:29.4 - 08:31.3] People come and go, but I won't let you go and try to make you see.
+[08:31.3 - 08:32.4] Don't you think I know the kind of damage you are to me?
+[08:32.4 - 08:38.4] Straight up still there.
+[08:38.4 - 08:53.1] Charlotte?
+[08:53.1 - 09:00.1] Charlotte?
+[09:00.1 - 09:05.4] Charlotte, hi.
+[09:05.4 - 09:08.3] What a picture to ask for.
+[09:08.3 - 09:10.9] Are you in trouble?
+[09:10.9 - 09:19.8] You're taking your life into your own hands.
+[09:19.8 - 09:21.2] Oh, you're about to go make some fireworks.
+[09:21.2 - 09:26.5] Good job, Lance.
+[09:26.5 - 09:29.9] Yeah, trying to get out of it right now.
+[09:29.9 - 09:35.8] Well, once you get naked in my house, you're out of it.
+[09:35.8 - 09:36.1] Me?
+[09:36.1 - 09:38.1] Once you get naked in my house, you're out of the plans.
+[09:38.1 - 09:38.2] Oh.
+[09:38.2 - 09:44.6] You're pretty much out of them already.
+[09:44.6 - 09:45.6] On my way over there.
+[09:45.6 - 09:59.5] Yeah, I've been waiting
+[09:59.5 - 10:05.6] for this happening.
+[10:05.6 - 10:09.1] Oops.
+[10:09.1 - 10:14.1] In a field of excitement, you were dead and let it go.
+[10:14.1 - 10:24.2] Treat me like I had it, you were all I ever know.
+[10:24.2 - 10:31.4] But if I would have ever did for me, I would sing it again.
+[10:31.4 - 10:32.7] Oh, please let me play for you.
+[10:32.7 - 10:35.4] I had so many of you by the way.
+[10:35.4 - 10:40.5] 'Cause I'm trying to put it together.
+[10:40.5 - 10:44.6] But if I would have ever did for me, I would sing it again.
+[10:44.6 - 10:47.1] Oh, please let me play for you.
+[10:47.1 - 10:57.8] But if I would have ever did for me, I would sing, I would sing,
+[10:57.8 - 11:04.5] I would sing, I would sing.
+[11:04.5 - 11:07.5] You are in no fucking hurry today.
+[11:07.5 - 11:19.1] Well, traffic's
+[11:19.1 - 11:19.1] alive.
+[11:22.6 - 11:41.3] I'm in my Lola's, Lola's.
+[11:41.3 - 11:42.0] Driving Lola, Lola.
+[11:42.0 - 11:53.7] How to tell ya, how to tell ya.
+[11:53.7 - 11:57.1] I'm in my Lola's, Lola's.
+[11:57.1 - 11:57.1] Driving Lola, Lola.
+[11:57.1 - 12:00.4] How to tell ya, how to tell ya.
+[12:00.4 - 12:02.4] I forgot about that.
+[12:02.4 - 12:03.0] Hello.
+[12:03.0 - 12:05.7] What a thought.
+[12:05.7 - 12:07.1] You're just relaxing on a dark day, really?
+[12:07.1 - 12:09.5] I'll be eating chips and California sunshine.
+[12:09.5 - 12:11.1] You're coming in there.
+[12:11.1 - 12:12.6] Oh.
+[12:12.6 - 12:17.7] I'll be eating chips and California sunshine.
+[12:17.7 - 12:17.9] I hope so.
+[12:17.9 - 12:21.7] So yeah, you'd be face down together.
+[12:21.7 - 12:22.5] Here we go.
+[12:22.5 - 12:25.3] Is that Steve Gordon you have?
+[12:25.3 - 12:31.4] Are you really that fucked up?
+[12:31.4 - 12:32.4] You sure?
+[12:32.4 - 12:37.5] You don't talk to him anymore.
+[12:37.5 - 12:44.4] I do know my shit.
+[12:44.4 - 12:46.3] My pee?
+[12:46.3 - 12:47.2] What is it?
+[12:47.2 - 12:49.0] My eye bag.
+[12:49.0 - 12:52.2] I like it, though.
+[12:52.2 - 12:52.8] Okay.
+[12:52.8 - 12:57.5] I, uh, we're gonna do some stuff tonight at four.
+[12:57.5 - 13:08.0] One o'clock or no, uh,
+[13:08.0 - 13:15.7] one o'clock or no, I'm sorry.
+[13:15.7 - 13:17.6] That was too much.
+[13:17.6 - 13:27.1] Got ADD right now.
+[13:27.1 - 13:37.4] Check.
+[13:37.4 - 13:43.2] Hush my dearest.
+[13:43.2 - 13:45.0] Check.
+[13:45.0 - 13:45.7] Just go in.
+[13:45.7 - 13:48.8] Tears don't fail me.
+[13:48.8 - 13:51.9] You said it, girl.
+[13:51.9 - 13:54.4] Trust me, darling.
+[13:54.4 - 13:55.7] Trust me, darling.
+[13:55.7 - 13:57.0] Don't do it, buddy.
+[13:57.0 - 13:59.3] You should have chose a different lane.
+[13:59.3 - 14:04.7] It's been a long, long year.
+[14:04.7 - 14:05.8] My bro.
+[14:05.8 - 14:06.6] I've been dreaming.
+[14:06.6 - 14:10.0] Do you believe me?
+[14:10.0 - 14:13.3] Is that Steve?
+[14:13.3 - 14:13.8] Yeah.
+[14:13.8 - 14:17.5] Trust me, darling.
+[14:17.5 - 14:18.8] Trust me, darling.
+[14:18.8 - 14:20.2] Is that okay?
+[14:20.2 - 14:25.2] Look me in the eyes.
+[14:25.2 - 14:27.7] Tell me what you see.
+[14:27.7 - 14:32.1] Road to paradise, very dead to me.
+[14:32.1 - 14:32.7] One o'clock.
+[14:32.7 - 14:36.4] Wish I could have stayed.
+[14:36.4 - 14:38.3] I don't wanna leave.
+[14:38.3 - 14:41.2] Wish I could have laid.
+[14:41.2 - 14:43.1] Think you're unbelievable.
+[14:43.1 - 14:43.1] I'm a bad liar.
+[14:43.1 - 14:43.1] Bad liar.
+[14:43.1 - 14:43.3] Oh, now you know.
+[14:43.3 - 14:43.3] Now you know.
+[14:43.3 - 14:46.3] I'm a bad liar.
+[14:46.3 - 14:46.7] Bad liar.
+[14:46.7 - 14:50.5] Oh, now you know.
+[14:50.5 - 15:21.8] We'll
+[15:21.8 - 15:25.7] be passing by and they'll be waving goodbye.
+[15:25.7 - 15:27.8] Just wave it if I knew.
+[15:27.8 - 15:29.7] This one.
+[15:29.7 - 15:37.1] And while we're chasing dark, we'll be dancing in the dark 'cause we'll be coming through.
+[15:37.1 - 15:44.0] Whenever you need me, I'm behind you.
+[15:44.0 - 15:44.5] We made it.
+[15:44.5 - 15:56.5] I promise to take you all to the heights.
+[15:56.5 - 16:00.4] Oh.
+[16:00.4 - 16:02.9] I don't know.
+[16:02.9 - 16:03.4] Oh, yeah?
+[16:03.4 - 16:29.2] What
+[16:29.2 - 16:30.0] a nice day.
+[16:30.0 - 16:32.7] I love this neighborhood.
+[16:32.7 - 16:32.9] Huh?
+[16:32.9 - 16:40.0] I love this neighborhood.
+[16:40.0 - 16:44.7] For the record, I'm the only person that's consecutively been in my home.
+[16:44.7 - 16:47.4] I feel like I've been here a hundred times.
+[16:47.4 - 16:49.3] It seems a little familiar.
+[16:49.3 - 16:59.3] Well, I think you must be having déjà vu.
+[16:59.3 - 17:00.5] I think you did.
+[17:00.5 - 17:05.3] I'm not- Do you play golf?
+[17:05.3 - 17:06.2] You look like a golfer.
+[17:06.2 - 17:08.5] I golf and play poker.
+[17:08.5 - 17:09.0] I do too.
+[17:09.0 - 17:09.8] We should go play.
+[17:09.8 - 17:12.7] Yes.
+[17:12.7 - 17:13.6] I literally just have a cat.
+[17:13.6 - 17:17.0] Hi, honey.
+[17:17.0 - 17:20.7] What's up?
+[17:20.7 - 17:22.7] My dad actually got me this travel bag.
+[17:22.7 - 17:23.1] See?
+[17:23.1 - 17:25.0] Which you can ship on the-- take on the airplane.
+[17:25.0 - 17:35.5] It has the bag inside of it Would you like some pineapple
+[17:35.5 - 17:36.8] or some apricot?
+[17:36.8 - 17:40.4] Just take, take the bowl.
+[17:40.4 - 17:44.5] 'Cause I'm gonna smoke some tuna.
+[17:44.5 - 17:46.3] Do you mind if I shower?
+[17:46.3 - 17:47.1] Go for it.
+[17:47.1 - 17:50.4] Just don't mess up that handle.
+[17:50.4 - 17:53.1] Mm, I did it last time.
+[17:53.1 - 17:54.2] I fucked it up.
+[17:54.2 - 17:56.6] Well, you just barely overdid it, but it's fine.
+[17:56.6 - 17:57.6] You good?
+[17:57.6 - 17:57.9] Huh?
+[17:57.9 - 17:58.6] You good?
+[17:58.6 - 17:59.3] Yeah.
+[17:59.3 - 18:02.4] And then you're gonna get outta here.
+[18:02.4 - 18:04.9] I'm gonna let people outside.
+[18:04.9 - 18:05.8] Piano.
+[18:05.8 - 18:29.0] Just playing
+[18:29.0 - 18:36.9] this all day.
+[18:36.9 - 18:43.8] Mm-mm.
+[18:43.8 - 18:46.1] You were just in the spa, you didn't shower?
+[18:46.1 - 18:52.1] There you go.
+[18:52.1 - 18:54.1] That place is filthy as fuck.
+[18:54.1 - 18:55.2] Why?
+[18:55.2 - 18:57.9] To wear your Crocs in there.
+[18:57.9 - 19:11.5] That's-- This is the song I was just playing.
+[19:11.5 - 19:21.1] All right, should we sing along?
+[19:21.1 - 19:29.0] Just learned it.
+[19:29.0 - 19:53.0] All
+[19:53.0 - 19:56.2] of the songs, see, this is idea ten or twelve.
+[19:56.2 - 19:59.6] Here's number ten.
+[19:59.6 - 22:18.0] This one's
+[22:18.0 - 22:32.4] like
+[22:32.4 - 22:38.5] the best one.
+[28:48.3 - 28:55.7] In the dark, I'm falling down and try to reach your skin.
+[28:55.7 - 29:05.1] Root so deep, I don't know where yours end and mine begin.
+[29:05.1 - 29:14.7] Without lights, no disguise, you're everything.
+[29:14.7 - 29:23.9] You're everything.
+[29:23.9 - 29:33.8] When I hold the mirror to you, do you see me?
+[29:33.8 - 29:43.5] Gentle soul, gentle soul, my strength, when I need you seven days.
+[29:43.5 - 29:52.8] I hope I live forever, but can morning find this place?
+[29:52.8 - 30:03.2] Not the girl my father praised if I don't see this through.
+[30:03.2 - 30:12.0] In the dark, I'm falling down and try to reach your skin.
+[30:12.0 - 30:22.1] Root so deep, I don't know where yours end and mine begin.
+[30:22.1 - 30:51.2] Without lights, no disguise, you're everything Where's
+[30:51.2 - 30:52.5] the fucking eye drops?
+[30:52.5 - 31:07.8] Did
+[31:07.8 - 31:08.8] you not just say fucking?
+[31:08.8 - 31:09.7] Hmm?
+[31:09.7 - 31:11.2] Where are the fucking eye drops?
+[31:11.2 - 31:14.3] Sorry, my eye looks so bad.
+[31:14.3 - 31:14.7] Here you go.
+[31:14.7 - 31:19.3] This is the eye cream I use, some of The Ordinary.
+[31:19.3 - 31:20.5] Oh, yeah.
+[31:20.5 - 31:21.0] That's great.
+[31:21.0 - 31:22.7] So cheap.
+[31:22.7 - 31:23.6] I love Ordinary.
+[31:23.6 - 31:25.6] Yeah, it's nine bucks.
+[31:25.6 - 31:26.3] It's so good.
+[31:26.3 - 31:48.4] Um.
+[31:48.4 - 31:56.8] Ooh.
+[31:56.8 - 31:58.9] Ooh.
+[31:58.9 - 32:02.4] Is there water still going?
+[32:02.4 - 32:11.2] Is there still, like, the sink running or something?
+[32:11.2 - 32:13.0] Oh, it's the fan.
+[32:13.0 - 32:14.5] Or am I tripping?
+[32:14.5 - 32:15.6] No, it's the fan.
+[32:15.6 - 32:17.6] Oh, never mind, it stopped.
+[32:17.6 - 32:22.1] It's probably the toilet.
+[32:22.1 - 32:32.1] Guess you're not smoking, or you are
+[32:32.1 - 32:32.5] smoking?
+[32:32.5 - 32:34.3] What are you- I haven't decided yet.
+[32:34.3 - 32:36.4] I'm gonna watch the porn part here.
+[32:36.4 - 32:36.8] Okay.
+[32:36.8 - 32:37.9] You're on the other side.
+[32:37.9 - 32:38.5] I'll come over there.
+[32:38.5 - 32:48.9] I'm
+[32:48.9 - 32:49.6] gonna do some G.
+[32:49.6 - 32:51.1] I'll do some L, M, N, O, P.
+[32:51.1 - 33:30.6] Do
+[33:30.6 - 33:31.5] you have Kleenex?
+[33:31.5 - 33:32.2] Holy fuck.
+[33:32.2 - 33:33.1] What's wrong?
+[33:33.1 - 33:35.2] I just, there's some...
+[33:35.2 - 33:38.5] There's always, uh...
+[33:38.5 - 33:41.8] I often use Kleenexes 'cause they always get caught in my whiskers.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/downloads/ROSE-REC2_V2026-07-04-18-24-42_transcription_20260706_195843.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/downloads/ROSE-REC2_V2026-07-04-18-24-42_transcription_20260706_195843.txt
+[2J[H[3Jmanus-speech-to-text downloads/ROSE-REC2_V2026-07-04-18-24-42.mp3
+Starting Speech-to-Text conversion...
+Audio file size (11.7MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 11.66 MB, duration: 2037.9 seconds
+Splitting into 3 chunks (each ~679.3 seconds, max 5 MB)...
+Successfully split into 3 chunks
+Audio file split into 3 chunks for batch processing
+Transcribing audio file: downloads/ROSE-REC2_V2026-07-04-18-24-42.mp3, file size: 11.66 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 3 chunks...
+Transcribing chunk 1/3: downloads/.ROSE-REC2_V2026-07-04-18-24-42_chunks_20260706_195750/chunk_000.mp3
+Chunk 1 completed (duration: 679.3s)
+Transcribing chunk 2/3: downloads/.ROSE-REC2_V2026-07-04-18-24-42_chunks_20260706_195750/chunk_001.mp3
+Chunk 2 completed (duration: 679.3s)
+Transcribing chunk 3/3: downloads/.ROSE-REC2_V2026-07-04-18-24-42_chunks_20260706_195750/chunk_002.mp3
+Chunk 3 completed (duration: 679.0s)
+
+Snippet of transcribed content:
+[17:53.1 - 17:54.2] I fucked it up.
+[17:54.2 - 17:56.6] Well, you just barely overdid it, but it's fine.
+[17:56.6 - 17:57.6] You good?
+[17:57.6 - 17:57.9] Huh?
+[17:57.9 - 17:58.6] You good?
+[17:58.6 - 17:59.3] Yeah.
+[17:59.3 - 18:02.4] And then you're gonna get outta here.
+[18:02.4 - 18:04.9] I'm gonna let people outside.
+[18:04.9 - 18:05.8] Piano.
+[18:05.8 - 18:29.0] Just playing
+[18:29.0 - 18:36.9] this all day.
+[18:36.9 - 18:43.8] Mm-mm.
+[18:43.8 - 18:46.1] You were just in the spa, you didn't shower?
+[18:46.1 - 18:52.1] There you go.
+[18:52.1 - 18:54.1] That place is filthy as fuck.
+[18:54.1 - 18:55.2] Why?
+[18:55.2 - 18:57.9] To wear your Crocs in there.
+[18:57.9 - 19:11.5] That's-- This is the song I was just playing.
+[19:11.5 - 19:21.1] All right, should we sing along?
+[19:21.1 - 19:29.0] Just learned it.
+[19:29.0 - 19:53.0] All
+[19:53.0 - 19:56.2] of the songs, see, this is idea ten or twelve.
+[19:56.2 - 19:59.6] Here's number ten.
+[19:59.6 - 22:18.0] This one's
+[22:18.0 - 22:32.4] like
+[22:32.4 - 22:38.5] the best one.
+[28:48.3 - 28:55.7] In the dark, I'm falling down and try to reach your skin.
+[28:55.7 - 29:05.1] Root so deep, I don't know where yours end and mine begin.
+[29:05.1 - 29:14.7] Without lights, no disguise, you're everything.
+[29:14.7 - 29:23.9] You're everything.
+[29:23.9 - 29:33.8] When I hold the mirror to you, do you see me?
+[29:33.8 - 29:43.5] Gentle soul, gentle soul, my strength, when I need you seven days.
+[29:43.5 - 29:52.8] I hope I live forever, but can morning find this place?
+[29:52.8 - 30:03.2] Not the girl my father praised if I don't see this through.
+[30:03.2 - 30:12.0] In the dark, I'm falling down and try to reach your skin.
+[30:12.0 - 30:22.1] Root so deep, I don't know where yours end and mine begin.
+[30:22.1 - 30:51.2] Without lights, no disguise, you're everything Where's
+[30:51.2 - 30:52.5] the fucking eye drops?
+[30:52.5 - 31:07.8] Did
+[31:07.8 - 31:08.8] you not just say fucking?
+[31:08.8 - 31:09.7] Hmm?
+[31:09.7 - 31:11.2] Where are the fucking eye drops?
+[31:11.2 - 31:14.3] Sorry, my eye looks so bad.
+[31:14.3 - 31:14.7] Here you go.
+[31:14.7 - 31:19.3] This is the eye cream I use, some of The Ordinary.
+[31:19.3 - 31:20.5] Oh, yeah.
+[31:20.5 - 31:21.0] That's great.
+[31:21.0 - 31:22.7] So cheap.
+[31:22.7 - 31:23.6] I love Ordinary.
+[31:23.6 - 31:25.6] Yeah, it's nine bucks.
+[31:25.6 - 31:26.3] It's so good.
+[31:26.3 - 31:48.4] Um.
+[31:48.4 - 31:56.8] Ooh.
+[31:56.8 - 31:58.9] Ooh.
+[31:58.9 - 32:02.4] Is there water still going?
+[32:02.4 - 32:11.2] Is there still, like, the sink running or something?
+[32:11.2 - 32:13.0] Oh, it's the fan.
+[32:13.0 - 32:14.5] Or am I tripping?
+[32:14.5 - 32:15.6] No, it's the fan.
+[32:15.6 - 32:17.6] Oh, never mind, it stopped.
+[32:17.6 - 32:22.1] It's probably the toilet.
+[32:22.1 - 32:32.1] Guess you're not smoking, or you are
+[32:32.1 - 32:32.5] smoking?
+[32:32.5 - 32:34.3] What are you- I haven't decided yet.
+[32:34.3 - 32:36.4] I'm gonna watch the porn part here.
+[32:36.4 - 32:36.8] Okay.
+[32:36.8 - 32:37.9] You're on the other side.
+[32:37.9 - 32:38.5] I'll come over there.
+[32:38.5 - 32:48.9] I'm
+[32:48.9 - 32:49.6] gonna do some G.
+[32:49.6 - 32:51.1] I'll do some L, M, N, O, P.
+[32:51.1 - 33:30.6] Do
+[33:30.6 - 33:31.5] you have Kleenex?
+[33:31.5 - 33:32.2] Holy fuck.
+[33:32.2 - 33:33.1] What's wrong?
+[33:33.1 - 33:35.2] I just, there's some...
+[33:35.2 - 33:38.5] There's always, uh...
+[33:38.5 - 33:41.8] I often use Kleenexes 'cause they always get caught in my whiskers.
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/downloads/ROSE-REC2_V2026-07-04-18-24-42_transcription_20260706_195843.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/downloads/ROSE-REC2_V2026-07-04-18-24-42_transcription_20260706_195843.txt

@@ -1,0 +1,261 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_Monday_V2026-01-01-12-33-19.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: mp3/.ROSE-REC2_Monday_V2026-01-01-12-33-19_chunks_20260705_191940/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: mp3/.ROSE-REC2_Monday_V2026-01-01-12-33-19_chunks_20260705_191940/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: mp3/.ROSE-REC2_Monday_V2026-01-01-12-33-19_chunks_20260705_191940/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: mp3/.ROSE-REC2_Monday_V2026-01-01-12-33-19_chunks_20260705_191940/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: mp3/.ROSE-REC2_Monday_V2026-01-01-12-33-19_chunks_20260705_191940/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.6 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[02:54.9 - 02:55.2] What's up, bro?
+[02:55.2 - 02:56.4] Morning.
+[02:56.4 - 02:57.0] How are you?
+[02:57.0 - 02:57.5] How are you doing, man?
+[02:57.5 - 02:58.3] I'm okay.
+[02:58.3 - 02:58.7] How are you?
+[02:58.7 - 03:09.0] Pretty
+[03:09.0 - 03:10.9] good.
+[03:10.9 - 03:17.0] Where's my head at this morning?
+[03:17.0 - 03:22.1] How's your weekend?
+[03:22.1 - 03:23.2] Good.
+[03:23.2 - 03:24.0] Uneventful?
+[03:24.0 - 03:26.1] Too short, as always.
+[03:26.1 - 03:27.0] Yeah.
+[03:27.0 - 03:27.1] Yeah.
+[03:27.1 - 03:34.2] I need like a three-day weekend every weekend.
+[03:34.2 - 03:35.3] Yeah.
+[03:35.3 - 03:38.9] Didn't they make it like a law or something like that?
+[03:38.9 - 03:39.3] What's that?
+[03:39.3 - 03:42.0] Weren't they gonna make it like a law or something like that?
+[03:42.0 - 03:42.9] As they should.
+[03:42.9 - 03:54.6] I don't know why that's sometimes make the law or something.
+[03:54.6 - 04:36.9] What's
+[04:36.9 - 04:41.7] on your agenda today, do you know?
+[04:41.7 - 04:42.8] What?
+[04:42.8 - 04:44.0] What's on your agenda today?
+[04:44.0 - 04:44.6] Do you know yet?
+[04:44.6 - 04:48.5] Uh, nothing that we have to do today.
+[04:48.5 - 04:52.8] Geez, they ain't call me all weekend.
+[04:52.8 - 05:08.9] Oh, figure they wouldn't.
+[05:08.9 - 05:12.2] Nice tie.
+[05:12.2 - 05:18.8] Probably take the truck to go get a washer now.
+[05:18.8 - 05:19.6] Oh, okay.
+[05:19.6 - 05:22.9] Yeah, it's just that one on, on Van Nuys, the Ocean one.
+[05:22.9 - 05:23.4] Yeah.
+[05:23.4 - 05:25.8] You just pull up and they, uh, read the scanner?
+[05:25.8 - 05:26.4] Yeah.
+[05:26.4 - 05:28.8] You'll see the little barcode- Yeah ...
+[05:28.8 - 05:29.4] it's right by the side, yeah.
+[05:29.4 - 05:35.6] So you just wait like two or three seconds and it'll say, it'll, uh, say something green, like drive up- Yeah ...
+[05:35.6 - 05:36.1] drive in.
+[05:36.1 - 05:37.7] What time do you open?
+[05:37.7 - 05:40.4] You know, probably 9:00, I would think.
+[05:40.4 - 05:42.5] 9:00 to 6:00, I think is what they're open till.
+[05:42.5 - 05:46.2] Or it says 9:00 to 7:00, but I'm pretty sure it's just 9:00 to 6:00 'cause I- Yeah ...
+[05:46.2 - 05:49.9] went there at like 6:15 one day and they were closed, so, or they were closing up.
+[12:32.3 - 12:34.3] Hey, what's up, Abraham?
+[12:34.3 - 12:41.5] Hey, uh, do you, are you gonna change the oil or are you gonna do that this morning?
+[12:41.5 - 12:46.0] No, no, I was gonna say, um, do you guys need to get it washed or something?
+[12:46.0 - 12:57.4] Hey, uh, do you need
+[12:57.4 - 12:58.3] to do the oil change or do you want me to do that?
+[12:58.3 - 12:59.9] Did you say something about oil change?
+[12:59.9 - 13:00.5] Huh?
+[13:00.5 - 13:00.8] Creighton.
+[13:00.8 - 13:06.5] I asked him if, uh, because the truck needs an oil change and shit, so I told him to, would you make the appointment?
+[13:06.5 - 13:07.0] Do you know?
+[13:07.0 - 13:10.5] Yeah, I mean, normally I take mine to Jiffy Lube and they get it right in.
+[13:10.5 - 13:15.5] Yeah, he said that, like, even though it's, like, same day, he has to make an appointment or something.
+[13:15.5 - 13:16.4] So he's, he's gonna call them up.
+[13:16.4 - 13:16.9] Okay.
+[13:16.9 - 13:18.7] Maybe they have a place they like to use.
+[13:18.7 - 13:21.1] Sometimes they have accounts places and so.
+[13:21.1 - 13:21.3] Yeah.
+[13:21.3 - 13:25.4] Yeah, 'cause I usually take mine to Jiffy Lube for the same thing, you know?
+[13:25.4 - 13:28.8] Yeah, the one on, uh, right there at Hazelteen, they're super quick.
+[13:28.8 - 13:29.3] Yeah.
+[13:29.3 - 13:31.5] By that Ralph's, across the street from Ralph's.
+[13:31.5 - 13:35.2] Next to the Costco.
+[13:35.2 - 13:35.6] Yes.
+[13:35.6 - 13:36.9] Yeah.
+[13:36.9 - 13:43.3] For now, I'm just gonna take it to get it washed.
+[13:43.3 - 13:44.9] Okie dokie.
+[13:44.9 - 13:46.5] All right, man.
+[13:46.5 - 13:51.6] I'll bring a-- I've got, like, probably two hundred of those really good microfiber towels I'll bring up here.
+[13:51.6 - 13:52.2] Okay.
+[13:52.2 - 13:52.7] Yeah.
+[13:52.7 - 13:54.6] But- Sounds good.
+[13:54.6 - 13:54.6] Yeah, sounds good.
+[13:54.6 - 13:55.0] All right, bro.
+[13:55.0 - 13:55.5] Have a good one.
+[13:55.5 - 15:05.9] Huh.
+[15:05.9 - 22:21.9] Hello.
+[22:21.9 - 22:22.7] Hello, good morning.
+[31:52.7 - 32:05.4] Kidding
+[32:05.4 - 32:05.6] me.
+[32:05.6 - 32:13.1] Oh my God.
+[32:13.1 - 35:07.8] Did
+[35:07.8 - 35:08.1] it work?
+[35:08.1 - 35:08.6] Yeah.
+[35:08.6 - 35:11.7] It's working.
+[35:11.7 - 35:14.1] Perfect.
+[40:24.2 - 40:26.3] Childhood items that are worth a fortune today.
+[40:26.3 - 40:30.6] Pokemon Charizard cards.
+[40:30.6 - 40:36.1] In the late nineteen-nineties, kids traded Pokemon cards at school like they were just pieces of cardboard.
+[40:36.1 - 40:39.9] But today, the right Charizard card can be worth life-changing money.
+[40:39.9 - 40:45.4] A rare first edition base set Charizard in perfect condition has sold for hundreds of thousands of dollars.
+[40:45.4 - 40:52.7] The card many kids carried in binders, traded at lunch, or even damaged while playing is now one of the most valuable collectibles in the world.
+[40:52.7 - 40:55.1] Old Super Mario games.
+[40:55.1 - 41:01.3] Millions of kids grew up playing Super Mario, but almost nobody thought the actual game cartridges would become treasure.
+[41:01.3 - 41:06.0] Sealed copies of classic Nintendo games have sold for unbelievable amounts at auction.
+[41:06.0 - 41:11.5] One unopened copy of Super Mario sixty-four sold for over one point five million dollars.
+[41:11.5 - 41:17.0] A game many people left in drawers, scratched, or gave away can now be worth more than a house.
+[41:17.0 - 41:19.6] First generation iPods.
+[41:19.6 - 41:23.3] In two thousand and one, the first iPod changed music forever.
+[41:23.3 - 41:25.1] Back then, it was just a cool...
+[41:25.1 - 41:49.2] Hey.
+[41:49.2 - 41:51.5] Can I ask something?
+[41:51.5 - 41:54.7] I'm trying to take a shit in that other wonderful victory shit.
+[41:54.7 - 41:56.1] Oh, yeah, yeah.
+[41:56.1 - 41:56.9] The motions?
+[41:56.9 - 41:57.4] You know what I mean?
+[41:57.4 - 41:58.0] Okay, yeah.
+[41:58.0 - 41:59.2] Just so I can fucking just...
+[41:59.2 - 42:02.5] And remember, it's on the monthly, not the yearly.
+[42:02.5 - 42:03.7] I know.
+[48:02.9 - 55:10.5] Hey,
+[55:10.5 - 55:13.4] why don't you use Higgs Field on the apartment court website?
+[55:13.4 - 55:14.2] I would.
+[55:14.2 - 55:16.2] I just don't have time right now, bro.
+[55:16.2 - 55:16.4] Huh?
+[55:16.4 - 55:19.1] Hold on.
+[55:19.1 - 55:20.7] Oh.
+[55:20.7 - 57:37.8] I
+[57:37.8 - 58:27.7] hope
+[58:27.7 - 58:28.7] he grows some hair soon.
+[58:28.7 - 58:32.5] He was saying something like that, like- You gotta get them.
+[58:32.5 - 58:33.2] You gotta come on.
+[58:33.2 - 58:36.7] I appreciate that.
+[58:36.7 - 59:23.3] What
+[59:23.3 - 59:24.6] do you keep in that briefcase?
+[59:24.6 - 59:26.7] Marcellus Wallace's soul.
+[59:26.7 - 59:27.5] Your what?
+[59:27.5 - 59:32.0] Yeah, I'm like, it looks s- you know.
+[59:32.0 - 59:35.2] My laptop is like thirty-eight hundred bucks, so.
+[59:35.2 - 59:37.0] Yeah, the same with this one.
+[59:37.0 - 59:40.3] I try to keep it secure as possible.
+[59:40.3 - 59:42.9] I need to get an external hard drive for mine.
+[59:42.9 - 59:48.1] I learned how to build apps and deploy them onto my phone this week.
+[59:48.1 - 59:49.5] Well, in a day yesterday.
+[59:49.5 - 59:59.1] Using Xcode and App Developer and changing your developer mode, your phone to d-developer mode.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Monday_V2026-01-01-12-33-19_transcription_20260705_192157.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Monday_V2026-01-01-12-33-19_transcription_20260705_192157.txt
+[2J[H[3Jmanus-speech-to-text mp3/ROSE-REC2_Monday_V2026-01-01-12-33-19.mp3
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_Monday_V2026-01-01-12-33-19.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: mp3/.ROSE-REC2_Monday_V2026-01-01-12-33-19_chunks_20260705_191940/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: mp3/.ROSE-REC2_Monday_V2026-01-01-12-33-19_chunks_20260705_191940/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: mp3/.ROSE-REC2_Monday_V2026-01-01-12-33-19_chunks_20260705_191940/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: mp3/.ROSE-REC2_Monday_V2026-01-01-12-33-19_chunks_20260705_191940/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: mp3/.ROSE-REC2_Monday_V2026-01-01-12-33-19_chunks_20260705_191940/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[31:52.7 - 32:05.4] Kidding
+[32:05.4 - 32:05.6] me.
+[32:05.6 - 32:13.1] Oh my God.
+[32:13.1 - 35:07.8] Did
+[35:07.8 - 35:08.1] it work?
+[35:08.1 - 35:08.6] Yeah.
+[35:08.6 - 35:11.7] It's working.
+[35:11.7 - 35:14.1] Perfect.
+[40:24.2 - 40:26.3] Childhood items that are worth a fortune today.
+[40:26.3 - 40:30.6] Pokemon Charizard cards.
+[40:30.6 - 40:36.1] In the late nineteen-nineties, kids traded Pokemon cards at school like they were just pieces of cardboard.
+[40:36.1 - 40:39.9] But today, the right Charizard card can be worth life-changing money.
+[40:39.9 - 40:45.4] A rare first edition base set Charizard in perfect condition has sold for hundreds of thousands of dollars.
+[40:45.4 - 40:52.7] The card many kids carried in binders, traded at lunch, or even damaged while playing is now one of the most valuable collectibles in the world.
+[40:52.7 - 40:55.1] Old Super Mario games.
+[40:55.1 - 41:01.3] Millions of kids grew up playing Super Mario, but almost nobody thought the actual game cartridges would become treasure.
+[41:01.3 - 41:06.0] Sealed copies of classic Nintendo games have sold for unbelievable amounts at auction.
+[41:06.0 - 41:11.5] One unopened copy of Super Mario sixty-four sold for over one point five million dollars.
+[41:11.5 - 41:17.0] A game many people left in drawers, scratched, or gave away can now be worth more than a house.
+[41:17.0 - 41:19.6] First generation iPods.
+[41:19.6 - 41:23.3] In two thousand and one, the first iPod changed music forever.
+[41:23.3 - 41:25.1] Back then, it was just a cool...
+[41:25.1 - 41:49.2] Hey.
+[41:49.2 - 41:51.5] Can I ask something?
+[41:51.5 - 41:54.7] I'm trying to take a shit in that other wonderful victory shit.
+[41:54.7 - 41:56.1] Oh, yeah, yeah.
+[41:56.1 - 41:56.9] The motions?
+[41:56.9 - 41:57.4] You know what I mean?
+[41:57.4 - 41:58.0] Okay, yeah.
+[41:58.0 - 41:59.2] Just so I can fucking just...
+[41:59.2 - 42:02.5] And remember, it's on the monthly, not the yearly.
+[42:02.5 - 42:03.7] I know.
+[48:02.9 - 55:10.5] Hey,
+[55:10.5 - 55:13.4] why don't you use Higgs Field on the apartment court website?
+[55:13.4 - 55:14.2] I would.
+[55:14.2 - 55:16.2] I just don't have time right now, bro.
+[55:16.2 - 55:16.4] Huh?
+[55:16.4 - 55:19.1] Hold on.
+[55:19.1 - 55:20.7] Oh.
+[55:20.7 - 57:37.8] I
+[57:37.8 - 58:27.7] hope
+[58:27.7 - 58:28.7] he grows some hair soon.
+[58:28.7 - 58:32.5] He was saying something like that, like- You gotta get them.
+[58:32.5 - 58:33.2] You gotta come on.
+[58:33.2 - 58:36.7] I appreciate that.
+[58:36.7 - 59:23.3] What
+[59:23.3 - 59:24.6] do you keep in that briefcase?
+[59:24.6 - 59:26.7] Marcellus Wallace's soul.
+[59:26.7 - 59:27.5] Your what?
+[59:27.5 - 59:32.0] Yeah, I'm like, it looks s- you know.
+[59:32.0 - 59:35.2] My laptop is like thirty-eight hundred bucks, so.
+[59:35.2 - 59:37.0] Yeah, the same with this one.
+[59:37.0 - 59:40.3] I try to keep it secure as possible.
+[59:40.3 - 59:42.9] I need to get an external hard drive for mine.
+[59:42.9 - 59:48.1] I learned how to build apps and deploy them onto my phone this week.
+[59:48.1 - 59:49.5] Well, in a day yesterday.
+[59:49.5 - 59:59.1] Using Xcode and App Developer and changing your developer mode, your phone to d-developer mode.
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Monday_V2026-01-01-12-33-19_transcription_20260705_192157.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Monday_V2026-01-01-12-33-19_transcription_20260705_192157.txt

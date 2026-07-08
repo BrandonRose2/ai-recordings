@@ -1,0 +1,377 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_Tuesday_V2026-06-29-23-55-53.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: mp3/.ROSE-REC2_Tuesday_V2026-06-29-23-55-53_chunks_20260705_173909/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: mp3/.ROSE-REC2_Tuesday_V2026-06-29-23-55-53_chunks_20260705_173909/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: mp3/.ROSE-REC2_Tuesday_V2026-06-29-23-55-53_chunks_20260705_173909/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: mp3/.ROSE-REC2_Tuesday_V2026-06-29-23-55-53_chunks_20260705_173909/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: mp3/.ROSE-REC2_Tuesday_V2026-06-29-23-55-53_chunks_20260705_173909/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.6 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[03:51.9 - 03:55.6] Hey Siri, play Kygo Radio on my Spotify.
+[03:55.6 - 04:02.3] Okay, here's Kygo Radio Radio on Spotify.
+[04:02.3 - 06:10.5] Let's
+[06:10.5 - 06:10.5] me go.
+[06:10.5 - 06:19.1] Yeah, I wanna go.
+[06:19.1 - 06:29.5] Let's me
+[06:29.5 - 06:30.1] go.
+[06:30.1 - 06:37.1] But- Let's me go.
+[06:37.1 - 06:41.2] He's full of shit anyway.
+[06:41.2 - 06:43.5] All the motherfucker does is lie through his teeth.
+[06:43.5 - 06:53.6] Took the bad days, you know
+[06:53.6 - 06:53.7] it.
+[06:53.7 - 06:56.9] Having it was how I should.
+[06:56.9 - 07:02.4] I never took the time.
+[07:02.4 - 07:07.2] To stay my heart alive.
+[07:07.2 - 07:57.9] Let
+[07:57.9 - 07:59.5] me go, let me go, let me go.
+[07:59.5 - 08:05.4] Now the strength to find that light.
+[08:05.4 - 08:08.9] The path inside.
+[08:08.9 - 08:14.7] You gotta turn and open your soul.
+[08:14.7 - 08:22.4] I will never let you go.
+[08:22.4 - 08:25.2] I will never let you go.
+[08:25.2 - 08:28.0] You turn only after I.
+[08:28.0 - 08:32.6] If you wanna go.
+[08:32.6 - 08:35.4] Let's me go.
+[08:35.4 - 08:57.5] Let's
+[08:57.5 - 08:58.4] me go.
+[08:58.4 - 09:01.8] Yeah, I wanna go.
+[09:01.8 - 09:03.0] Let's me go.
+[09:03.0 - 09:10.3] Let's me go.
+[09:10.3 - 09:41.1] If
+[09:41.1 - 09:43.3] you get to hear me now.
+[09:43.3 - 09:59.1] Know
+[09:59.1 - 10:03.3] you'll be stronger when you get over.
+[10:03.3 - 10:11.0] Just don't show it's over when you get over.
+[10:11.0 - 10:19.0] And things aren't easy, so just believe me now.
+[10:19.0 - 10:27.1] If you don't keep it cool now, you'll never make it out.
+[10:27.1 - 10:36.2] All the lies you learned to say.
+[10:36.2 - 10:38.7] If you get to hear me now.
+[10:38.7 - 10:42.5] All the fears you buried away.
+[10:42.5 - 10:47.8] If you get to hear me now.
+[10:47.8 - 10:54.9] If you get to hear me now.
+[10:54.9 - 11:01.8] If you get to hear me now.
+[11:01.8 - 11:06.1] Excuses are so sweet 'cause you might not know.
+[11:06.1 - 11:13.8] That dumb luck is luck, you're not always right, no.
+[11:13.8 - 11:21.9] And things aren't easy, so just believe me now.
+[11:21.9 - 11:29.8] You don't know the hard way, just let me show you how.
+[11:29.8 - 11:35.6] All the lies you learned to say.
+[11:35.6 - 11:35.8] If you get to hear me now.
+[11:35.8 - 11:37.8] All the fears you buried away.
+[11:37.8 - 11:41.5] If you get to hear me now.
+[11:41.5 - 11:55.3] If you get to hear me now
+[12:02.6 - 12:05.3] Can you feel, can't you hear me now?
+[12:05.3 - 12:18.9] Can you feel,
+[12:18.9 - 12:20.7] can't you hear me now?
+[12:20.7 - 12:26.6] Can you feel, can't you hear me now?
+[12:26.6 - 12:30.3] Can you feel, can't you hear me now?
+[12:30.3 - 12:36.4] Can you feel, can't you hear me now?
+[12:36.4 - 12:52.6] Wake
+[12:52.6 - 12:53.8] me up.
+[12:53.8 - 12:58.1] My eyes are heavy and I need some sun.
+[12:58.1 - 13:03.8] One hit, I'm ready for whatever comes.
+[13:03.8 - 13:06.4] Nothing can keep me from you.
+[13:06.4 - 13:09.1] Nothing can keep me from you.
+[13:09.1 - 13:15.5] Something 'bout the things you told me.
+[13:15.5 - 13:18.2] Oh, I wrote 'em down, yeah.
+[13:18.2 - 13:22.7] I took 'em with me to the place we found.
+[13:22.7 - 13:25.5] And I'll be waiting for you.
+[13:25.5 - 13:29.3] Yeah, I'll be waiting for you, for you.
+[13:29.3 - 13:38.0] I follow the moon from the dark to the break of dawn.
+[38:48.4 - 38:49.0] Hey, Siri.
+[38:49.0 - 38:51.8] Play Kygo Radio on my Spotify.
+[38:51.8 - 38:57.5] Now playing Kygo Radio Radio on Spotify.
+[38:57.5 - 44:09.8] Hi.
+[44:09.8 - 44:10.4] Hey.
+[44:10.4 - 44:11.2] Buenos dias.
+[44:11.2 - 44:12.6] Buenos dias.
+[44:12.6 - 44:13.0] Buenos?
+[44:13.0 - 44:14.9] Good morning.
+[44:14.9 - 44:17.4] Good morning, sleepyhead.
+[44:17.4 - 44:20.1] What you doing?
+[44:20.1 - 44:21.4] Wake up.
+[44:21.4 - 44:22.1] Um.
+[44:22.1 - 44:23.7] Time to, time to suck today's dick.
+[44:23.7 - 44:28.7] You seem like you- you're very positive.
+[44:28.7 - 44:32.5] Um, I mean...
+[44:32.5 - 44:35.4] Ooh, look at you.
+[44:35.4 - 44:37.6] Is that what you look like when you wake up?
+[44:37.6 - 44:39.4] Damn.
+[44:39.4 - 44:42.2] You cuddled up all in that neck.
+[44:42.2 - 44:47.3] Look good?
+[44:47.3 - 44:48.9] Huh?
+[44:48.9 - 44:49.0] Do I look good?
+[44:49.0 - 44:49.6] Yeah, you look good.
+[44:49.6 - 44:50.2] You always look good.
+[44:50.2 - 44:53.3] Roll over, I wanna play with that butt.
+[44:53.3 - 44:57.2] How are you, how are you still with so much energy at this time?
+[44:57.2 - 44:58.0] What time is it?
+[44:58.0 - 44:59.5] Isn't it, like, 1:00 in the morning?
+[44:59.5 - 45:00.9] Yeah, whatever.
+[45:00.9 - 45:05.4] It's all an, it's all an attitude, okay?
+[45:05.4 - 45:06.1] It's all an attitude.
+[45:06.1 - 45:07.0] Okay.
+[45:07.0 - 45:07.8] It's really good.
+[45:07.8 - 45:09.6] Or am I...
+[45:09.6 - 45:12.9] I- I'm- I'm probably like, I'm probably like not sleeping 'cause I'm a little bit down.
+[45:12.9 - 45:15.7] You're a little bit down, is that what you said?
+[45:15.7 - 45:17.6] Yeah.
+[45:17.6 - 45:22.4] I didn't listen to your messages yet, because I just called you.
+[45:22.4 - 45:24.9] The audio messages.
+[45:24.9 - 45:28.5] Oh, you- you- you don't, you didn't...
+[45:28.5 - 45:29.5] Oh, you, so you don't know?
+[45:29.5 - 45:30.7] No, I don't know.
+[45:30.7 - 45:33.3] That's probably why I'm chipper and you're not.
+[45:33.3 - 45:33.8] I don't know.
+[45:33.8 - 45:35.7] Are you okay?
+[45:35.7 - 45:37.5] Oh, shit.
+[45:37.5 - 45:38.9] Well, yeah, but- but you have so much energy.
+[45:38.9 - 45:39.7] Are you hanging out?
+[45:39.7 - 45:41.4] Like, uh, partying or something?
+[45:41.4 - 45:44.1] I smoke all day, buddy.
+[45:44.1 - 45:47.0] Oh.
+[45:47.0 - 45:48.0] Okay, I don't smoke all day.
+[45:48.0 - 45:50.8] I smoke sometimes in the morning, then I go to work.
+[45:50.8 - 45:54.7] Then at lunch I come home, maybe take a puff or two, and then I go to work.
+[45:54.7 - 45:57.1] That's why I get so much shit done.
+[45:57.1 - 46:01.2] Yeah.
+[46:01.2 - 46:03.2] Um, okay.
+[46:03.2 - 46:06.3] Well, tell me, so I can be in a downer mood with you.
+[46:06.3 - 46:08.8] No, it's, um...
+[46:08.8 - 46:18.8] So the, uh, the property, the people that are squatting there, um, they added a sign last week and they added
+[46:18.8 - 46:25.8] another sign with like super, like, strike stuff about like, oh, you, uh, Nuance Properties is like, um...
+[46:25.8 - 46:34.3] They're basically trying to gaslight people into thinking that they are really, um, doing the right thing and the government is stealing the property from them.
+[46:34.3 - 46:38.4] And now this week I found, I saw that...
+[46:38.4 - 46:39.0] Are you okay?
+[46:39.0 - 46:41.7] Yeah, I was just, my camera was blurry.
+[46:41.7 - 46:42.7] I was trying to fix it.
+[46:42.7 - 46:44.2] Yeah.
+[46:44.2 - 46:53.4] And, and now I found out that they're adding windows and doors to the building, which is not a, it's not a big thing, but it is a big thing.
+[46:53.4 - 47:03.7] Because if we go to court, which now it passed legislature, but if we go to court and now they're trying to say like, "Oh, you've been living, living, living
+[47:03.7 - 47:09.5] here for X amount of time," which I, I have proof already that they have...
+[47:09.5 - 47:11.5] They- they, they're doing the installation now.
+[47:11.5 - 47:14.3] Um- Yeah, you told me about the windows.
+[47:14.3 - 47:17.6] Yeah, but the doors of the balconies.
+[47:17.6 - 47:20.7] So they're just, they're adding, they're investing in the property.
+[47:20.7 - 47:27.2] So my issue here is that they're doing this now and we're about to go to court, and now there...
+[47:27.2 - 47:37.2] It's, it's another, it's another headache because now I have to get people that are gonna wanna sue me after you're gonna get the property to get what they invested in the
+[47:37.2 - 47:37.9] property.
+[47:37.9 - 47:39.8] Yeah, it's crazy with these squatters.
+[47:39.8 - 47:42.0] They're like, they're not dumb people.
+[47:42.0 - 47:43.4] Like, they know what the fuck they're doing.
+[47:43.4 - 47:46.9] No, I think they're really fucking dumb.
+[47:46.9 - 47:51.3] I think that they're, they're dumb smart because they're trying to- We had one lady, we had one lady- Yeah ...
+[47:51.3 - 47:53.8] in Long Beach, and she, um...
+[47:53.8 - 47:55.7] It was on Harcourt, I remember.
+[47:55.7 - 47:58.8] And we went there and she had a whole bag.
+[47:58.8 - 47:59.6] She had already changed all-
+[47:60.0 - 48:07.5] locks herself, and she'd print out this paperwork saying that she went to the assessor's office, which is not even how it works.
+[48:07.5 - 48:17.5] But she had, like, printed documentation with her name on it and stuff, and we're like, "Fuck, well, that's crazy because we're the listing agents, and your name isn't the person we're representing,
+[48:17.5 - 48:27.2] so that's wild." So we waited for her to leave, and then we went back in and we changed the locks back, and then we called the police.
+[48:27.2 - 48:30.3] And the police took, like, over an hour to get there.
+[48:30.3 - 48:31.1] So we're like...
+[48:31.1 - 48:39.6] I found the bitch walking down the street, and we went up and talked to her and confronted her, and she was obviously homeless.
+[48:39.6 - 48:42.3] She had already let herself in.
+[48:42.3 - 48:44.8] She had done a couple of loads of laundry.
+[48:44.8 - 48:55.5] There was, there was clothes in the washer and dryer, and she had taken a bath in the bathtub, and the water was, like, filmy and yellow, and
+[48:55.5 - 48:56.8] I'm so glad I couldn't smell.
+[48:56.8 - 48:59.9] That's disgusting.
+[48:59.9 - 49:01.7] Yeah, and like- ...
+[49:01.7 - 49:09.1] that's wild because, like, if we wouldn't have gone in and, like, while she was gone, she could have probably still been in there.
+[49:09.1 - 49:13.0] Oh my God.
+[49:13.0 - 49:14.8] But dude, like, just don't scare me.
+[49:14.8 - 49:17.0] And then I told you about that one...
+[49:17.0 - 49:19.7] Did I tell you about that one where the marijuana growers and stuff?
+[49:19.7 - 49:22.2] Oh, yeah, yeah, tell me about that one.
+[49:22.2 - 49:23.0] That was wild.
+[49:23.0 - 49:25.8] I'm gonna find the videos of that great graffiti artwork.
+[49:25.8 - 49:27.6] The...
+[49:27.6 - 49:28.1] I don't wanna...
+[49:28.1 - 49:33.5] I just wanna add you- add this information to it, you know, but the squatters that are in the property- Mm-hmm ...
+[49:33.5 - 49:37.7] one of them, you know, UPR in Puerto Rico is a university.
+[49:37.7 - 49:41.3] It's like, um, it's like, it's like a Harvard of, of Puerto Rico.
+[49:41.3 - 49:43.4] So- The University of Puerto Rico, sounds like.
+[49:43.4 - 49:45.1] Yeah, exactly.
+[49:45.1 - 49:45.2] Yeah, yeah.
+[49:45.2 - 49:47.1] I mean, I can add off that.
+[49:47.1 - 49:52.0] Yeah, but that's the name UP- that's the acronym of it that's used to describe a UPR.
+[49:52.0 - 49:53.7] Um, so it'd be...
+[49:53.7 - 49:55.1] As, as a name, you know, it, it just...
+[49:55.1 - 49:55.4] Whatever.
+[49:55.4 - 49:57.7] So he's a professor there.
+[49:57.7 - 49:58.6] Mm-hmm.
+[49:58.6 - 50:00.4] So he's a professor.
+[50:00.4 - 50:01.6] He has so...
+[50:01.6 - 50:04.3] He has, he's, he's been s- he's schooled.
+[50:04.3 - 50:06.5] Like, he, he, he has, he has a degree.
+[50:06.5 - 50:10.0] He's a pro- Hold on one second.
+[50:10.0 - 50:11.1] One second.
+[50:11.1 - 50:14.5] The property- I can't hear you 'cause my truck's beeping while I reverse.
+[50:14.5 - 50:16.9] Okay.
+[50:16.9 - 50:18.0] Sorry.
+[50:18.0 - 50:28.1] Knowing that he has no right to the property, knowing that he has no tie, he's not an heir, he hasn't bought it the place,
+[50:28.1 - 50:31.7] he didn't do, uh, the process to even obtain it legally.
+[50:31.7 - 50:32.7] Mm-hmm.
+[50:32.7 - 50:33.0] By...
+[50:33.0 - 50:37.0] There's, there are certain ways you can do it for X amount of years of fixing and whatever.
+[50:37.0 - 50:37.8] Mm-hmm.
+[50:37.8 - 50:38.9] He hasn't done anything.
+[50:38.9 - 50:45.5] So, and, and he's still doing this now even though, like, it was declared a nuanced...
+[50:45.5 - 50:48.8] Once it's declared nuanced- What does that mean?
+[50:48.8 - 50:49.7] ...
+[50:49.7 - 50:50.1] the building.
+[50:50.1 - 50:51.2] It means .
+[50:51.2 - 50:53.0] It means that the property is- Oh, it's public ...
+[50:53.0 - 50:54.1] legally described.
+[50:54.1 - 50:55.5] It's a, it's a...
+[50:55.5 - 50:55.6] Uh?
+[50:55.6 - 50:55.9] Uh, what?
+[50:55.9 - 50:57.0] It's like public property?
+[50:57.0 - 51:04.0] It's, it's basically, it, it was declared a property that's been abandoned or, uh- Ah ...
+[51:04.0 - 51:06.1] it's with no owner.
+[51:06.1 - 51:06.8] I see.
+[51:06.8 - 51:10.8] So it was declared already last year in June.
+[51:10.8 - 51:12.1] It's crazy that y'all- So it's been a whole year ...
+[51:12.1 - 51:14.4] have properties that could even be that.
+[51:14.4 - 51:16.2] Like, I can't imagine that, like, in LA.
+[51:16.2 - 51:18.1] Like, there's nothing that could ever happen there.
+[51:18.1 - 51:20.0] But the thing is, the...
+[51:20.0 - 51:20.6] But, but wait.
+[51:20.6 - 51:22.9] But the way that they do this is that this...
+[51:22.9 - 51:24.0] It's a whole process.
+[51:24.0 - 51:28.8] It takes, it takes, like, a year and a half that I waited, 'cause I've been working on this for three years.
+[51:28.8 - 51:33.3] It takes a year and a half to, to declare a, a nuanced property.
+[51:33.3 - 51:33.6] You know?
+[51:33.6 - 51:34.1] It does...
+[51:34.1 - 51:35.6] It needs to not have an owner.
+[51:35.6 - 51:44.1] It needs to, to have the, the, to meet these qualifications to make it, you know, like, uh, physically not be up to date- Mm-hmm ...
+[51:44.1 - 51:46.8] or be like, uh, uh, not in good condition.
+[51:46.8 - 51:58.0] So that's what, that's what irks me because the guy has had this property supposedly for X amount of years, but he illegally, illegally, uh-
+[51:58.0 - 51:58.5] Obtained it ...
+[51:58.5 - 51:59.9] has had a business there.
+[51:59.9 - 52:02.9] He makes jewelry, and he has, like, an art studio on the first floor.
+[52:02.9 - 52:04.7] Does he have a witchcraft shop?
+[52:04.7 - 52:06.6] No, not that one.
+[52:06.6 - 52:06.9] Just kidding.
+[52:06.9 - 52:10.1] No, not that one.
+[52:10.1 - 52:11.0] Hey, darling.
+[52:11.0 - 52:11.8] Yeah.
+[52:11.8 - 52:16.5] Can I grab these two bags and go inside, and I'll call you, like, in literally four minutes?
+[52:16.5 - 52:17.9] Got it.
+[52:17.9 - 52:19.0] Got it.
+[52:19.0 - 52:19.3] Bye.
+[52:19.3 - 53:60.0] Okay.
+[53:60.0 - 53:60.0] Okay.
+[53:60.0 - 53:60.0] Oh, shit.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-29-23-55-53_transcription_20260705_174008.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-29-23-55-53_transcription_20260705_174008.txt
+[2J[H[3Jmanus-speech-to-text mp3/ROSE-REC2_Tuesday_V2026-06-29-23-55-53.mp3
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_Tuesday_V2026-06-29-23-55-53.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: mp3/.ROSE-REC2_Tuesday_V2026-06-29-23-55-53_chunks_20260705_173909/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: mp3/.ROSE-REC2_Tuesday_V2026-06-29-23-55-53_chunks_20260705_173909/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: mp3/.ROSE-REC2_Tuesday_V2026-06-29-23-55-53_chunks_20260705_173909/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: mp3/.ROSE-REC2_Tuesday_V2026-06-29-23-55-53_chunks_20260705_173909/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: mp3/.ROSE-REC2_Tuesday_V2026-06-29-23-55-53_chunks_20260705_173909/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[50:10.0 - 50:11.1] One second.
+[50:11.1 - 50:14.5] The property- I can't hear you 'cause my truck's beeping while I reverse.
+[50:14.5 - 50:16.9] Okay.
+[50:16.9 - 50:18.0] Sorry.
+[50:18.0 - 50:28.1] Knowing that he has no right to the property, knowing that he has no tie, he's not an heir, he hasn't bought it the place,
+[50:28.1 - 50:31.7] he didn't do, uh, the process to even obtain it legally.
+[50:31.7 - 50:32.7] Mm-hmm.
+[50:32.7 - 50:33.0] By...
+[50:33.0 - 50:37.0] There's, there are certain ways you can do it for X amount of years of fixing and whatever.
+[50:37.0 - 50:37.8] Mm-hmm.
+[50:37.8 - 50:38.9] He hasn't done anything.
+[50:38.9 - 50:45.5] So, and, and he's still doing this now even though, like, it was declared a nuanced...
+[50:45.5 - 50:48.8] Once it's declared nuanced- What does that mean?
+[50:48.8 - 50:49.7] ...
+[50:49.7 - 50:50.1] the building.
+[50:50.1 - 50:51.2] It means .
+[50:51.2 - 50:53.0] It means that the property is- Oh, it's public ...
+[50:53.0 - 50:54.1] legally described.
+[50:54.1 - 50:55.5] It's a, it's a...
+[50:55.5 - 50:55.6] Uh?
+[50:55.6 - 50:55.9] Uh, what?
+[50:55.9 - 50:57.0] It's like public property?
+[50:57.0 - 51:04.0] It's, it's basically, it, it was declared a property that's been abandoned or, uh- Ah ...
+[51:04.0 - 51:06.1] it's with no owner.
+[51:06.1 - 51:06.8] I see.
+[51:06.8 - 51:10.8] So it was declared already last year in June.
+[51:10.8 - 51:12.1] It's crazy that y'all- So it's been a whole year ...
+[51:12.1 - 51:14.4] have properties that could even be that.
+[51:14.4 - 51:16.2] Like, I can't imagine that, like, in LA.
+[51:16.2 - 51:18.1] Like, there's nothing that could ever happen there.
+[51:18.1 - 51:20.0] But the thing is, the...
+[51:20.0 - 51:20.6] But, but wait.
+[51:20.6 - 51:22.9] But the way that they do this is that this...
+[51:22.9 - 51:24.0] It's a whole process.
+[51:24.0 - 51:28.8] It takes, it takes, like, a year and a half that I waited, 'cause I've been working on this for three years.
+[51:28.8 - 51:33.3] It takes a year and a half to, to declare a, a nuanced property.
+[51:33.3 - 51:33.6] You know?
+[51:33.6 - 51:34.1] It does...
+[51:34.1 - 51:35.6] It needs to not have an owner.
+[51:35.6 - 51:44.1] It needs to, to have the, the, to meet these qualifications to make it, you know, like, uh, physically not be up to date- Mm-hmm ...
+[51:44.1 - 51:46.8] or be like, uh, uh, not in good condition.
+[51:46.8 - 51:58.0] So that's what, that's what irks me because the guy has had this property supposedly for X amount of years, but he illegally, illegally, uh-
+[51:58.0 - 51:58.5] Obtained it ...
+[51:58.5 - 51:59.9] has had a business there.
+[51:59.9 - 52:02.9] He makes jewelry, and he has, like, an art studio on the first floor.
+[52:02.9 - 52:04.7] Does he have a witchcraft shop?
+[52:04.7 - 52:06.6] No, not that one.
+[52:06.6 - 52:06.9] Just kidding.
+[52:06.9 - 52:10.1] No, not that one.
+[52:10.1 - 52:11.0] Hey, darling.
+[52:11.0 - 52:11.8] Yeah.
+[52:11.8 - 52:16.5] Can I grab these two bags and go inside, and I'll call you, like, in literally four minutes?
+[52:16.5 - 52:17.9] Got it.
+[52:17.9 - 52:19.0] Got it.
+[52:19.0 - 52:19.3] Bye.
+[52:19.3 - 53:60.0] Okay.
+[53:60.0 - 53:60.0] Okay.
+[53:60.0 - 53:60.0] Oh, shit.
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-29-23-55-53_transcription_20260705_174008.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-29-23-55-53_transcription_20260705_174008.txt

@@ -1,0 +1,126 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: ROSE-REC2_V2025-12-27-15-51-38.mp3, file size: 1.62 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 283.4 seconds
+Language: eng
+Timestamped segments:
+[00:50.8 - 00:51.3] Hey, how are you?
+[00:51.3 - 00:51.9] I'm fine.
+[00:51.9 - 00:52.6] You look good.
+[00:52.6 - 01:03.0] Are
+[01:03.0 - 01:03.6] you dropping off?
+[01:03.6 - 01:04.2] Yeah.
+[01:04.2 - 01:06.2] You could walk in behind the black curtain.
+[01:06.2 - 01:07.9] Walk in.
+[01:07.9 - 01:08.5] Walk in here?
+[01:08.5 - 01:09.2] Yeah.
+[01:09.2 - 01:13.6] Sounds so- In the curtain?
+[01:13.6 - 01:14.6] Black curtain.
+[01:14.6 - 01:18.9] Oh, it's not right there.
+[01:18.9 - 01:19.5] Or the other one.
+[01:19.5 - 01:20.3] Thank you.
+[01:20.3 - 01:21.7] You're welcome.
+[01:21.7 - 01:23.3] Uh- Press continue.
+[01:23.3 - 01:27.8] That's weird.
+[01:27.8 - 01:33.1] And then press no if you don't have any net liquid fraction of double hybrid lithium battery.
+[01:33.1 - 01:43.5] Does this require a signature
+[01:43.5 - 01:44.0] for John?
+[01:44.0 - 01:44.3] No.
+[01:44.3 - 01:47.5] No?
+[01:47.5 - 01:48.5] Can I get one line going?
+[01:48.5 - 01:50.3] The line starts here, and it goes along the rail.
+[01:50.3 - 01:51.5] Thank you.
+[01:51.5 - 01:53.0] Oh.
+[01:53.0 - 01:54.0] No, you're fine where you're at.
+[01:54.0 - 01:56.7] You and then, yeah.
+[01:56.7 - 02:01.2] Okay.
+[02:01.2 - 02:10.6] Thanks so much.
+[02:10.6 - 02:14.8] That takes you to a quick survey, and then your payment option.
+[02:14.8 - 02:16.1] Go ahead.
+[02:16.1 - 02:27.6] How's
+[02:27.6 - 02:27.7] it going?
+[02:27.7 - 02:27.9] Good.
+[02:27.9 - 02:31.1] And then, um, grab the receipt.
+[02:31.1 - 02:39.4] And here you go.
+[02:39.4 - 02:41.1] Have your number, okay?
+[02:41.1 - 02:41.8] All right.
+[02:41.8 - 02:42.1] Have a good one.
+[02:42.1 - 02:42.4] Thank you.
+[02:42.4 - 02:42.8] You too.
+[02:42.8 - 02:53.8] Next, please.
+[02:53.8 - 04:03.4] Hey,
+[04:03.4 - 04:03.8] Siri.
+[04:03.8 - 04:07.3] Play my liked songs on my Spotify.
+[04:07.3 - 04:17.4] I'm
+[04:17.4 - 04:19.4] having trouble with the connection.
+[04:19.4 - 04:20.5] Please try again later.
+[04:20.5 - 04:22.2] Hey, Siri.
+[04:22.2 - 04:25.3] Play my liked songs on my Spotify.
+[04:25.3 - 04:29.5] Your liked songs now playing on Spotify.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-27-15-51-38_transcription_20260706_153721.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-27-15-51-38_transcription_20260706_153721.txt
+[2J[H[3Jmanus-speech-to-text ROSE-REC2_V2025-12-27-15-51-38.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: ROSE-REC2_V2025-12-27-15-51-38.mp3, file size: 1.62 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:50.8 - 00:51.3] Hey, how are you?
+[00:51.3 - 00:51.9] I'm fine.
+[00:51.9 - 00:52.6] You look good.
+[00:52.6 - 01:03.0] Are
+[01:03.0 - 01:03.6] you dropping off?
+[01:03.6 - 01:04.2] Yeah.
+[01:04.2 - 01:06.2] You could walk in behind the black curtain.
+[01:06.2 - 01:07.9] Walk in.
+[01:07.9 - 01:08.5] Walk in here?
+[01:08.5 - 01:09.2] Yeah.
+[01:09.2 - 01:13.6] Sounds so- In the curtain?
+[01:13.6 - 01:14.6] Black curtain.
+[01:14.6 - 01:18.9] Oh, it's not right there.
+[01:18.9 - 01:19.5] Or the other one.
+[01:19.5 - 01:20.3] Thank you.
+[01:20.3 - 01:21.7] You're welcome.
+[01:21.7 - 01:23.3] Uh- Press continue.
+[01:23.3 - 01:27.8] That's weird.
+[01:27.8 - 01:33.1] And then press no if you don't have any net liquid fraction of double hybrid lithium battery.
+[01:33.1 - 01:43.5] Does this require a signature
+[01:43.5 - 01:44.0] for John?
+[01:44.0 - 01:44.3] No.
+[01:44.3 - 01:47.5] No?
+[01:47.5 - 01:48.5] Can I get one line going?
+[01:48.5 - 01:50.3] The line starts here, and it goes along the rail.
+[01:50.3 - 01:51.5] Thank you.
+[01:51.5 - 01:53.0] Oh.
+[01:53.0 - 01:54.0] No, you're fine where you're at.
+[01:54.0 - 01:56.7] You and then, yeah.
+[01:56.7 - 02:01.2] Okay.
+[02:01.2 - 02:10.6] Thanks so much.
+[02:10.6 - 02:14.8] That takes you to a quick survey, and then your payment option.
+[02:14.8 - 02:16.1] Go ahead.
+[02:16.1 - 02:27.6] How's
+[02:27.6 - 02:27.7] it going?
+[02:27.7 - 02:27.9] Good.
+[02:27.9 - 02:31.1] And then, um, grab the receipt.
+[02:31.1 - 02:39.4] And here you go.
+[02:39.4 - 02:41.1] Have your number, okay?
+[02:41.1 - 02:41.8] All right.
+[02:41.8 - 02:42.1] Have a good one.
+[02:42.1 - 02:42.4] Thank you.
+[02:42.4 - 02:42.8] You too.
+[02:42.8 - 02:53.8] Next, please.
+[02:53.8 - 04:03.4] Hey,
+[04:03.4 - 04:03.8] Siri.
+[04:03.8 - 04:07.3] Play my liked songs on my Spotify.
+[04:07.3 - 04:17.4] I'm
+[04:17.4 - 04:19.4] having trouble with the connection.
+[04:19.4 - 04:20.5] Please try again later.
+[04:20.5 - 04:22.2] Hey, Siri.
+[04:22.2 - 04:25.3] Play my liked songs on my Spotify.
+[04:25.3 - 04:29.5] Your liked songs now playing on Spotify.
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-27-15-51-38_transcription_20260706_153721.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_V2025-12-27-15-51-38_transcription_20260706_153721.txt

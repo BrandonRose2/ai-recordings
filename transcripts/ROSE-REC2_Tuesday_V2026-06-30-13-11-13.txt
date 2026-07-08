@@ -1,0 +1,328 @@
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_Tuesday_V2026-06-30-13-11-13.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 5 chunks...
+
+Transcribing chunk 1/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-13-11-13_chunks_20260705_193856/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+
+Transcribing chunk 2/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-13-11-13_chunks_20260705_193856/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+
+Transcribing chunk 3/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-13-11-13_chunks_20260705_193856/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+
+Transcribing chunk 4/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-13-11-13_chunks_20260705_193856/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+
+Transcribing chunk 5/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-13-11-13_chunks_20260705_193856/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 3599.7 seconds
+Language: eng
+Total Chunks: 5
+Timestamped segments:
+[00:00.1 - 00:04.1] And you don't get to see what they think it is.
+[00:04.1 - 00:07.0] And you don't get to see what Angie does or what the company does.
+[00:07.0 - 00:16.0] But this particular property manager legitimately had talked to them and said, hey, look, in the middle of the night, people are dumping bags of shit on your property.
+[00:16.0 - 00:17.3] Yeah, so now it's great.
+[00:17.3 - 00:21.2] It was not all Ginger was like, not at all.
+[00:21.2 - 00:22.4] Always the yes.
+[00:22.4 - 00:25.2] And then you just were like, well, there's the yes you got.
+[00:25.2 - 00:35.4] And then you go through the reinforcing of the
+[00:35.4 - 00:36.1] negative.
+[00:36.1 - 00:45.6] All right, so I have a tiny feather vaccination system.
+[00:45.6 - 00:47.3] It's amazing.
+[00:47.3 - 00:54.0] But at the end of the day, Ginger And sometimes there are more angry people than I think that there's more behind with Ginger than Angie does, which is that there are a ton of other times that Angie's like, you know, call the maintenance if you need something.
+[00:54.0 - 00:56.7] But Ginger like, wait till the next day.
+[00:56.7 - 00:57.3] But let's keep it honest.
+[00:57.3 - 01:00.4] Like, you know, call the maintenance if you need something.
+[01:00.4 - 01:06.6] And try and But like, it's honest and it's like part of this is the stuff that leads to having a positive conclusion.
+[01:06.6 - 01:06.6] Like, I don't think this is meant to show you like, like we really feel bad for Ginger.
+[01:06.6 - 01:08.5] That's the other thing to remember.
+[01:08.5 - 01:14.8] Ginger just kind of says yes to everything because I think she knows that it's going to cause fear.
+[01:14.8 - 01:18.9] But I, as the viewer, you can live with it honestly.
+[01:18.9 - 01:23.9] I don't put any effort in calling her into what you're saying.
+[01:23.9 - 01:27.8] You can try to do a bunch of things.
+[01:27.8 - 01:31.5] But that's a different conversation than without Ginger being the yes person.
+[01:31.5 - 01:33.4] So speaking of the department, the department has general auditions.
+[01:33.4 - 01:39.1] And so we're going to get you to open the floor and tell us what you think.
+[01:39.1 - 01:41.5] Like, and it's just there.
+[01:41.5 - 01:51.7] The only the reason behind it that I can think of that ultimately it is like they go on like this just because Ginger,
+[01:51.7 - 01:55.5] for example, is kind of scared to say no to something.
+[01:55.5 - 02:05.1] And you saw when I tried to help you work on some of the property management, I told you to slow down because you don't even have access to it.
+[02:05.1 - 02:06.3] Angie's pushed it out.
+[02:06.3 - 02:12.6] She wanted to push out a property that wasn't even remotely ready because it wasn't going to be marketed.
+[02:12.6 - 02:26.0] You know that the issue would be there.
+[02:26.0 - 05:47.8] But let's
+[05:47.8 - 05:55.1] say it's just like Robert and I don't even have access.
+[05:55.1 - 05:55.1] But if you do, you have login and then push it out.
+[05:55.1 - 05:58.2] And Harley can take my head off for saying that basically.
+[05:58.2 - 05:59.7] All right, so I think the cherry one.
+[05:59.7 - 06:00.1] That's a cherry.
+[06:00.1 - 06:00.1] Yeah, cool.
+[06:00.1 - 07:27.0] Yeah.
+[07:27.0 - 07:33.6] I've seen all this stuff and it's all on the phone calls before I get off on all of that.
+[07:33.6 - 07:48.2] So they mentioned something and then, you know, the last one I had on here, we, uh, we did one on together and, uh, we were able to, like you said, you know, like there's, we, I don't even know where the fuck
+[07:48.2 - 07:49.8] they pull it.
+[07:49.8 - 08:08.5] You see, you
+[08:08.5 - 08:17.1] know, like they pull up.
+[08:17.1 - 08:20.0] Yeah, I was so confused when I got, you know.
+[08:20.0 - 08:21.4] It's so weird.
+[08:21.4 - 08:27.2] Also, I just want to say that just around the AI thing, it's just like you just ask and it did it.
+[08:27.2 - 08:39.2] It can actually put it together and be able to provide the AI, like, tasks that
+[08:39.2 - 08:50.3] aren't even available.
+[08:50.3 - 08:56.3] It's not trying to pull AI off of a guy or anything.
+[08:56.3 - 09:13.4] AI is like set up to handle that and say, well, like it might be able to, but
+[09:13.4 - 09:23.4] like it's not going
+[09:23.4 - 09:23.4] to learn the task.
+[09:23.4 - 09:25.0] So I was just completely tired.
+[09:25.0 - 09:33.1] I think it's just sitting downstairs, um, like in the living room.
+[09:33.1 - 09:36.0] Oh.
+[09:36.0 - 09:37.6] Oh, okay.
+[09:37.6 - 09:39.5] No, there's another policy about it.
+[09:39.5 - 09:40.1] I just, I don't know.
+[09:40.1 - 09:52.3] I mean, just back and forth trying to say different things to each other
+[09:52.3 - 09:57.3] and then not really getting anywhere with it.
+[09:57.3 - 10:02.3] Yeah, but I just, I wonder, uh, I'm just curious as far as like what's next.
+[10:02.3 - 10:09.6] Is he going to steal?
+[10:09.6 - 10:12.9] I don't know exactly.
+[10:12.9 - 10:19.1] I just want to understand exactly, you know, what they are trying to do.
+[10:19.1 - 10:21.3] I don't, I don't even know if this computer will be able to do what they're trying to get it to do.
+[10:21.3 - 10:21.3] Like, I don't even know.
+[10:21.3 - 10:27.0] They're already just going off of what Mark, like what Mark is saying and he's like misled and he got the wrong thing or whatever.
+[10:27.0 - 10:45.3] Like they're going to add it to, um, uh, like their database
+[10:45.3 - 10:56.6] or
+[10:56.6 - 10:57.8] something.
+[10:57.8 - 10:59.8] Yeah.
+[10:59.8 - 11:10.0] I, I can kind of feel like they're not, that it's not something that they're thinking about at
+[11:10.0 - 11:10.1] the time.
+[11:10.1 - 11:14.2] They're just waiting for him to get in before they move on from that.
+[11:14.2 - 11:16.3] It's like, why would they need all that?
+[11:16.3 - 11:26.8] You know, it seems to us if it's, he's going to be able to run fast and then out there and run, like
+[11:26.8 - 11:27.6] it just doesn't add up.
+[11:27.6 - 11:28.4] You know what I mean?
+[11:28.4 - 11:40.2] Like it seems like they think he's going to be able to do more, but it's just like, oh yeah, Mark's good to have, but like you just need another machine to be able to just run this shit all the
+[11:40.2 - 11:41.8] time.
+[11:41.8 - 11:42.6] Oh, okay.
+[11:42.6 - 11:43.2] Well, then.
+[11:43.2 - 11:45.6] I mean, what else are you going to do?
+[11:45.6 - 11:50.5] You're just going to kind of play along until you learn something.
+[11:50.5 - 11:58.0] So, um, so with Ava, I kind of think the same stuff.
+[11:58.0 - 11:59.9] Like you cannot actually use this dude for anything else besides just running.
+[12:02.5 - 12:02.5] Yeah.
+[12:02.5 - 12:05.5] Oh, it's cool.
+[12:05.5 - 12:27.6] I'll give
+[12:27.6 - 12:31.2] it a shot.
+[12:31.2 - 12:43.4] I'll do the same.
+[12:43.4 - 12:48.0] I'll do it.
+[12:48.0 - 12:53.8] I'm not gonna do that next level.
+[12:53.8 - 13:04.4] Keep her rolling.
+[13:04.4 - 13:04.6] Is it gonna...
+[13:04.6 - 13:08.6] Well, do I need to 50 or something?
+[13:08.6 - 13:08.7] Okay, maybe.
+[13:08.7 - 13:20.8] Is it gonna have key notes on there or is that all that lyrics on the bottom of the pieces?
+[13:20.8 - 13:27.8] Oh, okay.
+[13:27.8 - 13:30.8] So it's just a very good hit like it is tonight and what I do.
+[13:30.8 - 13:32.5] It's just me.
+[13:32.5 - 13:33.4] It's just me.
+[13:33.4 - 13:39.9] Okay, I'll set up the ending.
+[13:39.9 - 13:40.0] That's fine.
+[13:40.0 - 13:40.0] Sure.
+[13:40.0 - 13:42.4] It's just so good.
+[13:42.4 - 13:53.9] It's like a very good
+[13:53.9 - 13:56.0] way to end it.
+[13:56.0 - 13:56.3] I like it.
+[13:56.3 - 13:57.0] It's a good one.
+[13:57.0 - 13:57.0] Cool that.
+[13:57.0 - 13:58.1] Yeah.
+[13:58.1 - 13:59.5] All right.
+[13:59.5 - 14:02.1] I just lost it for a second.
+[14:02.1 - 14:02.5] Yeah.
+[14:02.5 - 14:03.1] Oh, it's cool.
+[14:03.1 - 14:03.3] I'll just, I'll, I'll give it a try real quick.
+[14:03.3 - 14:03.3] Is it coming?
+[14:03.3 - 14:03.3] Is this gonna something coming?
+[14:03.3 - 14:03.3] Is it probably the...
+[14:03.3 - 14:03.3] Is it hard copy or is it gonna have to be changed or something?
+[14:03.3 - 14:03.3] Oh, no.
+[14:03.3 - 14:03.3] No, you can do that.
+[14:03.3 - 14:03.3] Yeah.
+[14:03.3 - 14:03.3] Oh, that's cool.
+[14:03.3 - 14:04.6] Just, I'll give it a shot.
+[14:04.6 - 14:07.5] I'll do the same.
+[14:07.5 - 14:09.8] I'll do it.
+[14:09.8 - 14:10.0] You're cool.
+[14:10.0 - 14:11.5] I'll go ahead and do it.
+[14:11.5 - 14:11.5] I'll, I'll...
+[14:11.5 - 14:11.5] Okay.
+[14:11.5 - 14:11.5] I'll go ahead and harm it.
+[14:11.5 - 14:11.5] Easy.
+[14:11.5 - 14:11.5] No big deal.
+[14:11.5 - 14:11.5] All right.
+[14:11.5 - 14:11.5] Yeah.
+[14:11.5 - 14:14.6] Oh, um, where is it?
+[14:14.6 - 14:19.5] It should be saved on.
+[14:19.5 - 14:21.3] Well, it was saved on.
+[14:21.3 - 14:21.3] Let me see.
+[14:21.3 - 14:32.3] Uh, let me pull
+[14:32.3 - 14:33.3] down.
+[14:33.3 - 14:47.8] Let's make sure it's there.
+[14:47.8 - 14:57.9] Let me make sure I have
+[14:57.9 - 15:08.4] the right version of
+[15:08.4 - 15:08.7] this.
+[15:08.7 - 15:11.6] Yeah, I think it's on.
+[15:11.6 - 15:11.7] Yeah.
+[15:11.7 - 15:22.2] All right.
+[15:22.2 - 15:34.2] Take care.
+[15:34.2 - 16:15.0] Yeah,
+[16:15.0 - 16:32.5] I'll send
+[16:32.5 - 16:39.6] it to you.
+[16:39.6 - 16:50.1] Yeah, I think that's the offer that
+[16:50.1 - 17:11.6] you make.
+[17:11.6 - 17:21.9] I'll show you how
+[17:21.9 - 17:22.7] to do that.
+[17:22.7 - 17:26.9] And again, now it's just, well, now we're gonna need you to do the check.
+[17:26.9 - 17:27.7] But I need you guys to back me up on that.
+[17:27.7 - 17:37.0] Yeah, I was showing you how to do it with Ruby, but I didn't know-- I, I guess I was still in co-pilot when I did it.
+[17:37.0 - 17:38.0] Yeah.
+[17:38.0 - 17:55.7] Okay.
+[17:55.7 - 17:55.9] Uh-huh.
+[17:55.9 - 17:56.5] Okay, I'll let her know.
+[17:56.5 - 17:59.3] Okay, no problem.
+[53:09.1 - 53:11.5] I guess Mark's at a hair appointment, I think.
+[53:11.5 - 53:11.7] How do you know?
+[53:11.7 - 53:12.4] Huh?
+[53:12.4 - 53:13.0] How do you know?
+[53:13.0 - 53:19.6] It said Soul on his, uh, calendar, which is-- I looked it up, a hair salon in Beverly Hills.
+[53:19.6 - 56:46.8] Hi,
+[56:46.8 - 56:47.1] Mark.
+[56:47.1 - 56:48.9] Um, I was just calling.
+[56:48.9 - 56:56.7] I looked up flights and they have some available, but I didn't wanna switch it without talking to you 'cause the ticket pricing is, like, crazy.
+[56:56.7 - 56:59.2] It's thirty-eight hundred dollars.
+[56:59.2 - 57:00.9] I-- Okay.
+[57:00.9 - 57:02.4] I just wanted to touch base.
+[57:02.4 - 57:04.2] Bye.
+[57:04.2 - 57:07.3] He said fuck it?
+[57:07.3 - 57:08.5] Yeah, he said he doesn't care.
+[57:08.5 - 57:13.0] Um, it's the best I can do.
+[57:13.0 - 57:14.8] What time?
+[57:14.8 - 57:16.3] Noon.
+[57:16.3 - 57:25.7] Well, at least Thursday we're out of here, and- Mm-hmm.
+[57:25.7 - 57:27.2] For sure, for sure, for sure.
+[57:27.2 - 57:42.2] Fucking goddamn it.
+Complete transcription result saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-13-11-13_transcription_20260705_193935.json
+Plain text transcription saved to: /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-13-11-13_transcription_20260705_193935.txt
+[2J[H[3Jmanus-speech-to-text mp3/ROSE-REC2_Tuesday_V2026-06-30-13-11-13.mp3
+Starting Speech-to-Text conversion...
+Audio file size (20.6MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 48 kbps
+Audio file size: 20.60 MB, duration: 3600.1 seconds
+Splitting into 5 chunks (each ~720.0 seconds, max 5 MB)...
+Successfully split into 5 chunks
+Audio file split into 5 chunks for batch processing
+Transcribing audio file: mp3/ROSE-REC2_Tuesday_V2026-06-30-13-11-13.mp3, file size: 20.60 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 5 chunks...
+Transcribing chunk 1/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-13-11-13_chunks_20260705_193856/chunk_000.mp3
+Chunk 1 completed (duration: 720.0s)
+Transcribing chunk 2/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-13-11-13_chunks_20260705_193856/chunk_001.mp3
+Chunk 2 completed (duration: 720.0s)
+Transcribing chunk 3/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-13-11-13_chunks_20260705_193856/chunk_002.mp3
+Chunk 3 completed (duration: 720.0s)
+Transcribing chunk 4/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-13-11-13_chunks_20260705_193856/chunk_003.mp3
+Chunk 4 completed (duration: 720.0s)
+Transcribing chunk 5/5: mp3/.ROSE-REC2_Tuesday_V2026-06-30-13-11-13_chunks_20260705_193856/chunk_004.mp3
+Chunk 5 completed (duration: 719.7s)
+
+Snippet of transcribed content:
+[13:58.1 - 13:59.5] All right.
+[13:59.5 - 14:02.1] I just lost it for a second.
+[14:02.1 - 14:02.5] Yeah.
+[14:02.5 - 14:03.1] Oh, it's cool.
+[14:03.1 - 14:03.3] I'll just, I'll, I'll give it a try real quick.
+[14:03.3 - 14:03.3] Is it coming?
+[14:03.3 - 14:03.3] Is this gonna something coming?
+[14:03.3 - 14:03.3] Is it probably the...
+[14:03.3 - 14:03.3] Is it hard copy or is it gonna have to be changed or something?
+[14:03.3 - 14:03.3] Oh, no.
+[14:03.3 - 14:03.3] No, you can do that.
+[14:03.3 - 14:03.3] Yeah.
+[14:03.3 - 14:03.3] Oh, that's cool.
+[14:03.3 - 14:04.6] Just, I'll give it a shot.
+[14:04.6 - 14:07.5] I'll do the same.
+[14:07.5 - 14:09.8] I'll do it.
+[14:09.8 - 14:10.0] You're cool.
+[14:10.0 - 14:11.5] I'll go ahead and do it.
+[14:11.5 - 14:11.5] I'll, I'll...
+[14:11.5 - 14:11.5] Okay.
+[14:11.5 - 14:11.5] I'll go ahead and harm it.
+[14:11.5 - 14:11.5] Easy.
+[14:11.5 - 14:11.5] No big deal.
+[14:11.5 - 14:11.5] All right.
+[14:11.5 - 14:11.5] Yeah.
+[14:11.5 - 14:14.6] Oh, um, where is it?
+[14:14.6 - 14:19.5] It should be saved on.
+[14:19.5 - 14:21.3] Well, it was saved on.
+[14:21.3 - 14:21.3] Let me see.
+[14:21.3 - 14:32.3] Uh, let me pull
+[14:32.3 - 14:33.3] down.
+[14:33.3 - 14:47.8] Let's make sure it's there.
+[14:47.8 - 14:57.9] Let me make sure I have
+[14:57.9 - 15:08.4] the right version of
+[15:08.4 - 15:08.7] this.
+[15:08.7 - 15:11.6] Yeah, I think it's on.
+[15:11.6 - 15:11.7] Yeah.
+[15:11.7 - 15:22.2] All right.
+[15:22.2 - 15:34.2] Take care.
+[15:34.2 - 16:15.0] Yeah,
+[16:15.0 - 16:32.5] I'll send
+[16:32.5 - 16:39.6] it to you.
+[16:39.6 - 16:50.1] Yeah, I think that's the offer that
+[16:50.1 - 17:11.6] you make.
+[17:11.6 - 17:21.9] I'll show you how
+[17:21.9 - 17:22.7] to do that.
+[17:22.7 - 17:26.9] And again, now it's just, well, now we're gonna need you to do the check.
+[17:26.9 - 17:27.7] But I need you guys to back me up on that.
+[17:27.7 - 17:37.0] Yeah, I was showing you how to do it with Ruby, but I didn't know-- I, I guess I was still in co-pilot when I did it.
+[17:37.0 - 17:38.0] Yeah.
+[17:38.0 - 17:55.7] Okay.
+[17:55.7 - 17:55.9] Uh-huh.
+[17:55.9 - 17:56.5] Okay, I'll let her know.
+[17:56.5 - 17:59.3] Okay, no problem.
+[53:09.1 - 53:11.5] I guess Mark's at a hair appointment, I think.
+[53:11.5 - 53:11.7] How do you know?
+[53:11.7 - 53:12.4] Huh?
+[53:12.4 - 53:13.0] How do you know?
+[53:13.0 - 53:19.6] It said Soul on his, uh, calendar, which is-- I looked it up, a hair salon in Beverly Hills.
+[53:19.6 - 56:46.8] Hi,
+[56:46.8 - 56:47.1] Mark.
+[56:47.1 - 56:48.9] Um, I was just calling.
+[56:48.9 - 56:56.7] I looked up flights and they have some available, but I didn't wanna switch it without talking to you 'cause the ticket pricing is, like, crazy.
+[56:56.7 - 56:59.2] It's thirty-eight hundred dollars.
+[56:59.2 - 57:00.9] I-- Okay.
+[57:00.9 - 57:02.4] I just wanted to touch base.
+[57:02.4 - 57:04.2] Bye.
+[57:04.2 - 57:07.3] He said fuck it?
+[57:07.3 - 57:08.5] Yeah, he said he doesn't care.
+[57:08.5 - 57:13.0] Um, it's the best I can do.
+[57:13.0 - 57:14.8] What time?
+[57:14.8 - 57:16.3] Noon.
+[57:16.3 - 57:25.7] Well, at least Thursday we're out of here, and- Mm-hmm.
+[57:25.7 - 57:27.2] For sure, for sure, for sure.
+[57:27.2 - 57:42.2] Fucking goddamn it.
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-13-11-13_transcription_20260705_193935.json
+Plain text transcription saved to /home/ubuntu/recordings_pipeline/mp3/ROSE-REC2_Tuesday_V2026-06-30-13-11-13_transcription_20260705_193935.txt

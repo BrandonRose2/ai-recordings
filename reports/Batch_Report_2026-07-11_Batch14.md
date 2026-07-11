@@ -108,9 +108,17 @@
 - **Drug hookup discussion (10:28–12:35):** The other person found a new weed/vape source through a friend; Brandon jokes about "gasoline, bleach, Sudafed, battery acid"; the other person reassures it's good quality. This is casual personal conversation, not a work matter.
 - **Emotional tone:** The other person mentions going through a "low" period; Brandon is supportive ("It's gonna turn up. This is just a dark cloud").
 
-**Profile match:** Brandon (confirmed primary voice). Other speaker: unidentified — intimate/close relationship, mentions pageant, piano ("I normally play piano until 9:00"), meeting Brandon the next day. **Confirmed NOT Gerald** (per Brandon, July 11, 2026). Speaker identity unknown; voice profile not yet established.
+**Profile match:** Brandon (confirmed primary voice). **Gerald confirmed** (per Brandon, July 11, 2026) — boyfriend/business collaborator. This is the first confirmed Gerald voice sample.
 
-**Filing:** Personal Notes (personal call; no work/business content; unknown speaker).
+**Gerald voice characteristics (now confirmed):**
+- Male, calm/measured, warm and supportive tone
+- Short affirmations: "Yeah," "Okay," "Got it" (repeated)
+- Mentions playing piano ("I normally play piano until 9:00")
+- Possible Spanish-influenced speech patterns ("da, da, da," phrases)
+- Intimate, emotionally open register; mentions going through a "low" period
+- Reference file: ROSE-REC2_V2076-06-08-18-47-11.WAV (actual July 8, 2026 ~6:47 PM)
+
+**Filing:** Gerald folder (confirmed Brandon + Gerald personal call).
 
 ---
 
@@ -142,7 +150,7 @@
 | V2076-06-07-21-25-20 | 1EG3GDVXU0H9phnvb-BxsSkpCLQpBvNQ6 | Other |
 | V2076-06-08-09-41-30 | 1HXwwmiAIw1XrIwmoOWlKkQ0baZon5sf9 | Other |
 | V2076-06-08-16-11-20 | 1qE6Eje_9VNzpw9vuJQ5ACNCYSxTKSRT5 | Personal Notes |
-| V2076-06-08-18-47-11 | 1im2Rb8QYpvhj_LnW6UZJYUl5DKxSvm-c | Personal Notes |
+| V2076-06-08-18-47-11 | 1im2Rb8QYpvhj_LnW6UZJYUl5DKxSvm-c | Gerald |
 | V2076-06-08-23-57-21 | 1Z4QVUYMkqnLfdsJKyinm1TazGeosdsL8 | Other |
 | V2076-06-09-01-00-30 | 1NaMsoSdP8RbVHKoGNzRXQShb-ZmLXAW3 | Other |
 
@@ -150,7 +158,7 @@
 
 ## Profile Updates
 
-**Gerald (still pending):** The July 8 ~6:47 PM call (V2076-06-08-18-47-11) was confirmed by Brandon to NOT be Gerald. The other speaker remains unidentified. Gerald's voice profile has no confirmed sample yet.
+**Gerald (NOW CONFIRMED):** The July 8 ~6:47 PM call (V2076-06-08-18-47-11) was confirmed by Brandon as Gerald. This is the **first confirmed Gerald voice sample**. Voice profile updated: calm/measured male, short affirmations ("Yeah," "Okay," "Got it"), piano player, possible Spanish-influenced speech, intimate/emotionally open register. File moved to Gerald folder in Drive.
 
 **Marc behavior note:** V2076-06-08-16-11-20 adds another data point — Marc staged a fake "we have to talk" confrontation as a joke (ice cream charge for Leslie). Consistent with his pattern of creating anxiety/fear in staff even when joking.
 

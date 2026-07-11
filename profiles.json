@@ -104,9 +104,20 @@
    "sorting_rule": "One-on-one Brandon + Ethan conversations where Ethan is a main speaker route to the Ethan folder. Group office conversations where Ethan is one of several speakers stay in Meetings/Work with his lines tagged. USER HEADS-UP (Jul 8, 2026): incoming recording contains a long Brandon+Ethan conversation about pilots, airplanes, and travel \u2014 use it to enrich this profile (voice characteristics, speech patterns, content anchors).",
    "voice_characteristics": {
     "status": "strong",
-    "notes": "Young male voice; friendly, casual banter with Brandon. Main speaker in 'Ethan Company Mail Error.WAV' (47m54s, 2026-06-23). Backed Robert up during the Keturah/Ginger accusations. Wary of Marc ('short fuse').",
-    "speech_patterns": "Very conversational, trades 'Yeah' and 'Oh' affirmations rapidly with Brandon. Brings in anecdotes ('my brother had a friend...'). Speaks knowledgeably but casually about systems (phone extensions) and trivia (pilot experience requirements)."
+    "notes": "Young male voice; friendly, casual banter with Brandon. Main speaker in 'Ethan Company Mail Error.WAV' (47m54s, 2026-06-23). Backed Robert up during the Keturah/Ginger accusations. Wary of Marc ('short fuse'). ADDITIONAL CONFIRMED SAMPLE: ROSE-REC2_V2076-06-08-10-41-30.WAV at 15:10 — extended aviation/travel conversation confirmed by Brandon (Jul 11, 2026).",
+    "speech_patterns": "Very conversational, trades 'Yeah' and 'Oh' affirmations rapidly with Brandon. Brings in anecdotes ('my brother had a friend...'). Speaks knowledgeably but casually about systems (phone extensions) and trivia (pilot experience requirements, lie-flat seats, JetBlue vs American, private vs commercial safety). Scared of flying personally but deeply knowledgeable about aviation. Signature opener: 'Also, funny, uh, fun fact about that...' before anecdotes."
    },
+   "reference_recordings": [
+    {
+     "file": "Ethan Company Mail Error.WAV",
+     "notable_moment": "Primary 47-min voice reference; main speaker throughout"
+    },
+    {
+     "file": "ROSE-REC2_V2076-06-08-10-41-30.WAV",
+     "drive_file_id": "1WDrtaaSiE8o2zffrF7vfkR-GIzMS3_yy",
+     "notable_moment": "At 15:10 — extended aviation discussion (JetBlue lie-flat seats, private vs commercial safety, celebrity plane crashes). Confirmed by Brandon 2026-07-11."
+    }
+   ],
    "known_interactions": [
     {
      "with": "Brandon (user)",

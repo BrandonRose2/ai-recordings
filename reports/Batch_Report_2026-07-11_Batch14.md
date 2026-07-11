@@ -108,11 +108,9 @@
 - **Drug hookup discussion (10:28–12:35):** The other person found a new weed/vape source through a friend; Brandon jokes about "gasoline, bleach, Sudafed, battery acid"; the other person reassures it's good quality. This is casual personal conversation, not a work matter.
 - **Emotional tone:** The other person mentions going through a "low" period; Brandon is supportive ("It's gonna turn up. This is just a dark cloud").
 
-**Profile match:** Brandon (confirmed primary voice). Other speaker: unidentified — intimate/close relationship, mentions pageant, piano ("I normally play piano until 9:00"), meeting Brandon the next day. **This may be Gerald** (boyfriend/business collaborator) based on the intimate tone and the piano detail, but no name is spoken and no business/AI topics arise. Voice profile for Gerald is still pending confirmation.
+**Profile match:** Brandon (confirmed primary voice). Other speaker: unidentified — intimate/close relationship, mentions pageant, piano ("I normally play piano until 9:00"), meeting Brandon the next day. **Confirmed NOT Gerald** (per Brandon, July 11, 2026). Speaker identity unknown; voice profile not yet established.
 
-**Note for Gerald profile:** If this is Gerald, his voice characteristics are: male, measured/calm, uses short affirmations ("Yeah," "Okay," "Got it"), mentions piano, speaks Spanish-influenced English (phrases like "da, da, da," "I didn't have anywhere to turn to"). This should be used to update the Gerald voice profile once confirmed by Brandon.
-
-**Filing:** Personal Notes (personal call; no work/business content; possible Gerald call but unconfirmed).
+**Filing:** Personal Notes (personal call; no work/business content; unknown speaker).
 
 ---
 
@@ -152,9 +150,9 @@
 
 ## Profile Updates
 
-**Gerald (pending):** File V2076-06-08-18-47-11 may be a Brandon + Gerald personal call based on intimate tone and piano reference. Voice characteristics observed: calm/measured male voice, short affirmations ("Yeah," "Okay," "Got it"), mentions piano, possible Spanish-influenced speech patterns. **Brandon should confirm** whether this is Gerald to lock in the voice profile.
+**Gerald (still pending):** The July 8 ~6:47 PM call (V2076-06-08-18-47-11) was confirmed by Brandon to NOT be Gerald. The other speaker remains unidentified. Gerald's voice profile has no confirmed sample yet.
 
-**Marc behavior note:** V2076-06-08-16-11-20 adds another data point — Marc staged a fake "we have to talk" confrontation as a joke (ice cream charge). Consistent with his pattern of creating anxiety/fear in staff even when joking.
+**Marc behavior note:** V2076-06-08-16-11-20 adds another data point — Marc staged a fake "we have to talk" confrontation as a joke (ice cream charge for Leslie). Consistent with his pattern of creating anxiety/fear in staff even when joking.
 
 ---
 

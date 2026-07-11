@@ -5,12 +5,13 @@ This playbook defines exactly what to do on every scheduled run of the recording
 ## Step 1 — Scan for new recordings
 
 ```bash
-cd ~/recordings_pipeline && python3 drive_scan.py
+cd ~/recordings_pipeline && python3 pipeline_run.py
 ```
 
-- Scans the Google Drive `Recordings` root and `Inbox` folder (link-shared, no connector needed).
+- Scans the Google Drive `Inbox` folder using the service account (faster and more reliable than the old link-based scan).
 - Downloads any new audio files (not in `processed_state.json`) to `~/recordings_pipeline/downloads/`.
 - If no new files: end the run quietly (send a brief no-op note only if the user asked for run confirmations; otherwise stay silent).
+- **Legacy fallback:** `drive_scan.py` still works for link-based scanning if needed.
 
 ## Step 2 — Transcribe each new recording
 
@@ -46,12 +47,14 @@ Decide the destination folder using `profiles.json` sorting rules:
 - Marc yelling/inappropriate → `Marc's Inappropriate Screaming`
 - Brandon + Gerald one-on-one (business/AI) → `Gerald` (inside Recordings; see `target_folder_id` in profiles.json)
 - Brandon + Momma Rose (mother) calls/conversations → `Momma Rose` (inside Recordings; see `target_folder_id` in profiles.json). Confirmed voice sample: `voice_samples/Momma_Rose_sample.WAV`.
+- Brandon + Ethan (co-worker) one-on-one conversations where Ethan is a main speaker → `Ethan` (inside Recordings; see `target_folder_id` in profiles.json). Group conversations where Ethan is one of several speakers stay in Meetings/Work with his lines tagged. Known topics: IT (Exchange/Outlook, SpamTitan), Air Force, pilots/airplanes/travel.
+- Brandon + Robert (Robert Haley, co-worker) one-on-one conversations where Robert is a main speaker → `Robert` (inside Recordings; see `target_folder_id` in profiles.json). Group conversations with Robert stay in Meetings with his lines tagged; his manager calls → `Calls`. Voice: animated storyteller, heavy profanity, slight lisp. Known topics: property-manager inspections, peptides/blood work.
 - Phone call → `Calls`
 - Work meeting → `Meetings`
 - User alone (memo) → `Personal Notes`
 - No match → `Other`
 
-**Filing:** Because Drive write-access is not available via connector, deliver the report + sorted-copy of the audio to the user as attachments AND tell the user which Drive folder to drop them in (exact folder name). If Drive write access becomes available later (connector fixed or user provides another method), move files directly instead.
+**Filing:** Use `pipeline_run.py --file-done <drive_id> <dest_key>` to move each file directly to its destination folder via the service account. No manual dragging needed. Valid destination keys: `Ethan`, `Gerald`, `Momma Rose`, `Robert`, `Santiago`, `Marc`, `Meetings`, `Calls`, `Personal Notes`, `Other` (case-insensitive). The move also marks the file as processed in `processed_state.json`.
 
 ## Step 5 — Update profiles
 
@@ -65,3 +68,14 @@ python3 ~/recordings_pipeline/drive_scan.py --mark-done <file_id> [...]
 ```
 
 Then message the user with: files processed, summaries, dialogues, destination folders, and any profile updates.
+
+## Token-Saving Optimizations (added 2026-07-09, user-requested)
+
+1. **Pre-screen for silence before transcribing**: run `ffmpeg -i file.WAV -af volumedetect -f null - 2>&1 | grep mean_volume`. If mean_volume is below -50 dB, mark the file silent → `Other` without transcribing.
+2. **Compact reports by default**: summary paragraphs + filing table only. Full speaker-labeled dialogue only when the user explicitly requests it.
+3. **Targeted transcript reading**: grep transcripts for keywords (names, topics from user heads-ups) and read only matching segments, never full transcripts.
+4. **Batch consolidation**: prefer one scheduled daily run over multiple interactive sessions.
+
+### Santiago rule (added 2026-07-09)
+- One-on-one Brandon + Santiago conversations (Santiago = main speaker) -> Santiago folder (ID 1Vnb8sQBJv1iy_Zdk_Nwyn4ajr1WVkS3s). Group office chatter stays in Meetings.
+- Voice reference: ROSE-REC2_V2076-06-09-08-39-23.WAV (2026-07-09 8:39 AM, corrected from Gerald).

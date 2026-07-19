@@ -1,26 +1,24 @@
 #!/usr/bin/env python3
 """
-pipeline_run.py — Recordings Pipeline: Scan → Download → Auto-File
-
-Replaces the manual drive_filer.py workflow. On every run:
+pipeline_run.py — Recordings Pipeline (Simplified: Detect → File → Archive)
+-----------------------------------------------------------------------------
+On every run:
   1. Scans the Drive Inbox for new audio files (not in processed_state.json)
-  2. Downloads them to ~/recordings_pipeline/downloads/
-  3. After Manus analysis assigns a destination, calls file_recording() to
-     move the Drive file to the correct folder via the service account.
-  4. Marks the file as processed in processed_state.json.
+  2. Copies each new file into the "To Review" folder (your review queue)
+  3. Moves the original from Inbox to "Archived" (clears the device sync folder)
+  4. Marks the file as processed in processed_state.json
+
+No transcription, no analysis, no reports.
+Manual review and sorting happens separately from the "To Review" folder.
 
 Usage:
-  python3 pipeline_run.py                  # scan + download new files
-  python3 pipeline_run.py --file-done <drive_file_id> <dest_folder_key>
-                                           # move one file to its folder
+  python3 pipeline_run.py            # scan + file + archive new files
+  python3 pipeline_run.py --dry-run  # show what would be moved, no changes
   python3 pipeline_run.py --mark-done <drive_file_id> [...]
-                                           # mark IDs as processed (no move)
-
-Destination folder keys (case-insensitive):
-  Ethan, Gerald, Momma Rose, Robert, Santiago, Marc, Meetings,
-  Calls, Personal Notes, Other
+                                     # mark IDs as processed without moving
 """
 
+import html as htmllib
 import json
 import os
 import re
@@ -28,269 +26,174 @@ import subprocess
 import sys
 import time
 
-from google.oauth2 import service_account
-from googleapiclient.discovery import build
-from googleapiclient.errors import HttpError
-
 # ── Paths ──────────────────────────────────────────────────────────────────
-BASE_DIR     = os.path.expanduser("~/recordings_pipeline")
-DOWNLOAD_DIR = os.path.join(BASE_DIR, "downloads")
-STATE_FILE   = os.path.join(BASE_DIR, "processed_state.json")
-KEY_FILE     = os.path.join(BASE_DIR, "service_account.json")
+BASE_DIR   = os.path.expanduser("~/recordings_pipeline")
+STATE_FILE = os.path.join(BASE_DIR, "processed_state.json")
+KEY_FILE   = os.path.join(BASE_DIR, "service_account.json")
 
 # ── Drive folder IDs ───────────────────────────────────────────────────────
-INBOX_FOLDER_ID = "1R8aP1YFqaiojFAqVBFDj-n0-rGhmAav9"
-
-FOLDER_IDS = {
-    "ethan":          "18rfNjyj7XaC7E7fHR6u3JFj1Qq1_o4St",
-    "gerald":         "1fIUVHUWlTUChkJLlj5K-XrPHPm5wn9qP",
-    "momma rose":     "1pBStehwj76jQLLf8XUBCq4UXC2dgiaUM",
-    "robert":         "190AXqzaI667pi2Dn73SS6EYCMG5fSvj9",
-    "santiago":       "1Vnb8sQBJv1iy_Zdk_Nwyn4ajr1WVkS3s",
-    "marc":           "1PKwWvR4NbUwucn_Wp6RYcP_oJV7HSmiP",
-    "meetings":       "1Kg98rGEhxKKdCUEAjiEadYeKdhkajPO_",
-    "calls":          "1Cx4xR5JV0kr8iyLCd3CdKAqPhPYGxWU3",
-    "personal notes": "1Bw1F45StcpM8UPm6vMc14Q5pFZ_18oI7",
-    "other":          "1vIdE78TJrPDIb9tI7N1uotgfNH1T75sH",
-}
+INBOX_FOLDER_ID     = "1R8aP1YFqaiojFAqVBFDj-n0-rGhmAav9"
+TO_REVIEW_FOLDER_ID = "1ULntCgzv9tY7l7_k5jF-_vmqQgfc087g"
+ARCHIVED_FOLDER_ID  = "1JCRAH2gaJOo968MZElpMFjmR3Ky07MQR"
 
 AUDIO_EXTENSIONS = (
     ".m4a", ".mp3", ".wav", ".mp4", ".webm",
     ".aac", ".flac", ".ogg", ".opus", ".wma", ".amr"
 )
 
-
-# ── Service account Drive client ───────────────────────────────────────────
-def get_drive_service():
-    creds = service_account.Credentials.from_service_account_file(
-        KEY_FILE, scopes=["https://www.googleapis.com/auth/drive"]
-    )
-    return build("drive", "v3", credentials=creds, cache_discovery=False)
-
-
 # ── State helpers ──────────────────────────────────────────────────────────
-def load_state() -> dict:
+def load_state():
     if os.path.exists(STATE_FILE):
         with open(STATE_FILE) as f:
             return json.load(f)
-    return {"processed_ids": [], "known_files": {}}
+    return {"processed_ids": []}
 
-
-def save_state(state: dict) -> None:
+def save_state(state):
     with open(STATE_FILE, "w") as f:
         json.dump(state, f, indent=2)
 
-
-def mark_done(file_id: str, filename: str) -> None:
-    state = load_state()
-    ids = set(state.get("processed_ids", []))
-    ids.add(file_id)
-    state["processed_ids"] = sorted(ids)
-    kf = state.setdefault("known_files", {})
-    kf[file_id] = filename
-    save_state(state)
-
-
-# ── Drive helpers ──────────────────────────────────────────────────────────
-def list_folder_api(svc, folder_id: str) -> list[dict]:
-    """Return all files/folders in a Drive folder (handles pagination)."""
-    items = []
-    page_token = None
-    while True:
-        params = dict(
-            q=f"'{folder_id}' in parents and trashed=false",
-            fields="nextPageToken,files(id,name,mimeType,size)",
-            pageSize=100,
+# ── Drive folder listing (public link, no auth needed for scanning) ─────────
+def list_folder_public(folder_id):
+    """Return list of {id, name, is_folder} from a link-shared Drive folder."""
+    try:
+        result = subprocess.run(
+            ["curl", "-sL", "--max-time", "30",
+             f"https://drive.google.com/embeddedfolderview?id={folder_id}"],
+            capture_output=True, text=True, check=True
         )
-        if page_token:
-            params["pageToken"] = page_token
-        r = svc.files().list(**params).execute()
-        items.extend(r.get("files", []))
-        page_token = r.get("nextPageToken")
-        if not page_token:
-            break
-    return items
+        page = result.stdout
+    except subprocess.CalledProcessError:
+        return []
 
+    entries = []
+    for m in re.finditer(
+        r'flip-entry" id="entry-([^"]+)"(.*?)flip-entry-title">([^<]*)', page, re.S
+    ):
+        eid, body, title = m.group(1), m.group(2), m.group(3)
+        name = htmllib.unescape(title).strip()
+        is_folder = f"/drive/folders/{eid}" in page
+        entries.append({"id": eid, "name": name, "is_folder": is_folder})
+    return entries
 
-def move_file(svc, file_id: str, dest_folder_id: str) -> None:
-    """Move a Drive file to dest_folder_id (removes from all current parents)."""
-    f = svc.files().get(fileId=file_id, fields="parents,name").execute()
-    prev = ",".join(f.get("parents", []))
+# ── Drive service (service account) ───────────────────────────────────────
+def get_drive_service():
+    try:
+        from google.oauth2 import service_account
+        from googleapiclient.discovery import build
+        creds = service_account.Credentials.from_service_account_file(
+            KEY_FILE, scopes=["https://www.googleapis.com/auth/drive"]
+        )
+        return build("drive", "v3", credentials=creds, cache_discovery=False)
+    except Exception as e:
+        print(f"[WARN] Service account unavailable: {e}", file=sys.stderr)
+        return None
+
+def copy_file(svc, file_id, dest_parent):
+    """Copy a file into dest_parent (original stays in place)."""
+    from googleapiclient.errors import HttpError
     for attempt in range(4):
         try:
-            svc.files().update(
+            svc.files().copy(
                 fileId=file_id,
-                addParents=dest_folder_id,
-                removeParents=prev,
-                fields="id,parents",
+                body={"parents": [dest_parent]},
+                fields="id"
             ).execute()
             return
         except HttpError as e:
             if attempt == 3:
                 raise
-            wait = 15 * (attempt + 1)
-            print(f"  HttpError on move (attempt {attempt+1}): {e}; retrying in {wait}s",
-                  file=sys.stderr)
-            time.sleep(wait)
+            time.sleep(15 * (attempt + 1))
 
-
-def find_file_by_id(svc, file_id: str) -> dict | None:
-    """Return file metadata dict or None if not found."""
-    try:
-        return svc.files().get(fileId=file_id, fields="id,name,parents").execute()
-    except HttpError:
-        return None
-
-
-# ── Download helper (curl with retry) ─────────────────────────────────────
-def download_file_api(svc, file_id: str, filename: str) -> str:
-    """Download a Drive file using the API (service account auth)."""
-    import io
-    from googleapiclient.http import MediaIoBaseDownload
-
-    os.makedirs(DOWNLOAD_DIR, exist_ok=True)
-    safe_name = re.sub(r"[^\w\-. ']", "_", filename)
-    out_path = os.path.join(DOWNLOAD_DIR, safe_name)
-
+def move_file(svc, file_id, add_parent, remove_parent):
+    """Move file to add_parent, removing from remove_parent."""
+    from googleapiclient.errors import HttpError
     for attempt in range(4):
         try:
-            request = svc.files().get_media(fileId=file_id)
-            with open(out_path, "wb") as fh:
-                downloader = MediaIoBaseDownload(fh, request, chunksize=8 * 1024 * 1024)
-                done = False
-                while not done:
-                    _, done = downloader.next_chunk()
-            return out_path
-        except Exception as e:
+            svc.files().update(
+                fileId=file_id,
+                addParents=add_parent,
+                removeParents=remove_parent,
+                fields="id,parents"
+            ).execute()
+            return
+        except HttpError as e:
             if attempt == 3:
                 raise
-            wait = 30 * (attempt + 1)
-            print(f"  Download failed (attempt {attempt+1}): {e}; retrying in {wait}s",
-                  file=sys.stderr)
-            time.sleep(wait)
+            time.sleep(15 * (attempt + 1))
 
-
-# ── Main scan + download ───────────────────────────────────────────────────
-def scan_and_download() -> dict:
-    """Scan Inbox for new files, download them. Returns report dict."""
-    svc = get_drive_service()
-    state = load_state()
-    processed = set(state.get("processed_ids", []))
-
-    new_files = []
-    inbox_items = list_folder_api(svc, INBOX_FOLDER_ID)
-    for item in inbox_items:
-        if item["mimeType"] == "application/vnd.google-apps.folder":
-            # Day subfolder (e.g. "Monday 07-07-2026")
-            for sub in list_folder_api(svc, item["id"]):
-                if sub["mimeType"] == "application/vnd.google-apps.folder":
-                    continue
-                if not sub["name"].lower().endswith(AUDIO_EXTENSIONS):
-                    continue
-                if sub["id"] not in processed:
-                    new_files.append({**sub, "day_folder": item["name"]})
-        else:
-            if not item["name"].lower().endswith(AUDIO_EXTENSIONS):
-                continue
-            if item["id"] not in processed:
-                new_files.append({**item, "day_folder": "Inbox (root)"})
-
-    report = {"new_files_found": len(new_files), "downloaded": [], "errors": []}
-
-    for f in new_files:
-        print(f"Downloading: {f['name']} ({int(f.get('size',0))//1024//1024} MB)")
-        try:
-            path = download_file_api(svc, f["id"], f["name"])
-            report["downloaded"].append({
-                "name": f["name"],
-                "id": f["id"],
-                "path": path,
-                "day_folder": f["day_folder"],
-                "size_bytes": f.get("size", 0),
-            })
-            print(f"  -> {path}")
-        except Exception as exc:
-            report["errors"].append({"name": f["name"], "id": f["id"], "error": str(exc)})
-            print(f"  ERROR: {exc}", file=sys.stderr)
-
-    return report
-
-
-# ── File a single recording to its destination ────────────────────────────
-def file_recording(drive_file_id: str, dest_key: str) -> bool:
-    """
-    Move drive_file_id to the folder named by dest_key (case-insensitive).
-    Returns True on success, False on failure.
-    Marks the file as processed in processed_state.json on success.
-    """
-    key = dest_key.strip().lower()
-    dest_folder_id = FOLDER_IDS.get(key)
-    if not dest_folder_id:
-        print(f"ERROR: Unknown destination key '{dest_key}'. Valid keys: {list(FOLDER_IDS)}")
-        return False
-
-    svc = get_drive_service()
-    meta = find_file_by_id(svc, drive_file_id)
-    if not meta:
-        print(f"ERROR: File ID '{drive_file_id}' not found in Drive.")
-        return False
-
-    filename = meta["name"]
-    try:
-        move_file(svc, drive_file_id, dest_folder_id)
-        mark_done(drive_file_id, filename)
-        print(f"FILED: {filename} -> {dest_key}  (ID: {drive_file_id})")
-        return True
-    except HttpError as e:
-        print(f"ERROR moving {filename}: {e}")
-        return False
-
-
-# ── Batch file from JSON manifest ─────────────────────────────────────────
-def file_from_manifest(manifest: list[dict]) -> None:
-    """
-    manifest: list of {"id": "<drive_id>", "dest": "<folder_key>"} dicts.
-    Moves each file and marks it done.
-    """
-    ok, fail = 0, 0
-    for item in manifest:
-        success = file_recording(item["id"], item["dest"])
-        if success:
-            ok += 1
-        else:
-            fail += 1
-    print(f"\nFiling complete: {ok} moved, {fail} failed")
-
-
-# ── Entry point ───────────────────────────────────────────────────────────
-if __name__ == "__main__":
+# ── Main ───────────────────────────────────────────────────────────────────
+def main():
     args = sys.argv[1:]
+    dry_run = "--dry-run" in args
 
-    if not args:
-        # Default: scan + download
-        report = scan_and_download()
-        print(json.dumps(report, indent=2))
-
-    elif args[0] == "--file-done" and len(args) == 3:
-        # Move one file and mark done: --file-done <drive_id> <dest_key>
-        success = file_recording(args[1], args[2])
-        sys.exit(0 if success else 1)
-
-    elif args[0] == "--file-manifest" and len(args) == 2:
-        # Read a JSON file with list of {id, dest} and file all
-        with open(args[1]) as f:
-            manifest = json.load(f)
-        file_from_manifest(manifest)
-
-    elif args[0] == "--mark-done":
-        # Just mark IDs as processed (no move)
+    # --mark-done mode
+    if args and args[0] == "--mark-done":
         state = load_state()
         ids = set(state.get("processed_ids", []))
         ids.update(args[1:])
         state["processed_ids"] = sorted(ids)
         save_state(state)
-        print(f"Marked {len(args) - 1} file(s) as processed")
+        print(f"Marked {len(args) - 1} file(s) as processed.")
+        return
 
-    else:
-        print(__doc__)
-        sys.exit(1)
+    state = load_state()
+    processed = set(state.get("processed_ids", []))
+
+    # 1. Scan Inbox
+    print("Scanning Drive Inbox...", flush=True)
+    entries = list_folder_public(INBOX_FOLDER_ID)
+    audio = [
+        e for e in entries
+        if not e["is_folder"] and e["name"].lower().endswith(AUDIO_EXTENSIONS)
+    ]
+    new_files = [e for e in audio if e["id"] not in processed]
+
+    print(f"  Inbox audio files : {len(audio)}")
+    print(f"  Already processed : {len(processed)}")
+    print(f"  New files found   : {len(new_files)}")
+
+    if not new_files:
+        print("Inbox is clear — nothing to do.")
+        return
+
+    # 2. Get Drive service for file operations
+    svc = None if dry_run else get_drive_service()
+
+    # 3. Process each new file
+    filed = 0
+    failed = 0
+    for f in sorted(new_files, key=lambda x: x["name"]):
+        name, fid = f["name"], f["id"]
+        print(f"\n  → {name}")
+
+        if dry_run:
+            print(f"    [DRY RUN] Would copy to 'To Review' + move to 'Archived'")
+            continue
+
+        if svc is None:
+            print(f"    [SKIP] No Drive service available (service_account.json missing)")
+            failed += 1
+            continue
+
+        try:
+            # Copy to "To Review" so you can review it there
+            copy_file(svc, fid, TO_REVIEW_FOLDER_ID)
+            print(f"    ✓ Copied  → To Review")
+
+            # Move original from Inbox to "Archived" (clears the device sync)
+            move_file(svc, fid, ARCHIVED_FOLDER_ID, INBOX_FOLDER_ID)
+            print(f"    ✓ Archived → Archived")
+
+            # Mark done
+            state["processed_ids"].append(fid)
+            save_state(state)
+            filed += 1
+
+        except Exception as e:
+            print(f"    [ERROR] {e}")
+            failed += 1
+
+    print(f"\nDone: {filed} filed to 'To Review', {failed} failed.")
+
+if __name__ == "__main__":
+    main()

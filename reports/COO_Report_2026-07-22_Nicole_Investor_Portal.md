@@ -2,7 +2,7 @@
 **Date:** Wednesday, July 22, 2026  
 **Recording:** V2076-06-22-16-04-38.WAV (60 min) + V2076-06-22-17-04-38.WAV (55 min, personal call — see note)  
 **Location:** Office (in-person, with portal demo on screen)  
-**Participants:** Brandon Rose (Special Projects), Nicole (COO), Robert (briefly present), Kyle (briefly present, IT/Dev)  
+**Participants:** Brandon Rose (Special Projects), Nicole (COO), Robert (briefly present), Ethan (briefly present, IT/Dev)  
 **End Marker Confirmed:** Nicole asks "Are you gonna remember all this?" at [56:34] — confirmed end of business conversation per Brandon's instruction.
 
 ---
@@ -23,17 +23,17 @@ The second recording (V2076-06-22-17-04-38.WAV, 55 min) is a **personal phone ca
 
 ## Speaker-Labeled Dialogue
 
-### Opening Context (0:00–3:52) — Brandon + Kyle, pre-Nicole
+### Opening Context (0:00–3:52) — Brandon + Ethan, pre-Nicole
 
 > **Brandon:** "The account stuff on one side. I didn't know where to set up new users."
 
-> **Kyle:** "You gotta go to the three— go to the, uh, users, and then you can add a new user and put in their information. But if you make them an employee, they're gonna be some shady-ass piece of shit company, just like Foxem was, and they're gonna try and backdoor it 'cause they're not willing to pay the 30 grand that you need to pay to integrate with RealPage."
+> **Ethan:** "You gotta go to the three— go to the, uh, users, and then you can add a new user and put in their information. But if you make them an employee, they're gonna be some shady-ass piece of shit company, just like Foxem was, and they're gonna try and backdoor it 'cause they're not willing to pay the 30 grand that you need to pay to integrate with RealPage."
 
 > **Brandon:** "I'm gonna send it to Miles because I'm not managing it. I'm setting it up."
 
-> **Kyle:** "Miles won't know how to do it probably either. I had to do it for Foxem, but Foxem is a bunch of dumb fucks who kept telling me they can't get in."
+> **Ethan:** "Miles won't know how to do it probably either. I had to do it for Foxem, but Foxem is a bunch of dumb fucks who kept telling me they can't get in."
 
-*[Someone calls Brandon inside. Brief aside. Kyle continues explaining the RealPage backdoor situation.]*
+*[Someone calls Brandon inside. Brief aside. Ethan continues explaining the RealPage backdoor situation.]*
 
 ---
 
@@ -155,7 +155,7 @@ The second recording (V2076-06-22-17-04-38.WAV, 55 min) is a **personal phone ca
 
 > **Brandon:** "Is there a timeframe?"
 
-> **Nicole:** "I mean, I can probably have it done by the end of tomorrow, but..."
+> **Nicole:** "I mean, I can probably have it done by the end of tomorrow, but…"
 
 > **Brandon:** "Perfect. This is a great one for Claude, not for Manus. You just — like, tell it what you want. Like you wouldn't cut your hair with a chainsaw. You gotta pick the right tool."
 
@@ -202,33 +202,31 @@ The following table consolidates every requirement confirmed during the meeting:
 1. **Remove auto-populated investor/property data** from the current portal build — the 14-property auto-pull based on Mark's investments is incorrect and must be cleared.
 2. **Build manual entry form** with fields: property name, investor name, ownership percentage, email address.
 3. **Build exceptions page** — display all K-1s that could not be auto-matched to an investor record, flagged for Nicole's review without requiring individual clicks.
-4. **Implement email system** with bulk send, individual send, BCC, CC, delivery receipt, and email preview.
+4. ~~**Implement email system** with bulk send, individual send, BCC, CC, delivery receipt, and email preview.~~ ✅ *Completed*
 5. **K-1 matching logic** — support notes-based matching for edge cases (cheat sheet from Nicole covers ~5 cases).
 6. **Exclusion rules** — investors without email addresses are skipped for distribution; MT entities excluded from investor emails but included in tax return downloads.
-7. **Draft email template** — 3-line template: "Hi, hope you're doing well. Here's the K-1. Let me know if you have any questions."
+7. ~~**Draft email template** — 3-line template: "Hi, hope you're doing well. Here's the K-1. Let me know if you have any questions."~~ ✅ *Completed*
 8. **Use Claude (not Manus)** for this build per Brandon's own recommendation.
-9. **Test on Oak Hills** (already uploaded as sample) and one additional property before full rollout.
+9. ~~**Test on Oak Hills** (already uploaded as sample) and one additional property before full rollout.~~ ✅ *Completed*
 10. **Set up API key** for email sending (was in progress at end of meeting).
 
 ### Nicole
 
-1. Forward an example email from a previous K-1 distribution (or approve Brandon's 3-line draft).
-2. Provide the confirmed investor list with email addresses for the in-scope properties.
-3. Share the cheat sheet for the ~5 name-mismatch edge cases.
+1. ~~Forward an example email from a previous K-1 distribution (or approve Brandon's 3-line draft).~~ ✅ *Completed*
+2. **Provide the confirmed investor list** with email addresses for the in-scope properties.
+3. **Share the cheat sheet** for the ~5 name-mismatch edge cases.
 
 ---
 
 ## Notable Moments
 
-**Nicole on Mark's suggestion:** Mark called Nicole about something unrelated, then suggested having Brandon create the portal. Nicole's reaction: *"He actually said something that makes sense."* — suggesting this is unusual.
-
-**Nicole on Brandon's prior work:** *"Because we think you're stupid. That's why — until like a few weeks later, 'Oh, that was a good idea.'"* — acknowledging that the portal idea was dismissed earlier.
+**Robert on Brandon's prior work:** Robert said *"Because we think you're stupid"* — then Brandon followed up: *"Until a few weeks later then OH that was a good idea!"* — acknowledging that the portal idea was initially dismissed.
 
 **Brandon on AI tool selection:** *"This is a great one for Claude, not for Manus. Like you wouldn't cut your hair with a chainsaw. You gotta pick the right tool."* — Brandon is recommending Claude for the structured build task.
 
 **Nicole's current pain point:** *"I gotta go to Sajaka, download the things, email one at a time, take the whole thing, file it into Safe."* — The portal eliminates this entire manual workflow.
 
-**RealPage/Foxem context (pre-Nicole):** Brandon and Kyle discussed a third-party vendor (Foxem) trying to backdoor a RealPage integration rather than paying the $30,000 integration fee. Brandon spent two days on the phone with Emily, Bob, and Ethan to resolve a similar issue for Property Max. This is background context — not directly related to the Nicole portal project.
+**RealPage/Foxem context (pre-Nicole):** Brandon and Ethan discussed a third-party vendor (Foxem) trying to backdoor a RealPage integration rather than paying the $30,000 integration fee. Brandon spent two days on the phone with Emily, Bob, and Ethan to resolve a similar issue for Property Max. Sedacca, Jeff (CPA) — worked alongside CSSI project. This is background context — not directly related to the Nicole portal project.
 
 ---
 

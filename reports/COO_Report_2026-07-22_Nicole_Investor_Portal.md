@@ -2,7 +2,7 @@
 **Date:** Wednesday, July 22, 2026  
 **Recording:** V2076-06-22-16-04-38.WAV (60 min) + V2076-06-22-17-04-38.WAV (55 min, personal call — see note)  
 **Location:** Office (in-person, with portal demo on screen)  
-**Participants:** Brandon Rose (Special Projects), Nicole (COO), Kyle (briefly present, IT/Dev)  
+**Participants:** Brandon Rose (Special Projects), Nicole (COO), Robert (briefly present), Kyle (briefly present, IT/Dev)  
 **End Marker Confirmed:** Nicole asks "Are you gonna remember all this?" at [56:34] — confirmed end of business conversation per Brandon's instruction.
 
 ---
@@ -17,7 +17,7 @@ The conversation covered every functional requirement for the portal and its ema
 
 ## Note on File 2
 
-The second recording (V2076-06-22-17-04-38.WAV, 55 min) is a **personal phone call** — not a continuation of the Nicole meeting. Brandon is speaking with someone he says "I love you" to (likely Gerald or Momma Rose), discussing Hanon's recurring GDV episodes (~every 10 days), Royal Canin food, MSG concerns, and piano practice. At [49:57] the other person mentions "Nicole wants done" — a reference to the portal project. This file has been filed to Personal Notes.
+The second recording (V2076-06-22-17-04-38.WAV, 55 min) is a **personal phone call** — not a continuation of the Nicole meeting. Brandon is discussing Hanon's recurring GDV episodes (~every 10 days), Royal Canin food, MSG concerns, and piano practice. At [49:57] the other person mentions "Nicole wants done" — a reference to the portal project. This file has been filed to Personal Notes.
 
 ---
 
@@ -55,7 +55,9 @@ The second recording (V2076-06-22-17-04-38.WAV, 55 min) is a **personal phone ca
 
 ### Portal Demo — Document Categories (4:45–7:15)
 
-> **Brandon:** "Can you create a clone of Nicole? Before you do that — let me go in here. So I need to— I'll show you what you can do. Here's what I set up, and then it has the LP agreements, K-1s, tax forms, and correspondence."
+> **Robert:** "Can you create a clone of Nicole?"
+
+> **Brandon:** "Before you do that — let me go in here. So I need to— I'll show you what you can do. Here's what I set up, and then it has the LP agreements, K-1s, tax forms, and correspondence."
 
 > **Nicole:** "I don't need tax forms. K-1s are the tax forms. And I don't have any correspondence. I might want to send something to all the investors — not you guys."
 
